@@ -21,12 +21,17 @@ sections:
           url: https://gmail.com
   - infobar:
       title: Main Benefits
-      description: "TradeTrust can bring benefitsto the trade, finance and logistics
+      description: "TradeTrust can bring benefits to the trade, finance and logistics
         community:"
-      button: Button text
-      url: /faq/
+      button: benefits
+      url: /benefits
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
