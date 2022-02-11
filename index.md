@@ -13,15 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Guidelines (Non Ethereum)
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: Electronic TRANSACTIONS ACT
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Main Benefits
       description: "TradeTrust can bring benefitsto the trade, finance and logistics
