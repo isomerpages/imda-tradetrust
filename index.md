@@ -50,13 +50,7 @@ sections:
       button: Button Text
       image: /images/Seamless_Trade_Ecosystem.PNG
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      subtitle: Digital Trade Ecosystem
   - textcards:
       title: Solution
       id: textcards
@@ -77,4 +71,11 @@ sections:
             another.
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
