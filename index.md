@@ -44,8 +44,7 @@ sections:
   - infopic:
       title: Benefits
       id: infopic
-      description: >
-        When you use TradeTrust, you can digitalise and streamline your
+      description: When you use TradeTrust, you can digitalise and streamline your
         end-to-end processing of trade documents across different trading
         partners seamlessly.
       button: Button Text
