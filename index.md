@@ -33,9 +33,11 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: Infobar title
+      title: Driving a Seamless Digital Trade Ecosystem
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: |-
+        To make global trade more secure, efficient and accessible for
+        everyone by providing a globally-harmonised and inclusive framework.
       button: Button text
       url: /faq/
 ---
