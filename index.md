@@ -26,7 +26,7 @@ sections:
         - title: How It Works
           description: Trusted interoperability
           url: https://gmail.com
-        - title: Page A
+        - title: Use Case
           description: Page A is important too
           url: /privacy/
       variant: floating
