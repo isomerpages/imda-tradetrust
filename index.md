@@ -20,11 +20,11 @@ sections:
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Features & Benefits
+          description: All that make your work easier
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: How It Works
+          description: Trusted interoperability
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
