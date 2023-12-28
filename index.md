@@ -60,8 +60,8 @@ sections:
   - textcards:
       title: Solution
       id: textcards
-      description: "You can easily create, verify and transfer digitised any documents
-        regardless of the document or data formats. "
+      description: You can easily create, verify and transfer digitised any documents
+        regardless of the document or data formats.
       cards:
         - title: Create
           description: Create or revoke any business documents.
@@ -73,8 +73,8 @@ sections:
           linktext: Learn more
           url: ""
         - title: Transfer
-          description: "Transfer holdership or endorse a change of ownership from party to
-            another. "
+          description: Transfer holdership or endorse a change of ownership from party to
+            another.
           linktext: Learn more
           url: ""
 ---
