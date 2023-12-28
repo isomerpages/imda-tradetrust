@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Token Registry V2 is no longer supported, visit
@@ -9,8 +9,8 @@ notification: Token Registry V2 is no longer supported, visit
 sections:
   - hero:
       title: Transform the way you trade
-      subtitle: "Digitalisation makes trade safer, easier and cheaper.   TradeTrust
-        enables enhanced security and efficiency for your business. "
+      subtitle: Digitalisation makes trade safer, easier and cheaper.   TradeTrust
+        enables enhanced security and efficiency for your business.
       background: /images/TradeDigitalisation.png
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
