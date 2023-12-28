@@ -34,7 +34,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: "Enabling the most trusted way to trade "
+      title: Enabling the most trusted way to trade
       subtitle: What is TradeTrust?
       description: >-
         TradeTrust makes international trade more secure, efficient and
