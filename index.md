@@ -50,4 +50,31 @@ sections:
       button: Button Text
       image: /images/Seamless_Trade_Ecosystem.PNG
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - textcards:
+      title: Solution
+      id: textcards
+      description: "You can easily create, verify and transfer digitised any documents
+        regardless of the document or data formats. "
+      cards:
+        - title: Create
+          description: Create or revoke any business documents.
+          linktext: Learn more
+          url: ""
+        - title: Verify
+          description: Drag and drop to verify the source and authenticity of a TT-enabled
+            document.
+          linktext: Learn more
+          url: ""
+        - title: Transfer
+          description: "Transfer holdership or endorse a change of ownership from party to
+            another. "
+          linktext: Learn more
+          url: ""
 ---
