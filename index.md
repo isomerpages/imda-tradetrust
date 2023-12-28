@@ -34,10 +34,12 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: Driving a Seamless Digital Trade Ecosystem
-      subtitle: Subtitle
-      description: |-
-        To make global trade more secure, efficient and accessible for
+      title: "Enabling the most trusted way to trade "
+      subtitle: What is TradeTrust?
+      description: >-
+        TradeTrust makes international trade more secure, efficient and
+        accessible for
+
         everyone by providing a globally-harmonised and inclusive framework.
       button: Button text
       url: /faq/
