@@ -40,7 +40,7 @@ sections:
         TradeTrust makes international trade more secure, efficient and
         accessible for
 
-        everyone by providing a globally-harmonised and inclusive framework.
+        everyone by providing a globally-harmonised and inclusive framework for free.
       button: Button text
       url: /faq/
   - infopic:
