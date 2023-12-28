@@ -41,4 +41,14 @@ sections:
         everyone by providing a globally-harmonised and inclusive framework.
       button: Button text
       url: /faq/
+  - infopic:
+      title: Benefits
+      id: infopic
+      description: >
+        When you use TradeTrust, you can digitalise and streamline your
+        end-to-end processing of trade documents across different trading
+        partners seamlessly.
+      button: Button Text
+      image: /images/Seamless_Trade_Ecosystem.PNG
+      alt: Image alt text
 ---
