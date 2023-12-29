@@ -73,6 +73,7 @@ sections:
             another
           linktext: Learn more
           url: ""
+      subtitle: Digitise the inefficiency
   - infopic:
       title: Infopic
       subtitle: Add an image and text
