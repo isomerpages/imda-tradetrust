@@ -61,17 +61,17 @@ sections:
         validity, tampering and genuine issuer are checked.
       cards:
         - title: Create
-          description: Create or revoke any business documents.
+          description: Create or revoke any business documents
           linktext: Learn more
           url: ""
         - title: Verify
           description: Drag and drop to verify the source and authenticity of a TT-enabled
-            document.
+            document
           linktext: Learn more
           url: ""
         - title: Transfer
           description: Transfer holdership or endorse a change of ownership from party to
-            another.
+            another
           linktext: Learn more
           url: ""
   - infopic:
