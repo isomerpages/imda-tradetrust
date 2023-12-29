@@ -74,12 +74,13 @@ sections:
           url: ""
       subtitle: Digitise the inefficiency
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Successful Trials
       id: infopic
-      description: Infopic description
+      description: Cut manual paper-based document processing time from 5 days to less
+        than 24 hours with TradeTrust.
       button: Button Text
       alt: Image alt text
+      image: /images/TradeTrust_Pilot.PNG
   - textcards:
       title: Ready to learn how TradeTrust can benefit you?
       id: textcards
