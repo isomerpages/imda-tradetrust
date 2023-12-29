@@ -87,13 +87,13 @@ sections:
       description: Your onboarding and technical integration journey to your business
         will be assisted by us.
       cards:
-        - title: " "
+        - title: Contact Us
           description: Sign up for mailing list, send your queries
-          linktext: Contact Us
+          linktext: ">>"
           url: https://form.gov.sg/635f32c5001b2d0011fff09b
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Partner Us
+          description: Register as a TradeTrust enabled partner
+          linktext: ">>"
           url: ""
         - title: Card
           description: Card description
