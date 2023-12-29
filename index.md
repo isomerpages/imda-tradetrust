@@ -80,4 +80,23 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - textcards:
+      title: Ready to learn how TradeTrust can benefit you?
+      subtitle: Add informational text
+      id: textcards
+      description: "Your onboarding and technical integration journey to your business
+        will be assisted by us. "
+      cards:
+        - title: Contact Us
+          description: Sign up for mailing list
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
