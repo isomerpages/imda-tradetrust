@@ -2,5 +2,4 @@ collections:
   what-is-tradetrust:
     output: true
     order:
-      - Overview/example-page.md
       - Overview/.keep
