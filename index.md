@@ -84,13 +84,13 @@ sections:
       title: Ready to learn how TradeTrust can benefit you?
       subtitle: Add informational text
       id: textcards
-      description: "Your onboarding and technical integration journey to your business
-        will be assisted by us. "
+      description: Your onboarding and technical integration journey to your business
+        will be assisted by us.
       cards:
-        - title: Contact Us
-          description: Sign up for mailing list
-          linktext: Learn more
-          url: ""
+        - title: " "
+          description: Sign up for mailing list, send your queries
+          linktext: Contact Us
+          url: https://form.gov.sg/635f32c5001b2d0011fff09b
         - title: Card
           description: Card description
           linktext: Learn more
