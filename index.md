@@ -20,8 +20,8 @@ sections:
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
       key_highlights:
-        - title: Benefits
-          description: All that make your work easier
+        - title: HOW IT HELPS
+          description: Features and benefits
           url: https://google.com
         - title: How It Works
           description: Trusted interoperability
