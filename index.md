@@ -20,7 +20,7 @@ sections:
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
       key_highlights:
-        - title: Features & Benefits
+        - title: Benefits
           description: All that make your work easier
           url: https://google.com
         - title: How It Works
