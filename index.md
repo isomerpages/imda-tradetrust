@@ -34,13 +34,11 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: Enabling the most trusted way to trade
+      title: TradeTrust = Framework
       subtitle: What is TradeTrust?
-      description: >-
-        TradeTrust makes international trade more secure, efficient and
-        accessible for
-
-        everyone by providing a globally-harmonised and inclusive framework for free.
+      description: The TradeTrust framework enables you to trade in a more secure,
+        efficient and accessible ecosystem through trusted interoperability of
+        electronic documents.
       button: Button text
       url: /faq/
   - infopic:
