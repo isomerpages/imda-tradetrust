@@ -84,8 +84,8 @@ sections:
       title: Ready to learn how TradeTrust can benefit you?
       id: textcards
       description: You will get dedicated support throughout your onboarding and
-        technical integration journey with TradeTrust, ensuring a smooth and
-        seamless transition.
+        technical integration journey, ensuring a smooth and seamless transition
+        with TradeTrust.
       cards:
         - title: Contact Us
           description: Sign up for mailing list, send your queries
