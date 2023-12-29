@@ -56,9 +56,9 @@ sections:
   - textcards:
       title: Solution
       id: textcards
-      description: You can easily create, verify and transfer digitised any documents
-        regardless of the document or data formats. Lessen risk of fraud as
-        validity, tampering and genuine issuer are checked.
+      description: Easily create, verify, and transfer digitized documents of any
+        format, while reducing the risk of fraud through comprehensive checks
+        for validity, tampering, and authenticity of the issuer.
       cards:
         - title: Create
           description: Create or revoke any business documents
