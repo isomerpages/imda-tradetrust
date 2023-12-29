@@ -95,8 +95,8 @@ sections:
           description: Register as a TradeTrust enabled partner
           linktext: ">>"
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Request Demo
+          description: Watch a demonstration
+          linktext: ">>"
           url: ""
 ---
