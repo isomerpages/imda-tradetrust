@@ -65,8 +65,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Verify
-          description: Drag and drop to verify the source and authenticity of a TT-enabled
-            document
+          description: Drag and drop to verify the source and authenticity of document
           linktext: Learn more
           url: ""
         - title: Transfer
