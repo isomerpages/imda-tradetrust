@@ -36,7 +36,7 @@ sections:
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
-      description: TradeTrust enable you to trade in a more secure, efficient and
+      description: TradeTrust enables you to trade in a more secure, efficient and
         accessible way through trusted interoperability of electronic documents
         with legal certainty.
       button: Learn More
