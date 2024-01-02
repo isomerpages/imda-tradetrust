@@ -1,7 +1,0 @@
-collections:
-  what-is-tradetrust:
-    output: true
-    order:
-      - What is TradeTrust.md
-      - Overview/Overview of TradeTrust.md
-      - Overview/.keep
