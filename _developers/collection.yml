@@ -2,5 +2,6 @@ collections:
   developers:
     output: true
     order:
+      - Video Guide.md
       - Cost.md
       - Product FAQ.md
