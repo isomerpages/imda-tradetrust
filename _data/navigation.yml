@@ -1,10 +1,12 @@
 logo: /images/TradeTrust_Logo.svg
 links:
+  - title: Community
+    collection: community
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Community
-    collection: community
+  - title: Solutions
+    collection: solutions
