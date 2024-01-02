@@ -2,5 +2,5 @@ collections:
   solutions:
     output: true
     order:
-      - How TradeTrust works.md
+      - How it works.md
       - How to start.md
