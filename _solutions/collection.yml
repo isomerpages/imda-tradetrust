@@ -1,5 +1,5 @@
 collections:
-  solution:
+  solutions:
     output: true
     order:
       - Overview.md
