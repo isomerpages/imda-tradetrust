@@ -76,8 +76,8 @@ sections:
   - infopic:
       title: Successful Trials
       id: infopic
-      description: You can cut manual paper-based document processing time from 5 days
-        to less than 24 hours with TradeTrust potentially.
+      description: Proven to cut manual paper-based document processing time from 5
+        days to less than 24 hours.  You can do so with TradeTrust potentially.
       button: Button Text
       alt: Image alt text
       image: /images/TradeTrust_Pilot.PNG
