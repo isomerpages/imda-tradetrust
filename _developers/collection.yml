@@ -2,4 +2,5 @@ collections:
   developers:
     output: true
     order:
+      - Cost.md
       - Product FAQ.md
