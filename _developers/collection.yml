@@ -2,6 +2,7 @@ collections:
   developers:
     output: true
     order:
+      - Integration Guide.md
       - Video Guide.md
       - Cost.md
       - Product FAQ.md
