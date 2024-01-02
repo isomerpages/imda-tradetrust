@@ -1,4 +1,5 @@
 collections:
   developers:
     output: true
-    order: []
+    order:
+      - Product FAQ.md
