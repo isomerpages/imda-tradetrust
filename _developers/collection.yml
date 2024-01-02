@@ -1,0 +1,4 @@
+collections:
+  developers:
+    output: true
+    order: []
