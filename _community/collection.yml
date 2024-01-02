@@ -2,5 +2,6 @@ collections:
   community:
     output: true
     order:
+      - Trials.md
       - Partners.md
       - Join Us.md
