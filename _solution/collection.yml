@@ -1,5 +1,5 @@
 collections:
-  what-is-tt:
+  solution:
     output: true
     order:
       - Overview.md
