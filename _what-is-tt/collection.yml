@@ -2,4 +2,5 @@ collections:
   what-is-tt:
     output: true
     order:
+      - How to start.md
       - Overview.md
