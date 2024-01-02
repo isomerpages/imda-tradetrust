@@ -1,16 +1,16 @@
 logo: /images/TradeTrust_Logo.svg
 links:
+  - title: Solutions
+    collection: solutions
   - title: Community
     collection: community
+  - title: Developers
+    collection: developers
+  - title: News
+    collection: news
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Solutions
-    collection: solutions
-  - title: News
-    collection: news
-  - title: Developers
-    collection: developers
