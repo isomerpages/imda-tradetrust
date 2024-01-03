@@ -26,8 +26,8 @@ sections:
         - title: How It Works
           description: Trusted interoperability
           url: https://gmail.com
-        - title: Use Case
-          description: Proven solutions
+        - title: When To Use
+          description: Proven solutions for use cases
           url: /privacy/
       variant: floating
       size: md
