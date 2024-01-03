@@ -1,4 +1,5 @@
 collections:
   about-tradetrust:
     output: true
-    order: []
+    order:
+      - What is TradeTrust.md
