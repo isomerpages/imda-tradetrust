@@ -1,0 +1,7 @@
+---
+title: How To Use
+permalink: /about-tradetrust/what-is-tradetrust/how-to-use/
+variant: tiptap
+description: ""
+---
+<h4>How to start using TradeTrust</h4><p></p><p><u>To issue documents and/or transfer title ownership for negotiable or transferable documents :</u></p><p><strong>Anyone can implement using TradeTrust's framework, including the freely available source code</strong>. Alternatively, you can engage the services from any of the TradeTrust enabled platform/solution service providers to commence their live transactions or implementation work.</p><p>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a><br>Source code: <a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust</a></p><p></p><p></p><p><u>To verify TradeTrust-issued documents received from your trading partners:</u></p><p><strong>Anyone can verify the documents via :</strong></p><p>o&nbsp;&nbsp;<strong>Verify Doc</strong> service on TradeTrust website which enables easy verification with a <strong>simple document upload</strong></p><p>o&nbsp;&nbsp; Hard copies of TradeTrust documents can have <strong>embedded QR codes</strong> for online verification via smartphone camera scanning</p><p>o&nbsp;&nbsp; Verification can be <strong>done anywhere with Internet access </strong>– no matter how many transfers the document has been through</p><p></p><p></p>
