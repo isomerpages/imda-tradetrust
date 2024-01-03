@@ -2,6 +2,7 @@ collections:
   developers:
     output: true
     order:
+      - Product FAQ/.keep
       - Video Guide/.keep
       - Video Guide/TradeTrust Overview.md
       - Video Guide/Creation of Verifiable Documents (DNS TXT).md
