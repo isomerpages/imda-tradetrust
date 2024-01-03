@@ -2,7 +2,7 @@ collections:
   solutions:
     output: true
     order:
-      - How it works.md
+      - How It Works.md
       - Use Case.md
       - Cost.md
       - How to start.md
