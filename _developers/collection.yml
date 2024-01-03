@@ -2,6 +2,6 @@ collections:
   developers:
     output: true
     order:
-      - Integration Guide.md
+      - Technical Guide.md
       - Video Guide.md
       - Product FAQ.md
