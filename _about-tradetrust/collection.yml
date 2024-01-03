@@ -2,7 +2,6 @@ collections:
   about-tradetrust:
     output: true
     order:
-      - What is TradeTrust/How To Use.md
       - What is TradeTrust/.keep
       - What is TradeTrust/Overview.md
       - What is TradeTrust/Components.md
