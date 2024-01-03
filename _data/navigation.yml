@@ -1,5 +1,7 @@
 logo: /images/TradeTrust_Logo.svg
 links:
+  - title: About TradeTrust
+    collection: about-tradetrust
   - title: Solutions
     collection: solutions
   - title: Community
@@ -12,5 +14,3 @@ links:
     url: /contact-us/
   - title: Example Folder
     collection: example-folder
-  - title: About TradeTrust
-    collection: about-tradetrust
