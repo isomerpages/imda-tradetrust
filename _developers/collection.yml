@@ -2,9 +2,9 @@ collections:
   developers:
     output: true
     order:
-      - Guide/Page 2.md
-      - Guide/Page 1.md
       - Guide/.keep
+      - Guide/Page 1.md
+      - Guide/Page 2.md
       - Technical Guide.md
       - Video Guide.md
       - Product FAQ.md
