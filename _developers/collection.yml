@@ -2,6 +2,7 @@ collections:
   developers:
     output: true
     order:
+      - Guide/.keep
       - Technical Guide.md
       - Video Guide.md
       - Product FAQ.md
