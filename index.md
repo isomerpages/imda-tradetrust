@@ -77,7 +77,7 @@ sections:
       title: Successful Trials
       id: infopic
       description: Proven to cut manual paper-based document processing time from 5
-        days to less than 24 hours.
+        days to less than 24 hours for cross-border trade .
       button: Button Text
       alt: Image alt text
       image: /images/TradeTrust_Pilot.PNG
