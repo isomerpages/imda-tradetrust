@@ -2,9 +2,9 @@ collections:
   about-tradetrust:
     output: true
     order:
-      - Why To Use/Benefit Overview.md
-      - Why To Use/How To Use TradeTrust.md
-      - Why To Use/.keep
+      - Why Use TradeTrust/Benefit Overview.md
+      - Why Use TradeTrust/How To Use TradeTrust.md
+      - Why Use TradeTrust/.keep
       - What is TradeTrust/.keep
       - What is TradeTrust/Overview.md
       - What is TradeTrust/Components.md
