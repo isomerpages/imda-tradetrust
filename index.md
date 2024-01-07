@@ -78,7 +78,7 @@ sections:
       id: infopic
       description: Proven to cut manual paper-based document processing time from 5
         days to less than 24 hours for cross-border trade .
-      button: Button Text
+      button: Learn more
       alt: Image alt text
       image: /images/TradeTrust_Pilot.PNG
       url: https://www.tradetrust.io/
