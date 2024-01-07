@@ -81,6 +81,7 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/TradeTrust_Pilot.PNG
+      url: https://www.tradetrust.io/
   - textcards:
       title: Ready to learn how TradeTrust can benefit you?
       id: textcards
