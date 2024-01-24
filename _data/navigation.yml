@@ -1,0 +1,16 @@
+logo: /images/TradeTrustOfficialLogo.svg
+links:
+  - title: About TradeTrust
+    collection: about-tradetrust
+  - title: Solutions
+    collection: solutions
+  - title: Community
+    collection: community
+  - title: Developers
+    collection: developers
+  - title: News
+    collection: news
+  - title: Contact Us
+    url: /contact-us/
+  - title: Folder
+    collection: folder

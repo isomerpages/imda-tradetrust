@@ -1,0 +1,10 @@
+collections:
+  about-tradetrust:
+    output: true
+    order:
+      - Who We Are.md
+      - What is TradeTrust/.keep
+      - What is TradeTrust/Overview.md
+      - What is TradeTrust/Components.md
+      - What is TradeTrust/Design Principles.md
+      - Singapore's ETA.md
