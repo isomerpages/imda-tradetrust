@@ -51,7 +51,7 @@ sections:
       image: /images/Seamless_Trade_Ecosystem.PNG
       alt: Image alt text
       subtitle: Digital Trade Ecosystem
-      url: https://www.tradetrust.io/
+      url: /Benefits
   - textcards:
       title: Solution
       id: textcards
