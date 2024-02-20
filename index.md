@@ -40,7 +40,7 @@ sections:
         accessible way through trusted interoperability of electronic documents
         with legal certainty.
       button: Learn More
-      url: /faq/
+      url: /Overview/
   - infopic:
       title: Benefits
       id: infopic
