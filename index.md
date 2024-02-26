@@ -44,7 +44,7 @@ sections:
   - infopic:
       title: Benefits
       id: infopic
-      description: When you use TradeTrust, you can digitalise your end-to-end
+      description: With TradeTrust’s capability, you can digitalise your end-to-end
         processing of trade documents across different trading partners
         seamlessly.
       button: Learn More
