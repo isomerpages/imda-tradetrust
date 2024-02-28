@@ -42,7 +42,7 @@ TradeTrust Verify Doc service (available online as a reference implementation):<
 <h4>TWO Document Types : Verifiable Documents and Transferable Documents</h4>
 <p>Your electronic documents like PDF is a snapshot of the original document
 in which its validity, tampering, and authenticity of the issuer cannot
-be easily verified. Furthermore, it does not facilitate the transfer of
+be easily verified. Furthermore, it may not facilitate the transfer of
 title ownership for titled document.</p>
 <p></p>
 <p>You can use TradeTrust to digitise <strong>any</strong> business documents
