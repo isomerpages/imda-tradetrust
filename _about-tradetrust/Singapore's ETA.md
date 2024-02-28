@@ -30,7 +30,8 @@ initiatives.</p>
 <h4>Benefits to Trade</h4>
 <p>The Electronic Transactions Act (ETA) facilitates the use of e-commerce
 and e-transactions by giving e-contracts and e-signatures the same status
-as written contracts and signatures. In short, <strong>your TradeTrust-issued electronic documents will be functionally equivalent to their paper versions if the governing law is under one of the statutory law: Singapore, New York, Delaware and other <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a> including United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the United Arab Emirates.</strong>
+as written contracts and signatures.</p>
+<p><strong>Your TradeTrust-issued electronic documents will be functionally equivalent to their paper versions if the governing law is under one of the statutory law: Singapore, New York, Delaware and other <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a> including United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the United Arab Emirates.</strong>
 </p>
 <p>Having your documents and instruments available in electronic form can
 greatly benefit you by improving the speed and security of your transactions,
