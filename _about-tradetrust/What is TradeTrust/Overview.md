@@ -24,7 +24,7 @@ is easy, driving the digital transformation of your trade processes. Or
 subscribe to the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
 start your transactions.</p>
 <p>With TradeTrust, anyone can <strong>digitise any documents</strong> and <strong>effect title transfer</strong> for
-titled document<strong> </strong>like bill of lading which are portable <strong>across different digital platforms </strong>of
+titled documents<strong> </strong>like bill of lading which are portable <strong>across different digital platforms </strong>of
 one party to another <strong>legally</strong>.<strong> </strong>Recipients
 of your documents can <strong>verify the source and authenticity</strong> simply
 with an internet access. This means achieving end-to-end digital processing
