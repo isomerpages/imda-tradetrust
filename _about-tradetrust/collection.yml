@@ -2,14 +2,14 @@ collections:
   about-tradetrust:
     output: true
     order:
-      - FAQ/How do I receive latest updates on TradeTrust?.md
-      - FAQ/How can I start using TradeTrust?.md
       - FAQ/.keep
-      - FAQ/Where can I find the TradeTrust open source codes?.md
       - FAQ/What is TradeTrust.md
+      - FAQ/How can I start using TradeTrust?.md
+      - FAQ/Where can I find the TradeTrust open source codes?.md
       - FAQ/What types of digital documents are supported by TradeTrust?.md
       - FAQ/What does this mean for Business Solution Providers? Is there
         licensing required?.md
+      - FAQ/How do I receive latest updates on TradeTrust?.md
       - Who We Are.md
       - What is TradeTrust/.keep
       - What is TradeTrust/Overview.md
