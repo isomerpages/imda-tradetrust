@@ -2,6 +2,7 @@ collections:
   about-tradetrust:
     output: true
     order:
+      - FAQ/How do I receive latest updates on TradeTrust?.md
       - FAQ/How can I start using TradeTrust?.md
       - FAQ/.keep
       - FAQ/Where can I find the TradeTrust open source codes?.md
