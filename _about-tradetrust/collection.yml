@@ -2,6 +2,8 @@ collections:
   about-tradetrust:
     output: true
     order:
+      - FAQ/What does this mean for Business Solution Providers? Is there
+        licensing required?.md
       - FAQ/Where can I find the TradeTrust open source codes?.md
       - FAQ/.keep
       - FAQ/What is TradeTrust.md
