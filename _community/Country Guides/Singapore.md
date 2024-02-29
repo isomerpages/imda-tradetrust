@@ -64,7 +64,7 @@ multiple platforms and systems.</p>
 <p>IMDA has engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
 Guide. You will learn about:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>How TradeTrust tackles the twin problems of legal and technical interoperability
 that have hindered the wider adoption of eBLs in global trade</p>
@@ -78,7 +78,7 @@ English law and under US (New York and Delaware) law</p>
 use of TT eBLs in trade scenarios involving MLETR and non-MLETR aligned
 jurisdictions</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">Download a copy of TradeTrust Legality Guide</a>
 </p>
