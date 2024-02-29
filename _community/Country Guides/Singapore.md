@@ -12,9 +12,8 @@ third_nav_title: Country Guides
 Singapore to provide a legal foundation for electronic transactions, and
 to give predictability and certainty to contracts formed electronically.
 It does not mandate the use of electronic signatures or transactions and
-facilitates their use where parties choose to transact electronically.</p>
-<p>As such, paper documents still remain as the prevailing medium.</p>
-<p></p>
+facilitates their use where parties choose to transact electronically.
+As such, paper documents still remain as the prevailing medium.</p>
 <h4>2021 Amendment</h4>
 <p>To ensure that Singapore’s legal and regulatory infrastructure keeps pace
 with international trade law and the latest technological advancements,
@@ -30,7 +29,6 @@ across borders.</p>
 usage of electronic versions of BLs had been difficult due to technological
 and legal challenges in establishing what is the "original document" and
 "who possesses it".</p>
-<p></p>
 <h4>Benefits to Trade</h4>
 <p>The Electronic Transactions Act (ETA) facilitates the use of e-commerce
 and e-transactions by giving e-contracts and e-signatures the same status
