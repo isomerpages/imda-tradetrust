@@ -14,3 +14,8 @@ up the contact us form at <a href="https://www.github.com/TradeTrust" rel="noope
 <p>Alternatively, businesses can engage the services from any of the TradeTrust
 enabled platform/service providers to commence their live transactions
 or help integrate TradeTrust into any existing system of businesses.</p>
+<p>TradeTrust is not a platform, is not a competitor to existing platforms.
+Instead, TradeTrust provides a solution to the current lack of technical
+interoperability in the market by enabling any party to issue its own TT
+Electronic Transferable Records (ETRs) outside of the confines of any contract-based
+platform.</p>
