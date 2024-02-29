@@ -60,7 +60,7 @@ is payload agnostic with no data format restriction and data is not kept
 on the blockchain to preserve your data confidentiality</p>
 <p>In 2021, TradeTrust awarded Ernst &amp; Young the security assessment
 through an open tender process, aligning with the OWASP Top Ten 2021 list.
-The review of smart contracts' source code yielded positive results, ensuring
+The review of smart contract and functions yielded positive results, ensuring
 efficient gas costs and a well-structured robust codebase. Businesses can
 have full confidence in the security and reliability of their transactions,
 setting a new standard for trust in the digital economy.</p>
