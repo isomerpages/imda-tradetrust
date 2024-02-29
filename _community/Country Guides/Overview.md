@@ -13,6 +13,6 @@ across the world.</p>
 <p><strong>Instead of contractual rule book, your TradeTrust-issued electronic documents will be supported by statutory law. They will be functionally equivalent to their paper versions if the governing law is under one of the statutory laws: Singapore, New York, Delaware and other <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a> including United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the United Arab Emirates</strong>
 </p>
 <p></p>
-<p><a href="/community/countryguides/sinagpore" rel="noopener noreferrer nofollow" target="_blank">Singapore</a>
+<p><a href="/community/country-guides/singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore</a>
 </p>
 <p></p>
