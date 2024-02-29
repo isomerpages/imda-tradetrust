@@ -5,3 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
+<p>For advance users and/or developers, you may download our source code
+from <a href="https://www.github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://www.github.com/TradeTrust</a> and
+integrate the software into your system.</p>
+<p>For enquiries, write to us at <a href="https://www.github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">tradetrust@imda.gov.sg</a> or fill
+up the contact us form at <a href="https://www.github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io</a>
+</p>
+<p>Alternatively, businesses can engage the services from any of the TradeTrust
+enabled platform/service providers to commence their live transactions
+or help integrate TradeTrust into any existing system of businesses.</p>
