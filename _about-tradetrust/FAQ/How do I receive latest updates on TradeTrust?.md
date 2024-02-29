@@ -5,3 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
+<p>Please sign up and consent to IMDA sending periodic updates to your registered
+address through the "Contact Us" section.</p>
