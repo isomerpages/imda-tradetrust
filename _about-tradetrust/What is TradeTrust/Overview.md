@@ -22,7 +22,9 @@ businesses, governments or organisations. With its open-source code available
 for free download, integrating TradeTrust into your existing IT system
 is easy, driving the digital transformation of your trade processes. Or
 subscribe to the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
-start your transactions.</p>
+start your transactions. You can have full confidence in the security and
+reliability of your transactions as the security assessment of TradeTrust
+was reviewed by third party - Ernst &amp; Young.</p>
 <p>With TradeTrust, anyone can <strong>digitise any documents</strong> and <strong>effect title transfer</strong> for
 titled documents<strong> </strong>like bill of lading which are portable <strong>across different digital platforms </strong>of
 one party to another <strong>legally</strong>.<strong> </strong>Recipients
