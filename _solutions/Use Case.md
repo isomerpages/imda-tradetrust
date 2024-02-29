@@ -46,6 +46,9 @@ Supply Chain, Logistics Services, Certification and Licenses Issuance</p>
 </ul>
 <hr>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Conduct us</a> for
-co-creation of use case or trial.</p>
-<p>Find partners</p>
+co-creation of use case or trial.
+<br><a href="/community/find-partners/" rel="noopener noreferrer nofollow" target="_blank">Find partners</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
