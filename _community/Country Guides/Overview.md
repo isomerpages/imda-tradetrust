@@ -20,6 +20,10 @@ United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New
 Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the
 United Arab Emirates</p>
 <p>Taking an example of a shipment from China - a non MLETR-compliant jurisdictions
-to Singapore. As long as the electronic Bill of Lading (eBL)</p>
+to Singapore. As long as the TradeTrust-issued electronic Bill of Lading
+(eBL) by a carrier is governed by any one of the MLETR-compliant jurisdictions
+like Singapore, the eBL will be legally valid to faciliate the shipment.</p>
+<p></p>
+<p></p>
 <p><a href="/community/country-guides/singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore</a>
 </p>
