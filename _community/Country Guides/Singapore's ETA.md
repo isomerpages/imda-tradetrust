@@ -16,12 +16,16 @@ facilitates their use where parties choose to transact electronically.</p>
 <p>As such, paper documents still remain as the prevailing medium.</p>
 <p></p>
 <h4>2021 Amendment</h4>
-<p>In March 2021, the ETA was amended to ensure that Singapore’s legal and
-regulatory infrastructure keeps pace with international trade law and the
-latest technological advancements. The ETA was amended to adopt the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR)
-published by United Nations Commission on International Trade Law in September
-2017. The MLETR aims to enable the legal use of electronic transferable
-records both domestically and across borders.</p>
+<p>To ensure that Singapore’s legal and regulatory infrastructure keeps pace
+with international trade law and the latest technological advancements,
+the Ministry of Communications &amp; Information (MCI) and the Infocomm
+Media Development Authority (IMDA) amended the ETA in March 2021, to adopt
+the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR)
+published by United Nations Commission on International Trade Law with
+modifications into Singapore law, and for the ETA to apply to transferable
+documents or instruments such as Bills of Lading. The MLETR aims to enable
+the legal use of electronic transferable records both domestically and
+across borders.</p>
 <p><strong>This enables the creation and use of Electronic Transferable Records (ETRs) or transferable documents such as electronic bills of lading (eBLs), which are key documents for international trade. </strong>Previously,
 usage of electronic versions of BLs had been difficult due to technological
 and legal challenges in establishing what is the "original document" and
