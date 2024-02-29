@@ -90,8 +90,8 @@ sections:
         with TradeTrust.
       cards:
         - title: Contact Us
-          description: Sign up for mailing list, send your queries
-          linktext: ">>"
+          description: Join our fast growing mailing list, send your queries
+          linktext: Sign up
           url: https://form.gov.sg/635f32c5001b2d0011fff09b
         - title: Partner Us
           description: Register as a TradeTrust enabled partner
