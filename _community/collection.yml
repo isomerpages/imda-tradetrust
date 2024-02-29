@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Find Partners.md
+      - Country Guides/Singapore's ETA.md
       - Country Guides/.keep
       - Country Guides/Singapore.md
       - Trials.md
