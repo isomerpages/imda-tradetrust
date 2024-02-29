@@ -26,12 +26,11 @@ modifications into Singapore law, and for the ETA to apply to transferable
 documents or instruments such as Bills of Lading. The MLETR aims to enable
 the legal use of electronic transferable records both domestically and
 across borders.</p>
-<p><strong>This enables the creation and use of Electronic Transferable Records (ETRs) or transferable documents such as electronic bills of lading (eBLs), which are key documents for international trade. </strong>Previously,
+<p><strong>This enables you to the creation and use of Electronic Transferable Records (ETRs) or transferable documents such as electronic bills of lading (eBLs), which are key documents for international trade. </strong>Previously,
 usage of electronic versions of BLs had been difficult due to technological
 and legal challenges in establishing what is the "original document" and
 "who possesses it".</p>
-<p>The amended ETA supports and complements the government’s trade digitalization
-initiatives.</p>
+<p></p>
 <h4>Benefits to Trade</h4>
 <p>The Electronic Transactions Act (ETA) facilitates the use of e-commerce
 and e-transactions by giving e-contracts and e-signatures the same status
