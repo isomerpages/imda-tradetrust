@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Subfolder 2/.keep
       - Find Partners.md
       - Country Guides/Singapore.md
       - Country Guides/.keep
