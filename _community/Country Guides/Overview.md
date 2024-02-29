@@ -19,7 +19,7 @@ other <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_tr
 United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New
 Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the
 United Arab Emirates</p>
-<p></p>
+<p>Taking an example of a shipment from China - a non MLETR-compliant jurisdictions
+to Singapore. As long as the electronic Bill of Lading (eBL)</p>
 <p><a href="/community/country-guides/singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore</a>
 </p>
-<p></p>
