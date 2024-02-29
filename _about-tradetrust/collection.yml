@@ -2,6 +2,7 @@ collections:
   about-tradetrust:
     output: true
     order:
+      - FAQ/What types of digital documents are supported by TradeTrust?.md
       - FAQ/What is TradeTrust.md
       - FAQ/.keep
       - Who We Are.md
