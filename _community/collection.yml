@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Subfolder 2/.keep
       - Find Partners.md
       - Country Guides/Singapore's ETA.md
       - Country Guides/.keep
