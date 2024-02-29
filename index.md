@@ -99,6 +99,6 @@ sections:
           url: ""
         - title: Request Demo
           description: Watch a demonstration
-          linktext: ">>"
+          linktext: Sign up
           url: ""
 ---
