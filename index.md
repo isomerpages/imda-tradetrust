@@ -95,7 +95,7 @@ sections:
           url: https://form.gov.sg/635f32c5001b2d0011fff09b
         - title: Partner Us
           description: Register as a TradeTrust enabled partner
-          linktext: ">>"
+          linktext: Sign up
           url: ""
         - title: Request Demo
           description: Watch a demonstration
