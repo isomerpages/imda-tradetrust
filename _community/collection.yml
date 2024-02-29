@@ -2,8 +2,8 @@ collections:
   community:
     output: true
     order:
-      - Country Guides/Singapore.md
-      - Country Guides/.keep
       - Find Partners.md
+      - Country Guides/.keep
+      - Country Guides/Singapore.md
       - Trials.md
       - Join Us.md
