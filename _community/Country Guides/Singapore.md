@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Country Guides
 ---
-<h2><strong>Electronic Transactions Act (ETA)</strong></h2>
+<h3><strong>Electronic Transactions Act (ETA)</strong></h3>
 <p></p>
 <h4>What is Singapore's ETA?</h4>
 <p>The Electronic Transactions Act (ETA) was first enacted in July 1998 in
