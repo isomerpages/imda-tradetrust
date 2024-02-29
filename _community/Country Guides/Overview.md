@@ -24,6 +24,7 @@ like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by a carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
 <p></p>
+<p>Find out more:</p>
 <p></p>
 <p><a href="/community/country-guides/singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore</a>
 </p>
