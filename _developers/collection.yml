@@ -2,9 +2,9 @@ collections:
   developers:
     output: true
     order:
-      - Video Guide/.keep
-      - Video Guide/TradeTrust Overview.md
-      - Video Guide/Creation of Verifiable Documents (DNS TXT).md
+      - Video Guides/.keep
+      - Video Guides/TradeTrust Overview.md
+      - Video Guides/Creation of Verifiable Documents (DNS TXT).md
       - Technical Guides.md
       - Product FAQ/.keep
       - Product FAQ/Page 1.md
