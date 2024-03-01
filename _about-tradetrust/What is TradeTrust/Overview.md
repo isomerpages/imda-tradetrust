@@ -36,6 +36,8 @@ partners.</p>
 <p>TradeTrust enables a fully <strong>decentralised approach</strong> to manage
 business transactions, eliminating the need for you and all your transacting
 parties to use a common digital platform and contractual rulebook.</p>
+<p><a href="https://www.youtube.com/watch?v=-YD21elPXxs&amp;t=6s" rel="noopener noreferrer nofollow" target="_blank">Watch TradeTrust overview video</a>
+</p>
 <p>Refer to a sample TradeTrust-issued document with QR code using TradeTrust
 Verify Doc service (available online as a reference implementation):</p>
 <div class="isomer-image-wrapper">
