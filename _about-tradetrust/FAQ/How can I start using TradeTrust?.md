@@ -19,3 +19,9 @@ Instead, TradeTrust provides a solution to the current lack of technical
 interoperability in the market by enabling any party to issue its own TT
 Electronic Transferable Records (ETRs) outside of the confines of any contract-based
 platform.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GIF_Test.gif">
+</div>
+<p></p>
