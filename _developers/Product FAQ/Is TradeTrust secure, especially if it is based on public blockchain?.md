@@ -9,7 +9,7 @@ third_nav_title: Product FAQ
 the Smart Contract Code. In addition, the choice of Blockchain must follow
 the <a href="https://www.tradetrust.io/guidelines" rel="noopener noreferrer nofollow" target="_blank">TradeTrust Guidelines.</a>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Actively maintained with a large development community</p>
 </li>
@@ -31,7 +31,7 @@ the <a href="https://www.tradetrust.io/guidelines" rel="noopener noreferrer nofo
 <li>
 <p>Open-sourced</p>
 </li>
-</ol>
+</ul>
 <p>In 2021, TradeTrust awarded Ernst &amp; Young the security assessment
 through an open tender process, aligning with the OWASP Top Ten 2021 list.
 The review of smart contract and functions yielded positive results, ensuring
