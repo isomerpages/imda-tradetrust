@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p>Currently, TradeTrust can be connected to a few different public blockchain
-networks:</p>
+<p>Currently, TradeTrust can be connected to a few public blockchain networks:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ethereum</p>
