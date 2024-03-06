@@ -72,10 +72,11 @@ Singapore and other MLETR*-compliant statutory law.</p>
 <p></p>
 </li>
 </ol>
-<p>Your TradeTrust-issued documents will meet the international standards
-like W3C Standards Development, frameworks and supported by statutory law.
-Now, you can enjoy the legal certainty and commercial predictability when
-conducting global trade.</p>
+<p>Your TradeTrust-issued documents utilise the latest technical methods
+such as that of W3C Verifiable Credentials and ERC-721, which enable them
+to meet requirements specified in various statutory laws. Now, you can
+enjoy the legal certainty and commercial predictability when conducting
+global trade.</p>
 <h4>THREE Key Functionalities</h4>
 <p>TradeTrust empowers you to</p>
 <ol data-tight="true" class="tight">
