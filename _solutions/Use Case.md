@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <blockquote>
-<p>Over 20 Business Solution Providers, mainly in the FinTech and Supply
+<p>Over 25 Business Solution Providers, mainly in the FinTech and Supply
 Chain verticals, have adopted TradeTrust.</p>
 </blockquote>
 <p></p>
