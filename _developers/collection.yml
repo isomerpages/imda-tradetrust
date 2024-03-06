@@ -2,8 +2,8 @@ collections:
   developers:
     output: true
     order:
-      - Video Guides/Creation of Verifiable Documents (DNS DID).md
       - Video Guides/.keep
+      - Video Guides/Creation of Verifiable Documents (DNS DID).md
       - Video Guides/TradeTrust Overview.md
       - Video Guides/Creation of Verifiable Documents (DNS TXT).md
       - Technical Guides.md
