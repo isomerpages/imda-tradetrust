@@ -36,13 +36,17 @@ partners.</p>
 <p>TradeTrust enables a fully <strong>decentralised approach</strong> to manage
 business transactions, eliminating the need for you and all your transacting
 parties to use a common digital platform and contractual rulebook.</p>
-<p><a href="https://www.youtube.com/watch?v=-YD21elPXxs&amp;t=6s" rel="noopener noreferrer nofollow" target="_blank">Watch TradeTrust overview video</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=LxoZxvBo5JkQJvfI"></iframe>
+</div>
+<p></p>
 <p>Refer to a sample TradeTrust-issued document with QR code using TradeTrust
 Verify Doc service (available online as a reference implementation):</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
 </div>
+<p></p>
+<p></p>
 <h4>TWO Document Types : Verifiable Documents and Transferable Documents</h4>
 <p>Your electronic documents like PDF is a snapshot of the original document
 in which its validity, tampering, and authenticity of the issuer cannot
