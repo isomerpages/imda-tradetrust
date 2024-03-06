@@ -14,5 +14,15 @@ mental framing required as a pre-requisite for subsequent webinars.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NcR1M9NJ-PE?si=Ob2Ix-PNVALi4CQV"></iframe>
 </div>
 <p></p>
+<p>Timestamps</p>
+<p>00:00 Introduction</p>
+<p>06:30 Presentation of TradeTrust</p>
+<p>19.21 What are Verifiable Documents?</p>
+<p>19:44 What are Transferable Documents?</p>
+<p>20:17 Demo - Verifiable Documents</p>
+<p>21:45 Demo - Selective Disclosure</p>
+<p>24:23 Demo - Title Transfer</p>
+<p>44.12 Demo - QR Code</p>
+<p></p>
 <p></p>
 <p></p>
