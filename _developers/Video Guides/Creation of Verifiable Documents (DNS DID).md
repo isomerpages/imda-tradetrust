@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Video Guides
 ---
-<p>This<strong> </strong>technical<strong> </strong>Webinar focuses on the
+<p>This<strong> </strong>technical<strong> </strong>webinar focuses on the
 creation of verifiable documents using Ethereum DID. These are documents
 that do not have the functionality of transferring title.</p>
 <p></p>
