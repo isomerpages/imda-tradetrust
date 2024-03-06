@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Video Guides/.keep
-      - Video Guides/Creation of Verifiable Documents (DNS DID).md
       - Video Guides/TradeTrust Overview.md
       - Video Guides/Creation of Verifiable Documents (DNS TXT).md
+      - Video Guides/Creation of Verifiable Documents (DNS DID).md
       - Technical Guides.md
       - Product FAQ/.keep
       - Product FAQ/Why does TradeTrust use public blockchains?.md
