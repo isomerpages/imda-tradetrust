@@ -13,4 +13,12 @@ that do not have the functionality of transferring title.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ml0I2EojhN4?si=vr8vI-SuUusXm0OA"></iframe>
 </div>
 <p></p>
-<p></p>
+<p>Timestamps
+<br>00:10 Creating a DID
+<br>01:16 Configuring DNS
+<br>02:14 Creating a Raw Document
+<br>03:18 Wrapping Documents
+<br>03:56 Signing Documents
+<br>04:46 Verify Documents
+<br>
+</p>
