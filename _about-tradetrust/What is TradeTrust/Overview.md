@@ -49,7 +49,7 @@ Verify Doc service (available online as a reference implementation):</p>
 <p></p>
 <h4>TWO Document Types : Verifiable Documents and Transferable Documents</h4>
 <p>Your electronic documents like PDF is a snapshot of the original document
-in which its validity, tampering, and authenticity of the issuer cannot
+in which its validity, tampering, and authenticity of the issuer may not
 be easily verified. Furthermore, they may not facilitate the transfer of
 title ownership for titled document.</p>
 <p></p>
