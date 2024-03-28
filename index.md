@@ -13,9 +13,9 @@ notification: Token Registry V2 is no longer supported, visit
 sections:
   - hero:
       title: Transform the way you trade
-      subtitle: Digitalisation makes trade safer, easier and cheaper.  You can
-        digitise, exchange, verify any documents and effect title transfer for
-        transferable documents.
+      subtitle: Digitalization makes trade safer, easier, and more cost-effective,
+        providing increased confidence, profitability, and peace of mind for you
+        and your partners.
       background: /images/TradeDigitalisation.png
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
