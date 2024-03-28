@@ -55,9 +55,10 @@ sections:
   - textcards:
       title: Solution
       id: textcards
-      description: You can easily create, verify and transfer digitized documents of
-        any format, while reducing the risk of fraud through comprehensive
-        checks for validity, tampering, and authenticity of the issuer.
+      description: >
+        You can create, exchange, verify  digitized documents, and transfer
+        ownership for title documents, while reducing the risk of fraud through
+        checks for proof of origin, tampering, and authenticity. 
       cards:
         - title: Create
           description: Create or revoke any business documents
