@@ -44,9 +44,9 @@ sections:
   - infopic:
       title: Benefits
       id: infopic
-      description: With TradeTrust’s capability, you can digitalise your end-to-end
-        processing of trade documents across different trading partners
-        seamlessly.
+      description: Digitalise your end-to-end processing of trade documents across
+        different trading partners seamlessly by integrating TradeTrust into
+        your existing IT system.
       button: Learn More
       image: /images/Seamless_Trade_Ecosystem.PNG
       alt: Image alt text
