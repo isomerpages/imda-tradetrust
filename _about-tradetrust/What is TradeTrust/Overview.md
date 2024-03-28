@@ -46,7 +46,8 @@ Verify Doc service (available online as a reference implementation):</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
 </div>
 <p></p>
-<p></p>
+<p>TradeTrust is the answer to legal and technical interoperability that
+have hindered the wider adoption of digital trade documents in global trade.</p>
 <h4>TWO Document Types : Verifiable Documents and Transferable Documents</h4>
 <p>Your electronic documents like PDF is a snapshot of the original document
 in which its validity, tampering, and authenticity of the issuer may not
