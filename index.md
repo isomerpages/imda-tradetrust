@@ -14,7 +14,7 @@ sections:
   - hero:
       title: Transform the way you trade
       subtitle: Digitalization makes trade safer, easier, and less costly, providing
-        increased confidence, profitability, and peace of mind for your trading
+        increased confidence, profitability, and peace of mind for your trade
         ecosystem.
       background: /images/TradeDigitalisation.png
       button: Contact Us
