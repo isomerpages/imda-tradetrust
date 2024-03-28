@@ -55,10 +55,9 @@ sections:
   - textcards:
       title: Solution
       id: textcards
-      description: >
-        You can create, exchange, verify  digitized documents, and transfer
+      description: You can create, exchange, verify  digitized documents, and transfer
         ownership for title documents, while reducing the risk of fraud through
-        checks for proof of origin, tampering, and authenticity. 
+        checks for proof of origin, tampering, and authenticity.
       cards:
         - title: Create
           description: Create or revoke any business documents
@@ -69,8 +68,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Transfer
-          description: Transfer holdership or endorse a change of ownership from party to
-            another
+          description: Verify then endorse a change of ownership from one party to another
           linktext: Learn more
           url: ""
       subtitle: Digitise the inefficiency
