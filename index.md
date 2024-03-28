@@ -44,7 +44,7 @@ sections:
   - infopic:
       title: Benefits
       id: infopic
-      description: Digitalise your end-to-end processing of trade documents across
+      description: Digitalise end-to-end processing of trade documents across
         different trading partners seamlessly by integrating TradeTrust into
         your existing IT system.
       button: Learn More
