@@ -35,6 +35,6 @@ connects governments and businesses to a public blockchain, ensuring trusted
 interoperability of electronic trade documents and facilitating smooth
 title transfers of transferable documents across digital platforms.</p>
 <p></p>
-<p><sub>*</sub><em><sub>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sub></em><sub> <br></sub><em><sub>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sub></em>
+<p><sub><br></sub><em><sub>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sub></em>
 </p>
 <p></p>
