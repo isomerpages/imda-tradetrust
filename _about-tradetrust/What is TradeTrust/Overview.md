@@ -21,14 +21,13 @@ and packing lists, and
 Records (ETRs) such as electronic Bill of Lading and warehouse receipt</p>
 <p>The outputs are TradeTrust-enabled documents known as <strong>TrustDoc files</strong> which
 are portable and effective across systems.</p>
-<p>TradeTrust is designed to provide industry&nbsp;with three key functionalities.
-TradeTrust uses verifiable credentials technical methods to enable end
-users to verify the authenticity and provenance of documents, and blockchain
-technology to effect title transfer in accordance with statutory law.</p>
-<p>And offered as a digital utility for any businesses, governments or organisations
-with open-source code available for free download and guided integration
-into your existing IT system. Or subscribe to the services offered by TradeTrust
-enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
+<p>TradeTrust supports three key functionalities. TradeTrust uses verifiable
+credentials technical methods to enable end users to verify the authenticity
+and provenance of documents, and blockchain technology to effect title
+transfer in accordance with statutory law.</p>
+<p>And offered as a digital utility, the open-source code is available for
+free download with guided integration into your existing IT system. Or
+subscribe to the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
 kick start the digital transformation of your trade processes.</p>
 <p></p>
 <p>It’s like providing you with a supporting structure and free tool, to
@@ -38,20 +37,8 @@ can verify documents’ proof of origin and authenticity as well as transfer
 of ownership independently, legally and in compliance with globally-accepted
 standards. All from the convenience of your enhanced IT system that you
 are familiar with, or simply with an internet access.</p>
-<p>You can trust the security and reliability of your transactions, as the
-TradeTrust's security assessment was conducted comprehensively by a third-party
-- Ernst &amp; Young.</p>
-<p>With TradeTrust, anyone can <strong>digitise any documents</strong> and <strong>effect title transfer</strong> for
-titled documents<strong> </strong>like bill of lading which are portable <strong>across different digital platforms </strong>of
-one party to another <strong>legally</strong>.<strong> </strong>Recipients
-of your documents can <strong>verify the source and authenticity</strong> simply
-with an internet access. This means achieving end-to-end digital processing
-of trade documents through <strong>trusted interoperability</strong>, making
-international trade more efficient and secure for you and your trading
-partners.</p>
-<p>TradeTrust enables a fully <strong>decentralised approach</strong> to manage
-business transactions, eliminating the need for you and all your transacting
-parties to use a common digital platform and contractual rulebook.</p>
+<p></p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=LxoZxvBo5JkQJvfI"></iframe>
 </div>
@@ -59,7 +46,9 @@ parties to use a common digital platform and contractual rulebook.</p>
 <p></p>
 <p>TradeTrust is the answer to legal and technical interoperability that
 have hindered the wider adoption of digital trade documents in global trade.</p>
-<h4></h4>
+<p>You can trust the security and reliability of your transactions, as the
+TradeTrust's security assessment was conducted comprehensively by a third-party
+- Ernst &amp; Young.</p>
 <p></p>
 <p>*<em>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</em> 
 <br><em>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</em>
