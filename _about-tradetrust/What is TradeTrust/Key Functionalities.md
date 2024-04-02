@@ -35,6 +35,12 @@ connects governments and businesses to a public blockchain, ensuring trusted
 interoperability of electronic trade documents and facilitating smooth
 title transfers of transferable documents across digital platforms.</p>
 <p></p>
+<p>Refer to a sample TradeTrust-issued document with QR code using TradeTrust
+Verify Doc service (available online as a reference implementation):</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
+</div>
+<p></p>
 <p><sub><br></sub><em><sub>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sub></em>
 </p>
 <p></p>
