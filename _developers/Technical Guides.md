@@ -57,8 +57,8 @@ wallet addresses you might have from your partners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Get open-source code here, including our reference implementation for
-understanding of framework's implementation</p>
+<p>Get open-source code, including our reference implementation for understanding
+of framework's implementation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank"><sup>https://github.com/tradetrust</sup></a>
