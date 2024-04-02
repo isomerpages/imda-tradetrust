@@ -19,16 +19,16 @@ can engage the services from any of the TradeTrust enabled platform/solution
 service providers to commence your live transactions or implementation
 work. Bring your technical expertise to speak to us or start with our technical
 guide.</p>
-<p>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a>
-<br>Source code: <a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust</a>
-<br>Technical guide: <a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/</a>
+<p>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a> 
+<br>Source code: <a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust</a> 
+<br>Technical guides: <a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/</a>
 </p>
 <p></p>
 <p></p>
 <h4><u>To verify TradeTrust-issued documents :</u></h4>
-<p><strong>Anyone who received TradeTrust-issued documents can verify them via :</strong>
+<p><strong>Anyone who received TradeTrust-issued documents can verify them via :</strong> 
 <br>o&nbsp;&nbsp;<strong>Verify Doc</strong> service on TradeTrust website
-enables easy verification with a <strong>simple document upload</strong>
+enables easy verification with a <strong>simple document upload</strong> 
 <br>o&nbsp;&nbsp; Hard copies of TradeTrust documents can have <strong>embedded QR codes</strong> for
 online verification using <strong>smartphone camera </strong>scanning</p>
 <p>Verification can be <strong>done anywhere, anytime with Internet access </strong>–
