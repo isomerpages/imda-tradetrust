@@ -35,3 +35,7 @@ such as W3C Verifiable Credentials and ERC-721, compliant with UNCITRAL
 MLETR, meeting requirements specified in various statutory laws. Now, you
 can enjoy legal certainty and commercial predictability when conducting
 global trade.</p>
+<p></p>
+<p></p>
+<p><sub>*</sub><em><sub>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sub></em><sub> </sub>
+</p>
