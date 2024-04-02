@@ -13,14 +13,15 @@ to embark on trade digitalisation to address difficulties with the exchange
 and processing of digital trade documentation using pre-built digital utility
 easily and for free.</p>
 </blockquote>
-<p>TradeTrust supports the digitalisation of trade documents into two document
-types :
+<p>TradeTrust supports the digitalisation of trade documents, regardless
+of the data format or standard restriction, into two document types :
 <br>(1) <strong>Verifiable Documents </strong>for example certificate of origin
 and packing lists, and
 <br>(2) <strong>Transferable Documents</strong> for example Electronic Transferable
 Records (ETRs) such as electronic Bill of Lading and warehouse receipt</p>
 <p>The outputs are TradeTrust-enabled documents known as <strong>TrustDoc files</strong> which
-can be sent to your trading parties.</p>
+are portable and effective across systems.</p>
+<p>can be sent to your trading parties via email or any other tran</p>
 <p>TradeTrust uses verifiable credentials technical methods to enable end
 users to verify the authenticity and provenance of documents, and blockchain
 technology to effect title transfer in accordance with statutory law.</p>
