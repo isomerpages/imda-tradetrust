@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - What is TradeTrust/Key Functionalities.md
-      - What is TradeTrust/Document Types.md
       - What is TradeTrust/.keep
       - What is TradeTrust/Overview.md
+      - What is TradeTrust/Document Types.md
+      - What is TradeTrust/Key Functionalities.md
       - What is TradeTrust/Components.md
       - What is TradeTrust/Design Principles.md
       - FAQ/.keep
