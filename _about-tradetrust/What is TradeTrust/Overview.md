@@ -28,12 +28,12 @@ features that are portable across your trading partners. Intended recipients
 can verify documents’ proof of origin and authenticity as well as transfer
 of ownership independently, legally and in compliance with globally-accepted
 standards. All from the convenience of your enhanced IT system that you
-are familiar with, or simply with an internet access.</p>
-<p>TradeTrust as a digital utility,<strong> </strong>is available for any
-businesses, governments or organisations. With its open-source code available
-for free download, integrating TradeTrust into your existing IT system
-is easy, driving the digital transformation of your trade processes. Or
-subscribe to the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
+are familiar with, or simply with an internet access. And offered as a
+digital utility for any businesses, governments or organisations. With
+its open-source code available for free download, integrating TradeTrust
+into your existing IT system is easy, driving the digital transformation
+of your trade processes. Or subscribe to the services offered by TradeTrust
+enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
 start your transactions. You can trust the security and reliability of
 your transactions, as the review of TradeTrust's security assessment was
 conducted comprehensively by a third-party - Ernst &amp; Young.</p>
