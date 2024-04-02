@@ -9,8 +9,9 @@ third_nav_title: What is TradeTrust
 <p></p>
 <blockquote>
 <p>TradeTrust is a<strong> </strong>framework<strong> </strong>for anyone
-to embark on trade digitalisation to address difficulties with paper documentation
-in cross border trade using pre-built digital utility easily and for free.</p>
+to embark on trade digitalisation to address difficulties with the exchange
+and processing of digital trade documentation using pre-built digital utility
+easily and for free.</p>
 </blockquote>
 <p>It’s like providing you with a supporting structure and free tool, to
 turn your documents into smart electronic documents that are portable across
