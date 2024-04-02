@@ -23,7 +23,7 @@ sample documents in <a href="https://docs.tradetrust.io/" rel="noopener noreferr
 <p>Documentation and guide for implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.tradetrust.io/docs/getting-started" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/getting-started</a>
+<p><a href="https://docs.tradetrust.io/docs/getting-started" rel="noopener noreferrer nofollow" target="_blank"><sup>https://docs.tradetrust.io/docs/getting-started</sup></a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ sample documents in <a href="https://docs.tradetrust.io/" rel="noopener noreferr
 <p>Transfer of holdership / ownership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</a>
+<p><a href="https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer" rel="noopener noreferrer nofollow" target="_blank"><sup>https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</sup></a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ sample documents in <a href="https://docs.tradetrust.io/" rel="noopener noreferr
 <p>Will be important to first understand Transferable Records</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.tradetrust.io/docs/tutorial/transferable-records/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</a>
+<p><a href="https://docs.tradetrust.io/docs/tutorial/transferable-records/overview" rel="noopener noreferrer nofollow" target="_blank"><sup>https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</sup></a>
 </p>
 </td>
 </tr>
@@ -51,18 +51,17 @@ sample documents in <a href="https://docs.tradetrust.io/" rel="noopener noreferr
 wallet addresses you might have from your partners</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local</a>
+<p><a href="https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local" rel="noopener noreferrer nofollow" target="_blank"><sup>https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local</sup></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our open-source code can be found here, it's inclusive of our reference
-implementation so you can study and understand how the framework can be
-implemented</p>
+<p>Get open-source code here, including our reference implementation for
+understanding of framework's implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/tradetrust</a>
+<p><a href="https://github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank"><sup>https://github.com/tradetrust</sup></a>
 </p>
 </td>
 </tr>
@@ -71,7 +70,7 @@ implemented</p>
 <p>TradeTrust Open-source licensing terms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://github.com/TradeTrust/tradetrust-website" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust/tradetrust-website</a>
+<p><a href="https://github.com/TradeTrust/tradetrust-website" rel="noopener noreferrer nofollow" target="_blank"><sup>https://github.com/TradeTrust/tradetrust-website</sup></a>
 </p>
 <p>click on Apache-2.0 license</p>
 <p>&nbsp;</p>
