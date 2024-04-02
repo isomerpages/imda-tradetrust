@@ -46,8 +46,9 @@ are familiar with, or simply with an internet access.</p>
 </div>
 <p></p>
 <p></p>
-<p>TradeTrust is the answer to legal and technical interoperability that
-have hindered the wider adoption of digital trade documents in global trade.</p>
+<p>TradeTrust empowers you with the legal and technical interoperability
+that have hindered the wider adoption of digital trade documents in global
+trade.</p>
 <p>You can trust the security and reliability of your transactions, as the
 TradeTrust's security assessment was conducted comprehensively by a third-party
 - Ernst &amp; Young.</p>
