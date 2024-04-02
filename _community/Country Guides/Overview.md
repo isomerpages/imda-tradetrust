@@ -65,7 +65,5 @@ jurisdictions</p>
 <p></p>
 <p><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download a copy of TradeTrust Legality Guide</u></a>
 </p>
-<p>Find out more:</p>
 <p></p>
-<p><a href="/community/country-guides/singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore</a>
-</p>
+<p></p>
