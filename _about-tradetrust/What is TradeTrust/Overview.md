@@ -17,8 +17,8 @@ turn your documents into smart electronic documents that are portable across
 your trading partners. Intended recipients can verify documents’ proof
 of origin and authenticity as well as transfer of ownership independently,
 legally and in compliance with globally-accepted standards. All from the
-convenience of your enhanced IT system that you are familiar with, or with
-an internet access.</p>
+convenience of your enhanced IT system that you are familiar with, or simply
+with an internet access.</p>
 <p>TradeTrust as a digital utility,<strong> </strong>is available for any
 businesses, governments or organisations. With its open-source code available
 for free download, integrating TradeTrust into your existing IT system
