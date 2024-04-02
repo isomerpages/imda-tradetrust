@@ -59,4 +59,4 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 <hr>
 <p>Download <a href="/files/TradeTrust_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">TradeTrust Factsheet</a>
 </p>
-<p>w</p>
+<p></p>
