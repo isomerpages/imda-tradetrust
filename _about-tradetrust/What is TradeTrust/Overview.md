@@ -66,65 +66,7 @@ Verify Doc service (available online as a reference implementation):</p>
 <p></p>
 <p>TradeTrust is the answer to legal and technical interoperability that
 have hindered the wider adoption of digital trade documents in global trade.</p>
-<h4>TWO Document Types : Verifiable Documents and Transferable Documents</h4>
-<p>Your electronic documents like PDF is a snapshot of the original document
-in which its proof of origin, tampering, authenticity may not be easily
-verified. Furthermore, they may not facilitate the transfer of title ownership
-for titled document.</p>
-<p></p>
-<p>You can use TradeTrust to digitise <strong>any</strong> business documents
-into two broad categories:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Normal documents/Verifiable documents</strong> such as the Certificate
-of Origin where the provenance and authenticity of the e-document can be
-easily verified by any party;</p>
-</li>
-<li>
-<p><strong>Transferable Documents</strong> such as Bill of Lading where the
-e-document’s title ownership can be transferred from one party to another.
-Transferable Documents is digitised<strong> </strong>into Electronic Transferable
-Records (ETRs) using blockchain technology. To transact, businesses need
-not rely on a contractual legal framework for title transfer since TradeTrust
-enables the digitalisation of<strong> electronic documents that is intended to be legally equivalent to their paper-based counterparts</strong> under
-Singapore and other MLETR*-compliant statutory law.</p>
-<p></p>
-</li>
-</ol>
-<p>Your TradeTrust-issued documents utilize the latest technical methods,
-such as W3C Verifiable Credentials and ERC-721, compliant with UNCITRAL
-MLETR, meeting requirements specified in various statutory laws. Now, you
-can enjoy legal certainty and commercial predictability when conducting
-global trade.</p>
-<h4>THREE Key Functionalities</h4>
-<p>TradeTrust empowers you to</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Verify the authenticity : </strong>Any tampering would be evident</p>
-</li>
-<li>
-<p><strong>Verify the provenance : </strong>Genuine creators of documents
-like Carriers, Govt authorities
-<br>TradeTrust uses Decentralised Identifiers^ (DID) and digital signatures
-to&nbsp;verify the source and authenticity of documents.</p>
-</li>
-<li>
-<p><strong>Effect title transfer :</strong> Legally-valid Performance Obligation
-Transfer.
-<br>TradeTrust uses blockchain technology to create Non-Fungible Tokens (NFTs)
-to represent title ownership and enable transfers&nbsp;from one party to
-the next.</p>
-</li>
-</ol>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_3_functionalities.PNG">
-</div>
-<p></p>
-<p>By reducing the costs and risks associated with paper-based documentation,<strong> </strong>TradeTrust
-connects governments and businesses to a public blockchain, ensuring trusted
-interoperability of electronic trade documents and facilitating smooth
-title transfers of transferable documents across digital platforms.</p>
+<h4></h4>
 <p></p>
 <p>*<em>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</em> 
 <br><em>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</em>
