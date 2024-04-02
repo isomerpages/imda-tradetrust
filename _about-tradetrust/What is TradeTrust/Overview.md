@@ -21,7 +21,7 @@ and packing lists, and
 Records (ETRs) such as electronic Bill of Lading and warehouse receipt</p>
 <p>The outputs are TradeTrust-enabled documents known as <strong>TrustDoc files</strong> which
 are portable and effective across systems.</p>
-<p>TradeTrust supports three key functionalities. TradeTrust uses verifiable
+<p>TradeTrust provides three key functionalities. TradeTrust uses verifiable
 credentials technical methods to enable end users to verify the authenticity
 and provenance of documents, and blockchain technology to effect title
 transfer in accordance with statutory law.</p>
