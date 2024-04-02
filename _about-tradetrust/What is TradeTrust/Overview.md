@@ -15,7 +15,7 @@ in cross border trade using pre-built digital utility easily and for free.</p>
 <p>It’s like providing you with a supporting structure and free tool, to
 turn your documents into smart electronic documents that are portable across
 your trading partners. Intended recipients can verify documents’ proof
-of origin and authenticity as well as the transfer of ownership independently,
+of origin and authenticity as well as transfer of ownership independently,
 legally and in compliance with globally-accepted standards. All from the
 convenience of your enhanced IT system that you are familiar with, or with
 an internet access.</p>
