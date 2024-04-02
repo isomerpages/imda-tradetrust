@@ -72,8 +72,9 @@ understanding of framework's implementation</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://github.com/TradeTrust/tradetrust-website" rel="noopener noreferrer nofollow" target="_blank"><sup>https://github.com/TradeTrust/tradetrust-website</sup></a>
 </p>
-<p>click on Apache-2.0 license</p>
-<p>&nbsp;</p>
+<p><sup>click on Apache-2.0 license</sup>
+</p>
+<p></p>
 <p></p>
 </td>
 </tr>
