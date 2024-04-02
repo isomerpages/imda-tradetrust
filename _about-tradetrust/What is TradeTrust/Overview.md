@@ -13,8 +13,8 @@ to embark on trade digitalisation to address difficulties with the exchange
 and processing of digital trade documentation using pre-built digital utility
 easily and for free.</p>
 </blockquote>
-<p>TradeTrust supports the digitalisation of any trade documents into two
-document types :
+<p>TradeTrust supports the digitalisation of trade documents into two document
+types :
 <br>(1) <strong>Verifiable Documents </strong>for example certificate of origin
 and packing lists, and
 <br>(2) <strong>Transferable Documents</strong> for example Electronic Transferable
