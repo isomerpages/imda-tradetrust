@@ -20,8 +20,9 @@ and packing lists, and
 <br>(2) <strong>Transferable Documents</strong> for example Electronic Transferable
 Records (ETRs) such as electronic Bill of Lading and warehouse receipt</p>
 <p>The outputs are TradeTrust-enabled documents known as <strong>TrustDoc files</strong> which
-are portable and effective across systems, backed by statutory law.</p>
-<p>TradeTrust uses verifiable credentials technical methods to enable end
+are portable and effective across systems.</p>
+<p>TradeTrust is designed to provide industry&nbsp;with three key functionalities.
+TradeTrust uses verifiable credentials technical methods to enable end
 users to verify the authenticity and provenance of documents, and blockchain
 technology to effect title transfer in accordance with statutory law.</p>
 <p>And offered as a digital utility for any businesses, governments or organisations
