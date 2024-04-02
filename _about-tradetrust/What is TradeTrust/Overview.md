@@ -26,7 +26,11 @@ TradeTrust uses verifiable credentials technical methods to enable end
 users to verify the authenticity and provenance of documents, and blockchain
 technology to effect title transfer in accordance with statutory law.</p>
 <p>And offered as a digital utility for any businesses, governments or organisations
-for free download and guided integration into your existing IT system.</p>
+with open-source code available for free download and guided integration
+into your existing IT system. Or subscribe to the services offered by TradeTrust
+enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
+kick start the digital transformation of your trade processes.</p>
+<p></p>
 <p>It’s like providing you with a supporting structure and free tool, to
 turn your documents into smart electronic documents with enhanced security
 features that are portable across your trading partners. Intended recipients
@@ -34,15 +38,9 @@ can verify documents’ proof of origin and authenticity as well as transfer
 of ownership independently, legally and in compliance with globally-accepted
 standards. All from the convenience of your enhanced IT system that you
 are familiar with, or simply with an internet access.</p>
-<p></p>
-<p>And offered as a digital utility for any businesses, governments or organisations.
-With its open-source code available for free download, integrating TradeTrust
-into your existing IT system is easy, driving the digital transformation
-of your trade processes. Or subscribe to the services offered by TradeTrust
-enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
-start your transactions. You can trust the security and reliability of
-your transactions, as the review of TradeTrust's security assessment was
-conducted comprehensively by a third-party - Ernst &amp; Young.</p>
+<p>You can trust the security and reliability of your transactions, as the
+TradeTrust's security assessment was conducted comprehensively by a third-party
+- Ernst &amp; Young.</p>
 <p>With TradeTrust, anyone can <strong>digitise any documents</strong> and <strong>effect title transfer</strong> for
 titled documents<strong> </strong>like bill of lading which are portable <strong>across different digital platforms </strong>of
 one party to another <strong>legally</strong>.<strong> </strong>Recipients
@@ -58,11 +56,6 @@ parties to use a common digital platform and contractual rulebook.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=LxoZxvBo5JkQJvfI"></iframe>
 </div>
 <p></p>
-<p>Refer to a sample TradeTrust-issued document with QR code using TradeTrust
-Verify Doc service (available online as a reference implementation):</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
-</div>
 <p></p>
 <p>TradeTrust is the answer to legal and technical interoperability that
 have hindered the wider adoption of digital trade documents in global trade.</p>
