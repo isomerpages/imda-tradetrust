@@ -15,10 +15,10 @@ easily and for free.</p>
 </blockquote>
 <p>TradeTrust supports the digitalisation of trade documents, with no data
 format or standard restriction, into two document types :
-<br>(1) <strong>Verifiable Documents </strong>for example certificate of origin
-and packing lists, and
+<br>(1) <strong>Verifiable Documents </strong>for example certificates of origin
+and packing lists; and
 <br>(2) <strong>Transferable Documents</strong> for example Electronic Transferable
-Records (ETRs) such as electronic Bill of Lading and warehouse receipt</p>
+Records (ETRs) such as electronic Bills of Lading and warehouse receipts</p>
 <p>The outputs are TradeTrust-enabled documents known as <strong>TrustDoc files</strong> which
 are portable and effective across systems. Thereby, enabling a fully <strong>decentralised approach</strong> to
 manage business transactions, eliminating the need for you and all your
