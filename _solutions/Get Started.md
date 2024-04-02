@@ -26,13 +26,13 @@ guide.</p>
 <p></p>
 <p></p>
 <h4><u>To verify TradeTrust-issued documents :</u></h4>
-<p><strong>Anyone who received TradeTrust-issued documents can verify them via :</strong> 
-<br>o&nbsp;&nbsp;<strong>Verify Doc</strong> service on TradeTrust website
-enables easy verification with a <strong>simple document upload</strong> 
-<br>o&nbsp;&nbsp; Hard copies of TradeTrust documents can have <strong>embedded QR codes</strong> for
-online verification using <strong>smartphone camera </strong>scanning</p>
-<p>Verification can be <strong>done anywhere, anytime with Internet access </strong>–
-no matter how many hands the document has been through.</p>
+<p>Anyone who received TradeTrust-issued documents can verify them via :
+<br>o&nbsp;&nbsp;Verify Doc service on TradeTrust website enables easy verification
+with a simple document upload
+<br>o&nbsp;&nbsp; Hard copies of TradeTrust documents can have embedded QR
+codes for online verification using smartphone camera scanning</p>
+<p>Verification can be done anywhere, anytime with Internet access – no matter
+how many hands the document has been through.</p>
 <p></p>
 <hr>
 <p></p>
