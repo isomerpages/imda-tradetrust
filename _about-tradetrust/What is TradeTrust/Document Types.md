@@ -37,5 +37,5 @@ can enjoy legal certainty and commercial predictability when conducting
 global trade.</p>
 <p></p>
 <p></p>
-<p><sub>*</sub><em><sub>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sub></em><sub> </sub>
+<p><sub>*</sub><em><sub>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sub></em>
 </p>
