@@ -13,10 +13,12 @@ to embark on trade digitalisation to address difficulties with paper documentati
 in cross border trade using pre-built digital utility easily and for free.</p>
 </blockquote>
 <p>It’s like providing you with a supporting structure and free tool, to
-turn your documents into smart electronic documents that can be verified
-by your intended recipients independently and to facilitate title ownership
-transfer, legally and in compliance with globally-accepted standards. All
-from the convenience of your enhanced IT system that you are familiar with.</p>
+turn your documents into smart electronic documents that are portable across
+different trading partners. Intended recipients can verify documents’ proof
+of origin and authenticity as well as the transfer of ownership independently,
+legally and in compliance with globally-accepted standards. All from the
+convenience of your enhanced IT system that you are familiar with, or with
+an internet access.</p>
 <p>TradeTrust as a digital utility,<strong> </strong>is available for any
 businesses, governments or organisations. With its open-source code available
 for free download, integrating TradeTrust into your existing IT system
