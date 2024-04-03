@@ -62,11 +62,10 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 <h5>Is it costly?</h5>
 <p>TradeTrust is free to use for all, anyone can implement using TradeTrust
 source code! Just pay for gas fees from as low as $0.01 per transaction^
-to use the blockchain.</p>
+to use the blockchain for title documents.</p>
 <p><sup>^Transaction with the lowest gas fee as at 03/04/2024, 11:19:05 am SGT: Cost to transfer holdership (Polygon)</sup>
 </p>
-<p><sup>*</sup><em><sup>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sup></em><sup> <br></sup><em><sup>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sup></em>
-</p>
+<p></p>
 <p></p>
 <hr>
 <p>Download <a href="/files/TradeTrust_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">TradeTrust Factsheet</a>
