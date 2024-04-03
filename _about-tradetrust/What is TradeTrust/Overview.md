@@ -20,7 +20,7 @@ can verify documents’ <strong>proof of origin</strong> and <strong>authenticit
 well as <strong>transfer of ownership</strong>  <strong>independently</strong>, <strong>legally</strong> and
 in <strong>compliance</strong> with globally-accepted standards. All from
 the convenience of your enhanced IT system that you are familiar with,
-or simply with an internet access to subscription services from our partners.</p>
+or simply with an internet access just to verify documents.</p>
 <p>TradeTrust supports the digitalisation of trade documents, with no data
 format or standard restriction, into two document types :
 <br>(1) <strong>Verifiable Documents </strong>for example certificates of origin
