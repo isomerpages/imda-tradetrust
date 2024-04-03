@@ -64,6 +64,13 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 <p>TradeTrust is free to use for all, anyone can implement using TradeTrust
 source code! Just pay for gas fees from as low as $0.01 per transaction^
 to use the blockchain for title documents.</p>
+<p>Cost of Operation
+<br>(1) Verifiable Documents - no gas fee for issuance unless you need to
+issue them in batch or revoke documents.
+<br>(2) Transferable Documents - gas fee varies with the role you are in the
+supply chain, trade document type and blockchain network. Can be as low
+as $0.01 per transaction</p>
+<p></p>
 <p><sup>^Transaction with the lowest gas fee as at 03/04/2024, 11:19:05 am SGT: Cost to transfer holdership (Polygon)</sup>
 </p>
 <p></p>
