@@ -8,8 +8,8 @@ third_nav_title: What is TradeTrust
 <h4>TWO Document Types : Verifiable Documents and Transferable Documents</h4>
 <p>Your electronic documents like PDF is a snapshot of the original document
 in which its proof of origin, tampering, authenticity may not be easily
-verified. Furthermore, they may not facilitate the transfer of title ownership
-for titled document.</p>
+verified. And they may not facilitate the transfer of title ownership for
+title documents.</p>
 <p></p>
 <p>You can use TradeTrust to digitise <strong>any</strong> business documents
 into two broad categories:</p>
