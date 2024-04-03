@@ -69,7 +69,7 @@ to use the blockchain for title documents.</p>
 issue them in batch or revoke documents.
 <br>(2) Transferable Documents - gas fee varies with the role you are in the
 supply chain, trade document type and blockchain network. Can be as low
-as $0.01 per transaction</p>
+as $0.01 per transaction for transfer of holdership on Polygon.</p>
 <p></p>
 <p><sup>^Transaction with the lowest gas fee as at 03/04/2024, 11:19:05 am SGT: Cost to transfer holdership (Polygon)</sup>
 </p>
