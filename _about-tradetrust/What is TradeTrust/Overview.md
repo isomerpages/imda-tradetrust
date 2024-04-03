@@ -13,6 +13,13 @@ to embark on trade digitalisation to address difficulties with the exchange
 and processing of digital trade documentation using pre-built digital utility
 easily and for free.</p>
 </blockquote>
+<p>It’s like providing you with a supporting structure and free tool, to
+turn your documents into smart electronic documents with enhanced security
+features that are portable across your trading partners. Intended recipients
+can verify documents’ proof of origin and authenticity as well as transfer
+of ownership independently, legally and in compliance with globally-accepted
+standards. All from the convenience of your enhanced IT system that you
+are familiar with, or simply with an internet access.</p>
 <p>TradeTrust supports the digitalisation of trade documents, with no data
 format or standard restriction, into two document types :
 <br>(1) <strong>Verifiable Documents </strong>for example certificates of origin
@@ -32,13 +39,7 @@ free download with guided integration into your existing IT system. Or
 subscribe to the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
 kick start the digital transformation of your trade processes.</p>
 <p></p>
-<p>It’s like providing you with a supporting structure and free tool, to
-turn your documents into smart electronic documents with enhanced security
-features that are portable across your trading partners. Intended recipients
-can verify documents’ proof of origin and authenticity as well as transfer
-of ownership independently, legally and in compliance with globally-accepted
-standards. All from the convenience of your enhanced IT system that you
-are familiar with, or simply with an internet access.</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
@@ -49,9 +50,14 @@ are familiar with, or simply with an internet access.</p>
 <p>TradeTrust empowers you with the legal and technical interoperability
 that have hindered the wider adoption of digital trade documents in global
 trade.</p>
+<p></p>
+<h5>Is my data and transaction safe?</h5>
 <p>You can trust the security and reliability of your transactions, as the
 TradeTrust's security assessment was conducted comprehensively by a third-party
 - Ernst &amp; Young.</p>
+<p>Your data is not written into the public blockchain so as to preserves
+data confidentiality.</p>
+<p></p>
 <p></p>
 <p><sup>*</sup><em><sup>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sup></em><sup> <br></sup><em><sup>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sup></em>
 </p>
