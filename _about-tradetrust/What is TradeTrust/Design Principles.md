@@ -20,7 +20,7 @@ eliminating the need for all transacting parties of the same eBL to use
 a common digital platform. TradeTrust also uses Decentralised Identifiers
 (DID), digital signatures and cryptographic proof methods to verify the
 source and authenticity of documents.</p>
-<p>You can free to choose to use any of the 4 blockchains - Etherum, Polygon,
+<p>You are free to choose to use any of the 4 blockchains - Etherum, Polygon,
 XDC, Stability to transact TradeTrust-issued documents.</p>
 </li>
 </ol>
