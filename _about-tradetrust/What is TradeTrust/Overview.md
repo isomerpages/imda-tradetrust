@@ -13,13 +13,14 @@ to embark on trade digitalisation to address difficulties with the exchange
 and processing of digital trade documentation using pre-built digital utility
 easily and for free.</p>
 </blockquote>
-<p>It’s like providing you with a supporting structure and free tool, to
-turn your documents into smart electronic documents with enhanced security
-features that are portable across your trading partners. Intended recipients
-can verify documents’ proof of origin and authenticity as well as transfer
-of ownership independently, legally and in compliance with globally-accepted
-standards. All from the convenience of your enhanced IT system that you
-are familiar with, or simply with an internet access.</p>
+<p>It’s like providing you with a s<strong>upporting structure and free tool</strong>,
+to turn your documents into smart electronic documents with <strong>enhanced security features</strong> that
+are <strong>portable</strong> across your trading partners. Intended recipients
+can verify documents’ <strong>proof of origin</strong> and <strong>authenticity</strong> as
+well as <strong>transfer of ownership</strong>  <strong>independently</strong>, <strong>legally</strong> and
+in <strong>compliance</strong> with globally-accepted standards. All from
+the convenience of your enhanced IT system that you are familiar with,
+or simply with an internet access to subscription services from our partners.</p>
 <p>TradeTrust supports the digitalisation of trade documents, with no data
 format or standard restriction, into two document types :
 <br>(1) <strong>Verifiable Documents </strong>for example certificates of origin
