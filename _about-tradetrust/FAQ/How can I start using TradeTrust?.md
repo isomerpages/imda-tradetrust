@@ -16,7 +16,7 @@ enabled platform/service providers to commence their live transactions
 or help integrate TradeTrust into any existing system of businesses.</p>
 <p>TradeTrust is not a platform, is not a competitor to existing platforms.
 Instead, TradeTrust provides a solution to the current lack of technical
-interoperability in the market by enabling any party to issue its own TT
-Electronic Transferable Records (ETRs) outside of the confines of any contract-based
-platform.</p>
+interoperability in the market by enabling any party to issue its own TradeTrust-enabled
+Electronic Transferable Records (ETRs) like Bills of Lading; outside of
+the confines of any contract-based platform.</p>
 <p></p>
