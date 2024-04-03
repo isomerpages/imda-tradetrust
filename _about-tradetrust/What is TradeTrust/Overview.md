@@ -57,7 +57,8 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 - Ernst &amp; Young.</p>
 <p>Your data is not written into the public blockchain so as to preserves
 data confidentiality.</p>
-<p></p>
+<h5>Is it costly?</h5>
+<p>The</p>
 <p></p>
 <p><sup>*</sup><em><sup>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sup></em><sup> <br></sup><em><sup>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sup></em>
 </p>
