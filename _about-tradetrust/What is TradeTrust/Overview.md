@@ -52,14 +52,18 @@ that have hindered the wider adoption of digital trade documents in global
 trade.</p>
 <p></p>
 <h5>Is my data and transaction safe?</h5>
+<p>Your data is not written into the public blockchain so as to preserves
+data confidentiality. Only the title ownership is recorded on blockchain
+for title documents.</p>
 <p>You can trust the security and reliability of your transactions, as the
 TradeTrust's security assessment was conducted comprehensively by a third-party
 - Ernst &amp; Young.</p>
-<p>Your data is not written into the public blockchain so as to preserves
-data confidentiality.</p>
-<h5>Is it costly?</h5>
-<p>The</p>
 <p></p>
+<h5>Is it costly?</h5>
+<p>Just pay for gas fees from as low as $0.01 per transaction^ to use the
+blockchain.</p>
+<p><sup>^Transaction with the lowest gas fee as at 03/04/2024, 11:19:05 am SGT: Cost to transfer holdership (Polygon)</sup>
+</p>
 <p><sup>*</sup><em><sup>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sup></em><sup> <br></sup><em><sup>^Decentralized Identifiers (DID) are a new type of unique cryptographically verifiable identifiers that are designed to be decoupled from centralized registries, identity providers and certificate authorities</sup></em>
 </p>
 <p></p>
