@@ -4,7 +4,6 @@ permalink: /community/find-partners/
 variant: tiptap
 description: ""
 ---
-<p>Partners page</p>
 <h2>TradeTrust is your preferred partner for trade digitalization</h2>
 <p>TradeTrust is the go-to partner for innovation-centric companies. When
 it comes to driving innovation, TradeTrust serves as the global gateway,
