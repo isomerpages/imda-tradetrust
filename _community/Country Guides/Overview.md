@@ -23,14 +23,6 @@ Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the
 United Arab Emirates. Your TradeTrust-issued electronic documents<strong> </strong>will
 be functionally equivalent to their paper versions.</p>
 <p></p>
-<p>One of the practical pieces of guidance offered to industry practitioners
-in Section 8 of the article is that there aremeasures which can help give
-parties more certaintywhen using TT eBLs across MLETR-aligned and/or non-MLETR-aligned
-jurisdictions, such as expressly choosing a governing law and jurisdiction
-provision for that TTeBL which is an MLETR jurisdiction, which will likely
-give aparty the ability to enforce any attempt to circumvent thisprovision
-by way of an anti-suit injunct</p>
-<p></p>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
