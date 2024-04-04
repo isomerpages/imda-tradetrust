@@ -37,8 +37,8 @@ and provenance of documents, and blockchain technology to effect title
 transfer in accordance with statutory law.</p>
 <p>And offered as a digital utility, the open-source code is available for
 free download with guided integration into your existing IT system. Or
-subscribe to the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to
-kick start the digital transformation of your trade processes.</p>
+get the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to kick start the
+digital transformation of your trade processes.</p>
 <p></p>
 <p></p>
 <p></p>
