@@ -21,7 +21,7 @@ digital platforms.</p>
 to turn your documents into smart electronic documents with <strong>enhanced security features</strong> that
 are <strong>portable</strong> across your trading partners. Intended recipients
 can verify documents’ <strong>proof of origin</strong> and <strong>authenticity</strong> as
-well as <strong>transfer of ownership</strong>  <strong>independently</strong>, <strong>legally</strong> and
+well as <strong>transfer of title independently</strong>, <strong>legally</strong> and
 in <strong>compliance</strong> with globally-accepted standards. All from
 the convenience of your enhanced IT system that you are familiar with,
 or simply with an internet access just to verify documents.</p>
