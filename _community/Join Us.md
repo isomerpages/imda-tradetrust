@@ -13,5 +13,4 @@ such as Exxon Mobil, Maersk, and PIL.</p>
 <p></p>
 <p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect with our Engagement team today!</a>
 </p>
-<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Connect with our Partnerships team today!</u></a>
-</p>
+<p></p>
