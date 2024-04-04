@@ -56,22 +56,34 @@ digital transformation of your trade processes.</p>
 that have hindered the wider adoption of digital trade documents in global
 trade.</p>
 <p></p>
-<h5>Is my data and transaction safe?</h5>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Is my data and transaction safe?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Your data is not written into the public blockchain so as to preserves
 data confidentiality. Only the title ownership is recorded on any one of
 the blockchain(Ethereum, Polygon, XDC or Stability) for title documents.
 <br>You can trust the security and reliability of your transactions, as the
 TradeTrust's security assessment was conducted comprehensively by a third-party
 - Ernst &amp; Young.</p>
-<p></p>
-<h5>Is it costly?</h5>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Is it costly?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free to use for all, anyone can implement using TradeTrust
-source code! Cost of Operation (gas fee)
-<br>(1) Verifiable Documents - <u>no</u> gas fee for issuance unless you need
-to issue them in batch or revoke documents.
-<br>(2) Transferable Documents - gas fee <u>varies</u> with the role you are
-in the supply chain, trade document type and blockchain network. Can be
-as low as $0.01^ per transaction for transfer of holdership on Polygon.</p>
+source code! Cost of Operation (gas fee)</p>
+<p>(1) Verifiable Documents - no gas fee for issuance unless you need to
+issue them in batch or revoke documents.</p>
+<p>(2) Transferable Documents - gas fee varies with the role you are in the
+supply chain, trade document type and blockchain network. Can be as low
+as $0.01^ per transaction for transfer of holdership on Polygon.</p>
+</div>
+</details>
+</div>
+<h5></h5>
 <p></p>
 <p><sup>^Transaction with the lowest gas fee as at 03/04/2024, 11:19:05 am SGT: Cost to transfer holdership (Polygon)</sup>
 </p>
