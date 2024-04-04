@@ -12,16 +12,28 @@ of the United Nations Commission on International Trade Law (UNCITRAL)
 across the world.</p>
 <p>TradeTrust provides legal validity for electronic negotiable documents
 through compliance to MLETR requirements.</p>
-<p>Instead of contractual rule book, <strong>your TradeTrust-issued electronic documents will be supported by statutory law. </strong>They
-will be functionally equivalent to their paper versions if the governing
-law is under one of the statutory laws: Singapore, New York, Delaware and
-other <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a> including
+<p>Instead of contractual rule book, your TradeTrust-issued electronic documents
+will be supported by statutory law. When using TradeTrust-issued electronic
+documents across MLETR-aligned and/or non-MLETR-aligned jurisdiction, it
+is recommended to expressly choose a governing law and jurisdiction provision
+for the documents with a MLETR jurisdiction like Singapore, New York, Delaware
+and other <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a> including
 United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New
 Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the
-United Arab Emirates</p>
+United Arab Emirates. Your TradeTrust-issued electronic documents<strong> </strong>will
+be functionally equivalent to their paper versions.</p>
+<p></p>
+<p>One of the practical pieces of guidance offered to industry practitioners
+in Section 8 of the article is that there aremeasures which can help give
+parties more certaintywhen using TT eBLs across MLETR-aligned and/or non-MLETR-aligned
+jurisdictions, such as expressly choosing a governing law and jurisdiction
+provision for that TTeBL which is an MLETR jurisdiction, which will likely
+give aparty the ability to enforce any attempt to circumvent thisprovision
+by way of an anti-suit injunct</p>
+<p></p>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
-of Lading (eBL) by a carrier is governed by a MLETR-compliant jurisdiction
+of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
 <p></p>
 <p></p>
