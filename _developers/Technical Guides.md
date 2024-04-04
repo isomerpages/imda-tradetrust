@@ -80,5 +80,8 @@ of framework's implementation</p>
 </tr>
 </tbody>
 </table>
-<p>For any assistance, write to <a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tradetrust@imda.gov.sg</a>
+<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect us for assistance</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
