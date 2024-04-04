@@ -4,6 +4,7 @@ permalink: /community/find-partners/
 variant: tiptap
 description: ""
 ---
+<h2>TradeTrust-enabled Partners</h2>
 <p>Here are the partners we have collaborated with, whom you may consider
 reaching out to. Do note that being on this list indicates that these companies
 have demonstrated knowledge of implementing TradeTrust, but does not imply
