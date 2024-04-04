@@ -9,9 +9,10 @@ description: ""
 force behind Singapore's digital transformation efforts by building the
 foundations of its digital infrastructure and driving digital innovation.</p>
 <blockquote>
-<p>IMDA developed an <strong>interoperability framework</strong>, <strong>TradeTrust</strong>, <strong>for the exchange and processing of digital trade documentation.</strong>
-</p>
+<p>IMDA developed an interoperability framework, TradeTrust, for the exchange
+and processing of digital trade documentation.</p>
 </blockquote>
+<p></p>
 <p>TradeTrust, built upon Open Attestation* which is contributed as a <strong><a href="https://digitalpublicgoods.net/digital-public-goods/" rel="noopener noreferrer nofollow" target="_blank">Digital Public Goods</a> </strong>(DPG),
 is a digital utility or service that is <strong>offered without profit to benefit the public</strong>.
 Launched in March 2019, its key proposition is to enable <strong>everyone to confidently trade with anyone, anywhere.</strong>
