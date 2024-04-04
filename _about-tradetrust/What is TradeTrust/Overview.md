@@ -13,6 +13,10 @@ to embark on trade digitalisation to address difficulties with the exchange
 and processing of digital trade documentation using pre-built digital utility
 easily and for free.</p>
 </blockquote>
+<p>Developed by Singapore’s Infocomm Media Development Authority(IMDA), TradeTrust
+enables you the issuance, endorsement, verification and transmission of
+electronic trade documents, between transacting parties and across different
+digital platforms.</p>
 <p>It’s like providing you with a s<strong>upporting structure and free tool</strong>,
 to turn your documents into smart electronic documents with <strong>enhanced security features</strong> that
 are <strong>portable</strong> across your trading partners. Intended recipients
@@ -27,7 +31,7 @@ format or standard restriction, into two document types :
 and packing lists; and
 <br>(2) <strong>Transferable Documents</strong> for example Electronic Transferable
 Records (ETRs) such as electronic Bills of Lading and warehouse receipts</p>
-<p>The outputs are TradeTrust-enabled documents known as <strong>TrustDoc files</strong> which
+<p>TradeTrust-enabled documents are known as <strong>TrustDoc files</strong> which
 are portable and effective across systems. Thereby, enabling a fully <strong>decentralised approach</strong> to
 manage business transactions, eliminating the need for you and all your
 transacting parties to use a common digital platform and contractual rulebook.</p>
