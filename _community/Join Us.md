@@ -4,4 +4,14 @@ permalink: /community/join-us/
 variant: tiptap
 description: ""
 ---
-<p>Join Us as a partner</p><p></p><p>Adopt TT</p>
+<h2>TradeTrust is your preferred partner for trade digitalization</h2>
+<p>TradeTrust is the go-to partner for innovation-centric companies. When
+it comes to driving innovation, TradeTrust serves as the global gateway,
+connecting businesses with key players to drive trade digitalization.</p>
+<p>Be at the forefront of innovation and technology alongside industry leaders
+such as Exxon Mobil, Maersk, and PIL.</p>
+<p></p>
+<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect with our Engagement team today!</a>
+</p>
+<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Connect with our Partnerships team today!</u></a>
+</p>
