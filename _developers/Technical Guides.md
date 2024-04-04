@@ -57,7 +57,7 @@ wallet addresses you might have from your partners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Get open-source code, including our reference implementation for understanding
+<p>Get open-source code, including our reference implementation for the understanding
 of framework's implementation</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,8 +71,7 @@ of framework's implementation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://github.com/TradeTrust/tradetrust-website" rel="noopener noreferrer nofollow" target="_blank"><sup>https://github.com/TradeTrust/tradetrust-website</sup></a>
-</p>
-<p><sup>click on Apache-2.0 license</sup>
+<br><sup>click on Apache-2.0 license</sup>
 </p>
 <p></p>
 <p></p>
@@ -80,7 +79,8 @@ of framework's implementation</p>
 </tr>
 </tbody>
 </table>
-<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect us for assistance</a>
+<p></p>
+<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact us for assistance!</a>
 </p>
 <p></p>
 <p></p>
