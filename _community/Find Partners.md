@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Partners page</p>
-<h2>TradeTrust is the preferred partner for trade digitalization</h2>
+<h2>TradeTrust is your preferred partner for trade digitalization</h2>
 <p>TradeTrust is the go-to partner for innovation-centric companies. When
 it comes to driving innovation, TradeTrust serves as the global gateway,
 connecting businesses with key players to drive trade digitalization.</p>
