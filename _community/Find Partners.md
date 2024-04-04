@@ -9,8 +9,8 @@ description: ""
 <p>TradeTrust is the go-to partner for innovation-centric companies. When
 it comes to driving innovation, TradeTrust serves as the global gateway,
 connecting businesses with key players to drive trade digitalization.</p>
-<p>Join leading companies like Exxon Mobil, Masersk and PIL in being at the
-forefront in paving the way for innovation and technology.</p>
+<p>Be at the forefront of innovation and technology alongside industry leaders
+such as Exxon Mobil, Maersk, and PIL.</p>
 <p><strong>Here are the partners we have worked with you may want to contact. Do note that being on this list implies that these companies have demonstrated knowledge of implementing TradeTrust, but does not imply endorsement by TradeTrust.</strong>
 </p>
 <p></p>
