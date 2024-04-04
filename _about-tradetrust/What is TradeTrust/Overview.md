@@ -74,10 +74,11 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 <summary>Is it costly?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free to use for all, anyone can implement using TradeTrust
-source code! Cost of Operation (gas fee)</p>
-<p>(1) Verifiable Documents - no gas fee for issuance unless you need to
-issue them in batch or revoke documents.</p>
-<p>(2) Transferable Documents - gas fee varies with the role you are in the
+source code!
+<br>Cost of Operation (gas fee)
+<br>(1) Verifiable Documents - no gas fee for issuance unless you need to
+issue them in batch or revoke documents.
+<br>(2) Transferable Documents - gas fee varies with the role you are in the
 supply chain, trade document type and blockchain network. Can be as low
 as $0.01^ per transaction for transfer of holdership on Polygon.</p>
 </div>
