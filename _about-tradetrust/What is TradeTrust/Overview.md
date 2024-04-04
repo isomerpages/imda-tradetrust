@@ -55,7 +55,8 @@ trade.</p>
 <h5>Is my data and transaction safe?</h5>
 <p>Your data is not written into the public blockchain so as to preserves
 data confidentiality. Only the title ownership is recorded on any one of
-the blockchain(Ethereum, Polygon, XDC or Stability) for title documents.
+the selected blockchain(Ethereum, Polygon, XDC or Stability) for title
+documents.
 <br>You can trust the security and reliability of your transactions, as the
 TradeTrust's security assessment was conducted comprehensively by a third-party
 - Ernst &amp; Young.</p>
