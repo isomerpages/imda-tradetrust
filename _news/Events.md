@@ -11,6 +11,14 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>event 1 line 1</p>
 <p>event 1 line 2</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TechBSP.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
