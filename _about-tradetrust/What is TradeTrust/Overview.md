@@ -31,7 +31,7 @@ format or standard restriction, into two document types :
 and packing lists; and
 <br>(2) <strong>Transferable Documents</strong> for example Electronic Transferable
 Records (ETRs) such as electronic Bills of Lading and warehouse receipts</p>
-<p>TradeTrust-enabled documents are known as <strong>TrustDoc files</strong> which
+<p>TradeTrust-issued documents are known as <strong>TrustDoc files</strong> which
 are portable and effective across systems. When you and your transacting
 parties uniformly adopt TradeTrust digital utility in a decentralized approach
 to manage business transactions, it accelerates the digitalisation of end-to-end
