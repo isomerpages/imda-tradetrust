@@ -4,7 +4,7 @@ permalink: /community/join-us/
 variant: tiptap
 description: ""
 ---
-<h2>TradeTrust is your preferred partner for trade digitalization</h2>
+<h2>Make TradeTrust your preferred partner for trade digitalization</h2>
 <p>TradeTrust is the go-to partner for innovation-centric companies. When
 it comes to driving innovation, TradeTrust serves as the global gateway,
 connecting businesses with key players to drive trade digitalization, opening
