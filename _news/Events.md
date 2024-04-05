@@ -77,12 +77,22 @@ find out more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeLogistics.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p>Reimagining the Future: Synergising Legal and Technological Innovations
+in Maritime Trade.</p>
+<p></p>
+<p>In partnership with Singapore Academy of Law, the panel discussion will
+address the legal and technological challenges of digitalising the maritime
+trade from a multi-jurisdictional perspective. Register for the event to
+find out more.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 March 2024</p>
 </td>
 </tr>
 </tbody>
