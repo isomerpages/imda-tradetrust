@@ -72,11 +72,11 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Is it costly?</summary>
+<summary>What are the cost involved?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free to use for all, anyone can implement using TradeTrust
 source code!
-<br>Cost of Operation (gas fee)
+<br>Cost of Operation (gas fee):
 <br>(1) Verifiable Documents - no gas fee for issuance unless you need to
 issue them in batch or revoke documents.
 <br>(2) Transferable Documents - gas fee varies with the role you are in the
