@@ -13,9 +13,6 @@ description: ""
 </div>
 </details>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeLogistics.png">
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>123456789012345678901234567890123456789012345678901234567890</summary>
@@ -40,4 +37,54 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeLogistics.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reimagining the Future: Synergising Legal and Technological Innovations
+in Maritime Trade.</p>
+<p></p>
+<p>In partnership with Singapore Academy of Law, the panel discussion will
+address the legal and technological challenges of digitalising the maritime
+trade from a multi-jurisdictional perspective. Register for the event to
+find out more.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 March 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
