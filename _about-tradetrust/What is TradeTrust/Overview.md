@@ -37,10 +37,10 @@ parties uniformly adopt TradeTrust digital utility in a decentralized approach
 to manage business transactions, it accelerates the digitalisation of end-to-end
 processing of trade documentation and eliminates the need for you and your
 trading partners to use a common digital platform and contractual rulebook.</p>
-<p>TradeTrust provides three key functionalities. TradeTrust uses verifiable
-credentials technical methods to enable end users to verify the authenticity
-and provenance of documents, and blockchain technology to effect title
-transfer in accordance with statutory law.</p>
+<p>TradeTrust is a award-winning, proven solution with three key functionalities.
+TradeTrust uses verifiable credentials technical methods to enable end
+users to verify the authenticity and provenance of documents, and blockchain
+technology to effect title transfer in accordance with statutory law.</p>
 <p>And offered as a digital utility, the open-source code is available for
 free download with guided integration into your existing IT system. Or
 get the services offered by TradeTrust enabled <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">partners</a> to kick start the
