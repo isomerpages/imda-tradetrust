@@ -42,10 +42,10 @@ the United Nations Commission on International Trade Law (UNCITRAL) in
 domestically and across borders. 8 jurisdictions, including Singapore have
 adopted MLETR. United Kingdom’s Electronic Trade Documents Act came into
 effect on 20th September 2023.</p>
-<p>TradeTrust (TT), a framework and digital utility that enables trusted
-interoperability of electronic trade documents across digital platforms,
-enables adopters to easily implement ETRs like eBLs that comply with the
-requirements as laid out in the MLETR and hence are legally valid across
+<p>TradeTrust, a framework and digital utility that enables trusted interoperability
+of electronic trade documents across digital platforms, enables adopters
+to easily implement ETRs like electronic Bills of Lading that comply with
+the requirements as laid out in the MLETR and hence are legally valid across
 multiple platforms and systems.</p>
 <p></p>
 <p>IMDA has engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
