@@ -37,7 +37,8 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary>event 3</summary>
+<summary>26 Mar 2024 Reimagining the Future: Synergising Legal and Technological
+Innovations in Maritime Trade</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table>
 <tbody>
