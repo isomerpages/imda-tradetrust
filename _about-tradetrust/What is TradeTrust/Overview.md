@@ -34,7 +34,8 @@ Records (ETRs) such as electronic Bills of Lading and warehouse receipts</p>
 <p>TradeTrust-enabled documents are known as <strong>TrustDoc files</strong> which
 are portable and effective across systems. When you and your transacting
 parties uniformly adopt TradeTrust digital utility in a decentralized approach
-to manage business transactions, it eliminates the need for you and your
+to manage business transactions, it accelerates the digitalisation of end-to-end
+processing of trade documentation and eliminates the need for you and your
 trading partners to use a common digital platform and contractual rulebook.</p>
 <p>TradeTrust provides three key functionalities. TradeTrust uses verifiable
 credentials technical methods to enable end users to verify the authenticity
