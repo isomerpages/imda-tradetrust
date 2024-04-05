@@ -72,7 +72,7 @@ specialist - Ernst &amp; Young.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>What are the cost involved?</summary>
+<summary>What are the costs involved?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free to use for all, anyone can implement using TradeTrust
 source code!
@@ -81,7 +81,8 @@ source code!
 issue them in batch or revoke documents.
 <br>(2) Transferable Documents - gas fee varies with the role you are in the
 supply chain, trade document type and blockchain network. Can be as low
-as $0.01^ per transaction for transfer of holdership on Polygon.</p>
+as $0.01^ per transaction for transfer of holdership on Polygon. Read more
+about the Costs.</p>
 </div>
 </details>
 </div>
