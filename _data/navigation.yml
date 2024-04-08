@@ -9,7 +9,7 @@ links:
   - title: Developers
     collection: developers
   - title: Events
-    collection: news
+    collection: events
   - title: News, Updates and Releases
     resource_room: true
   - title: Contact Us
