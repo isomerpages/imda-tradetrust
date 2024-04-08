@@ -10,7 +10,7 @@ links:
     collection: developers
   - title: Events
     collection: events
-  - title: News, Updates and Releases
+  - title: News & Releases
     resource_room: true
   - title: Contact Us
     url: /contact-us/
