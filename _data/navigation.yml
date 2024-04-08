@@ -8,7 +8,7 @@ links:
     collection: community
   - title: Developers
     collection: developers
-  - title: News
+  - title: Events
     collection: news
   - title: News, Updates and Releases
     resource_room: true
