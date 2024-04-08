@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Upcoming events.md
-      - Events.md
+      - Past events.md
       - Press Release.md
