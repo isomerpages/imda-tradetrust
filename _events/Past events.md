@@ -4,6 +4,10 @@ permalink: /events/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<p><u>ACCORDIAN DISPLAY</u>
+</p>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>PAST EVENT 1</summary>
@@ -58,7 +62,10 @@ vel eros donec ac odio tempor.</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<blockquote>
+<p><u>CARD GRID DISPLAY</u>
+</p>
+</blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/events/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Past_events.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Past Event 4</div><div class="isomer-card-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div><div class="isomer-card-link">URL link to event page</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/events/" class="isomer-card">
 <div class="isomer-card-image">
