@@ -34,6 +34,8 @@ laoreet non curabitur gravida arcu. Lectus proin nibh nisl condimentum.
 Lorem ipsum dolor sit amet consectetur. Tortor dignissim convallis aenean
 et tortor at risus. Nunc sed augue lacus viverra vitae congue eu. Massa
 tincidunt nunc pulvinar sapien et ligula ullamcorper.</p>
+<p></p>
+<p>URL link to event page</p>
 </div>
 </details>
 </div>
