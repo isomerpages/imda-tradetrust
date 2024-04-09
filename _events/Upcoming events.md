@@ -4,8 +4,9 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
+<p>TABLE DISPLAY
+<br>
+</p>
 <table>
 <tbody>
 <tr>
