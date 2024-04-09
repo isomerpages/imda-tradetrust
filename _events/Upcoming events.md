@@ -24,7 +24,11 @@ description: ""
 <p>Event date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event title</p>
+<h4><strong>Event title</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/upcoming_events.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Website url</p>
@@ -35,7 +39,11 @@ description: ""
 <p>Event date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event title</p>
+<h4><strong>Event title</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/upcoming_events.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Website url</p>
