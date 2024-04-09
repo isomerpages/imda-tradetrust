@@ -8,7 +8,16 @@ description: ""
 <details class="isomer-details">
 <summary>PAST EVENT 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Event write up and image</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Past_events.jpg">
+</div>
+<p>Event write up. Duis at consectetur lorem donec massa sapien faucibus.
+Leo a diam sollicitudin tempor id eu nisl nunc. Lectus quam id leo in vitae
+turpis massa sed. Quam viverra orci sagittis eu volutpat odio facilisis
+mauris.
+<br>
+<br>URL link to event page</p>
 </div>
 </details>
 </div>
@@ -16,7 +25,15 @@ description: ""
 <details class="isomer-details">
 <summary>PAST EVENT 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Event write up and image</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Past_events.jpg">
+</div>
+<p>Event write up. Amet aliquam id diam maecenas ultricies. Id volutpat lacus
+laoreet non curabitur gravida arcu. Lectus proin nibh nisl condimentum.
+Lorem ipsum dolor sit amet consectetur. Tortor dignissim convallis aenean
+et tortor at risus. Nunc sed augue lacus viverra vitae congue eu. Massa
+tincidunt nunc pulvinar sapien et ligula ullamcorper.</p>
 </div>
 </details>
 </div>
@@ -24,7 +41,17 @@ description: ""
 <details class="isomer-details">
 <summary>PAST EVENT 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Event writeup and image</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Past_events.jpg">
+</div>
+<p>Event writeup. Elementum pulvinar etiam non quam lacus suspendisse faucibus.
+Tempus quam pellentesque nec nam aliquam. Sit amet purus gravida quis blandit
+turpis cursus. Elit pellentesque habitant morbi tristique senectus. Neque
+ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Quis
+vel eros donec ac odio tempor.</p>
+<p></p>
+<p>URL link to event page</p>
 </div>
 </details>
 </div>
