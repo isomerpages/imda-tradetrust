@@ -107,12 +107,11 @@ sections:
       announcement_items:
         - title: 26 Mar 2024 15:30 - 17:00 (GMT+8) at Singapore Academy of Law
           date: 06 June 2024
-          announcement: >
-            [Event] Reimagining the Future: Synergising Legal and Technological
-            Innovations in Maritime Trade. In partnership with Singapore Academy
-            of Law, the panel discussion will address the legal and
-            technological challenges of digitalising the maritime trade from a
-            multi-jurisdictional perspective. 
-          link_text: Register for the event to find out more.
+          announcement: "[Event] Reimagining the Future: Synergising Legal and
+            Technological Innovations in Maritime Trade. In partnership with
+            Singapore Academy of Law, the panel discussion will address the
+            legal and technological challenges of digitalising the maritime
+            trade from a multi-jurisdictional perspective."
+          link_text: See more
           link_url: https://store.lawnet.com/reimagining-the-future-synergising-legal-and-technological-innovations-in-maritime-trade.html
 ---
