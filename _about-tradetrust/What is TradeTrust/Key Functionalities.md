@@ -6,8 +6,9 @@ description: ""
 third_nav_title: What is TradeTrust
 ---
 <h4>THREE Key Functionalities</h4>
-<p>By adopting TradeTrust, you can issue, exchange and/or receive electronic
-documents. And it empowers intended recipients to:</p>
+<p>By adopting TradeTrust, you can issue, exchange and/or receive TradeTrust-issued
+electronic documents know as TrustDoc files. These files empowers intended
+recipients to:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Verify the authenticity : </strong>Any tampering would be evident</p>
