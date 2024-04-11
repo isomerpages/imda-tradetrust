@@ -103,7 +103,6 @@ sections:
   - announcements:
       title: Latest Happenings
       id: announcements
-      subtitle: A1
       announcement_items:
         - title: 26 Mar 2024 15:30 - 17:00 (GMT+8) at Singapore Academy of Law
           date: 06 June 2024
@@ -114,4 +113,9 @@ sections:
             trade from a multi-jurisdictional perspective."
           link_text: See more
           link_url: https://store.lawnet.com/reimagining-the-future-synergising-legal-and-technological-innovations-in-maritime-trade.html
+        - title: New Announcement
+          date: 11 April 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
