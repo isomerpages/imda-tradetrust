@@ -58,7 +58,7 @@ digital transformation of your trade processes.</p>
 that have hindered the wider adoption of digital trade documents in global
 trade.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Is my data and transactions safe?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -70,8 +70,6 @@ TradeTrust's security assessment was conducted comprehensively by a third-party
 specialist - Ernst &amp; Young.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>What are the costs involved?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
