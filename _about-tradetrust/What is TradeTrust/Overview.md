@@ -64,7 +64,8 @@ trade.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data is not written into the public blockchain so as to preserves
 data confidentiality. Only the title ownership is recorded on any one of
-the blockchain(Ethereum, Polygon, XDC or Stability) for title documents.
+the blockchain(Ethereum, Polygon, XDC or Stability) for title documents.</p>
+<p>You decide what data and data format that go into your electronic documents.
 <br>You can trust the security and reliability of your transactions, as the
 TradeTrust's security assessment was conducted comprehensively by a third-party
 specialist - Ernst &amp; Young.</p>
