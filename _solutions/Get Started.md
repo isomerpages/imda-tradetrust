@@ -20,7 +20,7 @@ documents for online verification simply with smartphone camera scanning</p>
 – no matter how many hands the document has been through. <strong>No integration required!</strong>
 </p>
 <p></p>
-<h3><u>To issue documents and/or transfer title ownership for title documents :</u></h3>
+<h3><u>To issue documents and/or transfer title ownership for transferable documents :</u></h3>
 <p><strong>TradeTrust is not a platform </strong>but a set of open-source
 software components that sit in between the business application and blockchain
 layer. This architecture allows businesses or governments to enhance their
@@ -48,7 +48,23 @@ guide.</p>
 to the platform service from TradeTrust-enabled Business Service Providers
 to commence your live transactions.</p>
 <p></p>
+<p>Other considerations:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Use of cryptocurrency</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>applicable for issuance of</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Installation of crypto wallet (for example Metamask)</p>
+</li>
+<li>
 <p></p>
+</li>
+</ol>
 <h4></h4>
 <p></p>
 <hr>
