@@ -52,8 +52,11 @@ of your choice to commence your live transactions.</p>
 <h3>Other Considerations:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Which types of business documents to digitize using TradeTrust? Verifiable
-and/or transferable documents?</p>
+<p>Which types of business documents are involved? Verifiable and/or transferable
+documents?</p>
+</li>
+<li>
+<p>Do you issue/transfer title or simply to verify documents?</p>
 </li>
 <li>
 <p>Choice of blockchain(s)</p>
