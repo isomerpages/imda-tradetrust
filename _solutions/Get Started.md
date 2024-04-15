@@ -44,6 +44,8 @@ guide.</p>
 <br>Technical guides: <a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/</a> 
 <br>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a>
 </p>
+<p>TradeTrust is system, semantic/data and protocols agnostic. No need for
+expensive data exchange infrastructure or major changes to your data format.</p>
 <h4>No Integration</h4>
 <p>Alternatively, for no-frill quick subscription model, you can subscribe
 to the platform service from TradeTrust-enabled Business Service Providers
