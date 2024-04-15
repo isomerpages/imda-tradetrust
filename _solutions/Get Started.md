@@ -47,7 +47,7 @@ guide.</p>
 <h4>No Integration</h4>
 <p>Alternatively, for no-frill quick subscription model, you can subscribe
 to the platform service from TradeTrust-enabled Business Service Providers
-to commence your live transactions.</p>
+of your choice to commence your live transactions.</p>
 <p></p>
 <h3>Other considerations:</h3>
 <ol data-tight="true" class="tight">
