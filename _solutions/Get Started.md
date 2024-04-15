@@ -44,9 +44,9 @@ guide.</p>
 <br>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a>
 </p>
 <h4>No Integration</h4>
-<p>Alternatively, for no-frill quick subscription model, you can engage the
-services from any of the TradeTrust enabled platform/solution service providers
-to commence your live transactions</p>
+<p>Alternatively, for no-frill quick subscription model, you can subscribe
+to the platform service from TradeTrust-enabled Business Service Providers
+to commence your live transactions.</p>
 <p></p>
 <p></p>
 <h4></h4>
