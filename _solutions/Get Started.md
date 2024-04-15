@@ -48,7 +48,7 @@ guide.</p>
 expensive data exchange infrastructure!</p>
 <h4>No Integration</h4>
 <p>Alternatively, for no-frill quick subscription model, you can subscribe
-to the platform service from TradeTrust-enabled Business Service Providers
+to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
 <p></p>
 <h3>Other Considerations:</h3>
