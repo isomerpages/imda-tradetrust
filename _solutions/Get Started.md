@@ -52,10 +52,13 @@ to commence your live transactions.</p>
 <p>Other considerations:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Use of cryptocurrency</p>
+<p>Use of cryptocurrency, for the:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>applicable for issuance of</p>
+<p>issuance of transferable documents and transfer title ownership</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 </li>
