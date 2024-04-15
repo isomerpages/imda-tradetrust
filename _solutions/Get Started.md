@@ -6,11 +6,6 @@ description: ""
 ---
 <h2>How to Start with TradeTrust</h2>
 <p></p>
-<p><strong>TradeTrust is not a platform </strong>but a set of open-source
-software components that sit in between the business application and blockchain
-layer. This architecture allows businesses or governments to enhance their
-proprietary IT systems or platforms with TradeTrust’s capability, independent
-of the underlying blockchain technologies.</p>
 <h4><u>To verify TradeTrust-issued documents :</u></h4>
 <p>As a recipient of TradeTrust-issued documents such as electronic Bills
 of Lading or Certificates of Origin, you can verify the documents’ proof
@@ -23,30 +18,33 @@ other websites provided by TradeTrust-enabled Business Service Providers
 online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access – no matter
 how many hands the document has been through.</p>
-<p>You can adopt TradeTrust in 3 ways:</p>
+<p></p>
+<h4><u>To issue documents and/or transfer title ownership for title documents :</u></h4>
+<p><strong>TradeTrust is not a platform </strong>but a set of open-source
+software components that sit in between the business application and blockchain
+layer. This architecture allows businesses or governments to enhance their
+proprietary IT systems or platforms with TradeTrust’s capabilities, independent
+of the underlying blockchain technologies.</p>
+<p>You can integrate TradeTrust into your existing IT system :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Integrate TradeTrust's source-code into your existing IT system</p>
+<p>By your IT team</p>
 </li>
 <li>
-<p>
-<br>
-</p>
+<p>By engaging the system integration(SI) service of TradeTrust-enabled Business
+Service Providers</p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<h4><u>To issue documents and/or transfer title ownership for negotiable or transferable documents :</u></h4>
-<p>Anyone can implement using TradeTrust's framework with the freely available
-open-source code and start enjoying its capabilities. Alternatively, you
-can engage the services from any of the TradeTrust enabled platform/solution
-service providers to commence your live transactions or implementation
-work. Bring your technical expertise to speak to us or start with our technical
+<p>Bring your technical expertise to speak to us or start with our technical
 guide.</p>
-<p>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a> 
-<br>Source code: <a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust</a> 
+<p>Source code: <a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust</a> 
 <br>Technical guides: <a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/</a>
+<br>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a> 
 </p>
+<p></p>
+<p>Alternatively, for no-frill quick subscription model, you can engage the
+services from any of the TradeTrust enabled platform/solution service providers
+to commence your live transactions</p>
 <p></p>
 <p></p>
 <h4></h4>
