@@ -61,7 +61,8 @@ of your choice to commence your live transactions.</p>
 receipts) are involved? Verifiable and/or transferable documents?</p>
 </li>
 <li>
-<p>Do you issue/transfer title or simply verify documents?</p>
+<p>Do you issue/transfer title for transferable documents or simply verify
+documents received?</p>
 </li>
 <li>
 <p>Choice of blockchain(s) for transferable documents processing</p>
