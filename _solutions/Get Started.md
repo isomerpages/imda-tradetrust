@@ -68,11 +68,6 @@ verifiable documents)</p>
 </li>
 <li>
 <p>Installation of crypto wallet (for example Metamask)</p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
 <p></p>
 </li>
 </ol>
