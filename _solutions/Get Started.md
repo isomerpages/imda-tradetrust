@@ -66,8 +66,8 @@ documents?</p>
 </li>
 <li>
 <p>Use of cryptocurrency (applicable for the issuance and transfer of title
-ownership for transferable documents, and issuance of in batch or revoke
-verifiable documents)</p>
+ownership for transferable documents, and issuance in batch or revoke verifiable
+documents)</p>
 </li>
 <li>
 <p>Installation of crypto wallet (for example Metamask)</p>
