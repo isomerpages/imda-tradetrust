@@ -28,13 +28,13 @@ layer. This architecture allows businesses or governments to enhance their
 proprietary IT systems or platforms with TradeTrust’s capabilities, independent
 of the underlying blockchain technologies.</p>
 <h4>Integration</h4>
-<p>You can integrate TradeTrust into your existing IT system :</p>
+<p>You can integrate TradeTrust into your existing IT system by :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>By your IT team (JavaScript/TypeScript proficiency required)</p>
+<p>Your internal IT team (JavaScript/TypeScript proficiency required)</p>
 </li>
 <li>
-<p>By engaging the system integration(SI) service of TradeTrust-enabled Business
+<p>Engaging the system integration(SI) service of TradeTrust-enabled Business
 Service Providers</p>
 </li>
 </ol>
