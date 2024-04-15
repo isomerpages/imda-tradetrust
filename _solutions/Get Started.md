@@ -30,7 +30,7 @@ of the underlying blockchain technologies.</p>
 <p>You can integrate TradeTrust into your existing IT system :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>By your IT team with Javascript/typescript skillset</p>
+<p>By your IT team (JavaScript/TypeScript proficiency required)</p>
 </li>
 <li>
 <p>By engaging the system integration(SI) service of TradeTrust-enabled Business
