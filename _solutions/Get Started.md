@@ -8,16 +8,17 @@ description: ""
 <p></p>
 <p><strong>TradeTrust is not a platform </strong>but a set of open-source
 software components that sit in between the business application and blockchain
-layer. This architecture allows businesses or governments to enhance your
+layer. This architecture allows businesses or governments to enhance their
 proprietary IT systems or platforms with TradeTrust’s capability, independent
 of the underlying blockchain technologies.</p>
 <h4><u>To verify TradeTrust-issued documents :</u></h4>
 <p>As a recipient of TradeTrust-issued documents such as electronic Bills
 of Lading or Certificates of Origin, you can verify the documents’ proof
 of origin and authenticity via
-<br>o&nbsp;&nbsp;Verify Doc service on <a href="http://TradeTrust.io" rel="noopener noreferrer nofollow" target="_blank">TradeTrust.io</a> or any other TradeTrust-enabled
-verifying websites which enables easy verification with a simple document
-(also known as TradeDoc) file upload
+<br>o&nbsp;&nbsp;Verify Doc service which enables easy verification with a
+simple document (also known as TradeDoc) file upload. The service is available
+on <a href="http://TradeTrust.io" rel="noopener noreferrer nofollow" target="_blank">TradeTrust.io</a> and
+other websites provided by TradeTrust-enabled Business Service Providers
 <br>o&nbsp;&nbsp; QR codes (if enabled) in TradeTrust-issued documents for
 online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access – no matter
