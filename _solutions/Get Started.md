@@ -64,7 +64,7 @@ documents?</p>
 <p>Do you issue/transfer title or simply verify documents?</p>
 </li>
 <li>
-<p>Choice of blockchain(s)</p>
+<p>Choice of blockchain(s) for transferable documents processing</p>
 </li>
 <li>
 <p>Blockchain gas fees</p>
