@@ -56,6 +56,12 @@ to commence your live transactions.</p>
 and/or transferable documents?</p>
 </li>
 <li>
+<p>Choice of blockchain(s)</p>
+</li>
+<li>
+<p>Blockchain gas fees</p>
+</li>
+<li>
 <p>Use of cryptocurrency (applicable for the issuance and transfer of title
 ownership for transferable documents, and issuance of in batch or revoke
 verifiable documents)</p>
@@ -64,7 +70,7 @@ verifiable documents)</p>
 <p>Installation of crypto wallet (for example Metamask)</p>
 </li>
 <li>
-<p>Choice of blockchain(s) use by TradeTrust</p>
+<p></p>
 </li>
 <li>
 <p></p>
