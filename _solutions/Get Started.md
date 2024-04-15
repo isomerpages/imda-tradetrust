@@ -56,7 +56,7 @@ of your choice to commence your live transactions.</p>
 documents?</p>
 </li>
 <li>
-<p>Do you issue/transfer title or simply to verify documents?</p>
+<p>Do you issue/transfer title or simply verify documents?</p>
 </li>
 <li>
 <p>Choice of blockchain(s)</p>
