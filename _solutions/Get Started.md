@@ -52,6 +52,9 @@ of your choice to commence your live transactions.</p>
 <h3>Other Considerations:</h3>
 <ol data-tight="true" class="tight">
 <li>
+<p>What is/are the use case(s) applicable?</p>
+</li>
+<li>
 <p>Which types of business documents are involved? Verifiable and/or transferable
 documents?</p>
 </li>
