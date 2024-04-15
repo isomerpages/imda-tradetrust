@@ -11,6 +11,26 @@ software components that sit in between the business application and blockchain
 layer. This architecture allows businesses or governments to enhance your
 proprietary IT systems or platforms with TradeTrust’s capability, independent
 of the underlying blockchain technologies.</p>
+<h4><u>To verify TradeTrust-issued documents :</u></h4>
+<p>Anyone who received TradeTrust-issued documents can verify them via :
+<br>o&nbsp;&nbsp;Verify Doc service on TradeTrust website enables easy verification
+with a simple document upload
+<br>o&nbsp;&nbsp; Hard copies of TradeTrust documents can have embedded QR
+codes for online verification using smartphone camera scanning</p>
+<p>Verification can be done anywhere, anytime with Internet access – no matter
+how many hands the document has been through.</p>
+<p>You can adopt TradeTrust in 3 ways:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Integrate TradeTrust's source-code into your existing IT system</p>
+</li>
+<li>
+<p>
+<br>
+</p>
+</li>
+</ol>
+<p></p>
 <p></p>
 <h4><u>To issue documents and/or transfer title ownership for negotiable or transferable documents :</u></h4>
 <p>Anyone can implement using TradeTrust's framework with the freely available
@@ -25,14 +45,7 @@ guide.</p>
 </p>
 <p></p>
 <p></p>
-<h4><u>To verify TradeTrust-issued documents :</u></h4>
-<p>Anyone who received TradeTrust-issued documents can verify them via :
-<br>o&nbsp;&nbsp;Verify Doc service on TradeTrust website enables easy verification
-with a simple document upload
-<br>o&nbsp;&nbsp; Hard copies of TradeTrust documents can have embedded QR
-codes for online verification using smartphone camera scanning</p>
-<p>Verification can be done anywhere, anytime with Internet access – no matter
-how many hands the document has been through.</p>
+<h4></h4>
 <p></p>
 <hr>
 <p></p>
