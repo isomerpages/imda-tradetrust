@@ -52,6 +52,10 @@ to commence your live transactions.</p>
 <h3>Other considerations:</h3>
 <ol data-tight="true" class="tight">
 <li>
+<p>Which types of business documents to digitize using TradeTrust? Verifiable
+and/or transferable documents?</p>
+</li>
+<li>
 <p>Use of cryptocurrency (applicable for the issuance and transfer of title
 ownership for transferable documents, and issuance of in batch or revoke
 verifiable documents)</p>
@@ -60,7 +64,7 @@ verifiable documents)</p>
 <p>Installation of crypto wallet (for example Metamask)</p>
 </li>
 <li>
-<p>Choice of blockchain</p>
+<p>Choice of blockchain(s) use by TradeTrust</p>
 </li>
 <li>
 <p></p>
