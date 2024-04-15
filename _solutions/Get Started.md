@@ -17,8 +17,8 @@ other websites provided by TradeTrust-enabled Business Service Providers
 <br>o&nbsp;&nbsp; <strong>QR codes</strong> (if enabled) in TradeTrust-issued
 documents for online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access independently
-– no matter how many hands the document has been through. No integration
-required!</p>
+– no matter how many hands the document has been through. <strong>No integration required!</strong>
+</p>
 <p></p>
 <h3><u>To issue documents and/or transfer title ownership for title documents :</u></h3>
 <p><strong>TradeTrust is not a platform </strong>but a set of open-source
