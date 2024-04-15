@@ -10,12 +10,12 @@ description: ""
 <p>As a recipient of TradeTrust-issued documents such as electronic Bills
 of Lading or Certificates of Origin, you can verify the documents’ proof
 of origin and authenticity via
-<br>o&nbsp;&nbsp;Verify Doc service which enables easy verification with a
-simple document (also known as TradeDoc) file upload. The service is available
-at <a href="https://www.tradetrust.io/verify" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/verify</a> and
+<br>o&nbsp;&nbsp;<strong>Verify Doc</strong>  <strong>service </strong>which
+enables easy verification with a simple document (also known as TradeDoc)
+file upload. The service is available at <a href="https://www.tradetrust.io/verify" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/verify</a> and
 other websites provided by TradeTrust-enabled Business Service Providers
-<br>o&nbsp;&nbsp; QR codes (if enabled) in TradeTrust-issued documents for
-online verification simply with smartphone camera scanning</p>
+<br>o&nbsp;&nbsp; <strong>QR codes</strong> (if enabled) in TradeTrust-issued
+documents for online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access – no matter
 how many hands the document has been through.</p>
 <p></p>
