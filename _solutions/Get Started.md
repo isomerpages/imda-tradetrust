@@ -49,7 +49,7 @@ guide.</p>
 to the platform service from TradeTrust-enabled Business Service Providers
 of your choice to commence your live transactions.</p>
 <p></p>
-<h3>Other considerations:</h3>
+<h3>Other Considerations:</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Which types of business documents to digitize using TradeTrust? Verifiable
