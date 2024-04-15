@@ -12,7 +12,7 @@ foundations of its digital infrastructure and driving digital innovation.</p>
 <p>IMDA developed a framework, TradeTrust, for the exchange and processing
 of digital trade documentation. With the aim to accelerate digitalization
 and make trade safer, easier, and less costly, providing increased confidence,
-profitability, and peace of mind for your trade ecosystem.</p>
+profitability, and peace of mind for you and your trade ecosystem.</p>
 </blockquote>
 <p></p>
 <p>TradeTrust, built upon Open Attestation* which is contributed as a <strong><a href="https://digitalpublicgoods.net/digital-public-goods/" rel="noopener noreferrer nofollow" target="_blank">Digital Public Goods</a> </strong>(DPG),
