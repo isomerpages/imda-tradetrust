@@ -12,8 +12,9 @@ of Lading or Certificates of Origin, you can verify the documents’ proof
 of origin and authenticity via
 <br>o&nbsp;&nbsp;<strong>Verify Doc</strong>  <strong>service </strong>which
 enables easy verification with a simple document (also known as TradeDoc)
-file upload. The service is available at <a href="https://www.tradetrust.io/verify" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/verify</a> and
-other websites provided by TradeTrust-enabled Business Service Providers
+file upload. This service is available at <a href="https://www.tradetrust.io/verify" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/verify</a> for
+free and other websites provided by TradeTrust-enabled Business Service
+Providers
 <br>o&nbsp;&nbsp; <strong>QR codes</strong> (if enabled) in TradeTrust-issued
 documents for online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access independently
