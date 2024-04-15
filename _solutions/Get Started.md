@@ -57,8 +57,8 @@ of your choice to commence your live transactions.</p>
 <p>What is/are the use case(s) applicable?</p>
 </li>
 <li>
-<p>Which types of business documents are involved? Verifiable and/or transferable
-documents?</p>
+<p>Which types of business documents (certificates, bills of lading, warehouse
+receipts) are involved? Verifiable and/or transferable documents?</p>
 </li>
 <li>
 <p>Do you issue/transfer title or simply verify documents?</p>
