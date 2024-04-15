@@ -54,7 +54,7 @@ of your choice to commence your live transactions.</p>
 <h3>Other Considerations:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>What is/are the use case(s) applicable?</p>
+<p>What is/are the use case(s)?</p>
 </li>
 <li>
 <p>Which types of business documents (certificates, bills of lading, warehouse
@@ -65,7 +65,7 @@ receipts) are involved? Verifiable and/or transferable documents?</p>
 documents received?</p>
 </li>
 <li>
-<p>Choice of blockchain(s) for transferable documents processing</p>
+<p>Choice of blockchain(s)</p>
 </li>
 <li>
 <p>Blockchain gas fees</p>
