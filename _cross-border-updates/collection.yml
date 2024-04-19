@@ -2,4 +2,5 @@ collections:
   cross-border-updates:
     output: true
     order:
+      - Singapore.md
       - International Rules and Guides.md
