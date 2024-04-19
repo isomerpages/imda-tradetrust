@@ -2,6 +2,7 @@ collections:
   about-tradetrust:
     output: true
     order:
+      - General FAQs.md
       - TradeTrust Ready Organisations.md
       - Legality Guide.md
       - Who We Are.md
