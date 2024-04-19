@@ -14,3 +14,11 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Benefits
+    collection: benefits
+  - title: New folder
+    collection: how-it-works
+  - title: New folder
+    collection: how-to-get-started
+  - title: New folder
+    collection: cross-border-updates
