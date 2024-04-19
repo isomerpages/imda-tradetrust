@@ -2,4 +2,5 @@ collections:
   how-it-works:
     output: true
     order:
+      - Manufacturing and Trade.md
       - Shipping and Logistics.md
