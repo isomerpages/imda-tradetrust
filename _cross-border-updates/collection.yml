@@ -1,0 +1,4 @@
+collections:
+  cross-border-updates:
+    output: true
+    order: []
