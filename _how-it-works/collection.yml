@@ -2,8 +2,6 @@ collections:
   how-it-works:
     output: true
     order:
-      - Join the Proof of Concept Programme.md
-      - Successful Trials.md
       - Financial Services.md
       - Government Bodies.md
       - Manufacturing and Trade.md
@@ -11,3 +9,5 @@ collections:
       - Technology Services.md
       - Verify a Live Document.md
       - Setup and Try a Live Demo.md
+      - Successful Trials.md
+      - Join the Proof of Concept Programme.md
