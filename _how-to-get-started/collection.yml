@@ -2,8 +2,8 @@ collections:
   how-to-get-started:
     output: true
     order:
-      - FAQs.md
+      - 3 Easy Steps.md
+      - Cost/.keep
       - Cost/Transactional Cost.md
       - Cost/Setup Cost.md
-      - Cost/.keep
-      - 3 Easy Steps.md
+      - FAQs.md
