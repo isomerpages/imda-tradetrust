@@ -2,7 +2,6 @@ collections:
   about-tradetrust:
     output: true
     order:
-      - TradeTrust Compliance and Recognition.md
       - Who We Are.md
       - What is TradeTrust/.keep
       - What is TradeTrust/Overview.md
@@ -10,6 +9,7 @@ collections:
       - What is TradeTrust/Key Functionalities.md
       - What is TradeTrust/Components.md
       - What is TradeTrust/Design Principles.md
+      - TradeTrust Compliance and Recognition.md
       - FAQ/.keep
       - FAQ/What is TradeTrust.md
       - FAQ/How can I start using TradeTrust?.md
