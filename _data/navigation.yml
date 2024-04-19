@@ -2,18 +2,6 @@ logo: /images/TradeTrustOfficialLogo.svg
 links:
   - title: About TradeTrust
     collection: about-tradetrust
-  - title: Solutions
-    collection: solutions
-  - title: Community
-    collection: community
-  - title: Developers
-    collection: developers
-  - title: Events
-    collection: events
-  - title: News & Releases
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
   - title: Benefits
     collection: benefits
   - title: How It Works
@@ -22,3 +10,15 @@ links:
     collection: how-to-get-started
   - title: Cross Border Updates
     collection: cross-border-updates
+  - title: Developers
+    collection: developers
+  - title: News and Events
+    resource_room: true
+  - title: Solutions
+    collection: solutions
+  - title: Community
+    collection: community
+  - title: Events
+    collection: events
+  - title: Contact Us
+    url: /contact-us/
