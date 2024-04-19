@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - Verify a Live Document.md
       - Setup and Try a Live Demo.md
       - Government Bodies.md
       - Technology Services.md
