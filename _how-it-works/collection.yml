@@ -1,4 +1,5 @@
 collections:
   how-it-works:
     output: true
-    order: []
+    order:
+      - Shipping and Logistics.md
