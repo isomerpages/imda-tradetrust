@@ -1,4 +1,5 @@
 collections:
   cross-border-updates:
     output: true
-    order: []
+    order:
+      - International Rules and Guides.md
