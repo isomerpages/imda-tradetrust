@@ -14,11 +14,11 @@ links:
     collection: developers
   - title: News and Events
     resource_room: true
-  - title: Solutions
+  - title: Contact Us
+    url: /contact-us/
+  - title: Solutions (to remove)
     collection: solutions
-  - title: Community
+  - title: Community (To remove)
     collection: community
   - title: Events
     collection: events
-  - title: Contact Us
-    url: /contact-us/
