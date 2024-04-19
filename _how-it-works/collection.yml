@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - Technology Services.md
       - Financial Services.md
       - Manufacturing and Trade.md
       - Shipping and Logistics.md
