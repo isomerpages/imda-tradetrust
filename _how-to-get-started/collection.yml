@@ -2,6 +2,7 @@ collections:
   how-to-get-started:
     output: true
     order:
+      - FAQs.md
       - Cost/Transactional Cost.md
       - Cost/Setup Cost.md
       - Cost/.keep
