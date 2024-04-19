@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - Join the Proof of Concept Programme.md
       - Successful Trials.md
       - Financial Services.md
       - Government Bodies.md
