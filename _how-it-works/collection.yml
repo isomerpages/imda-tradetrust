@@ -2,8 +2,6 @@ collections:
   how-it-works:
     output: true
     order:
-      - Try the Live Demo!/Create a test document.md
-      - Try the Live Demo!/.keep
       - Government Bodies.md
       - Technology Services.md
       - Financial Services.md
