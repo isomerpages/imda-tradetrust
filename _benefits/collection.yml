@@ -1,0 +1,4 @@
+collections:
+  benefits:
+    output: true
+    order: []
