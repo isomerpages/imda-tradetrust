@@ -2,4 +2,5 @@ collections:
   how-to-get-started:
     output: true
     order:
+      - Cost/.keep
       - 3 Easy Steps.md
