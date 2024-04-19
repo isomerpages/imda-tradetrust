@@ -1,4 +1,5 @@
 collections:
   benefits:
     output: true
-    order: []
+    order:
+      - Benefits of TradeTrust.md
