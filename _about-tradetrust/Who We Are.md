@@ -27,6 +27,15 @@ and supply chain can benefit from:</p>
 <p>Streamlined work processes</p>
 </li>
 </ul>
+<p></p>
+<h4><strong>Vision</strong></h4>
+<p>To deliver the safest and most trusted way to trade for anyone, anywhere.</p>
+<h4><strong>Mission</strong></h4>
+<p>TradeTrust’s mission is to make international trade more secure, efficient,
+and accessible for everyone involved, regardless of their location or scale
+of operations. It achieves this by establishing a common, globally accepted
+framework that promotes trust, efficiency, and inclusivity in digital trade
+practices.</p>
 <hr>
 <p>&lt;Old content&gt;</p>
 <h4><strong>Who We Are</strong></h4>
