@@ -16,7 +16,3 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Solutions (to remove)
-    collection: solutions
-  - title: Community (To remove)
-    collection: community
