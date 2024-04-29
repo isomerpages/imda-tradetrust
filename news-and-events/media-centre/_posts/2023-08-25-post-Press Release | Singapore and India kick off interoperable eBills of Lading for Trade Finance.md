@@ -8,9 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Singapore and India kick off an era of interoperable electronic Bills of Lading for Trade Finance</h2>
-<h4>25 Aug 2023</h4>
-<p></p>
 <blockquote>
 <p>TradeTrust enables interoperable electronic Bills of Lading (eBLs) backed
 Letter of Credit transactions between Singapore and Indian banks and companies,
