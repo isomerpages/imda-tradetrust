@@ -7,10 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2><strong>Remarks by Minister S Iswaran at the International Chamber of Commerce forum in Davos</strong></h2>
+<h4>22 JAN 2020</h4>
+<p><a href="https://www.mci.gov.sg/media-centre/speeches/remarks-by-minister-s-iswaran-at-the-international-chamber-of-commerce/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+</p>
