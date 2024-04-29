@@ -8,12 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>First cross-border paperless trade between China and Singapore powered by IMDA’s TradeTrust and Beijing’s AEOTradeChain has been successfully piloted</h2>
-<h4>23 October 2023</h4>
-<p></p>
 <blockquote>
-<p><em>C﻿hina-SG paperless trade pilot using TradeTrust framework achieved 80% gain in document processing efficiency.</em>
-</p>
+<p>First cross-border paperless trade between China and Singapore powered
+by IMDA’s TradeTrust and Beijing’s AEOTradeChain has been successfully
+piloted, achieving an 80% gain in document processing efficiency.</p>
 </blockquote>
 <p>The Office of the Leading Group for the Work of the China (Beijing) Pilot
 Free Trade Zone and the Integrated National Demonstration Zone for Opening
