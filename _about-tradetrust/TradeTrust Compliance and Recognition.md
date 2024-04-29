@@ -12,28 +12,27 @@ MLETR.&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Legal Harmonisation</strong>
-</p>
-<p>In 2021, Singapore updated its laws to legally recognise electronic trade
+<br>In 2021, Singapore updated its laws to legally recognise electronic trade
 documents that follow international standards, the UNCITRAL MLETR. TradeTrust
 documents that comply with UNCITRAL MLETR are legally valid across borders.
 There is no need for separate legal contracts or rulebooks.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Global Standards</strong>
-</p>
-<p>TradeTrust works with international standards bodies like the UN/CEFACT,
+<br>TradeTrust works with international standards bodies like the UN/CEFACT,
 ISO and UNESCAP. Adopting TradeTrust means following internationally recognised
 standards and accreditation.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p><strong>Accreditation&nbsp;</strong>
-</p>
-<p>Technical solutions are certified to meet legal requirements.&nbsp;</p>
+<br>Technical solutions are certified to meet legal requirements.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p><strong>Software Components</strong>
-</p>
-<p>TradeTrust’s software components are free and open-source for easy integration
+<br>TradeTrust’s software components are free and open-source for easy integration
 into existing systems. It acts as a middleware that can be plugged into
 different blockchains. This means you can ensure the authenticity, verify
 the source, and validate the legal transfer of trade obligations.&nbsp;</p>
