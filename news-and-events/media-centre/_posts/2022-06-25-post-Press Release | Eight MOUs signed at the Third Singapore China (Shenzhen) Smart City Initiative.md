@@ -8,13 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Eight MOUs signed at the Third Singapore-China (Shenzhen) Smart City Initiative Joint Implementation Committee Meeting</h2>
-<h4>25 Nov 2022</h4>
 <p>November 2022 – The Ministry of Communications and Information (MCI) and
 Infocomm Media Development Authority (IMDA) announced the inking of eight
-Memorandum of Understanding (MOU) and unveiled 14 new joint projects under
-the Singapore-China (Shenzhen) Smart City Initiative (SCI), at the 3rd
-Joint Implementation Committee (JIC) meeting.</p>
+Memorandum of Understanding (MOU) and unveiled <strong>14 new joint projects under the Singapore-China (Shenzhen) Smart City Initiative (SCI), at the 3rd Joint Implementation Committee (JIC) meeting</strong>.</p>
 <p>The meeting saw the launch of 14 new joint projects to bolster cooperation
 and innovation between the two cities in digital economy.</p>
 <p>The JIC is co-chaired by Permanent Secretary for Communications and Information
