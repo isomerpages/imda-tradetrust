@@ -8,8 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>World’s first live electronic transferable record (ETR) cross-border trade through TradeTrust</h2>
-<h4>31 Mar 2023</h4>
 <p>Singapore – 30th March 2023 Singapore pushes the boundaries of digitalisation
 for global trade as the Infocomm Media Development Authority (IMDA) partnered
 industry players and successfully executed a live shipment from Singapore
