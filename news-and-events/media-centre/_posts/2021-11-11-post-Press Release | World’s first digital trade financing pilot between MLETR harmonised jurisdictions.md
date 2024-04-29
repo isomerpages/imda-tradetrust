@@ -8,7 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>11 Nov 2021</h4>
 <blockquote>
 <p>Paves the way for wider adoption of IMDA’s TradeTrust framework to facilitate
 the exchange of digital trade documents in global trade finance</p>
