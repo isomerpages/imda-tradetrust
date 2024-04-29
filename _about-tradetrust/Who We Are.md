@@ -4,7 +4,32 @@ permalink: /about-tradetrust/who-we-are/
 variant: tiptap
 description: ""
 ---
-<h2>Who We Are</h2>
+<h4><strong>What is TradeTrust?</strong></h4>
+<p>In 2019, the <a href="www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>&nbsp;(IMDA)
+launched a framework called TradeTrust, built on open-source technology.
+TradeTrust is designed to enable the secure and seamless transaction and
+processing of digital trade documents.&nbsp;</p>
+<p>TradeTrust aims to make international trade safer, faster, easier, and
+more cost-effective.&nbsp;</p>
+<p>By using TradeTrust, all parties involved in the global trade ecosystem
+and supply chain can benefit from:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Greater peace of mind due to enhanced security and trust in digital documentation</p>
+</li>
+<li>
+<p>Increased confidence in digital trade transactions</p>
+</li>
+<li>
+<p>Reduced costs and</p>
+</li>
+<li>
+<p>Streamlined work processes</p>
+</li>
+</ul>
+<hr>
+<p>&lt;Old content&gt;</p>
+<h4><strong>Who We Are</strong></h4>
 <p>The Singapore's Infocomm Media Development Authority (IMDA) is a driving
 force behind Singapore's digital transformation efforts by building the
 foundations of its digital infrastructure and driving digital innovation.</p>
