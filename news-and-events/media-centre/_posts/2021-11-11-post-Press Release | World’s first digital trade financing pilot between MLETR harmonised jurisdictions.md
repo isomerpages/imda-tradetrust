@@ -82,9 +82,8 @@ TradeTrust are invited to reach out to IMDA, MAS, FSRA or any of the partners.</
 <p>Footnote :</p>
 <p><sup>1</sup>  <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records</a>
 </p>
-<p><sup>2</sup>  <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_" rel="noopener noreferrer nofollow" target="_blank">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_</a>
+<p><sup>2 </sup><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/986162/Annex_4__Framework_for_G7_collaboration_on_Electronic_Transferable_Records.pdf" rel="noopener noreferrer nofollow" target="_blank">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/986162/Annex_4__Framework_for_G7_collaboration_on_Electronic_Transferable_Records.pdf</a>
 </p>
-<p>data/file/986162/Annex_4__ Framework_for_G7_collaboration_on_Electronic_Transferable_Records.pdf</p>
 <p></p>
 <p></p>
 <p></p>
