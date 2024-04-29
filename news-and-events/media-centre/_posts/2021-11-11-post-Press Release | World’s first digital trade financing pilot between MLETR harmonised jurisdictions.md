@@ -8,7 +8,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>World’s first digital trade financing pilot between MLETR-harmonised jurisdictions</h3>
 <h4>11 Nov 2021</h4>
 <blockquote>
 <p>Paves the way for wider adoption of IMDA’s TradeTrust framework to facilitate
