@@ -68,7 +68,7 @@ IMDA (<a href="mailto:TradeTrust@imda.gov.sg" rel="noopener noreferrer nofollow"
 </li>
 </ol>
 <p></p>
-<p><strong>Details of First Shipment Using the TradeTrust Framework </strong>
+<p><strong>Details of First Shipment Using the TradeTrust Framework</strong>
 </p>
 <p>How the shipment is being conducted:</p>
 <ul data-tight="true" class="tight">
