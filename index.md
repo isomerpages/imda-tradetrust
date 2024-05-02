@@ -23,9 +23,9 @@ sections:
         - title: What is TradeTrust
           description: Overview and benefits
           url: /about-tradetrust/what-is-tradetrust/overview/
-        - title: Easey Implementation
-          description: Find out how it works
-          url: https://gmail.com
+        - title: Find out how it works
+          description: 4 easy steps
+          url: /how-to-get-started/4-easy-steps/
         - title: Key Benefits
           description: For different industries
           url: /benefits-of-tradetrust/
