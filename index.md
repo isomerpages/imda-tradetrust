@@ -21,13 +21,13 @@ sections:
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
       key_highlights:
         - title: What is TradeTrust
-          description: Features and benefits
+          description: Overview and benefits
           url: /about-tradetrust/what-is-tradetrust/overview/
-        - title: How It Works
-          description: Trusted interoperability
+        - title: Easey Implementation
+          description: Find out how it works
           url: https://gmail.com
-        - title: When To Use
-          description: Proven solutions for use cases
+        - title: Who CAN BENEFIT
+          description: For different industries
           url: /privacy/
       variant: floating
       size: md
