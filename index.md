@@ -26,9 +26,9 @@ sections:
         - title: Easey Implementation
           description: Find out how it works
           url: https://gmail.com
-        - title: Who CAN BENEFIT
+        - title: Key Benefits
           description: For different industries
-          url: /privacy/
+          url: /benefits-of-tradetrust/
       variant: floating
       size: md
       alignment: left
