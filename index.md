@@ -13,7 +13,7 @@ notification: Token Registry V2 is no longer supported, visit
 sections:
   - hero:
       title: Transform the way you trade
-      subtitle: Digitalization makes trade safer, easier, and less costly, providing
+      subtitle: Digitalisation makes trade safer, easier, and less costly, providing
         increased confidence, profitability, and peace of mind for your trade
         ecosystem.
       background: /images/TradeDigitalisation.png
@@ -22,7 +22,7 @@ sections:
       key_highlights:
         - title: What is TradeTrust
           description: Features and benefits
-          url: https://google.com
+          url: /about-tradetrust/what-is-tradetrust/overview/
         - title: How It Works
           description: Trusted interoperability
           url: https://gmail.com
