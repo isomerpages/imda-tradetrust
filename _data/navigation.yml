@@ -8,11 +8,7 @@ links:
     collection: how-it-works
   - title: How to Get Started
     collection: how-to-get-started
-  - title: Cross Border Updates
-    collection: cross-border-updates
   - title: Developers
     collection: developers
   - title: News and Events
     resource_room: true
-  - title: Contact Us
-    url: /contact-us/
