@@ -20,7 +20,7 @@ sections:
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
       key_highlights:
-        - title: HOW IT HELPS
+        - title: What is TradeTrust
           description: Features and benefits
           url: https://google.com
         - title: How It Works
