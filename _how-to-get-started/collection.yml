@@ -4,6 +4,6 @@ collections:
     order:
       - 3 Easy Steps.md
       - Cost/.keep
-      - Cost/Transactional Cost.md
       - Cost/Setup Cost.md
+      - Cost/Transactional Cost.md
       - FAQs.md
