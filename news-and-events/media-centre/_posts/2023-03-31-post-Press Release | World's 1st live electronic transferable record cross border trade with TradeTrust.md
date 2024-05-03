@@ -77,24 +77,11 @@ trade. Using the TradeTrust framework, ETRs can be issued, transferred,
 and surrendered between multiple stakeholders in a trusted manner, across
 different digital platforms, which is necessary in the context of cross-border
 trade.</p>
-<p>“Since 2019, Singapore has looked to reshape, reimagine, and redefine
-the way the world trades. International trade ecosystem is heavily reliant
-on physical paper documents and signatures for validation. This live transaction
-for consignment of liquid chemical from Singapore to Thailand, leverages
-on the TradeTrust framework to create an eBL that uses UNCITRAL’s MLETR
-compliant statutory law framework. More importantly, we are excited to
-have demonstrated that the industry can potentially use eBL even if there
-was no basis of a contractual legal framework. We believe this will illuminate
-wider adoption of eBL in cross-border trade,” said Mr Loh Sin Yong, Director,
-TradeTrust, IMDA.</p>
-<p>“This pilot is part of ExxonMobil’s efforts to increase our supply chain
-resiliency through digitalisation of business processes. We welcome frameworks
-like TradeTrust as an important part of our journey towards digitalization.
-Such frameworks increase efficiency and cost savings while maintaining
-high standards and trust, and we hope that this successful trial will lead
-to increased interest from industry to adopt similar standards,” said Mr
-Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution Manager,
-ExxonMobil Asia Pacific.</p>
+<p>“<em>Since 2019, Singapore has looked to reshape, reimagine, and redefine the way the world trades. International trade ecosystem is heavily reliant on physical paper documents and signatures for validation. This live transaction for consignment of liquid chemical from Singapore to Thailand, leverages on the TradeTrust framework to create an eBL that uses UNCITRAL’s MLETR compliant statutory law framework. More importantly, we are excited to have demonstrated that the industry can potentially use eBL even if there was no basis of a contractual legal framework. We believe this will illuminate wider adoption of eBL in cross-border trade</em>,”
+said Mr Loh Sin Yong, Director, TradeTrust, IMDA.</p>
+<p><em>“This pilot is part of ExxonMobil’s efforts to increase our supply chain resiliency through digitalisation of business processes. We welcome frameworks like TradeTrust as an important part of our journey towards digitalization. Such frameworks increase efficiency and cost savings while maintaining high standards and trust, and we hope that this successful trial will lead to increased interest from industry to adopt similar standards,</em>”
+said Mr Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution
+Manager, ExxonMobil Asia Pacific.</p>
 <p></p>
 <p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-partners-industry-to-conduct-worlds-first-live-electronic-transferable-record-cross-border-trade" rel="noopener noreferrer nofollow" target="_blank">full press release</a> on
 IMDA's official website.</p>
