@@ -55,8 +55,13 @@ will focus on promoting the decentralized digitization of transferable
 documents such as eBLs and cultivating the use of an open, neutral and
 trusted framework to transform cross-border trade and trade financing processes
 to benefit businesses from both countries.</p>
-<p><strong>About Infocomm Media Development Authority (IMDA)</strong>
-</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About Infocomm Media Development Authority (IMDA)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The Infocomm Media Development Authority (IMDA) leads Singapore’s digital
 transformation with infocomm media. To do this, IMDA will develop a dynamic
 digital economy and a cohesive digital society, driven by an exceptional
@@ -67,8 +72,12 @@ while fostering a pro-business environment, and enhances Singapore’s data
 protection regime through the Personal Data Protection Commission.</p>
 <p>For more news and information, visit <a href="https://www.tradetrust.io/news/www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.imda.gov.sg</a> or
 follow IMDA on LinkedIn (@IMDA), Facebook (@IMDAsg) and Instagram (@IMDAsg).</p>
-<p><strong>About Beijing Two-Zone Office</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About Beijing Two-Zone Office</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Beijing Two-Zone office is the Office of the Leading Group for the
 Work of the China (Beijing) Pilot Free Trade Zone and the Integrated National
 Demonstration Zone for Opening up the Services Sector. On September 4,
@@ -82,4 +91,8 @@ the construction of the "two zones" and strive to build a world-class and
 favorable business environment governed by rule of law 3 and create better
 conditions conducive to domestic and foreign companies developing their
 businesses in Beijing. For more news and information, visit&nbsp;<a href="https://www.tradetrust.io/news/www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">open.beijing.gov.cn</a>.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
