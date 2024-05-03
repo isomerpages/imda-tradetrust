@@ -37,8 +37,11 @@ systems).</p>
 <p>Please see <a href="https://www.imda.gov.sg/-/media/imda/files/news-and-events/media-room/media-releases/2021/10/annex-b-successful-trade-financing-trials.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a> for
 more information on the successful trade financing trials between Singapore
 and Shenzhen.</p>
+<p><a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/four-new-mous-signed-at-the-2nd-singapore---china-shenzhen-sci-joint-implementation-committee-meeting" rel="noopener noreferrer nofollow" target="_blank">Read the full press release.</a>
+</p>
 <p></p>
-<p>Footnote</p>
+<p><strong>Footnote</strong>
+</p>
 <p><sup>1</sup> Bills of Lading are documents which acknowledge receipt of
 cargo for shipment and also prove ownership of the cargo. An importer will
 incur additional storage and handling costs if a paper BL arrives at the
