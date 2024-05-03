@@ -34,6 +34,8 @@ will enjoy faster transactions (e.g. there would no longer be a need to
 physically transport or manage hardcopy trade documents, cost and time
 savings and lowered fraud risks through the use of digital verification
 systems).</p>
+<p>See <a href="https://www.imda.gov.sg/-/media/imda/files/news-and-events/media-room/media-releases/2021/10/annex-b-successful-trade-financing-trials.pdf" rel="noopener noreferrer nofollow" target="_blank">more</a> information
+on the successful trade financing trials between Singapore and Shenzhen.</p>
 <p></p>
 <p></p>
 <p><strong>Footnote</strong>
