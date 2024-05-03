@@ -73,7 +73,8 @@ TradeTrust are invited to reach out to IMDA, MAS, FSRA or any of the partners.</
 <p>Jointly issued by Abu Dhabi Global Market, Monetary Authority of Singapore
 and the Informm Media Development Authority(IMDA).</p>
 <p></p>
-<p>See the</p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/worlds-first-digital-trade-financing-pilot-between-mletr-harmonised-jurisdictions" rel="noopener noreferrer nofollow" target="_blank">same press release</a> on
+IMDA's official website.</p>
 <p></p>
 <p></p>
 <p></p>
