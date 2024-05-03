@@ -37,8 +37,9 @@ savings and lowered fraud risks through the use of digital verification
 systems).</p>
 <p>See <a href="https://www.imda.gov.sg/-/media/imda/files/news-and-events/media-room/media-releases/2021/10/annex-b-successful-trade-financing-trials.pdf" rel="noopener noreferrer nofollow" target="_blank">more</a> information
 on the successful trade financing trials between Singapore and Shenzhen.</p>
-<p>See <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/four-new-mous-signed-at-the-2nd-singapore---china-shenzhen-sci-joint-implementation-committee-meeting" rel="noopener noreferrer nofollow" target="_blank">full press release.</a>
-</p>
+<p></p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/four-new-mous-signed-at-the-2nd-singapore---china-shenzhen-sci-joint-implementation-committee-meeting" rel="noopener noreferrer nofollow" target="_blank">full press release</a> on
+IMDA's official website.</p>
 <p></p>
 <p><strong>Footnote</strong>
 </p>
