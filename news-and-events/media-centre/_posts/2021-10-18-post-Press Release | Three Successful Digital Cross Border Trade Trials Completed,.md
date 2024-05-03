@@ -8,9 +8,9 @@ image: ""
 variant: tiptap
 ---
 <blockquote>
-<p>Three Successful Digital Cross-Border Trade Trials Completed: Businesses
-Will Be Able To Benefit from Faster and More Secured Transactions</p>
+<h4>Three Successful Digital Cross-Border Trade Trials Completed: Businesses Will Be Able To Benefit from Faster and More Secured Transactions</h4>
 </blockquote>
+<h4>Trials on Digital Trade To Promote Business Productivity</h4>
 <p>Businesses between Singapore and Shenzhen can also soon enjoy expeditious
 cross-border trade financing transactions as the SCI continues to deepen
 technological cooperation and test policy innovations between both cities.</p>
@@ -34,11 +34,7 @@ will enjoy faster transactions (e.g. there would no longer be a need to
 physically transport or manage hardcopy trade documents, cost and time
 savings and lowered fraud risks through the use of digital verification
 systems).</p>
-<p>Please see <a href="https://www.imda.gov.sg/-/media/imda/files/news-and-events/media-room/media-releases/2021/10/annex-b-successful-trade-financing-trials.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a> for
-more information on the successful trade financing trials between Singapore
-and Shenzhen.</p>
-<p><a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/four-new-mous-signed-at-the-2nd-singapore---china-shenzhen-sci-joint-implementation-committee-meeting" rel="noopener noreferrer nofollow" target="_blank">Read the full press release.</a>
-</p>
+<p></p>
 <p></p>
 <p><strong>Footnote</strong>
 </p>
