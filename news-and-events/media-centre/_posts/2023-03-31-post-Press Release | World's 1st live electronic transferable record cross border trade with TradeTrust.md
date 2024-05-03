@@ -96,3 +96,5 @@ to increased interest from industry to adopt similar standards,” said Mr
 Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution Manager,
 ExxonMobil Asia Pacific.</p>
 <p></p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-partners-industry-to-conduct-worlds-first-live-electronic-transferable-record-cross-border-trade" rel="noopener noreferrer nofollow" target="_blank">full press release</a> on
+IMDA's official website.</p>
