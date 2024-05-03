@@ -82,4 +82,8 @@ of paperless cross-border trade.</p>
 </li>
 </ul>
 <p></p>
+<p>Jointly issued by Australian Border Force, the Infocomm Media Development
+Authority(IMDA) and Singapore Customs.</p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2021/australia-and-singapores-blockchain-trial-shows-promising-results-for-reducing-transaction-costs" rel="noopener noreferrer nofollow" target="_blank">full press release</a> on
+IMDA's official website</p>
 <p></p>
