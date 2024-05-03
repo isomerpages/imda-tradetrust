@@ -107,5 +107,8 @@ to collect the cargo at the port of discharge.</p>
 </li>
 </ul>
 <p></p>
-<p>See <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-india-interoperable-electronic-bills-of-lading" rel="noopener noreferrer nofollow" target="_blank">full press release.</a>
-</p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-india-interoperable-electronic-bills-of-lading" rel="noopener noreferrer nofollow" target="_blank">full press release</a> on
+IMDA's official website.</p>
+<p></p>
+<p></p>
+<p></p>
