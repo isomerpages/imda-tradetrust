@@ -95,4 +95,6 @@ businesses in Beijing. For more news and information, visit&nbsp;<a href="https:
 </details>
 </div>
 <p></p>
+<p>See the same <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/china-sg-paperless-trade-successfully-piloted" rel="noopener noreferrer nofollow" target="_blank">press release on IMDA website.</a>
+</p>
 <p></p>
