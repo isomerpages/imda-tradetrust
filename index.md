@@ -68,10 +68,6 @@ sections:
             documents
           linktext: Learn more
           url: ""
-        - title: Transfer
-          description: Verify then endorse a change of ownership from one party to another
-          linktext: Learn more
-          url: ""
       subtitle: Digitise the inefficiency
   - infopic:
       title: Successful Trials
