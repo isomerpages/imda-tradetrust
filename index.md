@@ -60,11 +60,12 @@ sections:
         checks for proof of origin, tampering, and authenticity.
       cards:
         - title: Create
-          description: Create or revoke any business documents
+          description: Create or revoke TradeTrust-enabled business documents
           linktext: Learn more
           url: ""
         - title: Verify
-          description: Drag and drop to verify the source and authenticity of document
+          description: Drag and drop to verify the source, authenticity and transfer title
+            of document
           linktext: Learn more
           url: ""
         - title: Transfer
