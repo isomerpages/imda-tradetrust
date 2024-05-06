@@ -64,8 +64,8 @@ sections:
           linktext: Learn more
           url: ""
         - title: Verify
-          description: Drag and drop to verify the source, authenticity and transfer title
-            of document
+          description: Drag and drop for the source, authenticity and transfer title of
+            documents
           linktext: Learn more
           url: ""
         - title: Transfer
