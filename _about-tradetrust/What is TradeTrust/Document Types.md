@@ -49,14 +49,25 @@ handling the Certificate of Origin using TradeTrust.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Cert Issuing/Checking Authority</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Cert Issuing/Checking Authority</strong>
-</p>
 <p>At the Customs Authority, using TradeTrust to issue Certificate of Origin.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Customs.png">
 </div>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
