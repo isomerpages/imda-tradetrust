@@ -8,8 +8,7 @@ description: A free digital utility tool to digitalise the end-to-end processing
   to effect title transfer in accordance with statutory law.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Token Registry V2 is no longer supported, visit
-  https://v2.tradetrust.io to verify V2 transferable documents.
+notification: ""
 sections:
   - hero:
       title: Transform the way you trade
