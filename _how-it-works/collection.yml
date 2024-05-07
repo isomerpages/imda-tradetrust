@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - Manufacturing and Trade.md
       - Government Bodies.md
       - Financial Services.md
       - How it works.md
