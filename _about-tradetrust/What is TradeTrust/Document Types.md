@@ -20,6 +20,51 @@ of Origin where the provenance and authenticity of the e-document can be
 easily verified by any party;</p>
 </li>
 <li>
+<p></p>
+</li>
+</ol>
+<blockquote>
+<h4>Examples of Verifiable Documents</h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The Exporter</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>An exporter with customers in many countries. Improves the process of
+handling the Certificate of Origin using TradeTrust.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cert_of_origin.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>The Importer</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>An importer using TradeTrust to streamline his cargo collection process.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Importer.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Cert Issuing/Checking Authority</strong>
+</p>
+<p>At the Customs Authority, using TradeTrust to issue Certificate of Origin.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Customs.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
 <p><strong>Transferable Documents</strong> such as Bill of Lading where the
 e-document’s title ownership can be transferred from one party to another.
 Transferable Documents is digitised<strong> </strong>into Electronic Transferable
