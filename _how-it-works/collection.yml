@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - Setup and Try a Live Demo.md
       - Verify a Live Document.md
       - Technology Services.md
       - Shipping and Logistics.md
