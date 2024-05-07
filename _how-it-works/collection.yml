@@ -4,6 +4,7 @@ collections:
     order:
       - How it works.md
       - Financial Services.md
+      - Government Bodies.md
       - Manufacturing and Trade.md
       - Shipping and Logistics.md
       - Technology Services.md
@@ -11,5 +12,4 @@ collections:
       - Setup and Try a Live Demo.md
       - Successful Proof of Concept Trials.md
       - Join the Proof of Concept Programme.md
-      - Government Bodies.md
       - How it works/.keep
