@@ -7,6 +7,8 @@ links:
   - title: How It works
     url: /how-it-works/
     sublinks:
+      - title: How It Works
+        url: /how-it-works/
       - title: Financial Services
         url: /how-it-works/financial-services/
       - title: Government Bodies
