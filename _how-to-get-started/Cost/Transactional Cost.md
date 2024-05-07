@@ -12,7 +12,7 @@ type and blockchain network.</p>
 blank-endorsed BL document flow.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Importer</strong>
+<summary><strong>The Exporter</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -24,7 +24,7 @@ blank-endorsed BL document flow.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Exporter</strong>
+<summary><strong>The Importer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
