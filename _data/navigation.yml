@@ -35,6 +35,3 @@ links:
     collection: developers
   - title: News and Events
     resource_room: true
-  - title: How It Works
-    url: /how-it-works/
-    sublinks: []
