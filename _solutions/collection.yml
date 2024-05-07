@@ -2,7 +2,6 @@ collections:
   solutions:
     output: true
     order:
-      - How It Works.md
       - Benefits.md
       - Use Case.md
       - Costs.md
