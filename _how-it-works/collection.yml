@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - How it works/Setup and Try a Live Demo.md
       - How it works/Verify a Live Document.md
       - How it works/Technology Services.md
       - How it works/Shipping and Logistics.md
