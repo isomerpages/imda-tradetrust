@@ -4,7 +4,6 @@ permalink: /about-tradetrust/who-we-are/
 variant: tiptap
 description: ""
 ---
-<h4><strong>What is TradeTrust?</strong></h4>
 <p>In 2019, the <a href="www.imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>&nbsp;(IMDA)
 launched a framework called TradeTrust, built on open-source technology.
 TradeTrust is designed to enable the secure and seamless transaction and
