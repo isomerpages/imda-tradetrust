@@ -19,16 +19,14 @@ into two broad categories:</p>
 of Origin where the provenance and authenticity of the e-document can be
 easily verified by any party;</p>
 </li>
-<li>
-<p></p>
-</li>
 </ol>
+<p></p>
 <blockquote>
-<h4>Examples of Verifiable Documents</h4>
+<h4>Examples of how TradeTrust improves the workflow for Verifiable Documents</h4>
 </blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Exporter</strong>
+<summary><strong>Improvements for the Exporter</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An exporter with customers in many countries. Improves the process of
@@ -39,40 +37,47 @@ handling the Certificate of Origin using TradeTrust.</p>
 </div>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>The Importer</summary>
+<summary><strong>Improvements for the Importer</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An importer using TradeTrust to streamline his cargo collection process.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Importer.png">
 </div>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Cert Issuing/Checking Authority</strong>
+<summary><strong>Improvements for the Cert Issuing/Checking Authority</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>At the Customs Authority, using TradeTrust to issue Certificate of Origin.</p>
+<p>For Customs Authority using TradeTrust to issue Certificate of Origin</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Customs.png">
 </div>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Improvements for the Banker</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>A banker using TradeTrust to minimise fraud when processing Certificates
+of Origin in trade financing applications.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Banker.png">
+</div>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
-</details>
-</div>
-<p></p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
