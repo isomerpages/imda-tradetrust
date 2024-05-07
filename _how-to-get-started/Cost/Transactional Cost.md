@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Cost
 ---
-<h2><strong>Transferable Documents</strong></h2>
 <p>TradeTrust is free for anyone to use. Anyone can implement the TradeTrust
 source code! You only pay a transaction fee, or gas fees, to your selected
 blockchain. The cost can be as low as $0.00 per transaction*
