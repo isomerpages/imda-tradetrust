@@ -4,11 +4,12 @@ links:
     collection: about-tradetrust
   - title: Benefits
     collection: benefits
-  - title: How It Works
-    collection: how-it-works
   - title: How to Get Started
     collection: how-to-get-started
   - title: Developers
     collection: developers
   - title: News and Events
     resource_room: true
+  - title: How It works
+    url: /how-it-works/
+    sublinks: []
