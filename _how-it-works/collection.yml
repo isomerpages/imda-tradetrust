@@ -2,13 +2,13 @@ collections:
   how-it-works:
     output: true
     order:
-      - How it works/Join the Proof of Concept Programme.md
-      - How it works/Successful Proof of Concept Trials.md
-      - How it works/Setup and Try a Live Demo.md
-      - How it works/Verify a Live Document.md
-      - How it works/Technology Services.md
-      - How it works/Shipping and Logistics.md
-      - How it works/Manufacturing and Trade.md
-      - How it works/Government Bodies.md
-      - How it works/Financial Services.md
       - How it works/.keep
+      - How it works/Financial Services.md
+      - How it works/Government Bodies.md
+      - How it works/Manufacturing and Trade.md
+      - How it works/Shipping and Logistics.md
+      - How it works/Technology Services.md
+      - How it works/Verify a Live Document.md
+      - How it works/Setup and Try a Live Demo.md
+      - How it works/Successful Proof of Concept Trials.md
+      - How it works/Join the Proof of Concept Programme.md
