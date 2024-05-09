@@ -22,8 +22,8 @@ to support implementers with detailed technical information:</p>
 <p><strong><mark>TradeTrust</mark></strong>
 </p>
 <p>Singapore developed
-<mark>TradeTrust</mark>(see <a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">https://www.</a>
-<mark><a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">tradetrust</a>
+<mark>TradeTrust</mark>(see <a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">https://www.</a> 
+<mark><a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">tradetrust</a> 
 </mark><a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">.io</a>)
 which is an open framework adapted for global trade practices to help the
 typically long chain of business partners achieve the ultimate objective
@@ -56,9 +56,10 @@ use cases in the trade and traceability domains.</p>
 <p>• The QR Code feature enables users to choose using paper or digital workflows,
 depending on their circumstances thus allowing issuers to execute digitalisation
 with minimal dependency on verifier technical capabilities.</p>
-<p>The UN/CEFACT repository <a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/uncefact/spec-</a>
+<p>The UN/CEFACT repository <a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/uncefact/spec-</a> 
 <mark><a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">tradetrust </a>
 </mark>provides additional guidance on the effective use of
 <mark>TradeTrust</mark>.</p>
 <p></p>
-<p></p>
+<p>Download the <a href="https://unece.org/sites/default/files/2023-09/WhitePaper_Transfer-MLETR.pdf" rel="noopener noreferrer nofollow" target="_blank">full white paper</a> on
+the United Nations Economic Commission for Europe (UNECE) website.</p>
