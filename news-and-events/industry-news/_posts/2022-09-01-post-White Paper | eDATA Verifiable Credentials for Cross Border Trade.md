@@ -27,17 +27,31 @@ on the methods of document digitalisation as well as alignment onpolicy
 stances through G2G arrangements such as Digital Economy Agreements. These
 efforts have resultedin the following W3C verifiable credentials-related
 features being implemented:</p>
-<p>•The Decentralised document rendering protocol enables users to choose
+<ul data-tight="true" class="tight">
+<li>
+<p>The Decentralised document rendering protocol enables users to choose
 their own document schemaformat, and to customise the look and feel of
 the trade documents produced.</p>
-<p>•Selective Redaction provides a convenient method for intermediaries in
+</li>
+<li>
+<p>Selective Redaction provides a convenient method for intermediaries in
 the supply chain to hidesensitive data, which is critical for some use
 cases in the trade and traceability domains.</p>
-<p>•The Title Transfer feature supports electronic transferable records and
+</li>
+<li>
+<p>The Title Transfer feature supports electronic transferable records and
 is designed to be compliant tothe requirements laid out in UNCITRAL’s Model
 Law on Electronic Transferable Records (2017).</p>
-<p>•The QR Code feature enables users to choose using paper or digital workflows,
+</li>
+<li>
+<p>The QR Code feature enables users to choose using paper or digital workflows,
 depending on theircircumstances thus allowing issuers to execute digitalisation
 with minimal dependency on verifiertechnical capabilities.</p>
+</li>
+</ul>
 <p>The UNCEFACT repository https://<a href="http://github.com/uncefact/spec-tradetrustprovides" rel="noopener noreferrer nofollow" target="_blank">github.com/uncefact/spec-tradetrust</a> provides
-additional guidance on the effective use of</p>
+additional guidance on the effective use of TradeTrust.</p>
+<p></p>
+<p>Download the <a href="https://unece.org/trade/documents/2023/10/white-paper-edata-verifiable-credentials-cross-border-trade" rel="noopener noreferrer nofollow" target="_blank">full whitepaper</a> at</p>
+<p></p>
+<p></p>
