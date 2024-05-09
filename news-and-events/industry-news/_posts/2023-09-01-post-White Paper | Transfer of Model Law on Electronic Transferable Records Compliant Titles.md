@@ -44,18 +44,28 @@ and governments on the methods of document digitalisation as well as alignment
 on policy stances through Government-level arrangements such as Digital
 Economy Agreements. These efforts have resulted in the following features
 being implemented:</p>
-<p>• The Title Transfer feature supports electronic transferable records
-and is designed to be compliant to the requirements laid out in the UNCITRAL
+<ul data-tight="true" class="tight">
+<li>
+<p>The Title Transfer feature supports electronic transferable records and
+is designed to be compliant to the requirements laid out in the UNCITRAL
 Model Law on Electronic Transferable Records (2017).</p>
-<p>• The Decentralised document rendering protocol enables users to choose
+</li>
+<li>
+<p>The Decentralised document rendering protocol enables users to choose
 their own document schema format, and to customise the look and feel of
 the trade documents produced.</p>
-<p>• Selective Redaction provides a convenient method for intermediaries
-in the supply chain to hide sensitive data, which is critical for some
-use cases in the trade and traceability domains.</p>
-<p>• The QR Code feature enables users to choose using paper or digital workflows,
+</li>
+<li>
+<p>Selective Redaction provides a convenient method for intermediaries in
+the supply chain to hide sensitive data, which is critical for some use
+cases in the trade and traceability domains.</p>
+</li>
+<li>
+<p>The QR Code feature enables users to choose using paper or digital workflows,
 depending on their circumstances thus allowing issuers to execute digitalisation
 with minimal dependency on verifier technical capabilities.</p>
+</li>
+</ul>
 <p>The UN/CEFACT repository <a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/uncefact/spec-</a> 
 <mark><a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">tradetrust </a>
 </mark>provides additional guidance on the effective use of
