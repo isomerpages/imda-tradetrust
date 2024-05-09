@@ -9,8 +9,8 @@ image: ""
 variant: tiptap
 ---
 <p>The September 2023 edition of Commodities in Focus Weekly by Stephenson
-Harwood features TradeTrust and the legal regulations surrounding electronic
-bills of lading. The article offers a comprehensive analysis of the legal
+Harwood featured TradeTrust and the legal regulations surrounding electronic
+bills of lading. The article offered a comprehensive analysis of the legal
 and practical aspects of the TradeTrust framework and 'TradeTrust-enabled
 eBLs' (TT eBLs), including:</p>
 <ul data-tight="true" class="tight">
