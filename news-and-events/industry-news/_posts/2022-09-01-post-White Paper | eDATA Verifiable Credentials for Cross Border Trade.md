@@ -29,24 +29,25 @@ efforts have resultedin the following W3C verifiable credentials-related
 features being implemented:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Decentralised document rendering protocol enables users to choose
-their own document schemaformat, and to customise the look and feel of
-the trade documents produced.</p>
+<p>The <strong>Decentralised document rendering protoco</strong>l enables
+users to choose their own document schemaformat, and to customise the look
+and feel of the trade documents produced.</p>
 </li>
 <li>
-<p>Selective Redaction provides a convenient method for intermediaries in
-the supply chain to hidesensitive data, which is critical for some use
+<p><strong>Selective Redaction</strong> provides a convenient method for intermediaries
+in the supply chain to hidesensitive data, which is critical for some use
 cases in the trade and traceability domains.</p>
 </li>
 <li>
-<p>The Title Transfer feature supports electronic transferable records and
-is designed to be compliant tothe requirements laid out in UNCITRAL’s Model
-Law on Electronic Transferable Records (2017).</p>
+<p>The <strong>Title Transfer feature </strong>supports electronic transferable
+records and is designed to be compliant tothe requirements laid out in
+UNCITRAL’s Model Law on Electronic Transferable Records (2017).</p>
 </li>
 <li>
-<p>The QR Code feature enables users to choose using paper or digital workflows,
-depending on theircircumstances thus allowing issuers to execute digitalisation
-with minimal dependency on verifiertechnical capabilities.</p>
+<p>The<strong> QR Code feature</strong> enables users to choose using paper
+or digital workflows, depending on theircircumstances thus allowing issuers
+to execute digitalisation with minimal dependency on verifiertechnical
+capabilities.</p>
 </li>
 </ul>
 <p>The UNCEFACT repository https://<a href="http://github.com/uncefact/spec-tradetrustprovides" rel="noopener noreferrer nofollow" target="_blank">github.com/uncefact/spec-tradetrust</a> provides
