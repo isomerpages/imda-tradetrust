@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Trade Finance Global: Navigating the waters of digital trade: TradeTrust’s approach to electronic Bills of Lading</h4>
+<h4>Trade Finance Global Article</h4>
 <p>The article highlights challenges to the adoption of electronic bills
 of lading (eBLs) in global trade and elaborates on the legal article published
 by Stephenson Harwood partners with Virtus Law LLP to unveil the TradeTrust
