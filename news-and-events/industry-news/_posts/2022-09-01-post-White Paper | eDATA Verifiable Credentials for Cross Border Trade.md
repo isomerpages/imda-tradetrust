@@ -52,6 +52,7 @@ with minimal dependency on verifiertechnical capabilities.</p>
 <p>The UNCEFACT repository https://<a href="http://github.com/uncefact/spec-tradetrustprovides" rel="noopener noreferrer nofollow" target="_blank">github.com/uncefact/spec-tradetrust</a> provides
 additional guidance on the effective use of TradeTrust.</p>
 <p></p>
-<p>Download the <a href="https://unece.org/trade/documents/2023/10/white-paper-edata-verifiable-credentials-cross-border-trade" rel="noopener noreferrer nofollow" target="_blank">full whitepaper</a> at</p>
+<p>Download the <a href="https://unece.org/trade/documents/2023/10/white-paper-edata-verifiable-credentials-cross-border-trade" rel="noopener noreferrer nofollow" target="_blank">full white paper</a> on
+the United Nations Economic Commission for Europe (UNECE's) official website.</p>
 <p></p>
 <p></p>
