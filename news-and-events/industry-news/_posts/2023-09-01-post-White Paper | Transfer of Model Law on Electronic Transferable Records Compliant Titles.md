@@ -19,26 +19,23 @@ exclusive control to preclude double-spending, delivery and endorsement.
 The MLETR also provides for changes of medium where required.</p>
 <p>Read more about TradeTrust in the technical guidance appendix which is
 designed to support implementers with detailed technical information:</p>
-<p><strong><mark>TradeTrust</mark></strong>
+<p></p>
+<p><strong>TradeTrust</strong>
 </p>
-<p>Singapore developed
-<mark>TradeTrust</mark>(see <a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">https://www.</a> 
-<mark><a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">tradetrust</a> 
-</mark><a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">.io</a>)
-which is an open framework adapted for global trade practices to help the
-typically long chain of business partners achieve the ultimate objective
-of fully digitalising their business processes even across borders through
-being able to cater for both normal documents and transferable documents
-like Bills of Lading. Given the complexities of cross-border trade, success
+<p>Singapore developed TradeTrust (see <a href="https://www.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io</a>) which is
+an open framework adapted for global trade practices to help the typically
+long chain of business partners achieve the ultimate objective of fully
+digitalising their business processes even across borders through being
+able to cater for both normal documents and transferable documents like
+Bills of Lading. Given the complexities of cross-border trade, success
 requires a multi-prong and holistic approach. The technology underpinnings
-of
-<mark>TradeTrust</mark>are provided by OpenAttestation (see <a href="https://www.openattestation.com" rel="noopener noreferrer nofollow" target="_blank">https://www.openattestation.com</a>)
+of TradeTrust are provided by OpenAttestation (see <a href="https://www.openattestation.com" rel="noopener noreferrer nofollow" target="_blank">https://www.openattestation.com</a>)
 to enable documents issued with this technology to be cryptographically
 trustworthy and able to be verified independently, as well as being able
 to effect title transfers through ETRs. OpenAttestation has been registered
 as a Digital Public Good with the Digital Public Goods Alliance (see
 <a href="https://digitalpublicgoods.net" rel="noopener noreferrer nofollow" target="_blank">https://digitalpublicgoods.net</a>). Atop this <strong>freely-available</strong>, <strong>open-source </strong>technology,
-<mark>TradeTrust</mark>adds aspects such as acceptance by the global trade community
+TradeTrust adds aspects such as acceptance by the global trade community
 and governments on the methods of document digitalisation as well as alignment
 on policy stances through Government-level arrangements such as Digital
 Economy Agreements. These efforts have resulted in the following features
@@ -65,10 +62,8 @@ depending on their circumstances thus allowing issuers to execute digitalisation
 with minimal dependency on verifier technical capabilities.</p>
 </li>
 </ul>
-<p>The UN/CEFACT repository <a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/uncefact/spec-</a> 
-<mark><a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">tradetrust </a>
-</mark>provides additional guidance on the effective use of
-<mark>TradeTrust</mark>.</p>
+<p>The UN/CEFACT repository <a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/uncefact/spec-tradetrust</a> provides
+additional guidance on the effective use of TradeTrust.</p>
 <p></p>
 <p>Download the <a href="https://unece.org/sites/default/files/2023-09/WhitePaper_Transfer-MLETR.pdf" rel="noopener noreferrer nofollow" target="_blank">full white paper</a> on
 the United Nations Economic Commission for Europe (UNECE's) official website.</p>
