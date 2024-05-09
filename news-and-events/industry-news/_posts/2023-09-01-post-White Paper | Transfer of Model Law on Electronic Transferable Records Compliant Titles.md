@@ -37,8 +37,7 @@ to enable documents issued with this technology to be cryptographically
 trustworthy and able to be verified independently, as well as being able
 to effect title transfers through ETRs. OpenAttestation has been registered
 as a Digital Public Good with the Digital Public Goods Alliance (see
-<a href="https://digitalpublicgoods.net" rel="noopener noreferrer nofollow" target="_blank">https://digitalpublicgoods.net</a>). Atop this</p>
-<p><strong>freely-available</strong>, <strong>open-source </strong>technology,
+<a href="https://digitalpublicgoods.net" rel="noopener noreferrer nofollow" target="_blank">https://digitalpublicgoods.net</a>). Atop this <strong>freely-available</strong>, <strong>open-source </strong>technology,
 <mark>TradeTrust</mark>adds aspects such as acceptance by the global trade community
 and governments on the methods of document digitalisation as well as alignment
 on policy stances through Government-level arrangements such as Digital
