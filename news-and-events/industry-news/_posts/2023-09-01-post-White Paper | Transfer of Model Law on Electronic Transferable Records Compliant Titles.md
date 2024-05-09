@@ -17,8 +17,8 @@ the same legal effects as are achieved by use of its paper counterpart.
 These are the requirements of writing and signature, integrity, singularity,
 exclusive control to preclude double-spending, delivery and endorsement.
 The MLETR also provides for changes of medium where required.</p>
-<p>Read more about TradeTrust in the technical guidance appendix is designed
-to support implementers with detailed technical information:</p>
+<p>Read more about TradeTrust in the technical guidance appendix which is
+designed to support implementers with detailed technical information:</p>
 <p><strong><mark>TradeTrust</mark></strong>
 </p>
 <p>Singapore developed
