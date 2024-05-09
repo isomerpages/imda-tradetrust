@@ -62,4 +62,4 @@ with minimal dependency on verifier technical capabilities.</p>
 <mark>TradeTrust</mark>.</p>
 <p></p>
 <p>Download the <a href="https://unece.org/sites/default/files/2023-09/WhitePaper_Transfer-MLETR.pdf" rel="noopener noreferrer nofollow" target="_blank">full white paper</a> on
-the United Nations Economic Commission for Europe (UNECE) website.</p>
+the United Nations Economic Commission for Europe (UNECE's) official website.</p>
