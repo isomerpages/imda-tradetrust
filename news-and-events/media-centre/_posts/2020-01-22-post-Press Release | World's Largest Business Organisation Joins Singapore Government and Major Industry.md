@@ -74,7 +74,8 @@ platform.</p>
 <p>Jointly issued by the International Chamber of Commerce and Infocomm Media
 Development Authority of Singapore</p>
 <p></p>
-<p>See the same press release on IMDA's official website.</p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2020/worlds-largest-business-organisation-joins-singapore-government-and-major-industry-partners-to-drive-global-digitalisation" rel="noopener noreferrer nofollow" target="_blank">same press release</a> on
+IMDA's official website.</p>
 <p></p>
 <p></p>
 <p></p>
