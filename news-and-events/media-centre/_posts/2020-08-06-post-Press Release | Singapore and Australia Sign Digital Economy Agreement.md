@@ -17,15 +17,7 @@ variant: tiptap
 for Trade, Tourism and Investment Simon Birmingham signed the Singapore-Australia
 Digital Economy Agreement (SADEA) electronically during a video conference
 today.</p>
-<p>Mr Chan said, “The signing of the Singapore-Australia Digital Economy
-Agreement marks a milestone in the long-standing and multi-faceted partnership
-between our two countries. The SADEA will facilitate digitalisation of
-trade processes and make it easier and more cost effective for Singapore
-companies to engage in cross border business activities with Australia.
-As COVID-19 forces businesses to consider innovative ways to reach customers
-and adapt to a new way of doing business, agreements like the SADEA will
-allow our companies to take advantage of opportunities in the digital economy
-and tap on new technologies to create new digital products and services.”</p>
+<p>Mr Chan said, “<em>The signing of the Singapore-Australia Digital Economy Agreement marks a milestone in the long-standing and multi-faceted partnership between our two countries. The SADEA will facilitate digitalisation of trade processes and make it easier and more cost effective for Singapore companies to engage in cross border business activities with Australia. As COVID-19 forces businesses to consider innovative ways to reach customers and adapt to a new way of doing business, agreements like the SADEA will allow our companies to take advantage of opportunities in the digital economy and tap on new technologies to create new digital products and services</em>.”</p>
 <p>Singapore and Australia enjoy strong bilateral trade and investment flows
 and the SADEA builds on this foundation to enhance economic opportunities
 in the digital realm. With the SADEA, Singapore and Australia aim to create
