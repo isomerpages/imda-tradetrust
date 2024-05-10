@@ -54,7 +54,12 @@ and enjoy the benefits of participating in the digital economy.</p>
 </li>
 </ul>
 <p></p>
+<p>Jointly issued by the Ministry of Trade and Industry (MTI), Ministry of
+Communications and Information (MCI) and the Infocomm Media Development
+Authority (IMDA)</p>
 <p></p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2020/singapore-chile-and-new-zealand-sign-digital-economy-partnership-agreement-electronically" rel="noopener noreferrer nofollow" target="_blank">same press release</a> on
+IMDA's official website.</p>
 <p></p>
 <p></p>
 <p></p>
