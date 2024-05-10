@@ -47,19 +47,19 @@ economic ties between our countries.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-a-photos-and-captions-depa.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex A: Photos and captions (114.64KB)</u></a>
+<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-a-photos-and-captions-depa.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex A: Photos and captions</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-b-joint-ministerial-statement-on-the-substantial-conclusion-of-depa.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex B: Joint Ministerial Statement on the Substantial Conclusion of DEPA (102.70KB)</u></a>
+<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-b-joint-ministerial-statement-on-the-substantial-conclusion-of-depa.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex B: Joint Ministerial Statement on the Substantial Conclusion of DEPA</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-c-key-features-of-the-depa.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex C: Key features of the DEPA (139.87KB)</u></a>
+<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-c-key-features-of-the-depa.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex C: Key features of the DEPA</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-d-quotes-from-companies-on-depa-modules.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex D: Quotes from companies on DEPA modules (112.56KB)</u></a>
+<p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-d-quotes-from-companies-on-depa-modules.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex D: Quotes from companies on DEPA modules</u></a>
 </p>
 </li>
 </ul>
