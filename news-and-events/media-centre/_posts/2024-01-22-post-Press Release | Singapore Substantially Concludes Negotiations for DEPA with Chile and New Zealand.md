@@ -10,6 +10,7 @@ variant: tiptap
 ---
 <p><strong>SINGAPORE – 22 JAN 2020</strong>
 </p>
+<h4>Singapore Substantially Concludes Negotiations for Digital Economy Partnership Agreement with Chile and New Zealand</h4>
 <p>Minister for Trade and Industry Chan Chun Sing, New Zealand’s Minister
 for Trade and Export Growth David Parker and Chile’s Vice Minister for
 Trade Rodrigo Yanez jointly announced the substantial conclusion of the
