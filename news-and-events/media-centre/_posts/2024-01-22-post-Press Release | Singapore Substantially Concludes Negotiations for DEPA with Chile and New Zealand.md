@@ -16,17 +16,7 @@ for Trade and Export Growth David Parker and Chile’s Vice Minister for
 Trade Rodrigo Yanez jointly announced the substantial conclusion of the
 negotiations for the Digital Economy Partnership Agreement (<strong>DEPA</strong>)
 in Singapore today.</p>
-<p>Mr Chan Chun Sing said, “The DEPA is a new form of economic engagement
-in the digital era that Singapore has embarked on with like-minded partners
-Chile and New Zealand. I am encouraged that our countries have worked collaboratively
-and expeditiously to achieve substantial conclusion of negotiations. As
-the nature of commerce and trade evolves due to digitalisation, it is important
-that we build new forms of cross-border linkages in order to create opportunities
-for our businesses to thrive in the digital economy. I would like to thank
-officials from the Ministry of Trade and Industry, Ministry of Communications
-and Information and the Infocomm Media Development Authority for working
-closely to bring this agreement to fruition which has allowed us to pursue
-these digital initiatives.”</p>
+<p>Mr Chan Chun Sing said, “<em>The DEPA is a new form of economic engagement in the digital era that Singapore has embarked on with like-minded partners Chile and New Zealand. I am encouraged that our countries have worked collaboratively and expeditiously to achieve substantial conclusion of negotiations. As the nature of commerce and trade evolves due to digitalisation, it is important that we build new forms of cross-border linkages in order to create opportunities for our businesses to thrive in the digital economy. I would like to thank officials from the Ministry of Trade and Industry, Ministry of Communications and Information and the Infocomm Media Development Authority for working closely to bring this agreement to fruition which has allowed us to pursue these digital initiatives.</em>”</p>
 <p>In addition to establishing rules for digital trade, the DEPA fosters
 cooperation in emerging digital areas. It promotes interoperability between
 different regimes by aligning standards and addressing new issues brought
