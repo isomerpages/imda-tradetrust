@@ -38,3 +38,12 @@ with Chile and New Zealand in June this year.</p>
 <p>More details on Singapore’s digital economy agreements, the full text
 of SADEA, and information on the various MOUs, can be found at: <a href="https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements</u></a>.</p>
 <p></p>
+<p>Jointly issued by the Ministry of Trade and Industry (MTI), Ministry of
+Communications and Information (MCI) and the Infocomm Media Development
+Authority (IMDA).</p>
+<p></p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2020/signing-of-singapore-australia-digital-economy-agreement" rel="noopener noreferrer nofollow" target="_blank">same press release</a> on
+IMDA's official website.</p>
+<p></p>
+<p></p>
+<p></p>
