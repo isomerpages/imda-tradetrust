@@ -11,7 +11,6 @@ variant: tiptap
 </p>
 <h4>Singapore, Chile and New Zealand Sign Digital Economy Partnership Agreement Electronically</h4>
 <p></p>
-<p></p>
 <p>Minister for Trade and Industry Chan Chun Sing, New Zealand’s Minister
 for Trade and Export Growth David Parker and Chile’s Minister of Foreign
 Affairs Teodoro Ribera Neumann signed the Digital Economy Partnership Agreement
