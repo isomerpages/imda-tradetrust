@@ -61,6 +61,7 @@ economic ties between our countries.</p>
 <li>
 <p><a href="https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-d-quotes-from-companies-on-depa-modules.pdf" class="link__pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex D: Quotes from companies on DEPA modules</u></a>
 </p>
+<p></p>
 </li>
 </ul>
 <p>Jointly issued by the Ministry of Trade and Industry (MTI), Ministry of
