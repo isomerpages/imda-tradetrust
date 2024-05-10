@@ -26,13 +26,7 @@ of different countries. Singapore businesses can look forward to benefits
 such as improved efficiency, reduced cost and increased trust when conducting
 business and trading digitally with their overseas partners in these two
 countries.</p>
-<p>Mr Chan said, “The COVID-19 pandemic has greatly accelerated the pace
-of digital transformation globally. As more businesses carry out their
-activities in the digital sphere, agreements such as the DEPA will be even
-more critical in helping businesses transact and trade seamlessly. Singapore
-will continue to work closely with Chile and New Zealand, and other like-minded
-partners, to strengthen our digital connectivity and enable our businesses
-to better tap on the opportunities in the digital economy.”</p>
+<p>Mr Chan said, “<em>The COVID-19 pandemic has greatly accelerated the pace of digital transformation globally. As more businesses carry out their activities in the digital sphere, agreements such as the DEPA will be even more critical in helping businesses transact and trade seamlessly. Singapore will continue to work closely with Chile and New Zealand, and other like-minded partners, to strengthen our digital connectivity and enable our businesses to better tap on the opportunities in the digital economy</em>.”</p>
 <p>The DEPA parties have begun to embark on joint projects to operationalise
 key aspects of the DEPA. For example, Singapore is working with New Zealand
 on the International Connectivity System (ICS), which will include the
