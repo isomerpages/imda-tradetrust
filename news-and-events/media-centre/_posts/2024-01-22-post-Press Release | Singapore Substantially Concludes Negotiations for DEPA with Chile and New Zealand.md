@@ -67,4 +67,7 @@ economic ties between our countries.</p>
 Communications and Information (MCI) and the Infocomm Media Development
 Authority (IMDA)</p>
 <p></p>
+<p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2020/singapore-substantially-concludes-negotiations-for-digital-economy-partnership-agreement-with-chile-and-new-zealand" rel="noopener noreferrer nofollow" target="_blank">same press release</a> on
+IMDA's official website.</p>
+<p></p>
 <p></p>
