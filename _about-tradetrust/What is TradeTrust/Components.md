@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What is TradeTrust
 ---
-<h4><strong>4 Key Components of TradeTrust</strong></h4>
+<h3><strong>4 Key Components of TradeTrust</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Legal Harmonisation</strong> 
