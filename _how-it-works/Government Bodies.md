@@ -49,4 +49,4 @@ relationships</p>
 worldwide to adopt and implement it easily</p>
 </li>
 </ul>
-<p></p>
+<p>&lt;Add graphic icons&gt;</p>
