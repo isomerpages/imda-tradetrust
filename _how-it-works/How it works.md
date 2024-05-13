@@ -10,3 +10,4 @@ image: /images/How_it_works.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/How_it_works.png">
 </div>
 <p></p>
+<p>&lt;Redraw the infographics to add in the new categories&gt;</p>
