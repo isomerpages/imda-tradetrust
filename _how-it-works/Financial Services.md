@@ -4,7 +4,11 @@ permalink: /how-it-works/financial-services/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_184881962_contract.jpg">
+</div>
 <h4><strong>FOR FINANCIAL SERVICES</strong></h4>
+<p></p>
 <p><strong>Globally harmonised accreditation</strong>
 </p>
 <ul data-tight="true" class="tight">
