@@ -4,8 +4,12 @@ permalink: /how-it-works/technology-services/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1646500561_technology.jpg">
+</div>
 <h4><strong>FOR TECHNOLOGY AND SERVICES</strong></h4>
-<p><strong>Verification of software product </strong>
+<p><strong>Verification of software product</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
