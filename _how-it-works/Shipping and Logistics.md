@@ -4,6 +4,10 @@ permalink: /how-it-works/shipping-and-logistics/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1449484368_Shipping.jpg">
+</div>
 <h4><strong>FOR SHIPPING AND LOGISTICS</strong></h4>
 <p><strong>More efficient processes</strong>
 </p>
