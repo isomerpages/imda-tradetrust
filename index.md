@@ -24,7 +24,7 @@ sections:
           url: /about-tradetrust/what-is-tradetrust/overview/
         - title: Find out how it works
           description: 4 easy steps
-          url: /how-to-get-started/4-easy-steps/
+          url: /how-to-get-started/easy-steps/
         - title: Key Benefits
           description: For different industries
           url: /benefits-of-tradetrust/
