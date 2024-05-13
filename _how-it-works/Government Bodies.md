@@ -4,6 +4,10 @@ permalink: /how-it-works/government-bodies/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1409409162_immigration.jpg">
+</div>
 <h4><strong>FOR GOVERNMENT BODIES</strong></h4>
 <p><strong>Legal harmonisation and global standards</strong>
 </p>
