@@ -79,7 +79,7 @@ existing platforms</p>
 <p>&nbsp;</p>
 <p><em>&lt;Add graphic icons to emphasise key points above&gt;</em>
 </p>
-<p></p>
+<hr>
 <p></p>
 <h4><strong>DID YOU KNOW</strong></h4>
 <blockquote>
