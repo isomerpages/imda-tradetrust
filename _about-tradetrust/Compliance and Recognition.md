@@ -4,7 +4,11 @@ permalink: /about-tradetrust/compliance-and-recognition/
 variant: tiptap
 description: ""
 ---
-<h4><strong><a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Electronic Transactions Act</a> </strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1287244680_compliance.jpg">
+</div>
+<h4><strong><a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Electronic Transactions Act</a></strong></h4>
 <p>Yes, TradeTrust is designed to be compliant with <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Electronic Transactions Act</a> (ETA),
 which has been <a rel="noopener noreferrer nofollow" target="_blank">harmonised</a> &nbsp;
 with other global jurisdictions that also adopt the UNCITRAL MLETR.&nbsp;In
