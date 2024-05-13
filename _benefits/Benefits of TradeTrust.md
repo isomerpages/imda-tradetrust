@@ -4,6 +4,10 @@ permalink: /benefits-of-tradetrust/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1169668336_global.jpg">
+</div>
 <p>TradeTrust is legally valid and <strong>makes global trade easier, safer, and cheaper</strong>.
 It is easily accepted by all platforms in the trade ecosystem and workflow.&nbsp;</p>
 <p>TradeTrust benefits businesses and users that need to process business
