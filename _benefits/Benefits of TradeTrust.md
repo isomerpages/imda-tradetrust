@@ -78,9 +78,9 @@ existing platforms</p>
 </p>
 <p></p>
 <p></p>
-<blockquote>
 <p><strong>DID YOU KNOW</strong>
 </p>
+<blockquote>
 <p>TradeTrust is recognised as a Digital Public Good (DPG), a digital utility
 or service offered without profit to benefit the public.</p>
 </blockquote>
