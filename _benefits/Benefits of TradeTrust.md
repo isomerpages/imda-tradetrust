@@ -19,7 +19,6 @@ supply chain).</p>
 involved in international trade (WTO, ICC, FIATA) and government bodies
 such as the Ministry of Trade &amp; Industry and Customs Authority.</p>
 <p>These are the key benefits of TradeTrust.</p>
-<p>&nbsp;</p>
 <h4><strong>Fully digital</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,8 +81,7 @@ existing platforms</p>
 </p>
 <p></p>
 <p></p>
-<p><strong>DID YOU KNOW</strong>
-</p>
+<h4><strong>DID YOU KNOW</strong></h4>
 <blockquote>
 <p>TradeTrust is recognised as a Digital Public Good (DPG), a digital utility
 or service offered without profit to benefit the public.</p>
