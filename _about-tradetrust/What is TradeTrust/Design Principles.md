@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What is TradeTrust
 ---
-<h4>5 Design Principles of TradeTrust</h4>
+<h3>5 Design Principles of TradeTrust</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Public Blockchain</strong> 
