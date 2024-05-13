@@ -8,7 +8,7 @@ third_nav_title: What is TradeTrust
 <h4><strong>4 Key Components of TradeTrust</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Legal Harmonisation</strong>
+<p><strong>Legal Harmonisation</strong> 
 <br>In 2021, Singapore updated its laws to recognise electronic trade documents
 that follow international standards legally, the UNCITRAL MLETR. TradeTrust
 documents that comply with UNCITRAL MLETR are legally valid across borders.
@@ -17,7 +17,7 @@ There is no need for separate legal contracts or rulebooks.
 </p>
 </li>
 <li>
-<p><strong>Global Standards</strong>
+<p><strong>Global Standards</strong> 
 <br>TradeTrust works with international standards bodies like the UN/CEFACT,
 ISO and UNESCAP. Adopting TradeTrust means following internationally recognised
 standards and accreditation.&nbsp;
@@ -31,7 +31,7 @@ to meet legal requirements.&nbsp;
 </p>
 </li>
 <li>
-<p><strong>Software Components</strong>
+<p><strong>Software Components</strong> 
 <br>Ernst &amp; Young audited, reviewed, and assessed the TradeTrust framework
 in 2021 to ensure its reliability and trustworthiness. Data is always kept
 confidential, as it is not stored on the blockchain.</p>
