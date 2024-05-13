@@ -4,6 +4,10 @@ permalink: /how-it-works/manufacturing-and-trade/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1391619757_manufacturing.jpg">
+</div>
 <h4><strong>FOR MANUFACTURING AND TRADE</strong></h4>
 <p><strong>Product specification</strong>
 </p>
