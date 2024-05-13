@@ -4,7 +4,11 @@ permalink: /about-tradetrust/who-we-are/
 variant: tiptap
 description: ""
 ---
-<p>In 2019, the <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_835932454_sg_skyline.jpg">
+</div>
+<p>In 2019, the <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a> 
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[RY1]</a>&nbsp; (IMDA) launched TradeTrust, an open-source technology
 framework designed to enable the secure and seamless transaction and processing
 of digital trade documents.&nbsp;</p>
@@ -27,13 +31,15 @@ and supply chain can benefit from:</p>
 </li>
 </ul>
 <hr>
-<blockquote>
+<p></p>
+<p></p>
 <h4><strong>Vision</strong></h4>
+<blockquote>
 <p>To deliver the safest and most trusted way to trade for anyone, anywhere.</p>
 </blockquote>
 <p></p>
-<blockquote>
 <h4><strong>Mission</strong></h4>
+<blockquote>
 <p>TradeTrust’s mission is to make international trade more secure, efficient,
 and accessible for everyone involved, regardless of their location or scale
 of operations. It achieves this by establishing a common, globally accepted
