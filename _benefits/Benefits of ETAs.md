@@ -4,6 +4,10 @@ permalink: /benefits-of-etas/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1169668336_global.jpg">
+</div>
 <p>Singapore’s Electronic Transactions Act (ETA) recognises the validity
 of electronic records, signatures, and transactions. Introduced in 1998,
 it was amended in 2021 to adopt the UNCITRAL MLETR, which allows the legal
