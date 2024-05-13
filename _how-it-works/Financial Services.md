@@ -33,4 +33,4 @@ law</p>
 <p>Reduces the chances of fraudulent activities</p>
 </li>
 </ul>
-<p></p>
+<p>&lt;Add graphic icons&gt;</p>
