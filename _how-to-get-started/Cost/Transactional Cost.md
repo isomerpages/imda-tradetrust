@@ -53,3 +53,5 @@ for each transaction based on blank-endorsed BL document flow.</p>
 </details>
 </div>
 <p></p>
+<p>:: <a href="https://docs.tradetrust.io/docs/topics/introduction/estimated-cost-for-transactions" rel="noopener noreferrer nofollow" target="_blank">Click here to view more details for each different type of document and blockchain</a>
+</p>
