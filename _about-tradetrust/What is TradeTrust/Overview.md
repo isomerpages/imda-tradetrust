@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What is TradeTrust
 ---
-<h1>OVERVIEW</h1>
-<p><strong><u>One Framework for Trade Digitalisation</u></strong>
-</p>
+<h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
 <p>TradeTrust is a framework that uses global standards to link governments
 and businesses to a public blockchain. This allows electronic trade documents,
 such as the Bill of Lading (BL), to be trusted and easily exchanged across
