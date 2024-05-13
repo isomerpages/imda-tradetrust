@@ -32,6 +32,9 @@ MLETR standards.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tranferable_exporter.png">
+</div>
 </div>
 </details>
 </div>
@@ -41,6 +44,9 @@ MLETR standards.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/transferable_importer.png">
+</div>
 </div>
 </details>
 </div>
@@ -50,6 +56,9 @@ MLETR standards.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/transferable_customs.png">
+</div>
 </div>
 </details>
 </div>
@@ -59,6 +68,9 @@ MLETR standards.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/transferable_banker.png">
+</div>
 </div>
 </details>
 </div>
