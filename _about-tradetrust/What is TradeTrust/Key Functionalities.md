@@ -5,27 +5,27 @@ variant: tiptap
 description: ""
 third_nav_title: What is TradeTrust
 ---
-<h4>THREE Key Functionalities</h4>
+<h3><strong>3 Key Functionalities</strong></h3>
 <p>When you use TradeTrust, you can <strong>issue</strong>, <strong>exchange</strong> and <strong>receive</strong> special
 digital documents called TrustDocs. These TrustDocs allow recipients to
 <br>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Verify the Authenticity</strong>
+<p><strong>Verify the Authenticity</strong> 
 <br>If the document has been modified or tampered with, any changes will be
 evident</p>
 <p></p>
 </li>
 <li>
-<p><strong>Verify the Origin</strong>
+<p><strong>Verify the Origin</strong> 
 <br>Advanced methods like Decentralised Identifiers (DID) and digital signatures
 are used to confirm the genuine creator of the document, like shipping
 companies or government authorities</p>
 <p></p>
 </li>
 <li>
-<p><strong>Transfer Ownership</strong>
+<p><strong>Transfer Ownership</strong> 
 <br>Legally transfer ownership of certain documents from one party to another.
 TradeTrust uses blockchain technology to enable secure digital ownership
 transfers</p>
