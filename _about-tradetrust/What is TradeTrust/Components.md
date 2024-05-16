@@ -10,17 +10,19 @@ third_nav_title: What is TradeTrust
 <li>
 <p><strong>Legal Harmonisation</strong> 
 <br>In 2021, Singapore updated its laws to recognise electronic trade documents
-that follow international standards legally, the UNCITRAL MLETR. TradeTrust
-documents that comply with UNCITRAL MLETR are legally valid across borders.
-There is no need for separate legal contracts or rulebooks.
+that follow international standards legally, the United Nations Commission
+on International Trade Law (UNCITRAL) Model Law on Electronic Transferable
+Records (MLETR). TradeTrust-enabled documents that comply with UNCITRAL
+MLETR are<strong> <a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">legally</a></strong>&nbsp;valid
+across borders. There is no need for separate legal contracts or rulebooks.
 <br>
 </p>
 </li>
 <li>
 <p><strong>Global Standards</strong> 
 <br>TradeTrust works with international standards bodies like the UN/CEFACT,
-ISO and UNESCAP. Adopting TradeTrust means following internationally recognised
-standards and accreditation.&nbsp;
+W3C and UNESCAP. Adopting TradeTrust means following internationally recognised
+standards and accreditation.&nbsp;&nbsp;
 <br>
 </p>
 </li>
@@ -32,11 +34,16 @@ to meet legal requirements.&nbsp;
 </li>
 <li>
 <p><strong>Software Components</strong> 
-<br>Ernst &amp; Young audited, reviewed, and assessed the TradeTrust framework
-in 2021 to ensure its reliability and trustworthiness. Data is always kept
-confidential, as it is not stored on the blockchain.</p>
+<br>The set of software components can be downloaded for free from <strong><a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank">GitHub</a></strong>&nbsp;under
+the open-source licensing terms. Distributed open-source so that participants
+like you (government or private-sector) can assure themselves of what the
+software code does.</p>
+<p>Ernst &amp; Young completed the security assessment in 2021 to ensure
+its reliability and trustworthiness.</p>
+<p></p>
 </li>
 </ol>
+<p>&lt;Add graphic icons next to headers to emphasise each point&gt;</p>
 <p></p>
 <p>TradeTrust supports many document formats. Its components are open-source
 and free to use, enabling easy integration into existing systems. It functions
@@ -46,6 +53,7 @@ transfer of trade obligations.</p>
 <p>In essence, TradeTrust provides a legally harmonised, globally standardised,
 and secure framework for digital trade documentation, backed by open-source
 software components that can be easily integrated into existing systems.</p>
-<p>&lt;Add graphic icons next to headers to emphasise each point&gt;</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
