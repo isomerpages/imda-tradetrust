@@ -6,26 +6,33 @@ description: ""
 third_nav_title: What is TradeTrust
 ---
 <p>There are two main types of business documents: Transferable and Verifiable.
-These documents are commonly saved as PDF files in digital format. It can
-be difficult to prove the origin and authenticity of regular PDF documents
-to facilitate the transfer of digital records of ownership of goods and
-titles.</p>
+These documents are commonly saved in digital format. It can be difficult
+to prove the origin and authenticity of regular electronic documents to
+facilitate the transfer of digital records of ownership of goods and titles.</p>
 <blockquote>
 <p>Using the TradeTrust framework, you can secure any digital document to
 protect its authenticity and control who is allowed to read or save it.&nbsp;</p>
 </blockquote>
-<p>TradeTrust-issued documents adhere to international standards and legal
-requirements thanks to advanced technologies in our framework like W3C
-Verifiable Credentials (URL link to What is W3C) and ERC-721 (URL link
-to what is ERC-721).</p>
+<p>TradeTrust-enabled documents utilise the technical methods, such as W3C
+Verifiable Credentials and ERC-721, compliant with UNCITRAL MLETR, meeting
+requirements specified in various statutory laws. Now, you can enjoy legal
+certainty and commercial predictability when conducting global trade.</p>
 <hr>
-<p><strong>Transferable Documents</strong> e.g. Bills of Lading
-<br>Ownership of these digital documents can be securely transferred from
-one party to another using the free blockchain technology. This process
-is secure and enables legal ownership transfers without requiring physical
-legal contracts because digital documents have the same legal status as
-physical paper documents under Singapore law and in countries that adopt
-MLETR standards.&nbsp;</p>
+<blockquote>
+<h4><strong>Transferable Documents</strong> e.g. Bills of Lading</h4>
+</blockquote>
+<p>Ownership of these digital documents can be securely transferred from
+one party to another using the blockchain technology. This process is secure
+and enables legal ownership transfers without requiring physical legal
+contracts because digital documents have the same legal status as physical
+paper documents through compliance to MLETR requirements.&nbsp; When using
+TradeTrust-enabled electronic documents across MLETR-aligned and/or non-MLETR-aligned
+jurisdiction, it is recommended to expressly choose a governing law and
+jurisdiction provision for the documents with a MLETR jurisdiction like
+Singapore, New York, Delaware and other&nbsp;<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a>&nbsp;including
+United Kingdom of Great Britain and Northern Ireland, Bahrain, Papua New
+Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets in the
+United Arab Emirates.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Improvements for the Exporter</strong>
@@ -75,12 +82,15 @@ MLETR standards.&nbsp;</p>
 </details>
 </div>
 <p></p>
-<hr>
 <p></p>
-<p><strong>NORMAL DOCUMENTS/VERIFIABLE DOCUMENTS<br></strong>Documents such
-as the Certificate of Origin where the provenance and authenticity of the
-e-document can be easily verified by any party;</p>
-<p></p>
+<blockquote>
+<h4><strong>NORMAL DOCUMENTS OR VERIFIABLE DOCUMENTS</strong></h4>
+</blockquote>
+<p>These are specific trade documents that are non-transferable, such as
+Certificates of Origin (CoO), Invoices, and promissory notes.</p>
+<p>Without a definite framework , anyone can claim the authority to verify
+and authenticate the digital documents. TradeTrust provides legal certainty
+and assurance when issuing or receiving such documents.&nbsp;</p>
 <p><em>Examples of how TradeTrust improves the workflow for Verifiable Documents</em>
 </p>
 <p></p>
