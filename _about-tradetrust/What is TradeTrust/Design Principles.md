@@ -8,7 +8,7 @@ third_nav_title: What is TradeTrust
 <h3><strong>5 Design Principles of TradeTrust</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Public Blockchain</strong> 
+<p><strong>Public Blockchain - </strong>
 <br><em>No central governance authority</em> 
 <br>
 </p>
@@ -18,30 +18,27 @@ central authority.</p>
 <p>TradeTrust also uses Decentralised Identifiers (DID), digital signatures
 and cryptographic proof methods to verify the source and authenticity of
 documents.</p>
-<p></p>
 <p>You can choose any of the four blockchains—Ethereum, Polygon, XDC, or
-Stability—to transact TradeTrust-issued documents.</p>
-</li>
-</ol>
+Stability—to transact TradeTrust-enabled documents.</p>
 <p></p>
-<ol start="2" data-tight="true" class="tight">
+</li>
 <li>
-<p><strong>Data Off-Chain</strong> 
-<br><em>Preserves data confidentiality</em>
+<p><strong>Data Off-Chain</strong> - <em>Preserves data confidentiality</em>
 </p>
+<p></p>
 <p>Your data stays private by being stored separately and shared through
 traditional methods like email. When a document is issued using TradeTrust,
-a TradeTrust file (with a .TT file extension, for example) is created.
-Your data is stored in the TradeTrust file, which can be sent to your trading
-partner(s) through email, FTP, server-to-server API calls, etc.</p>
+a TradeTrust file (with a .TT file extension, for example <a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>)
+is created. Your data is stored in the TradeTrust file, which can be sent
+to your trading partner(s) through email, FTP, server-to-server API calls,
+etc.</p>
 </li>
 </ol>
-<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Payload Agnostic</strong> 
-<br><em>No data format or standard restriction</em>
+<p><strong>Payload Agnostic</strong> - <em>No data format or standard restriction</em>
 </p>
+<p></p>
 <p>There is no restriction on the type of data or format. TradeTrust works
 for ALL types of digital documents.</p>
 </li>
@@ -49,11 +46,10 @@ for ALL types of digital documents.</p>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Open-Source</strong> 
-<br><em>Full transparency for faster adoption</em> 
+<p><strong>Open-Source</strong> - <em>Full transparency for faster adoption</em> 
 <br>TradeTrust distributes its software as open-source, making it easier for
 everyone in the public sector to understand and use. It also enables full
-transparency for easy integration and implementation</p>
+transparency for easy integration and implementation.</p>
 </li>
 </ol>
 <p></p>
