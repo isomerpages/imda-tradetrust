@@ -8,8 +8,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1484283221_business.jpg">
 </div>
-<p>TradeTrust is legally valid and <strong>makes global trade easier, safer, and cheaper</strong>.
-It is easily accepted by all platforms in the trade ecosystem and workflow.&nbsp;</p>
+<h4><strong>DID YOU KNOW</strong></h4>
+<blockquote>
+<p>TradeTrust is recognised as a Digital Public Good (DPG), a digital utility
+or service offered without profit to benefit the public.</p>
+</blockquote>
+<p>TradeTrust-enabled document is legally valid and makes global trade easier,
+safer, and cheaper. It is easily accepted by all platforms in the trade
+ecosystem and workflow.&nbsp;</p>
 <p>TradeTrust benefits businesses and users that need to process business
 documents or certifications. These include businesses in trade finance
 (banks, insurers, surveyors), trade logistics (shippers, port operators,
@@ -79,11 +85,4 @@ existing platforms</p>
 <p>&nbsp;</p>
 <p><em>&lt;Add graphic icons to emphasise key points above&gt;</em>
 </p>
-<hr>
-<p></p>
-<h4><strong>DID YOU KNOW</strong></h4>
-<blockquote>
-<p>TradeTrust is recognised as a Digital Public Good (DPG), a digital utility
-or service offered without profit to benefit the public.</p>
-</blockquote>
 <p></p>
