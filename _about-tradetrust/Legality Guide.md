@@ -9,9 +9,11 @@ description: ""
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
 published the Model Law on Electronic Transferable Records (MLETR). This
 law allows the legal use of electronic transferable records (ETRs) within
-countries and across borders.&nbsp;</p>
-<p>Seven countries and territories, including Singapore, the UK and the US,
-have adopted MLETR into their laws.&nbsp;</p>
+countries and across borders.&nbsp;&nbsp;</p>
+<p>Countries and territories, including Singapore, the Kingdom of Great Britain
+and Northern Ireland, New York, Delaware, Bahrain, Papua New Guinea, Belize,
+Kiribati, Paraguay and the Abu Dhabi Global Markets in the United Arab
+Emirates have adopted MLETR into their laws.&nbsp;</p>
 <p></p>
 </blockquote>
 <p>Global trade has relied heavily on paper documents for centuries despite
@@ -26,6 +28,16 @@ ETRs like eBLs.&nbsp;&nbsp;</p>
 <p>TradeTrust-enabled eBLs follow all requirements set out in the MLETR law.
 This means they are legally valid and can be used across multiple platforms
 and frameworks in countries that have adopted MLETR.&nbsp;</p>
+<p>Instead of contractual rule book, your TradeTrust-enabled electronic documents
+will be supported by statutory law. When using these electronic documents
+across MLETR-aligned and/or non-MLETR-aligned jurisdiction, it is recommended
+to expressly choose a governing law and jurisdiction provision for the
+documents with a MLETR jurisdiction like Singapore, New York, Delaware
+or other MLETR-compliant jurisdictions. Using an example of a shipment
+from a non MLETR-compliant jurisdiction like China to Singapore, as long
+as the TradeTrust-issued electronic Bill of Lading (eBL) by carrier is
+governed by a MLETR-compliant jurisdiction such as Singapore, the eBL will
+be legally valid to facilitate the shipment.</p>
 <p>In this TradeTrust Legality Guide, you will find&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
