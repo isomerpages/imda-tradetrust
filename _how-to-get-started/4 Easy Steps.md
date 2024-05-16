@@ -7,8 +7,10 @@ description: ""
 <h4><strong>4 Easy Steps</strong></h4>
 <p>Follow this four-step guide on how to set up TradeTrust in your organisation.</p>
 <p></p>
+<blockquote>
 <p><strong>Step 1: Prepare the hardware</strong>
 </p>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Assign the workstation from which TradeTrust will be used to send or receive
@@ -19,8 +21,10 @@ documents</p>
 by TradeTrust</p>
 </li>
 </ul>
+<blockquote>
 <p><strong>Step 2: Download the free, open-source code</strong>
 </p>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">github.com/tradetrust</a> to
@@ -31,8 +35,10 @@ download the latest version of TradeTrust</p>
 them into the designated terminal.</p>
 </li>
 </ul>
+<blockquote>
 <p><strong>Step 3: Assign and train personnel</strong>
 </p>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Identify a suitable IT manager (internal or external vendor) to oversee
@@ -46,8 +52,10 @@ TradeTrust implementation&nbsp;</p>
 <br>· Set up workflows and processes for digital document handling
 <br>·&nbsp; Manage the storage and retrieval of digital documents
 <br>·&nbsp; Operate and maintain TradeTrust within your organisation</p>
+<blockquote>
 <p><strong>Step 4: Install, configure and test</strong>
 </p>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Install TradeTrust on the workstations</p>
