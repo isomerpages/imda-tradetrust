@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f4ab33"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f8e71c"
 description: A free digital utility tool to digitalise the end-to-end processing
   of trade documents.  Businesses can issue, exchange, verify the source and
   authenticity of electronic documents across different digital platforms
