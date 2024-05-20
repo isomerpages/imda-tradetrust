@@ -115,6 +115,9 @@ and assurance when issuing or receiving such documents.&nbsp;</p>
 handling the Certificate of Origin using TradeTrust.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_exporter.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cert_of_origin.png">
 </div>
 </div>
@@ -128,6 +131,9 @@ handling the Certificate of Origin using TradeTrust.</p>
 <p>An importer using TradeTrust to streamline his cargo collection process.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Importer.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Importer.png">
 </div>
 </div>
@@ -140,6 +146,9 @@ handling the Certificate of Origin using TradeTrust.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For Customs Authority using TradeTrust to issue Certificate of Origin</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Customs.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Customs.png">
 </div>
@@ -155,15 +164,14 @@ handling the Certificate of Origin using TradeTrust.</p>
 of Origin in trade financing applications.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Banker.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Verifiable_Banker.png">
 </div>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p><sub>*</sub><em><sub>MLETR = Model Law on Electronic Transferable Records published by United Nations Commission on International Trade Law in Sept 2017</sub></em>
 </p>
