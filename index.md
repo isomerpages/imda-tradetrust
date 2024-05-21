@@ -12,9 +12,9 @@ notification: ""
 sections:
   - hero:
       title: Transform the way you trade
-      subtitle: Digitalisation makes trade safer, easier, and less costly, providing
-        increased confidence, profitability, and peace of mind for your trade
-        ecosystem.
+      subtitle: Digitalisation that makes trade more secure, efficient, and
+        accessible, providing increased confidence, profitability, and peace of
+        mind for your business.
       background: /images/TradeDigitalisation.png
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
