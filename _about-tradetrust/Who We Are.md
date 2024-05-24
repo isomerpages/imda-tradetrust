@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_835932454_sg_skyline.jpg">
 </div>
-<p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority </u></a>(IMDA)
+<p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
 is a statutory board in the Singapore government.&nbsp; IMDA develops and
 regulates the infocomm and media sectors to create a dynamic, holistic
 and exciting ecosystem filled with growth opportunities through talent,
