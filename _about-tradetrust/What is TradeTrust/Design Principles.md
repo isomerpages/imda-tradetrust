@@ -28,10 +28,9 @@ Stability—to transact TradeTrust-enabled documents.</p>
 <p></p>
 <p>Your data stays private by being stored separately and shared through
 traditional methods like email. When a document is issued using TradeTrust,
-a TradeTrust file (with a .TT file extension, for example <a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>)
-is created. Your data is stored in the TradeTrust file, which can be sent
-to your trading partner(s) through email, FTP, server-to-server API calls,
-etc.</p>
+a TradeTrust file (with a .TT file extension, for example <a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>) is created. Your data
+is stored in the TradeTrust file, which can be sent to your trading partner(s)
+through email, FTP, server-to-server API calls, etc.</p>
 </li>
 </ol>
 <ol start="3" data-tight="true" class="tight">
