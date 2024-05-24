@@ -22,9 +22,9 @@ innovation.</p>
 </p>
 <p>TradeTrust aims to make international trade safer, faster, easier, and
 more cost-effective.&nbsp;</p>
-<p>Offered as a digital utility to everyone, it is provided open-source so
-that all parties can easily adopt for free and build upon it to benefit
-the business ecosystems with:</p>
+<p>Offered as a digital utility to all, it is provided open-source so that
+all parties can easily adopt for free and build upon it, benefiting business
+ecosystems with:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Reduced costs</p>
