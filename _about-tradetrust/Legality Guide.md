@@ -4,27 +4,32 @@ permalink: /about-tradetrust/legality-guide/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Singapore's Electronic Transactions Act</strong></h3>
+<p>&nbsp;In March 2021, the Electronic Transactions Act (ETA) was amended
+to align Singapore’s legal and regulatory infrastructure with international
+trade law and the latest technological advancements. The amendment adopted
+the Model Law on Electronic Transferable Records (MLETR) published by the
+United Nations Commission on International Trade Law. This allows Singapore’s
+jurisdiction to legally recognise Electronic Transferable Records as functional
+equivalents to their paper versions; meaning the creation and use of transferable
+documents by businesses and government, govern under the Singapore’s legal
+system, are legally valid.</p>
+<p></p>
+<h3><strong><u>Model Law on Electronic Transferable Records</u></strong></h3>
 <blockquote>
-<h4><strong><u>Model Law on Electronic Transferable Records</u></strong></h4>
+<h4></h4>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
 published the Model Law on Electronic Transferable Records (MLETR). This
 law allows the legal use of electronic transferable records (ETRs) within
 countries and across borders.&nbsp;&nbsp;</p>
+</blockquote>
 <p>Countries and territories, including Singapore, the Kingdom of Great Britain
 and Northern Ireland, New York, Delaware, Bahrain, Papua New Guinea, Belize,
 Kiribati, Paraguay and the Abu Dhabi Global Markets in the United Arab
-Emirates have adopted MLETR into their laws.&nbsp;</p>
+Emirates are MLETR- compliant.&nbsp;</p>
 <p></p>
-</blockquote>
-<p>Global trade has relied heavily on paper documents for centuries despite
-their legal, financial, and practical disadvantages. However, new technologies
-and legal developments now enable the use of electronic transferable documents,
-such as electronic bills of lading (eBLs). These electronic documents can
-be used on any digital platform, making them easy for all parties to adopt.&nbsp;</p>
-<p>TradeTrust is a framework and digital tool that secures electronic documents
-to be verified and trusted across different digital platforms and systems.
-When businesses and other entities adopt TradeTrust, they can easily implement
-ETRs like eBLs.&nbsp;&nbsp;</p>
+<p>When businesses and government bodies adopt TradeTrust, they can easily
+implement ETRs like electronic Bills of Lading.&nbsp;&nbsp;</p>
 <p>TradeTrust-enabled eBLs follow all requirements set out in the MLETR law.
 This means they are legally valid and can be used across multiple platforms
 and frameworks in countries that have adopted MLETR.&nbsp;</p>
