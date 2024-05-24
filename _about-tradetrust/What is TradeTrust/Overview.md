@@ -30,16 +30,22 @@ as well as transfer titles. All from the convenience of your enhanced IT
 system that you are familiar with, or simply with an internet access just
 to verify documents.</p>
 <p></p>
+<h3><strong>TWO Document Types : Verifiable Documents and Transferable Documents</strong></h3>
+<p>&nbsp;With TradeTrust, you can digitise any business documents, with no
+data format or standard restriction, into two document types:</p>
+<p>(1)&nbsp;<strong>Verifiable Documents&nbsp;</strong>for example certificates
+of origin and packing lists; and
+<br>(2)&nbsp;<strong>Transferable Documents</strong>&nbsp;for example Electronic
+Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
+receipts</p>
 <p>&nbsp;With TradeTrust designed to be compliant with <strong><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">UNCITRAL Model Law on Electronic Transferable Records (MLETR)</a></strong>,&nbsp;you
-can create and manage digital trade documents, such as electronic bills
+can create and manage transferable documents, such as electronic bills
 of lading (eBLs), that are transferable and legally equivalent to physical
 documents. This reduces the risks of fraud and the processing time significantly: <strong>Paperwork that used to take five to 10 days to process can now be accomplished in 24 hours</strong>.&nbsp;</p>
 <p>
-<br>&lt;<em>Graphics icons to emphasise the points in bold&gt;</em>
+<br>
 </p>
-<hr>
-<p><em>&lt;Graphics icons to emphasise the points below&gt;</em>
-</p>
+<p></p>
 <h4><u>Easy to Use and Implement</u></h4>
 <p>TradeTrust is open-source and available for free download, with no data
 format or standard restrictions to hinder implementation. &nbsp;You and
