@@ -89,7 +89,7 @@ contractual rulebook that will limit scalability</p>
 <p>No data is stored on the blockchain to preserve confidentiality</p>
 </li>
 <li>
-<p>Documents digitised are supported by statutory law and cryptographically
+<p>Electronic documents are supported by statutory law and cryptographically
 trustworthy and can be verified independently, providing you a peace of
 mind.</p>
 </li>
