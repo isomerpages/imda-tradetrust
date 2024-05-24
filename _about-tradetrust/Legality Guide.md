@@ -33,9 +33,8 @@ implement ETRs like electronic Bills of Lading.&nbsp;&nbsp;Instead of contractua
 rule book, your TradeTrust-enabled electronic documents will be supported
 by statutory law.</p>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
-jurisdiction, it is<strong> recommended to expressly choose a governing law and jurisdiction provision </strong>for
-the documents with a MLETR jurisdiction like Singapore, New York, Delaware
-or other MLETR-compliant jurisdictions.</p>
+jurisdiction, it is<strong> recommended to expressly choose a governing law and jurisdiction provision for the documents with a MLETR jurisdiction</strong> like
+Singapore, New York, Delaware or other MLETR-compliant jurisdictions.</p>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
