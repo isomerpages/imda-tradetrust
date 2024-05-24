@@ -41,14 +41,15 @@ receipts</p>
 <p>TradeTrust empowers you to</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Verify the authenticity : Any tampering would be evident</p>
+<p><strong>Verify the authenticit</strong>y : Any tampering would be evident</p>
 </li>
 <li>
-<p>Verify the provenance : Genuine creators of documents like Carriers, Govt
-authorities</p>
+<p><strong>Verify the provenance</strong> : Genuine creators of documents
+like Carriers, Govt authorities</p>
 </li>
 <li>
-<p>Effect title transfer : Legally-valid Performance Obligation Transfer.</p>
+<p><strong>Effect title transfer</strong> : Legally-valid Performance Obligation
+Transfer for transferable documents</p>
 <p></p>
 <p></p>
 </li>
