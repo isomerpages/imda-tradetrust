@@ -45,7 +45,7 @@ jurisdictions.</p>
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
-<p>IMDA has engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
+<p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
 Guide.</p>
 <p>You will find</p>
