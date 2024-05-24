@@ -77,8 +77,8 @@ Law, leads to proven benefits</p>
 authority, makes it the most accessible and neutral way to record transactions</p>
 </li>
 <li>
-<p>Eliminate the need for all parties to use a common digital platform and
-contractual rulebook that will limit scalability</p>
+<p>No need for all parties to use a common digital platform and contractual
+rulebook, eliminates scalability limitation</p>
 <p></p>
 </li>
 </ul>
