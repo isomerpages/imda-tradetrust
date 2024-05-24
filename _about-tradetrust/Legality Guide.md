@@ -29,20 +29,17 @@ Kiribati, Paraguay and the Abu Dhabi Global Markets in the United Arab
 Emirates are MLETR- compliant.&nbsp;</p>
 <p></p>
 <p>When businesses and government bodies adopt TradeTrust, they can easily
-implement ETRs like electronic Bills of Lading.&nbsp;&nbsp;</p>
-<p>TradeTrust-enabled eBLs follow all requirements set out in the MLETR law.
-This means they are legally valid and can be used across multiple platforms
-and frameworks in countries that have adopted MLETR.&nbsp;</p>
-<p>Instead of contractual rule book, your TradeTrust-enabled electronic documents
-will be supported by statutory law. When using these electronic documents
-across MLETR-aligned and/or non-MLETR-aligned jurisdiction, it is recommended
-to expressly choose a governing law and jurisdiction provision for the
-documents with a MLETR jurisdiction like Singapore, New York, Delaware
-or other MLETR-compliant jurisdictions. Using an example of a shipment
-from a non MLETR-compliant jurisdiction like China to Singapore, as long
-as the TradeTrust-issued electronic Bill of Lading (eBL) by carrier is
-governed by a MLETR-compliant jurisdiction such as Singapore, the eBL will
-be legally valid to facilitate the shipment.</p>
+implement ETRs like electronic Bills of Lading.&nbsp;&nbsp;Instead of contractual
+rule book, your TradeTrust-enabled electronic documents will be supported
+by statutory law.</p>
+<p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
+jurisdiction, it is recommended to expressly choose a governing law and
+jurisdiction provision for the documents with a MLETR jurisdiction like
+Singapore, New York, Delaware or other MLETR-compliant jurisdictions.</p>
+<p>Using an example of a shipment from a non MLETR-compliant jurisdiction
+like China to Singapore, as long as the TradeTrust-issued electronic Bill
+of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
+such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
 <p>In this TradeTrust Legality Guide, you will find&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
