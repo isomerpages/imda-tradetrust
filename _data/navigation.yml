@@ -2,33 +2,6 @@ logo: /images/TradeTrustOfficialLogo.svg
 links:
   - title: About TradeTrust
     collection: about-tradetrust
-  - title: How It works
-    url: /how-it-works/
-    sublinks:
-      - title: How It Works
-        url: /how-it-works/
-      - title: Financial Services
-        url: /how-it-works/financial-services/
-      - title: Government Bodies
-        url: /how-it-works/government-bodies/
-      - title: Manfacturing and Trade
-        url: /how-it-works/manufacturing-and-trade/
-      - title: Shipping and Logistics
-        url: /how-it-works/shipping-and-logistics/
-      - title: Technology Services
-        url: /how-it-works/technology-services/
-      - title: Create Documents
-        url: /create-documents/
-      - title: Verify Documents
-        url: /how-it-works/verify-documents/
-      - title: Setup and Try a Demo
-        url: /how-it-works/setup-and-try-a-demo/
-      - title: Successful Proof of Concept
-        url: /how-it-works/successful-proof-of-concepts-trials/
-      - title: Join Proof of Concept Programe
-        url: /how-it-works/join-the-proof-of-concept-programme/
-  - title: How to Get Started
-    collection: how-to-get-started
   - title: Developers
     collection: developers
   - title: News and Events
