@@ -18,10 +18,11 @@ ready for a future enabled by infocomm and digital media.</p>
 <p>IMDA is the driving force behind Singapore's digital transformation efforts
 by building the foundations of its digital infrastructure and driving digital
 innovation.</p>
-<p><strong>In 2019, IMDA launched TradeTrust, a framework designed to enable the secure and seamless transaction and processing of digital trade documents.&nbsp;</strong>
+<p><strong>In 2019, IMDA launched TradeTrust, a framework that standardizes digital trade with enhanced security and legal certainty. </strong>
 </p>
-<p>TradeTrust aims to make international trade safer, faster, easier, and
-more cost-effective.&nbsp;</p>
+<p>Designed to enable the secure and seamless transaction and processing
+of digital trade documents<strong>, </strong>TradeTrust aims to make international
+trade safer, faster, easier, and more cost-effective.&nbsp;</p>
 <p>Offered as a digital utility to all, it is provided open-source so that
 all parties can easily adopt for free and build upon it, benefiting business
 ecosystems with:</p>
