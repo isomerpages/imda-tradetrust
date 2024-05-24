@@ -91,7 +91,9 @@ and gentle on-ramps.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://stabilityprotocol.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STABILITY's GTN" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STABILITY's GTN</div><div class="isomer-card-description">STABILITY's GTN is the first public blockchain network without cryptocurrency, enabling feeless and secure data exchange for global adoption and interoperability of electronic documentation with the TradeTrust framework.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">GUUD empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products to banks.</div><div class="isomer-card-link">more ...</div></div></a>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">GUUD empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products to banks.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://jupyton.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -106,27 +108,35 @@ custom solutions and data exchange in being transparent, auditable, and
 tamper-proof.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docsonblocks</div><div class="isomer-card-description">Kryjas's Docsonblocks offers no-code document generation, management, and verification using TradeTrust for blockchain-backed, verifiable, transferable documents in international trade.</div><div class="isomer-card-link">more ...</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linklogis.com.hk/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Linklogis" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Linklogis</div><div class="isomer-card-description">Linklogis is a market leader in providing Supply Chain Financing SaaS service to financial institutions and anchor buyers that ultimately provide financing support to SMEs along the supply chain.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://morpheus.network/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docsonblocks </div><div class="isomer-card-description">Kryjas's Docsonblocks offers no-code document generation, management, and verification using TradeTrust for blockchain-backed, verifiable, transferable documents in international trade.</div><div class="isomer-card-link"> more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linklogis.com.hk/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Morpheus Network" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Linklogis" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Morpheus Network</div>
-<div class="isomer-card-description">Morpheus Network is a binding glue for fragmented data, IT systems and
-stakeholders down supply chains. Its middleware provides intuitive tools
-to digitise and automate supply chains.</div>
+<div class="isomer-card-title">Linklogis</div>
+<div class="isomer-card-description">Linklogis is a market leader in providing Supply Chain Financing SaaS
+service to financial institutions and anchor buyers that ultimately provide
+financing support to SMEs along the supply chain.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.reddatetech.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Red Date Technology" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Red Date Technology</div><div class="isomer-card-description">Red Date Technology is a technology company headquartered in Hong Kong dedicated to building next-generation Public IT System infrastructures for internet communications and digital economies.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://morpheus.network/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Morpheus Network" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Morpheus Network</div><div class="isomer-card-description">Morpheus Network is a binding glue for fragmented data, IT systems and stakeholders down supply chains. Its middleware provides intuitive tools to digitise and automate supply chains.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.reddatetech.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red Date Technology" src="https://placehold.co/600x400">
 </div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://secro.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SECRO" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SECRO</div><div class="isomer-card-description">SECRO provides traders and banks with a user-friendly, reliable, and secure online platform to instantaneously manage and exchange digital documents of title.</div><div class="isomer-card-link">more ...</div></div></a>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Red Date Technology</div>
+<div class="isomer-card-description">Red Date Technology is a technology company headquartered in Hong Kong
+dedicated to building next-generation Public IT System infrastructures
+for internet communications and digital economies.</div>
+<div class="isomer-card-link">more ...</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://secro.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SECRO" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SECRO</div><div class="isomer-card-description">SECRO provides traders and banks with a user-friendly, reliable, and secure online platform to instantaneously manage and exchange digital documents of title.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://sgtradex.com/?utm_source=tradetrust&amp;utm_medium=partners&amp;utm_campaign=tt-partners" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
