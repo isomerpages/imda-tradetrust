@@ -26,9 +26,9 @@ and legal requirements.</p>
 <p></p>
 </blockquote>
 <p>Users can independently verify documents’ proof of origin and authenticity
-as well as transfer titles, in compliance with globally-accepted standards.
-All from the convenience of your enhanced IT system that you are familiar
-with, or simply with an internet access just to verify documents.</p>
+as well as transfer titles. All from the convenience of your enhanced IT
+system that you are familiar with, or simply with an internet access just
+to verify documents.</p>
 <p></p>
 <p>&nbsp;With TradeTrust designed to be compliant with <strong><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">UNCITRAL Model Law on Electronic Transferable Records (MLETR)</a></strong>,&nbsp;you
 can create and manage digital trade documents, such as electronic bills
