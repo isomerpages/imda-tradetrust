@@ -34,6 +34,8 @@ one party to another using the blockchain technology. This process is secure
 and enables legal ownership transfers without requiring physical legal
 contracts because digital documents have the same legal status as physical
 paper documents through compliance to MLETR requirements.&nbsp;</p>
+<p></p>
+<p></p>
 <blockquote>
 <p>When using TradeTrust-enabled electronic documents across MLETR-aligned
 and/or non-MLETR-aligned jurisdiction, it is recommended <strong>to expressly choose a governing law and jurisdiction provision</strong> for
