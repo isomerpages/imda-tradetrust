@@ -43,8 +43,8 @@ sections:
       title: Benefits
       id: infopic
       description: Streamline end-to-end trade document processing seamlessly with
-        TradeTrust, ensuring optimal administrative efficiency and convenience
-        for trading partners.
+        TradeTrust, ensuring optimal operational efficiency and convenience for
+        trading partners.
       button: Learn More
       image: /images/Seamless_Trade_Ecosystem.PNG
       alt: Image alt text
