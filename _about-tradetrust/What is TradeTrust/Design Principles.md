@@ -18,19 +18,19 @@ authority.</p>
 <p>TradeTrust also uses Decentralised Identifiers (DID), digital signatures
 and cryptographic proof methods to verify the source and authenticity of
 documents.</p>
-<p>You can choose any of the four blockchains—Ethereum, Polygon, XDC, or
-Stability.</p>
+<p>You can choose any of the four blockchains—Ethereum, Polygon, XDC or Stability.</p>
 <p></p>
 </li>
 <li>
 <p><strong>Data Off-Chain</strong> - <em>Preserves data confidentiality</em>
 </p>
 <p></p>
-<p>Your data stays private by being stored separately and shared through
-traditional methods like email. When a document is issued using TradeTrust,
-a TradeTrust file (with a .TT file extension, for example <a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>) is created. Your data
-is stored in the TradeTrust file, which can be sent to your trading partner(s)
-through email, FTP, server-to-server API calls, etc.</p>
+<p>Your data stays private by being stored separately off chain and shared
+through traditional methods like email. When a document is issued using
+TradeTrust, a TradeTrust file (with a .TT file extension, for example
+<a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>) is created. Your data is stored in the TradeTrust file,
+which can be sent to your trading partner(s) through email, FTP, server-to-server
+API calls, etc.</p>
 </li>
 </ol>
 <ol start="3" data-tight="true" class="tight">
