@@ -15,7 +15,7 @@ equivalents to their paper versions; meaning the creation and use of transferabl
 documents by businesses and government, govern under the Singapore’s legal
 system, are legally valid.</p>
 <p></p>
-<h3><strong><u>Model Law on Electronic Transferable Records</u></strong></h3>
+<h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <blockquote>
 <h4></h4>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
