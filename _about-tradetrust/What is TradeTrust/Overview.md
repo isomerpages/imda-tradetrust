@@ -54,8 +54,7 @@ Transfer for transferable documents</p>
 <p></p>
 </li>
 </ol>
-<p>Here's how TradeTrust can help:</p>
-<h4><strong><u>Easy Adoption</u></strong></h4>
+<h4>Here's how TradeTrust can help:<br><strong><u>Easy Adoption</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>You can integrate TradeTrust's open-source code for free, without data
@@ -69,9 +68,9 @@ to start your live transactions</p>
 <h4><strong><u>Best Practices</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Your trade digitalisation transformation is guided by globally-accepted
-standards and compliant to Model Law on Electronic Transferable Records
-by United Nations Commission on International Trade Law</p>
+<p>Guided by globally-accepted standards and compliant to Model Law on Electronic
+Transferable Records by United Nations Commission on International Trade
+Law, leads to proven benefits</p>
 </li>
 <li>
 <p>The decentralised nature of a public blockchain – with no single governing
