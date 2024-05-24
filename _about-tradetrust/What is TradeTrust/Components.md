@@ -45,11 +45,9 @@ its reliability and trustworthiness.</p>
 </ol>
 <p>&lt;Add graphic icons next to headers to emphasise each point&gt;</p>
 <p></p>
-<p>TradeTrust supports many document formats. Its components are open-source
-and free to use, enabling easy integration into existing systems. It functions
-as middleware that can be plugged into different blockchains. This means
-you can ensure authenticity, verify the source, and validate the legal
-transfer of trade obligations.</p>
+<p>It functions as middleware that can be plugged into different blockchains.
+This means you can ensure authenticity, verify the source, and validate
+the legal transfer of trade obligations.</p>
 <p>In essence, TradeTrust provides a legally harmonised, globally standardised,
 and secure framework for digital trade documentation, backed by open-source
 software components that can be easily integrated into existing systems.</p>
