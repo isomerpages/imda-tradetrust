@@ -40,34 +40,38 @@ is the Inventor of the World’s first Smart Contract eBDN.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://credore.xyz/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Credore" src="/images/Partner Logos/credore_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Credore</div><div class="isomer-card-description">Credore revolutionises cross-border trade with a paperless IT infrastructure, leveraging TradeTrust to issue MLETR-compliant electronic documents, ensuring verifiability and traceability for legal validity.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.calista-logistics.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CALISTA Logistics" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CALISTA Logistics</div><div class="isomer-card-description">CALISTA Logistics is a cloud-based SaaS platform that offers multi-party collaboration for supply chain orchestration.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dimuto.io/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="DiMuto" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">DiMuto</div>
+<div class="isomer-card-description">DiMuto is an AgriFintech Solutions that powers AgriFood trade with AI,
+Data Visibility and Finance. With its Marketplace, Trade Management, and
+Financial services, DiMuto redefines global AgriFood trade.</div>
+<div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dltledgers.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DLT Ledgers" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DLT Ledgers</div><div class="isomer-card-description">DLT Ledgers is an industry-leading "low-code" supply chain digitisation platform that utilises blockchain technology to deliver multi-enterprise supply chain business networks.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docklab" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docklab</div><div class="isomer-card-description">Docklab develops breakthrough emerging technology solutions to accelerate the energy transition and transform supply chains into viable ventures.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">DocuShield</div>
+<div class="isomer-card-description">DocuShield is revolutionising trade across the Americas by offers secure,
+compliant documentation solutions tailored for MSME and facilitating simplified
+global commerce.</div>
+<div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://docutrade.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DocuTrade" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DocuTrade</div><div class="isomer-card-description">DocuTrade facilitates secure and reliable document management, including the transfer of ownership and title of trade documents such as Bills of Lading in alignment with MLETR and ICC DSI guidelines.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
