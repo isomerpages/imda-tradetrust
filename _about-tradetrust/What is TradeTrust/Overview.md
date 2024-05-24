@@ -8,20 +8,21 @@ third_nav_title: What is TradeTrust
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
 <p>Developed and pioneered by the Infocomm Media Development Authority (IMDA),
 TradeTrust was designed to transforms your trade digitalisation journey.</p>
-<p><strong>TradeTrust is a framework that standardizes digital trade, providing enhanced security and legal certainty for stakeholders in trade ecosystems</strong>.
-It achieves this by using advanced technologies and adhering to global
-standards and legal requirements to enable trusted interoperability of
-electronic trade documents across digital platforms. Electronic documents
-issued this way can be trusted, portable, and legally effective on different
-systems, thereby streamlining cross-platform compatibility and enhancing
-overall operational efficiency for businesses and governments.</p>
+<p><strong>TradeTrust is framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong> It
+achieves this by using advanced technologies and adhering to global standards
+and legal requirements to enable trusted interoperability of electronic
+trade documents across digital platforms. Electronic documents issued this
+way can be trusted, portable, and legally effective on different systems,
+thereby streamlining cross-platform compatibility and enhancing overall
+operational efficiency for businesses and governments.</p>
 <p>And offered as a free digital utility, it is open-sourced so that all
 parties can easily adopt for free and build upon it to benefit the business
 ecosystem.</p>
 <blockquote>
 <p>It’s like providing you with a supporting structure and free tool, to
-turn your documents into smart electronic documents with enhanced security
-features that are portable across your trading partners.</p>
+turn your documents into smart electronic documents that are portable across
+your trading partners with enhanced security features, meet the standards
+and legal requirements.</p>
 <p></p>
 </blockquote>
 <p>Users can independently verify documents’ proof of origin and authenticity
