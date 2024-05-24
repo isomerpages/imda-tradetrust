@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What is TradeTrust
 ---
-<p>There are two main types of business documents: Transferable and Verifiable.
+<p>There are two main types of business documents: Verifiable and Transferable.
 These documents are commonly saved in digital format. It can be difficult
 to prove the origin and authenticity of regular electronic documents to
 facilitate the transfer of digital records of ownership of goods and titles.</p>
