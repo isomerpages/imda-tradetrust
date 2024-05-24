@@ -57,22 +57,6 @@ Financial services, DiMuto redefines global AgriFood trade.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://dltledgers.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DLT Ledgers" src="/images/Partner Logos/DLT_ledgers_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DLT Ledgers</div><div class="isomer-card-description">DLT Ledgers is an industry-leading "low-code" supply chain digitisation platform that utilises blockchain technology to deliver multi-enterprise supply chain business networks.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklab.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docklab</div><div class="isomer-card-description">Docklab develops breakthrough emerging technology solutions to accelerate the energy transition and transform supply chains into viable ventures.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="/images/Partner Logos/docushield_logo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">DocuShield</div>
-<div class="isomer-card-description">DocuShield is revolutionising trade across the Americas by offers secure,
-compliant documentation solutions tailored for MSME and facilitating simplified
-global commerce.</div>
-<div class="isomer-card-link">more ...</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://docutrade.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DocuTrade" src="/images/Partner Logos/docushield.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DocuTrade</div><div class="isomer-card-description">DocuTrade facilitates secure and reliable document management, including the transfer of ownership and title of trade documents such as Bills of Lading in alignment with MLETR and ICC DSI guidelines.</div><div class="isomer-card-link">more ...</div></div></a>
-</div>
 <p></p>
 <p></p>
 <p></p>
