@@ -42,9 +42,22 @@ receipts</p>
 can create and manage transferable documents, such as electronic bills
 of lading (eBLs), that are transferable and legally equivalent to physical
 documents. This reduces the risks of fraud and the processing time significantly: <strong>Paperwork that used to take five to 10 days to process can now be accomplished in 24 hours</strong>.&nbsp;</p>
-<p>
-<br>
-</p>
+<h3><br><strong>THREE Key Functionalities</strong></h3>
+<p>TradeTrust empowers you to</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Verify the authenticity : Any tampering would be evident</p>
+</li>
+<li>
+<p>Verify the provenance : Genuine creators of documents like Carriers, Govt
+authorities</p>
+</li>
+<li>
+<p>Effect title transfer : Legally-valid Performance Obligation Transfer.</p>
+<p></p>
+<p></p>
+</li>
+</ol>
 <p></p>
 <h4><u>Easy to Use and Implement</u></h4>
 <p>TradeTrust is open-source and available for free download, with no data
