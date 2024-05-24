@@ -25,11 +25,11 @@ documents.</p>
 <p><strong>Data Off-Chain</strong> - <em>Preserves data confidentiality</em>
 </p>
 <p></p>
-<p>Your data stays private by being stored separately off chain and shared
-through any transmission methods like email. When a document is digitised,
-a TradeTrust file (with a .TT file extension, for example <a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>) is created. Your data
-is stored in the TradeTrust file, which can be sent to your trading partner(s)
-through email, FTP, server-to-server API calls, etc.</p>
+<p>Your data stays private by being stored separately off chain. When a document
+is digitised, a TradeTrust file (with a .TT file extension, for example
+<a rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>) is created. Your data is stored in the TradeTrust file,
+which can be sent to your trading partner(s) through any existing transmission
+methods like email, FTP, server-to-server API calls, etc.</p>
 </li>
 </ol>
 <ol start="3" data-tight="true" class="tight">
