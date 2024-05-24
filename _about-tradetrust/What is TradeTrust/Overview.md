@@ -38,11 +38,7 @@ of origin and packing lists; and
 <br>(2)&nbsp;<strong>Transferable Documents</strong>&nbsp;for example Electronic
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
-<p>&nbsp;With TradeTrust designed to be compliant with <strong><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">UNCITRAL Model Law on Electronic Transferable Records (MLETR)</a></strong>,&nbsp;you
-can create and manage transferable documents, such as electronic bills
-of lading (eBLs), that are transferable and legally equivalent to physical
-documents. This reduces the risks of fraud and the processing time significantly: <strong>Paperwork that used to take five to 10 days to process can now be accomplished in 24 hours</strong>.&nbsp;</p>
-<h3><br><strong>THREE Key Functionalities</strong></h3>
+<h3><strong>THREE Key Functionalities</strong></h3>
 <p>TradeTrust empowers you to</p>
 <ol data-tight="true" class="tight">
 <li>
