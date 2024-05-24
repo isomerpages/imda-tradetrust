@@ -60,19 +60,34 @@ authorities</p>
 </ol>
 <p></p>
 <h4><strong><u>Easy Adoption</u></strong></h4>
-<p>TradeTrust is open-source and available for free download, without data
-format or standard restrictions to hinder implementation. Alternatively,
-subscribe to the services offered by TradeTrust ready partners to start
-your live transactions.</p>
-<h4><strong><u>Decentralised Approach</u></strong></h4>
-<p>TradeTrust manages trade documents such as eBLs, from end-to-end using
-a public blockchain. The decentralised nature of a public blockchain –
-meaning that there is no single governing authority – makes it the most
-accessible and neutral way to record transactions.&nbsp;</p>
-<p>When you and your trading partners uniformly adopt TradeTrust in a decentralised
-approach to manage business transactions, it accelerates the digitalisation
-of end-to-end processing of trade documentation and eliminates the need
-for all parties to use a common digital platform and contractual rulebook.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You can integrate tradeTrust's open-source code for free, without data
+format or standard restrictions to hinder implementation.</p>
+</li>
+<li>
+<p>Alternatively, subscribe to the services offered by TradeTrust ready partners
+to start your live transactions.</p>
+</li>
+</ul>
+<h4><strong><u>Best Practices</u></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Your trade digitalisation process is guided by globally-accepted standards
+and compliant to Model Law on Electronic Transferable Records by United
+Nations Commission on International Trade Law</p>
+</li>
+<li>
+<p>The decentralised nature of a public blockchain – with no single governing
+authority, makes it the most accessible and neutral way to record transactions.&nbsp;</p>
+</li>
+<li>
+<p>Eliminates the need for all parties to use a common digital platform and
+contractual rulebook that will limit its scalability.</p>
+<p></p>
+</li>
+</ul>
+<p></p>
 <h4><strong><u>Secure and Confidential</u></strong></h4>
 <p>No data is stored on the blockchain to preserve confidentiality. .</p>
 <p>TradeTrust leverages verifiable credentials technical methods to enable
