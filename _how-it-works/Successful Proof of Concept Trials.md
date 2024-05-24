@@ -6,7 +6,7 @@ description: ""
 ---
 <p>IMDA to provide company logos and summary info</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aeotrade.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AEOTrade" src="/images/Partner Logos/aeotrade_600.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AEOTrade</div><div class="isomer-card-description">AEOTrade, headquartered in Beijing, is an Internet Technology enterprise operating a digital infrastructure for new trade. It provides professional digital services to a multitude of governments and enterprises for digital trade.</div><div class="isomer-card-link">more ...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aeotrade.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AEOTrade" src="/images/Partner Logos/600x400_Aeotrade.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AEOTrade</div><div class="isomer-card-description">AEOTrade, headquartered in Beijing, is an Internet Technology enterprise operating a digital infrastructure for new trade. It provides professional digital services to a multitude of governments and enterprises for digital trade.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://angsanatech.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
