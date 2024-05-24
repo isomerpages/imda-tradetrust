@@ -23,7 +23,6 @@ allowing you to reuse data, and automating certain transactions. This makes
 trading more efficient and convenient for you.</p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <blockquote>
-<h4></h4>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
 published the Model Law on Electronic Transferable Records (MLETR). This
 law allows the legal use of electronic transferable records (ETRs) within
@@ -33,11 +32,17 @@ countries and across borders.&nbsp;&nbsp;</p>
 and Northern Ireland, New York, Delaware, Bahrain, Papua New Guinea, Belize,
 Kiribati, Paraguay and the Abu Dhabi Global Markets in the United Arab
 Emirates are MLETR- compliant.&nbsp;</p>
-<p></p>
-<p>When businesses and government bodies adopt TradeTrust, they can easily
-implement ETRs like electronic Bills of Lading.&nbsp;&nbsp;Instead of contractual
-rule book, your TradeTrust-enabled electronic documents will be supported
-by statutory law.</p>
+<p>Promoting the adoption of TradeTrust, would allow such electronic transferable
+records to be similarly recognised across the borders – provides greater
+certainty to businesses and removing one barrier to end-to-end digital
+trade.</p>
+<h3><strong>Legality Guide</strong></h3>
+<p>Previously, usage of electronic versions of bills of lading had been difficult
+due to technological and legal challenges in establishing what is the "original
+document" and "who possesses it". TradeTrust is designed to follow requirements
+set out in the MLETR law to address these difficulties.</p>
+<p>Instead of contractual rule book, your TradeTrust-enabled electronic documents
+will be supported by statutory law.</p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
 jurisdiction, it is<strong> </strong>recommended to expressly choose a
@@ -48,7 +53,6 @@ jurisdictions.</p>
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
-<h3><strong>Legality Guide</strong></h3>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
 Guide.</p>
