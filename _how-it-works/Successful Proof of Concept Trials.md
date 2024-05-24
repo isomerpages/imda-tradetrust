@@ -23,20 +23,6 @@ collaboration with network-independent operations for uninterrupted bunkering.</
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="banco" src="/images/Partner Logos/banco_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">banco</div><div class="isomer-card-description">banco (part of RABC Group) is a Singapore-headquartered financing platform on a mission to empower local SMEs with simple, transparent and accessible financing solutions.</div><div class="isomer-card-link">more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://credore.xyz/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Credore" src="/images/Partner Logos/credore.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Credore</div>
-<div class="isomer-card-description">Credore revolutionises cross-border trade with a paperless IT infrastructure,
-leveraging TradeTrust to issue MLETR-compliant electronic documents, ensuring
-verifiability and traceability for legal validity. more ...</div>
-<div class="isomer-card-link">more...</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">Bunker Chain is the co-founder of Marine Vessel Pass, Digital Identities for Ships in collaboration with S&amp;P Global Market Intelligence. It is the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.blockpeer.finance/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -50,7 +36,20 @@ generates and operates MLETR-compliant e-Invoices and electronic Bills
 of Lading using the TradeTrust framework.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.calista-logistics.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CALISTA Logistics" src="/images/Partner Logos/Calista.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CALISTA Logistics</div><div class="isomer-card-description">CALISTA Logistics is a cloud-based SaaS platform that offers multi-party collaboration for supply chain orchestration.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">Bunker Chain is the co-founder of Marine Vessel Pass, Digital Identities for Ships in collaboration with S&amp;P Global Market Intelligence. It is the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.calista-logistics.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CALISTA Logistics" src="/images/Partner Logos/Calista.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CALISTA Logistics</div>
+<div class="isomer-card-description">CALISTA Logistics is a cloud-based SaaS platform that offers multi-party
+collaboration for supply chain orchestration.</div>
+<div class="isomer-card-link">more ...</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://credore.xyz/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Credore" src="/images/Partner Logos/credore.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Credore</div><div class="isomer-card-description">Credore revolutionises cross-border trade with a paperless IT infrastructure, leveraging TradeTrust to issue MLETR-compliant electronic documents, ensuring verifiability and traceability for legal validity. more ...</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dimuto.io/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -72,6 +71,19 @@ Financial services, DiMuto redefines global AgriFood trade.</div>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.cargox.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CargoX" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CargoX</div><div class="isomer-card-description">The CargoX Platform, used by over 125,000 companies globally in trade, finance, and supply chain sectors, enables instant and cost-efficient creation and transfer of electronic trade documents (eBL, ACI, certs) using blockchain.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklab.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Docklab</div>
+<div class="isomer-card-description">Docklab develops breakthrough emerging technology solutions to accelerate
+the energy transition and transform supply chains into viable ventures.</div>
+<div class="isomer-card-link">more...</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docsonblocks</div><div class="isomer-card-description">Kryjas's Docsonblocks offers no-code document generation, management, and verification using TradeTrust for blockchain-backed, verifiable, transferable documents in international trade.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -84,20 +96,6 @@ Financial services, DiMuto redefines global AgriFood trade.</div>
 compliant documentation solutions tailored for MSME and facilitating simplified
 global commerce.</div>
 <div class="isomer-card-link">more...</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklab.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docklab</div><div class="isomer-card-description">Docklab develops breakthrough emerging technology solutions to accelerate the energy transition and transform supply chains into viable ventures.</div><div class="isomer-card-link">more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Docsonblocks</div>
-<div class="isomer-card-description">Kryjas's Docsonblocks offers no-code document generation, management,
-and verification using TradeTrust for blockchain-backed, verifiable, transferable
-documents in international trade.</div>
-<div class="isomer-card-link">more ...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">FuixLabs offers Web3 solutions for supply chain management with paperless trade, decentralised ID, and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card">
