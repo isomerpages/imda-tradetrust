@@ -42,9 +42,9 @@ the documents <strong>with a MLETR jurisdiction.</strong>
 </blockquote>
 <p></p>
 <p><a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a>&nbsp;includes
-Singapore, New York, Delaware, United Kingdom of Great Britain and Northern
-Ireland, Bahrain, Papua New Guinea, Belize, Kiribati, Paraguay, the Abu
-Dhabi Global Markets in the United Arab Emirates and Timor Leste.</p>
+Singapore, United Kingdom of Great Britain and Northern Ireland, Bahrain,
+Papua New Guinea, Belize, Kiribati, Paraguay, the Abu Dhabi Global Markets
+in the United Arab Emirates, Timor Leste, New York and Delaware.</p>
 <p></p>
 <p></p>
 <p></p>
