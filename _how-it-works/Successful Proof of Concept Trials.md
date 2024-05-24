@@ -44,7 +44,7 @@ is the Inventor of the World’s first Smart Contract eBDN.</div>
 <a rel="noopener noreferrer nofollow" href="https://dimuto.io/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DiMuto" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="DiMuto" src="/images/Partner Logos/Dimuto_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +61,7 @@ Financial services, DiMuto redefines global AgriFood trade.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="/images/Partner Logos/docushield_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
