@@ -49,28 +49,28 @@ of Lading using the TradeTrust framework.</div>
 collaboration for supply chain orchestration.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://credore.xyz/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Credore" src="/images/Partner Logos/credore.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Credore</div><div class="isomer-card-description">Credore revolutionises cross-border trade with a paperless IT infrastructure, leveraging TradeTrust to issue MLETR-compliant electronic documents, ensuring verifiability and traceability for legal validity. more ...</div><div class="isomer-card-link">more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dimuto.io/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.cargox.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CargoX" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CargoX </div><div class="isomer-card-description">The CargoX Platform, used by over 125,000 companies globally in trade, finance, and supply chain sectors, enables instant and cost-efficient creation and transfer of electronic trade documents (eBL, ACI, certs) using blockchain.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://credore.xyz/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DiMuto" src="/images/Partner Logos/Dimuto_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Credore" src="/images/Partner Logos/credore.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">DiMuto</div>
-<div class="isomer-card-description">DiMuto is an AgriFintech Solutions that powers AgriFood trade with AI,
-Data Visibility and Finance. With its Marketplace, Trade Management, and
-Financial services, DiMuto redefines global AgriFood trade.</div>
-<div class="isomer-card-link">more ...</div>
+<div class="isomer-card-title">Credore</div>
+<div class="isomer-card-description">Credore revolutionises cross-border trade with a paperless IT infrastructure,
+leveraging TradeTrust to issue MLETR-compliant electronic documents, ensuring
+verifiability and traceability for legal validity. more ...</div>
+<div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dltledgers.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DLT Ledgers" src="/images/Partner Logos/DLT_ledgers_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DLT Ledgers</div><div class="isomer-card-description">DLT Ledgers is an industry-leading "low-code" supply chain digitisation platform that utilises blockchain technology to deliver multi-enterprise supply chain business networks.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dimuto.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DiMuto" src="/images/Partner Logos/Dimuto_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DiMuto</div><div class="isomer-card-description">DiMuto is an AgriFintech Solutions that powers AgriFood trade with AI, Data Visibility and Finance. With its Marketplace, Trade Management, and Financial services, DiMuto redefines global AgriFood trade.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.cargox.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CargoX" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CargoX</div><div class="isomer-card-description">The CargoX Platform, used by over 125,000 companies globally in trade, finance, and supply chain sectors, enables instant and cost-efficient creation and transfer of electronic trade documents (eBL, ACI, certs) using blockchain.</div><div class="isomer-card-link">more...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dltledgers.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DLT Ledgers" src="/images/Partner Logos/DLT_ledgers_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DLT Ledgers </div><div class="isomer-card-description">DLT Ledgers is an industry-leading "low-code" supply chain digitisation platform that utilises blockchain technology to deliver multi-enterprise supply chain business networks.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
