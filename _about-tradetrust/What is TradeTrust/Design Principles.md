@@ -13,13 +13,13 @@ third_nav_title: What is TradeTrust
 <br>
 </p>
 <p>TradeTrust uses secure technologies (blockchain, smart contracts, non-fungible
-tokens or NFTs) to manage electronic trade documents without need for a
-central authority.</p>
+tokens or NFTs) to manage electronic trade documents without a central
+authority.</p>
 <p>TradeTrust also uses Decentralised Identifiers (DID), digital signatures
 and cryptographic proof methods to verify the source and authenticity of
 documents.</p>
 <p>You can choose any of the four blockchains—Ethereum, Polygon, XDC, or
-Stability—to transact TradeTrust-enabled documents.</p>
+Stability.</p>
 <p></p>
 </li>
 <li>
