@@ -68,9 +68,9 @@ to start your live transactions</p>
 <h4><strong><u>Best Practices</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Guided by globally-accepted standards and compliant to Model Law on Electronic
-Transferable Records by United Nations Commission on International Trade
-Law, leads to proven benefits</p>
+<p>Guided by global standards and compliant to Model Law on Electronic Transferable
+Records by United Nations Commission on International Trade Law, leads
+to proven benefits</p>
 </li>
 <li>
 <p>The decentralised nature of a public blockchain – with no single governing
