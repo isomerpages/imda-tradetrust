@@ -21,7 +21,7 @@ ecosystem.</p>
 <blockquote>
 <p>It’s like providing you with a supporting structure and free tool, to
 turn your documents into smart electronic documents that are portable across
-your trading partners with enhanced security features, meet the standards
+your trading partners with enhanced security features and meet the standards
 and legal requirements.</p>
 <p></p>
 </blockquote>
