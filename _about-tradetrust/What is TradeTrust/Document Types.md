@@ -36,7 +36,7 @@ physical paper documents through compliance to MLETR requirements.&nbsp;</p>
 extension for example <a href="http://filename.tt" rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>. They can be exchanged over your
 existing business/IT and data interchange system like email, FTP and regardless
 of data format or standard like DCSA’s and BIMCO’s.</p>
-<p></p>
+<p>&lt;insert a file&gt;</p>
 <p></p>
 <blockquote>
 <p>When using TradeTrust-enabled electronic documents across MLETR-aligned
