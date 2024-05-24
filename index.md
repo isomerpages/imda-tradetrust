@@ -35,9 +35,8 @@ sections:
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
-      description: To unite the trading community of goods and services under a
-        framework that standardizes digital trade with enhanced security and
-        legal certainty.
+      description: To unify the international trade ecosystem through a framework that
+        standardizes digital trade with enhanced security and legal certainty.
       button: Learn More
       url: /Overview/
   - infopic:
