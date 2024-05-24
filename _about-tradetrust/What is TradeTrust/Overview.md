@@ -63,35 +63,41 @@ authorities</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You can integrate tradeTrust's open-source code for free, without data
-format or standard restrictions to hinder implementation.</p>
+format or standard restrictions to hinder implementation</p>
 </li>
 <li>
 <p>Alternatively, subscribe to the services offered by TradeTrust ready partners
-to start your live transactions.</p>
+to start your live transactions</p>
 </li>
 </ul>
 <h4><strong><u>Best Practices</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Your trade digitalisation process is guided by globally-accepted standards
-and compliant to Model Law on Electronic Transferable Records by United
-Nations Commission on International Trade Law</p>
+<p>Your trade digitalisation transformation is guided by globally-accepted
+standards and compliant to Model Law on Electronic Transferable Records
+by United Nations Commission on International Trade Law</p>
 </li>
 <li>
 <p>The decentralised nature of a public blockchain – with no single governing
-authority, makes it the most accessible and neutral way to record transactions.&nbsp;</p>
+authority, makes it the most accessible and neutral way to record transactions</p>
 </li>
 <li>
-<p>Eliminates the need for all parties to use a common digital platform and
-contractual rulebook that will limit its scalability.</p>
+<p>Eliminate the need for all parties to use a common digital platform and
+contractual rulebook that will limit scalability for mass adoption</p>
 <p></p>
 </li>
 </ul>
 <h4><strong><u>Secure and Confidential</u></strong></h4>
-<p>No data is stored on the blockchain to preserve confidentiality.</p>
-<p>Documents issued with TradeTrust are supported by statutory law and cryptographically
+<ul data-tight="true" class="tight">
+<li>
+<p>No data is stored on the blockchain to preserve confidentiality</p>
+</li>
+<li>
+<p>Documents digitised are supported by statutory law and cryptographically
 trustworthy and can be verified independently, providing you a peace of
 mind.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <blockquote>
 <p>You can find out more about how TradeTrust works in <strong><a href="https://youtu.be/-YD21elPXxs" rel="noopener noreferrer nofollow" target="_blank">this video</a></strong>.
