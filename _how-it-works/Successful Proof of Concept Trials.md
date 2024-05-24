@@ -140,11 +140,24 @@ and seamless data exchange between supply chain players. It leverages on
 TradeTrust for verifiability and transferability of trade data and documents.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trames" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trames</div><div class="isomer-card-description">Trames is a comprehensive logistics management platform designed to give shippers complete control and visibility of global freight operations. Users can leverage Trames for freight visibility, workflow orchestration, spend management, and more.
-</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trames" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trames</div><div class="isomer-card-description">Trames is a comprehensive logistics management platform designed to give shippers complete control and visibility of global freight operations. Users can leverage Trames for freight visibility, workflow orchestration, spend management, and more.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://www.veritag.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/veritag_logo.svg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Veritag</div><div class="isomer-card-description">Veritag tracks and traces food and arts using patented dual QR tags, blockchain and NFT technology supported by documents security using TradeTrust.
-</div><div class="isomer-card-link">more ...</div></div></a><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/xdcnetwork.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">XDC is an EVM-compatible protocol known for its outstanding presence in the trade finance industry. XDC offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more ...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://www.veritag.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/veritag_300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Veritag</div><div class="isomer-card-description">Veritag tracks and traces food and arts using patented dual QR tags, blockchain and NFT technology supported by documents security using TradeTrust.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/xdcnetwork.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">XDC</div>
+<div class="isomer-card-description">XDC is an EVM-compatible protocol known for its outstanding presence in
+the trade finance industry. XDC offers numerous possibilities for improving
+global trade by digitising trade documents and improving access to capital
+for SMEs.</div>
+<div class="isomer-card-link">more ...</div>
+</div>
+</a>
 </div>
 <p></p>
