@@ -23,5 +23,17 @@ means following internationally recognised standards and accreditation.</p>
 <p>Technical solutions are certified to meet legal requirements. Ernst &amp;
 Young audited, also reviewed, and assessed the TradeTrust framework in
 2021 to ensure its reliability and trustworthiness.</p>
+<h4><strong>W3C Verifiable Credentials</strong></h4>
+<p>A verifiable credential comprises tamper-evident claims and metadata that
+cryptographically establish its issuer. Examples include digital employee
+identification cards, birth certificates, and educational certificates.
+TradeTrust leverages W3C Verifiable Credentials to provide tamper-evident,
+cryptographically proven sets of claims and metadata, ensuring the authenticity
+and integrity of digital documents on the blockchain.</p>
+<h4><strong>ERC-721</strong></h4>
+<p>An NFT (Non-Fungible Token) uniquely identifies something or someone.
+The ERC-721 (Ethereum Request for Comments 721) is a standard for NFT.
+TradeTrust utilizes ERC-721 for non-fungible tokens (NFTs) to uniquely
+identify and represent title ownership on the blockchain.</p>
 <hr>
 <p></p>
