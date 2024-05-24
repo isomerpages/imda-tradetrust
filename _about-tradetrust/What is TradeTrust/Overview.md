@@ -83,7 +83,7 @@ authority, makes it the most accessible and neutral way to record transactions</
 </li>
 <li>
 <p>Eliminate the need for all parties to use a common digital platform and
-contractual rulebook that will limit scalability for mass adoption</p>
+contractual rulebook that will limit scalability</p>
 <p></p>
 </li>
 </ul>
