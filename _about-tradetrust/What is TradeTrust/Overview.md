@@ -54,7 +54,7 @@ authorities</p>
 <p></p>
 </li>
 </ol>
-<p></p>
+<p>Here's how TradeTrust can help:</p>
 <h4><strong><u>Easy Adoption</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
