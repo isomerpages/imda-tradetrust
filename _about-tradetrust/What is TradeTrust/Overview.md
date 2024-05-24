@@ -59,16 +59,11 @@ authorities</p>
 </li>
 </ol>
 <p></p>
-<h4><u>Easy to Use and Implement</u></h4>
-<p>TradeTrust is open-source and available for free download, with no data
-format or standard restrictions to hinder implementation. &nbsp;You and
-your trading partners can integrate TradeTrust into your systems quickly
-or subscribe to the services offered by TradeTrust enabled partners to
-start your live transactions. . All parties will be able to issue, endorse,
-exchange, and verify the authenticity and source of documents. As well
-as transfer titles across different trading parties digitally for negotiable/title
-documents. All from the convenience of your enhanced IT system that you
-are familiar with, or simply with an internet access just to verify documents.</p>
+<h4><strong><u>Easy to Implement or Use</u></strong></h4>
+<p>TradeTrust is open-source and available for free download, without data
+format or standard restrictions to hinder implementation. Alternatively,
+subscribe to the services offered by TradeTrust ready partners to start
+your live transactions.</p>
 <h4><strong><u>Decentralised Approach</u></strong></h4>
 <p>TradeTrust manages trade documents such as eBLs, from end-to-end using
 a public blockchain. The decentralised nature of a public blockchain –
