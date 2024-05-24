@@ -53,5 +53,8 @@ everyone by providing a globally-harmonised and inclusive framework. It
 achieves this by establishing a common, globally accepted framework that
 promotes trust, efficiency, and inclusivity in digital trade practices.</p>
 </blockquote>
-<hr>
+<p></p>
+<p>Transform the way you trade - subscribe to our TradeTrust newsletter for
+exclusive insights.</p>
+<p></p>
 <p></p>
