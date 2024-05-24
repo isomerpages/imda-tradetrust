@@ -9,11 +9,13 @@ description: ""
 to align Singapore’s legal and regulatory infrastructure with international
 trade law and the latest technological advancements. The amendment adopted
 the Model Law on Electronic Transferable Records (MLETR) published by the
-United Nations Commission on International Trade Law. This allows Singapore’s
-jurisdiction to legally recognise Electronic Transferable Records as functional
-equivalents to their paper versions; meaning the creation and use of transferable
-documents by businesses and government, govern under the Singapore’s legal
-system, are legally valid.</p>
+United Nations Commission on International Trade Law.</p>
+<p>This allows Singapore’s jurisdiction to legally recognise Electronic Transferable
+Records as functional equivalents to their paper versions.</p>
+<blockquote>
+<p>The creation and use of electronic documents including transferable ones,
+govern under the Singapore’s legal system, are legally valid.</p>
+</blockquote>
 <p></p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <blockquote>
