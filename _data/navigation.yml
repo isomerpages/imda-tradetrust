@@ -6,3 +6,7 @@ links:
     collection: developers
   - title: News and Events
     resource_room: true
+  - title: Solutions
+    collection: solutions
+  - title: Community
+    collection: community
