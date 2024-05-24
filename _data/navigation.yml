@@ -2,8 +2,6 @@ logo: /images/TradeTrustOfficialLogo.svg
 links:
   - title: About TradeTrust
     collection: about-tradetrust
-  - title: Benefits
-    collection: benefits
   - title: How It works
     url: /how-it-works/
     sublinks:
