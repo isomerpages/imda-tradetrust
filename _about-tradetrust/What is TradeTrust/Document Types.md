@@ -37,14 +37,14 @@ paper documents through compliance to MLETR requirements.&nbsp;</p>
 <blockquote>
 <p>When using TradeTrust-enabled electronic documents across MLETR-aligned
 and/or non-MLETR-aligned jurisdiction, it is recommended <strong>to expressly choose a governing law and jurisdiction provision</strong> for
-the documents <strong>with a MLETR-compliant jurisdiction.</strong>
+the documents <strong>with a MLETR jurisdiction.</strong>
 </p>
 </blockquote>
 <p></p>
-<p>MLETR-compliant jurisdiction like Singapore, New York, Delaware and other&nbsp;
-<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a>&nbsp;including United Kingdom of Great
-Britain and Northern Ireland, Bahrain, Papua New Guinea, Belize, Kiribati,
-Paraguay, the Abu Dhabi Global Markets in the United Arab Emirates.</p>
+<p><a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a>&nbsp;includes
+Singapore, New York, Delaware, United Kingdom of Great Britain and Northern
+Ireland, Bahrain, Papua New Guinea, Belize, Kiribati, Paraguay, the Abu
+Dhabi Global Markets in the United Arab Emirates.</p>
 <p></p>
 <p></p>
 <p></p>
