@@ -17,6 +17,10 @@ Records as functional equivalents to their paper versions.</p>
 govern under the Singapore’s legal system, are legally valid.</p>
 </blockquote>
 <p></p>
+<p>Having your documents and instruments available in electronic form can
+greatly benefit you by improving the speed and security of your transactions,
+allowing you to reuse data, and automating certain transactions. This makes
+trading more efficient and convenient for you.</p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <blockquote>
 <h4></h4>
@@ -37,8 +41,7 @@ by statutory law.</p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
 jurisdiction, it is<strong> </strong>recommended to expressly choose a
-governing law and jurisdiction provision for the documents with a MLETR
-jurisdiction like Singapore, New York, Delaware or other MLETR-compliant
+governing law and jurisdiction provision for the documents with a MLETR-compliant
 jurisdictions.</p>
 </blockquote>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
