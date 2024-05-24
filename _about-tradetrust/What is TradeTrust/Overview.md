@@ -87,14 +87,11 @@ contractual rulebook that will limit its scalability.</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <h4><strong><u>Secure and Confidential</u></strong></h4>
-<p>No data is stored on the blockchain to preserve confidentiality. .</p>
-<p>TradeTrust leverages verifiable credentials technical methods to enable
-you to verify the authenticity and provenance of documents, and blockchain
-technology to effect title transfer in accordance with statutory law.&nbsp;
-Documents issued this way are cryptographically trustworthy and can be
-verified independently, providing you a peace of mind.</p>
+<p>No data is stored on the blockchain to preserve confidentiality.</p>
+<p>Documents issued with TradeTrust are supported by statutory law and cryptographically
+trustworthy and can be verified independently, providing you a peace of
+mind.</p>
 <p>&nbsp;</p>
 <blockquote>
 <p>You can find out more about how TradeTrust works in <strong><a href="https://youtu.be/-YD21elPXxs" rel="noopener noreferrer nofollow" target="_blank">this video</a></strong>.
