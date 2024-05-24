@@ -11,7 +11,8 @@ to prove the origin and authenticity of regular electronic documents to
 facilitate the transfer of digital records of ownership of goods and titles.</p>
 <blockquote>
 <p>Using the TradeTrust framework, you can secure any digital document to
-protect its authenticity and control who is allowed to read or save it.&nbsp;</p>
+protect its authenticity and control the possession and actions for example
+endorsement to next party, revocation..</p>
 </blockquote>
 <p>TradeTrust-enabled documents utilise the technical methods, such as W3C
 Verifiable Credentials and ERC-721, compliant with UNCITRAL MLETR, meeting
