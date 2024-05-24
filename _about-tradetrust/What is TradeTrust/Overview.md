@@ -62,7 +62,7 @@ authorities</p>
 <h4><strong><u>Easy Adoption</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>You can integrate tradeTrust's open-source code for free, without data
+<p>You can integrate TradeTrust's open-source code for free, without data
 format or standard restrictions to hinder implementation</p>
 </li>
 <li>
