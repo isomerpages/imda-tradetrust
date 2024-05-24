@@ -59,7 +59,7 @@ authorities</p>
 </li>
 </ol>
 <p></p>
-<h4><strong><u>Easy to Implement or Use</u></strong></h4>
+<h4><strong><u>Easy Adoption</u></strong></h4>
 <p>TradeTrust is open-source and available for free download, without data
 format or standard restrictions to hinder implementation. Alternatively,
 subscribe to the services offered by TradeTrust ready partners to start
@@ -86,6 +86,7 @@ verified independently, providing you a peace of mind.</p>
 &nbsp;</p>
 <p>Download TradeTrust for free at <strong><a href="www.github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank">github.com/tradetrust</a>.&nbsp;</strong>
 </p>
+<p></p>
 <p></p>
 </blockquote>
 <p></p>
