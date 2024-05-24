@@ -91,3 +91,21 @@ and gentle on-ramps.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://stabilityprotocol.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STABILITY's GTN" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STABILITY's GTN</div><div class="isomer-card-description">STABILITY's GTN is the first public blockchain network without cryptocurrency, enabling feeless and secure data exchange for global adoption and interoperability of electronic documentation with the TradeTrust framework.</div><div class="isomer-card-link">more ...</div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">GUUD empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products to banks.
+</div><div class="isomer-card-link">more ...</div></div></a><a rel="noopener noreferrer nofollow" href="https://jupyton.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jupyton" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jupyton</div><div class="isomer-card-description">Jupyton is a secure Trust and Provenance Engine for verifying identities, transactions and secure signings. Our tech stack’s modular nature supports custom solutions and data exchange in being transparent, auditable, and tamper-proof.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Docsonblocks</div>
+<div class="isomer-card-description">Kryjas's Docsonblocks offers no-code document generation, management,
+and verification using TradeTrust for blockchain-backed, verifiable, transferable
+documents in international trade.</div>
+<div class="isomer-card-link">more ...</div>
+</div>
+</a>
+</div>
+<p></p>
