@@ -14,10 +14,7 @@ facilitate the transfer of digital records of ownership of goods and titles.</p>
 protect its authenticity and control the possession and actions like endorsement
 and revocation</p>
 </blockquote>
-<p>TradeTrust-enabled documents utilise the technical methods, such as W3C
-Verifiable Credentials and ERC-721, compliant with UNCITRAL MLETR, meeting
-requirements specified in various statutory laws. Now, you can enjoy legal
-certainty and commercial predictability when conducting global trade.</p>
+<p></p>
 <p></p>
 <h4><strong>NORMAL DOCUMENTS OR VERIFIABLE DOCUMENTS</strong></h4>
 <p>These are specific trade documents that are non-transferable, such as
@@ -29,18 +26,23 @@ and assurance when issuing or receiving such documents.&nbsp;</p>
 </p>
 <p></p>
 <h4><strong>TRANSFERABLE DOCUMENTS</strong></h4>
-<p>Ownership of these digital documents can be securely transferred from
-one party to another using the blockchain technology. This process is secure
-and enables legal ownership transfers without requiring physical legal
-contracts because digital documents have the same legal status as physical
-paper documents through compliance to MLETR requirements.&nbsp;</p>
+<p>Title ownership of these digital documents can be securely transferred
+from one party to another using the blockchain technology. This process
+is secure and enables legal ownership transfers without requiring physical
+legal contracts because digital documents have the same legal status as
+physical paper documents through compliance to MLETR requirements.&nbsp;</p>
+<p></p>
+<p>These documents will be generated into TradeTrust file, with a .TT file
+extension for example <a href="http://filename.tt" rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>. They can be exchanged over your
+existing business/IT and data interchange system like email, FTP and regardless
+of data format or standard like DCSA’s and BIMCO’s.</p>
 <p></p>
 <p></p>
 <blockquote>
 <p>When using TradeTrust-enabled electronic documents across MLETR-aligned
-and/or non-MLETR-aligned jurisdiction, it is recommended <strong>to expressly choose a governing law and jurisdiction provision</strong> for
-the documents <strong>with a MLETR jurisdiction.</strong>
-</p>
+and/or non-MLETR-aligned jurisdiction, it is recommended to expressly choose
+a governing law and jurisdiction provision for the documents with a MLETR
+jurisdiction.</p>
 </blockquote>
 <p></p>
 <p><a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant jurisdictions</a>&nbsp;includes
