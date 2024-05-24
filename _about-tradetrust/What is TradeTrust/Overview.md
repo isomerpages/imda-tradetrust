@@ -6,23 +6,31 @@ description: ""
 third_nav_title: What is TradeTrust
 ---
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
-<p>TradeTrust is a framework that uses global standards to link governments
-and businesses to a public blockchain to enable <strong>trusted interoperability </strong>of
-electronic trade documents <strong>across digital platforms</strong>. Offered
-as a free digital utility, electronic trade documents issued this waycan
-be trusted, portable and legally effective across different systems.</p>
+<p>Developed and pioneered by the Infocomm Media Development Authority (IMDA),
+TradeTrust was designed to transforms your trade digitalisation journey.</p>
+<p>TradeTrust is a framework that standardizes digital trade, providing enhanced
+security and legal certainty for stakeholders in trade ecosystems. It achieves
+this by using advanced technologies and adhering to global standards and
+legal requirements to enable trusted interoperability of electronic trade
+documents across digital platforms. Electronic documents issued this way
+can be trusted, portable, and legally effective on different systems, thereby
+streamlining cross-platform compatibility and enhancing overall operational
+efficiency for businesses and governments.</p>
+<p>And offered as a free digital utility, it is open-sourced so that all
+parties can easily adopt for free and build upon it to benefit the business
+ecosystem.</p>
+<blockquote>
 <p>It’s like providing you with a supporting structure and free tool, to
 turn your documents into smart electronic documents with enhanced security
-features that are portable across your trading partners. Recipients can
-verify documents’ proof of origin and authenticity as well as transfer
-of title independently, legally and in compliance with globally-accepted
-standards.</p>
-<p>&nbsp;</p>
-<p>At present, international trade relies heavily on paper documents to facilitate
-the trade process. Documentation for a <strong>single shipment may involve up to 50 sheets of paper</strong>.
-This not only makes the trade process <strong>susceptible to fraud</strong> and
-inefficiency but also extremely <strong>costly</strong>, <strong>accounting for up to 20 per cent of the shipping cost</strong>.&nbsp;</p>
-<p>With TradeTrust designed to be compliant with <strong><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">UNCITRAL Model Law on Electronic Transferable Records (MLETR)</a></strong>,&nbsp;you
+features that are portable across your trading partners.</p>
+<p></p>
+</blockquote>
+<p>Users can independently verify documents’ proof of origin and authenticity
+as well as transfer titles, in compliance with globally-accepted standards.
+All from the convenience of your enhanced IT system that you are familiar
+with, or simply with an internet access just to verify documents.</p>
+<p></p>
+<p>&nbsp;With TradeTrust designed to be compliant with <strong><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">UNCITRAL Model Law on Electronic Transferable Records (MLETR)</a></strong>,&nbsp;you
 can create and manage digital trade documents, such as electronic bills
 of lading (eBLs), that are transferable and legally equivalent to physical
 documents. This reduces the risks of fraud and the processing time significantly: <strong>Paperwork that used to take five to 10 days to process can now be accomplished in 24 hours</strong>.&nbsp;</p>
