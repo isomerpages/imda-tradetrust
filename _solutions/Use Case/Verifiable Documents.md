@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Use Case
 ---
-<h3>Verifiable Document Interoperability</h3>
+<p></p>
+<h3>Documents Verification</h3>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
 of the document can be easily verified by any party independently just
 with an internet access.</p>
