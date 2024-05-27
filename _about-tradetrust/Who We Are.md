@@ -54,7 +54,8 @@ achieves this by establishing a common, globally accepted framework that
 promotes trust, efficiency, and inclusivity in digital trade practices.</p>
 </blockquote>
 <p></p>
+<p></p>
 <p>Transform the way you trade - subscribe to our TradeTrust newsletter for
-exclusive insights.</p>
+exclusive insights. &lt;link to google form&gt;</p>
 <p></p>
 <p></p>
