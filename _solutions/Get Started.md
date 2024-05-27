@@ -165,7 +165,8 @@ from another party)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Technical</p>
+<p><u>Technical</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choice of blockchain</p>
@@ -178,12 +179,12 @@ from another party)</p>
 </li>
 <li>
 <p>Installation of crypto wallet eg. Metamask</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
-<p>Resource:JavaScript/TypeScript proficiency required</p>
+<p><u>Resource:</u>
+</p>
+<p>JavaScript/TypeScript proficiency required</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
@@ -211,10 +212,13 @@ from another party)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(B) Outsource to TradeTrust-enabled Business Service Provider</p>
+<p>(B) Outsource to TradeTrust-enabled Business Service Provider (BSP)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Understand the costing</p>
+</li>
+<li>
+<p>Choice of blockchain offered by the BSP's platfrom</p>
 </li>
 </ul>
 </td>
@@ -249,5 +253,4 @@ from another party)</p>
 <p></p>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> for
 any help or query.</p>
-<p></p>
 <p></p>
