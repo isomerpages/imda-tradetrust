@@ -154,11 +154,9 @@ from another party)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Choice of blockchain</p>
+<p>Choice of blockchain cryptocurrency (Ethereum, Polygon, XDC) or crypto-less
+blockchain (Stability)</p>
 </li>
-</ul>
-<p>cryptocurrency (Ethereum, Polygon, XDC) or crypto-less blockchain(Stability)</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Blockchain gas fees</p>
 </li>
@@ -167,7 +165,7 @@ from another party)</p>
 <p></p>
 </li>
 </ul>
-<p><u>Resource:</u>
+<p><u>Resource:</u> 
 <br>JavaScript/TypeScript proficiency required</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,4 +225,3 @@ or revoke them (meaning no gas fee is payable)</p>
 <p></p>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> for
 any help or query.</p>
-<p></p>
