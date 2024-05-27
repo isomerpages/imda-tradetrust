@@ -11,4 +11,4 @@ third_nav_title: Use Case New
 <img style="width: 100%" height="auto" width="100%" alt="VERIFIABLE DOCUMENTS’ INTEROPERABILITY" src="/images/Verifiable_Doc_Use_Case.png">
 </div>
 <p></p>
-<p></p>
+<p>&lt;Insert the blue graphics &gt;</p>
