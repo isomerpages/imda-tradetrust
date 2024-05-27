@@ -157,7 +157,7 @@ from another party)</p>
 <p>Choice of blockchain</p>
 </li>
 </ul>
-<p>cryptocurrency(Ethereum, Polygon, XDC) or crypto-less blockchain(Stability)</p>
+<p>cryptocurrency (Ethereum, Polygon, XDC) or crypto-less blockchain(Stability)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Blockchain gas fees</p>
@@ -177,7 +177,8 @@ from another party)</p>
 <td rowspan="1" colspan="1">
 <p>Applicable</p>
 <p></p>
-<p>in batch or revoke verifiable documents</p>
+<p>No gas fee for verifiable documents creation unless you need to issue
+them in batch or revoke documents using DID method</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
