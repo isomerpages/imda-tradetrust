@@ -67,7 +67,7 @@ of your choice to commence your live transactions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Transforming starts here ...</p>
+<p>Transformation starts here ...</p>
 </th>
 </tr>
 <tr>
