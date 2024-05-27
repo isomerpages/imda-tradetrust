@@ -11,7 +11,7 @@ third_nav_title: Use Case New
 <p>During the shipment of goods from exporter to importer, electronic Bill
 of Lading (a transferable document) is issued by Carrier for ocean cargo
 facilitation.</p>
-<p>Exporter use</p>
+<p>Exporter uses</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transferable Document Interoperability" src="/images/Transferable_Doc_Use_Case.png">
 </div>
