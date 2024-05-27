@@ -114,7 +114,7 @@ from another party)</p>
 <p>Issue/transfer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Issue/transfer</p>
+<p>Issue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Verify only</p>
