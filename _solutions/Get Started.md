@@ -187,10 +187,10 @@ from another party)</p>
 <p>JavaScript/TypeScript proficiency required</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Required</p>
+<p>Applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Required</p>
+<p>Applicable</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
