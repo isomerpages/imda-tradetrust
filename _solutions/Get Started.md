@@ -190,18 +190,18 @@ or revoke them (meaning no gas fee is payable)</p>
 <p>Understand the costing</p>
 </li>
 <li>
-<p>Choice of blockchain offered by the BSP's platfrom</p>
+<p>Choice of blockchain supported by the BSP's platform</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Applicable</p>
 </td>
 </tr>
 <tr>
