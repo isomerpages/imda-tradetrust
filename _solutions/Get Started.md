@@ -158,7 +158,7 @@ from another party)</p>
 blockchain (Stability)</p>
 </li>
 <li>
-<p>Blockchain gas fees</p>
+<p>Blockchain &lt;gas fees&gt;</p>
 </li>
 <li>
 <p>Installation of crypto wallet eg. Metamask</p>
