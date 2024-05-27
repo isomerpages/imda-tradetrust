@@ -2,6 +2,7 @@ collections:
   solutions:
     output: true
     order:
+      - Use Case New/.keep
       - Benefits.md
       - Use Case.md
       - Costs.md
