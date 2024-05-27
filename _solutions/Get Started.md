@@ -177,8 +177,9 @@ from another party)</p>
 <td rowspan="1" colspan="1">
 <p>Applicable</p>
 <p></p>
-<p>No gas fee for verifiable documents creation unless you need to issue
-them in batch or revoke documents using DID method</p>
+<p>Use DID-method if you don't need to issue verifiable documents in batch
+or revoke them (meaning no gas fee is payable)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
