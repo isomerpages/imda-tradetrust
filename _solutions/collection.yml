@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Use Case New/.keep
+      - Use Case New/Use Case.md
       - Use Case New/Transferable Documents.md
       - Use Case New/Verifiable Documents.md
-      - Use Case New/Use Case.md
       - Benefits.md
       - Costs.md
       - Get Started.md
