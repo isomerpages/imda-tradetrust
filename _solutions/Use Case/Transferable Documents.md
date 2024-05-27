@@ -12,8 +12,8 @@ third_nav_title: Use Case
 Bill of Lading (eBL) is issued by the Carrier for ocean cargo facilitation.</p>
 <p>In a typical trade finance use case, exporter uses negotiating bank for
 documents presentation; while importer uses issuing bank for capital provision
-and documents release. The eBL is issued and transferred from one party
-to another for capital provision and cargo movement.</p>
+and documents release. The eBL is issued and title transferred from one
+party to another for capital provision and cargo movement.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transferable Document Interoperability" src="/images/Transferable_Doc_Use_Case.png">
