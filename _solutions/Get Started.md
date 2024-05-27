@@ -176,6 +176,8 @@ from another party)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicable</p>
+<p></p>
+<p>in batch or revoke verifiable documents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
