@@ -8,7 +8,7 @@ third_nav_title: Use Case
 <h3>Verifiable Document Interoperability</h3>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
 of the document can be easily verified by any party independently just
-with an internet acess.</p>
+with an internet access.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VERIFIABLE DOCUMENTS’ INTEROPERABILITY" src="/images/Verifiable_Doc_Use_Case.png">
 </div>
