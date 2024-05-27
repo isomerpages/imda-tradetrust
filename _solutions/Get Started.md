@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>How to Start with TradeTrust</h2>
-<p></p>
+<p>Your trade digitalisation journey can be well simplified by adopting TradeTrust.</p>
 <h3><u>To verify TradeTrust-issued documents :</u></h3>
 <p>As a recipient of TradeTrust-issued documents such as electronic Bills
 of Lading or Certificates of Origin, you can verify the documents’ proof
@@ -51,35 +51,7 @@ expensive data exchange infrastructure!</p>
 to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
 <p></p>
-<h3>Other Considerations:</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>What is/are the use case(s)?</p>
-</li>
-<li>
-<p>Which types of business documents (certificates, bills of lading, warehouse
-receipts) are involved? Verifiable and/or transferable documents?</p>
-</li>
-<li>
-<p>Do you issue/transfer title for transferable documents or simply verify
-documents received?</p>
-</li>
-<li>
-<p>Choice of blockchain(s)</p>
-</li>
-<li>
-<p>Blockchain gas fees</p>
-</li>
-<li>
-<p>Use of cryptocurrency (applicable for the issuance and transfer of title
-ownership for transferable documents, and issuance in batch or revoke verifiable
-documents)</p>
-</li>
-<li>
-<p>Installation of crypto wallet (for example Metamask)</p>
-<p></p>
-</li>
-</ol>
+<h3></h3>
 <h4></h4>
 <p></p>
 <hr>
