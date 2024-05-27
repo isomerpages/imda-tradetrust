@@ -168,8 +168,7 @@ from another party)</p>
 </li>
 </ul>
 <p><u>Resource:</u>
-</p>
-<p>JavaScript/TypeScript proficiency required</p>
+<br>JavaScript/TypeScript proficiency required</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicable</p>
