@@ -2,6 +2,7 @@ collections:
   solutions:
     output: true
     order:
+      - Use Case New/Verifiable Documents.md
       - Use Case New/Use Case.md
       - Use Case New/.keep
       - Benefits.md
