@@ -29,7 +29,7 @@ as well as transfer titles. All from the convenience of your enhanced IT
 system that you are familiar with, or simply with an internet access just
 to verify documents.</p>
 <p></p>
-<h3><strong>TWO Document Types : Verifiable Documents and Transferable Documents</strong></h3>
+<h3><strong><u>TWO Document Types : Verifiable Documents and Transferable Documents</u></strong></h3>
 <p>&nbsp;With TradeTrust, you can digitise any business documents, with no
 data format or standard restriction, into two document types:</p>
 <p>(1)&nbsp;<strong>Verifiable Documents&nbsp;</strong>for example certificates
@@ -37,7 +37,7 @@ of origin and packing lists; and
 <br>(2)&nbsp;<strong>Transferable Documents</strong>&nbsp;for example Electronic
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
-<h3><strong>THREE Key Functionalities</strong></h3>
+<h3><strong><u>THREE Key Functionalities</u></strong></h3>
 <p>TradeTrust empowers you to</p>
 <ol data-tight="true" class="tight">
 <li>
