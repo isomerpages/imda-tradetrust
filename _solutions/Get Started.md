@@ -165,6 +165,7 @@ from another party)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Technical</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choice of blockchain</p>
@@ -178,8 +179,11 @@ from another party)</p>
 <li>
 <p>Installation of crypto wallet eg. Metamask</p>
 </li>
-</ul>
+<li>
 <p></p>
+</li>
+</ul>
+<p>Resource:JavaScript/TypeScript proficiency required</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Required</p>
@@ -193,7 +197,7 @@ from another party)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(B) Outsource to TradeTrust-enabled Business Service Provider</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -207,7 +211,12 @@ from another party)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>(B) Outsource to TradeTrust-enabled Business Service Provider</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand the costing</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
