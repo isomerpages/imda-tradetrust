@@ -22,7 +22,7 @@ with UNCITRAL MLETR are legally valid across borders.</p>
 <p>The TradeTrust framework adheres to the requirements by international
 standards bodies like the UN/CEFACT, W3C and UNESCAP. Adopting TradeTrust
 means following internationally recognised standards and accreditation.</p>
-<h4><strong>Accreditation&nbsp;</strong></h4>
+<h4><strong>Security Assessment</strong></h4>
 <p>Technical solutions are certified to meet legal requirements. Ernst &amp;
 Young audited, also reviewed, and assessed the TradeTrust framework in
 2021 to ensure its reliability and trustworthiness.</p>
