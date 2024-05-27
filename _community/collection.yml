@@ -3,9 +3,5 @@ collections:
     output: true
     order:
       - TradeTrust Ready Partners.md
-      - Country Guides/Overview.md
-      - Country Guides/Singapore.md
-      - Country Guides/.keep
-      - Country Guides/Country B.md
       - Trials.md
       - Join Us.md
