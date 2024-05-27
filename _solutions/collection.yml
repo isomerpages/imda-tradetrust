@@ -4,6 +4,5 @@ collections:
     order:
       - Use Case New/.keep
       - Benefits.md
-      - Use Case.md
       - Costs.md
       - Get Started.md
