@@ -8,16 +8,23 @@ third_nav_title: Use Case
 <h3>Transferable Document Interoperability</h3>
 <p></p>
 <p>&lt;insert background of the ecosystem&gt;</p>
-<p>During the shipment of goods from exporter to importer, electronic Bill
-of Lading (a transferable document) is issued by Carrier for ocean cargo
-facilitation.</p>
+<p>During the shipment of goods from the exporter to importer, electronic
+Bill of Lading (eBL) is issued by the Carrier for ocean cargo facilitation.</p>
 <p>In a typical trade finance use case, exporter uses negotiating bank for
 documents presentation; while importer uses issuing bank for capital provision
-and documents release.</p>
+and documents release. The eBL is issued and transferred from one party
+to another for capital provision and cargo movement.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transferable Document Interoperability" src="/images/Transferable_Doc_Use_Case.png">
 </div>
 <p></p>
-<p>&lt;insert blue graphic of each stakeholder&gt;</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Improvement for the Exporter</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
