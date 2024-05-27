@@ -11,3 +11,5 @@ third_nav_title: Use Case New
 <img style="width: 100%" height="auto" width="100%" alt="Transferable Document Interoperability" src="/images/Transferable_Doc_Use_Case.png">
 </div>
 <p></p>
+<p>&lt;insert blue graphic of each stakeholder&gt;</p>
+<p></p>
