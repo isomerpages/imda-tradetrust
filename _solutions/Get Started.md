@@ -56,7 +56,7 @@ expensive data exchange infrastructure!</p>
 to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
 <p></p>
-<p>We come up with a checklist to help you in the evaluation of adoption:</p>
+<p>We've come up with a checklist to help you in the evaluation of adoption:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
