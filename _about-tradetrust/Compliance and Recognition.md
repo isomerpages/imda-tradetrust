@@ -17,6 +17,7 @@ Commission on International Trade Law (UNCITRAL) Model Law on Electronic
 Transferable Records (MLETR).&nbsp; In 2021, Singapore updated its laws
 to recognise electronic trade documents. TradeTrust-enabled documents comply
 with UNCITRAL MLETR are legally valid across borders.</p>
+<p>See more at legality guide.</p>
 <h4><strong>Global Standards</strong></h4>
 <p>The TradeTrust framework adheres to the requirements by international
 standards bodies like the UN/CEFACT, W3C and UNESCAP. Adopting TradeTrust
