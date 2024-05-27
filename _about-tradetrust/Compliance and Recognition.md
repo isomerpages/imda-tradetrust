@@ -8,7 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1287244680_compliance.jpg">
 </div>
-<h4><strong><a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Singapore’s Electronic Transactions Act</a></strong></h4>
+<p></p>
+<h2>Compliance</h2>
+<h4><strong>Singapore’s Electronic Transactions Act</strong></h4>
 <p>Yes, TradeTrust is designed to comply with <strong><a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Singapore Electronic Transactions Act</a></strong> (ETA),
 which is in line with other global jurisdictions adopting the United Nations
 Commission on International Trade Law (UNCITRAL) Model Law on Electronic
@@ -36,7 +38,7 @@ The ERC-721 (Ethereum Request for Comments 721) is a standard for NFT.
 TradeTrust utilizes ERC-721 for non-fungible tokens (NFTs) to uniquely
 identify and represent title ownership on the blockchain.</p>
 <hr>
-<h3><strong>Recognisation</strong></h3>
+<h2><strong>Recognition</strong></h2>
 <h3><strong>WSIS Prizes</strong>&nbsp;</h3>
 <p>The WSIS Prizes contest evaluates projects and activities that leverage
 the power of information and communication technologies (ICTs) to advance
