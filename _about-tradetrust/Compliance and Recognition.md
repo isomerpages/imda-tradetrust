@@ -23,9 +23,8 @@ with UNCITRAL MLETR are legally valid across borders.</p>
 standards bodies like the UN/CEFACT, W3C and UNESCAP. Adopting TradeTrust
 means following internationally recognised standards and accreditation.</p>
 <h4><strong>Security Assessment</strong></h4>
-<p>Technical solutions are certified to meet legal requirements. Ernst &amp;
-Young audited, also reviewed, and assessed the TradeTrust framework in
-2021 to ensure its reliability and trustworthiness.</p>
+<p>Ernst &amp; Young audited, also reviewed, and assessed the TradeTrust
+framework in 2021 to ensure its reliability and trustworthiness.</p>
 <h4><strong>W3C Verifiable Credentials</strong></h4>
 <p>A verifiable credential comprises tamper-evident claims and metadata that
 cryptographically establish its issuer. Examples include digital employee
