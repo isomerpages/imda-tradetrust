@@ -30,6 +30,8 @@ software components that sit in between the business application and blockchain
 layer. This architecture allows businesses or governments to enhance their
 proprietary IT systems or platforms with TradeTrust’s capabilities, independent
 of the underlying blockchain technologies.</p>
+<p>Choose between integration or subscribe to solution offered by any TradeTrust-enabled
+&lt;Business Service Provider&gt;.</p>
 <h4>Integration</h4>
 <p>You can integrate TradeTrust into your existing IT system through engaging:</p>
 <ol data-tight="true" class="tight">
@@ -55,9 +57,9 @@ to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
 <p></p>
 <p>We come up with a checklist to help you in the evaluation of adoption:</p>
-<p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -65,6 +67,9 @@ of your choice to commence your live transactions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Transforming ...</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -76,6 +81,9 @@ of your choice to commence your live transactions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>What is/are the use case(s)?</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,6 +94,135 @@ of your choice to commence your live transactions.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Which business documents are applicable?</p>
+</td>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Verifiable documents (eg. certificates) and/or</p>
+</li>
+<li>
+<p>Transferable documents (eg. bills of lading, warehouse receipts)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Is it to issue/transfer title for transferable documents or simply verify
+documents received?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issue and/or transfer title of transferable documents(can be received
+from another party)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issue verifiable documents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verify TradeTrust enabled documents received from another party</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Issue/transfer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issue/transfer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verify only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choose whether to (A) integrate into your existing IT system or (B) outsource?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(A): IT integration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Choice of blockchain</p>
+</li>
+</ul>
+<p>cryptocurrency(Ethereum, Polygon, XDC) or crypto-less blockchain(Stability)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blockchain gas fees</p>
+</li>
+<li>
+<p>Installation of crypto wallet eg. Metamask</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Required</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(B) Outsource to TradeTrust-enabled Business Service Provider</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -98,7 +235,6 @@ of your choice to commence your live transactions.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
 <hr>
 <p></p>
