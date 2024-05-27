@@ -4,8 +4,8 @@ collections:
     order:
       - Use Case/.keep
       - Use Case/Use Case.md
-      - Use Case/Transferable Documents.md
       - Use Case/Verifiable Documents.md
+      - Use Case/Transferable Documents.md
       - Benefits.md
       - Costs.md
       - Get Started.md
