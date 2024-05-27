@@ -5,21 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h2>How to Start with TradeTrust</h2>
-<p>Your trade digitalisation journey can be well simplified by adopting TradeTrust.</p>
+<p>Your trade digitalisation journey can be well simplified by adopting TradeTrust.
+The TradeTrust team is ready to help you with the understanding, application
+and integration of TradeTrust into your process.</p>
 <h3><u>To verify TradeTrust-issued documents :</u></h3>
+<p><strong>No technical integration required!</strong>
+</p>
 <p>As a recipient of TradeTrust-issued documents such as electronic Bills
 of Lading or Certificates of Origin, you can verify the documents’ proof
 of origin and authenticity via
 <br>o&nbsp;&nbsp;<strong>Verify Doc</strong>  <strong>service </strong>which
-enables easy verification with a simple document (also known as TradeDoc)
-file upload. This service is available at <a href="https://www.tradetrust.io/verify" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/verify</a> for
+enables easy verification with a simple document (also known as .tt) file
+upload. This service is available at <a href="https://www.tradetrust.io/verify" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/verify</a> for
 free and other websites provided by TradeTrust-enabled Business Service
 Providers
 <br>o&nbsp;&nbsp; <strong>QR codes</strong> (if enabled) in TradeTrust-issued
 documents for online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access independently
-– no matter how many hands the document has been through. <strong>No integration required!</strong>
-</p>
+– no matter how many hands the document has been through.</p>
 <p></p>
 <h3><u>To issue documents and/or transfer title ownership for transferable documents :</u></h3>
 <p><strong>TradeTrust is not a platform </strong>but a set of open-source
@@ -51,11 +54,55 @@ expensive data exchange infrastructure!</p>
 to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
 <p></p>
-<h3></h3>
+<p>We come up with a checklist to help you in the evaluation of adoption:</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4></h4>
 <p></p>
 <hr>
 <p></p>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> for
 any help or query.</p>
+<p></p>
 <p></p>
