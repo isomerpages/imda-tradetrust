@@ -187,20 +187,6 @@ or revoke them (meaning no gas fee is payable)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>(B) Outsource to TradeTrust-enabled Business Service Provider (BSP)</p>
 <ul data-tight="true" class="tight">
 <li>
