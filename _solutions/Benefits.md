@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h2>Benefits Overview</h2>
-<h4>Trust<br>Ensure authenticity and provenance</h4>
+<h4><strong>Trust</strong><br>Ensure authenticity and provenance</h4>
 <p>Using Decentralised Identifiers (DID) and digital signatures, you can
 be certain documents are genuine and untampered with. Verifiable and Transferable
 documents can be traced every step of the way, with a neutral, decentralised
 public ledger system ie smart contract on public blockchain.</p>
 <p></p>
-<h4>Interoperability<br>Partner with anyone, regardless of technology</h4>
+<h4><strong>Interoperability</strong><br>Partner with anyone, regardless of technology</h4>
 <p>TradeTrust is system, semantic/data and protocols agnostic. You can choose
 from industry data standards like DCSA’s and BIMCO’s and any existing transmission
 protocol like email, FTP. And by implementing TradeTrust in a decentralized
@@ -32,13 +32,13 @@ to your own priority.</p>
 single platform. You have one lesser login credential to remember.</p>
 </li>
 </ul>
-<h4>Speed<br>Shorten trade cycles, maximise profit</h4>
+<h4><strong>Speed</strong><br>Shorten trade cycles, maximise profit</h4>
 <p>A digitised, paperless solution enables instant, secure transactions across
 multiple parties. Documents can be processed before goods arrive at the
 destination, digital verification processes lower risks of funds can be
 released quickly through digital contracts.</p>
 <p></p>
-<h4>Compliance<br>More consistency means time and cost savings</h4>
+<h4><strong>Compliance</strong><br>More consistency means time and cost savings</h4>
 <p>You will meet all the compliance requirements for the creation and use
 of Electronic Transferable Records (ETRs) that hold the same legal validity
 as paper-based transferable documents (also known as titled document or
@@ -48,7 +48,7 @@ legal frameworks so that TradeTrust-issued documents that are exchanged
 can be legally recognised in other jurisdictions to increase legal confidence
 and commercial predictability of cross-border transactions.</p>
 <p></p>
-<h4>Who Benefits from TradeTrust?</h4>
+<h4><strong>Who Benefits from TradeTrust?</strong></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
