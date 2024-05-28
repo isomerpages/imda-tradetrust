@@ -36,8 +36,8 @@ and legal requirements.</p>
 </ul>
 <p>All from the convenience of your enhanced IT system that you are familiar
 with, or simply with an internet access just to verify documents.</p>
-<p></p>
-<h3><strong><u>Why choose TradeTrust?</u> </strong></h3>
+<hr>
+<h3><strong><u>Why choose TradeTrust?</u></strong></h3>
 <h4><br>Easy Adoption</h4>
 <p>Save time and cost! Quick launch with TradeTrust's free open-source code
 and no data format or standard restrictions, or, subscribe to the services
