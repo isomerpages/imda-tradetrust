@@ -56,9 +56,9 @@ guide.</p>
 <br>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a>
 </p>
 <p>TradeTrust is system, semantic/data and protocols agnostic. No need for
-expensive data exchange infrastructure!
-<br>
-</p>
+expensive data exchange infrastructure!</p>
+<hr>
+<p></p>
 <blockquote>
 <p><strong>Without Integration</strong>
 </p>
@@ -66,8 +66,12 @@ expensive data exchange infrastructure!
 <p>Alternatively, for no-frill quick subscription model, you can subscribe
 to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
+<hr>
 <p></p>
-<h4><u>Evaluation Checklist</u></h4>
+<blockquote>
+<p><strong><u>Evaluation Checklist</u></strong>
+</p>
+</blockquote>
 <p>We've come up with a checklist to ease your evaluation :</p>
 <table style="minWidth: 100px">
 <colgroup>
