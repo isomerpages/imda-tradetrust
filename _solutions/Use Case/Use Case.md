@@ -7,8 +7,7 @@ third_nav_title: Use Case
 ---
 <p></p>
 <blockquote>
-<p><strong>Over 30 Business Solution Providers, mainly in the FinTech and Supply Chain verticals, have adopted TradeTrust.</strong>
-</p>
+<h4><strong>Over 30 Business Solution Providers, mainly in the FinTech and Supply Chain verticals, have adopted TradeTrust.</strong></h4>
 </blockquote>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/635f32c5001b2d0011fff09b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Use Case Trade Finance" src="/images/Stock_image_samples/istockphoto_1560841101_financing.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trade Finance</div><div class="isomer-card-description">Improve operational efficiency through faster transfers of title and other documents digitally and automate document validation, reduce risk of trade finance fraud and increase confidence in financing</div><div class="isomer-card-link">Contact us</div></div></a>
