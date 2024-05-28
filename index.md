@@ -125,8 +125,8 @@ sections:
           description: Transact securely with your trading parties in the supply chain
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Financial Services
+          description: "Ensure legal obligations and "
           linktext: Learn more
           url: ""
 ---
