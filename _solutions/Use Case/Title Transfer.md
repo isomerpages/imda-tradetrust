@@ -19,8 +19,6 @@ provision and cargo movement.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Transferable Document Interoperability" src="/images/Transferable_Doc_Use_Case.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Improvements for the EXPORTER</strong>
