@@ -54,7 +54,7 @@ Transfer for transferable documents</p>
 <p></p>
 </li>
 </ol>
-<h4>Here's how TradeTrust can help:<br><br><strong><u>Easy Adoption</u></strong></h4>
+<h4>Why choose TradeTrust? <br><br><strong><u>Easy Adoption</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>You can integrate TradeTrust's open-source code for free, without data
