@@ -41,7 +41,7 @@ with, or simply with an internet access just to verify documents.</p>
 <p>Save time and cost! Quick launch with TradeTrust's free open-source code
 and no data format or standard restrictions, or, subscribe to the services
 offered by TradeTrust ready partners</p>
-<h4>Best Practices </h4>
+<h4>Best Practices</h4>
 <p>Enable scalability and cross-platform interoperability, no need for all
 parties to use a common digital platform and contractual rulebook.</p>
 <h4>Secure and Confidential</h4>
