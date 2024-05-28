@@ -54,18 +54,11 @@ Transfer for transferable documents</p>
 <p></p>
 </li>
 </ol>
-<h4>Why choose TradeTrust? <br><br><strong><u>Easy Adoption</u></strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>You can integrate TradeTrust's open-source code for free, without data
-format or standard restrictions to hinder implementation</p>
-</li>
-<li>
-<p>Alternatively, subscribe to the services offered by TradeTrust ready partners
-to start your live transactions</p>
-</li>
-</ul>
-<h4><strong><u>Best Practices</u></strong></h4>
+<h4><strong>Why choose TradeTrust? </strong><br><br>Save Time with Easy Adoption</h4>
+<p>TradeTrust's open-source code is free, without data format or standard
+restrictions to hinder implementation. Or, subscribe to the services offered
+by TradeTrust ready partners to start your live transactions</p>
+<h4>Best Practices</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Guided by global standards and compliant to Model Law on Electronic Transferable
