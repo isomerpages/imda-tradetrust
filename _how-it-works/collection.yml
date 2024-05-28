@@ -2,6 +2,7 @@ collections:
   how-it-works:
     output: true
     order:
+      - TradeTrust Ready Partners.md
       - How it works.md
       - Financial Services.md
       - Government Bodies.md
