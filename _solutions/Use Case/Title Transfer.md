@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Use Case
 ---
-<h3>Transferable Document Interoperability</h3>
-<p></p>
+<h3><strong>Transferable Document</strong></h3>
 <p>During the shipment of goods from the exporter to importer, electronic
 Bill of Lading (eBL) governs by MLETR-compliant law is issued by the Carrier
 for ocean cargo.</p>
@@ -24,7 +23,8 @@ provision and cargo movement.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Improvements for the Exporter</summary>
+<summary><strong>Improvements for the EXPORTER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -33,7 +33,8 @@ provision and cargo movement.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements for the Importer</summary>
+<summary><strong>Improvements for the IMPORTER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -42,7 +43,8 @@ provision and cargo movement.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements for the Checking Authority</summary>
+<summary><strong>Improvements for the CHECKING AUTHORITY</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -51,7 +53,8 @@ provision and cargo movement.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements for the Banker</summary>
+<summary><strong>Improvements for the BANKER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
