@@ -113,4 +113,21 @@ sections:
           announcement: Announcement content
           link_text: ""
           link_url: ""
+  - textcards:
+      title: What's in for you?
+      id: textcards
+      description: " "
+      cards:
+        - title: Carrier
+          description: International shipping is document-dependent
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
