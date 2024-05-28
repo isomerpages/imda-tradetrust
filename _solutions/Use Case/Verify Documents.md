@@ -16,7 +16,7 @@ with an internet access.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Improvements to the Exporter</strong>
+<summary><strong>Improvements to the EXPORTER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -26,7 +26,7 @@ with an internet access.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Improvements to the Importer</strong>
+<summary><strong>Improvements to the IMPORTER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -36,7 +36,7 @@ with an internet access.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Improvements to the Cert Issuing/Checking Authority</strong>
+<summary><strong>Improvements to the CERT ISSUING/CHECKING AUTHORITY</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -46,7 +46,7 @@ with an internet access.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Improvements to the Banker</strong>
+<summary><strong>Improvements to the BANKER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
