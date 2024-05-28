@@ -37,7 +37,7 @@ and legal requirements.</p>
 <p>All from the convenience of your enhanced IT system that you are familiar
 with, or simply with an internet access just to verify documents.</p>
 <p></p>
-<h4><strong>Why choose TradeTrust? </strong><br><br>Save Time with Easy Adoption</h4>
+<h4><strong>Why choose TradeTrust? </strong><br><br>Save Time &amp; Cost with Easy Adoption</h4>
 <p>TradeTrust's open-source code is free, without data format or standard
 restrictions to hinder implementation. Or, subscribe to the services offered
 by TradeTrust ready partners to start your live transactions.</p>
