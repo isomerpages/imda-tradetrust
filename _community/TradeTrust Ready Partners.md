@@ -6,7 +6,7 @@ description: TradeTrust partners
 image: /images/TradeTrustOfficialLogo.svg
 ---
 <blockquote>
-<p><strong>Here are the partners we have collaborated with, whom you may consider reaching out to. </strong>
+<p><strong>Here are the partners we have collaborated with, whom you may consider reaching out to on how you can implement the TradeTrust framework into your organisation's workflow..</strong>
 </p>
 </blockquote>
 <p></p>
