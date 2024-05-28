@@ -116,7 +116,7 @@ data flow among supply chain stakeholders.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="/images/Partner Logos/GUUD_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">GUUD empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products to banks.</div><div class="isomer-card-link">more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.jedtrade.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="JedTrade" src="/images/Partner Logos/Jed_logo.jpg">
@@ -128,7 +128,7 @@ data flow among supply chain stakeholders.</div>
 true digitalisation while upholding trust. ConsenTrade is one of such solution
 we built that allows users to issue and attest the authenticity of digital
 trade documents.or your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">more ...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://jupyton.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jupyton" src="/images/Partner Logos/Jupytron_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jupyton</div><div class="isomer-card-description">Jupyton is a secure Trust and Provenance Engine for verifying identities, transactions and secure signings. Our tech stack’s modular nature supports custom solutions and data exchange in being transparent, auditable, and tamper-proof.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linklogis.com.hk/" class="isomer-card">
