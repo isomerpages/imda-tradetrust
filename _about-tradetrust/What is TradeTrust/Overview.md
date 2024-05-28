@@ -7,7 +7,7 @@ third_nav_title: What is TradeTrust
 ---
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
 <p>TradeTrust is designed to transform your trade digitalisation journey.</p>
-<p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong> 
+<p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
 </p>
 <p>It achieves this by using advanced technologies and adhering to global
 standards and legal requirements to enable trusted interoperability of
@@ -37,31 +37,6 @@ and legal requirements.</p>
 <p>All from the convenience of your enhanced IT system that you are familiar
 with, or simply with an internet access just to verify documents.</p>
 <p></p>
-<h3><strong><u>TWO Document Types : Verifiable Documents and Transferable Documents</u></strong></h3>
-<p>&nbsp;With TradeTrust, you can digitise any business documents, with no
-data format or standard restriction, into two document types:</p>
-<p>(1)&nbsp;<strong>Verifiable Documents&nbsp;</strong>for example certificates
-of origin and packing lists; and
-<br>(2)&nbsp;<strong>Transferable Documents</strong>&nbsp;for example Electronic
-Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
-receipts</p>
-<h3><strong><u>THREE Key Functionalities</u></strong></h3>
-<p>TradeTrust empowers you to</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Verify the authenticit</strong>y : Any tampering would be evident</p>
-</li>
-<li>
-<p><strong>Verify the provenance</strong> : Genuine creators of documents
-like Carriers, Govt authorities</p>
-</li>
-<li>
-<p><strong>Effect title transfer</strong> : Legally-valid Performance Obligation
-Transfer for transferable documents</p>
-<p></p>
-<p></p>
-</li>
-</ol>
 <h4><strong>Why choose TradeTrust? </strong><br><br>Save Time with Easy Adoption</h4>
 <p>TradeTrust's open-source code is free, without data format or standard
 restrictions to hinder implementation. Or, subscribe to the services offered
