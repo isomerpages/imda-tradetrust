@@ -5,12 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Use Case
 ---
-<blockquote>
+<h4><strong>Verifiable Documents</strong></h4>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
 of the document can be easily verified by any party independently just
 with an internet access.</p>
 <p></p>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VERIFIABLE DOCUMENTS’ INTEROPERABILITY" src="/images/Verifiable_Doc_Use_Case.png">
 </div>
