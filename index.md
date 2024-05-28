@@ -129,4 +129,8 @@ sections:
           description: Improve legal obligations and compliance with reduced risk of fraud
           linktext: Learn more
           url: ""
+        - title: Business Service Provider
+          description: Innovate and create new product offering by building upon TradeTrust
+          linktext: Learn more
+          url: ""
 ---
