@@ -118,7 +118,7 @@ sections:
       id: textcards
       cards:
         - title: Carrier
-          description: Turn document-dependent shipping digital
+          description: Go digital-ready for document-dependent shipping processe
           linktext: Learn more
           url: ""
         - title: Shipper
