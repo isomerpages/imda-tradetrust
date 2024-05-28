@@ -172,7 +172,7 @@ of electronic documentation with the TradeTrust framework.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Veritag" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/VeriTag_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -181,7 +181,7 @@ of electronic documentation with the TradeTrust framework.</div>
 and NFT technology supported by documents security using TradeTrust.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">XDC is an EVM-compatible protocol known for its outstanding presence in the trade finance industry. XDC offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">XDC is an EVM-compatible protocol known for its outstanding presence in the trade finance industry. XDC offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
 </div>
 <p></p>
 <p></p>
