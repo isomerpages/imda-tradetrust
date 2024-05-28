@@ -4,13 +4,15 @@ permalink: /about-tradetrust/what-is-tradetrust/get-started/
 variant: tiptap
 description: ""
 ---
-<h2>How to Start with TradeTrust</h2>
+<h3><strong>How to Start with TradeTrust</strong></h3>
 <p>Your trade digitalisation journey can be well simplified by adopting TradeTrust.
 The TradeTrust team is ready to help you with the understanding, application
 and integration of TradeTrust into your process.</p>
-<h3><u>To verify TradeTrust-issued documents :</u></h3>
+<h3><strong>To verify TradeTrust-issued documents :</strong></h3>
+<blockquote>
 <p><strong>No technical integration required!</strong>
 </p>
+</blockquote>
 <p>As a recipient of TradeTrust-issued documents such as electronic Bills
 of Lading or Certificates of Origin, you can verify the documents’ proof
 of origin and authenticity via
@@ -24,15 +26,19 @@ documents for online verification simply with smartphone camera scanning</p>
 <p>Verification can be done anywhere, anytime with Internet access independently
 – no matter how many hands the document has been through.</p>
 <p></p>
-<h3><u>To issue documents and/or transfer title ownership for transferable documents :</u></h3>
+<h3><strong>To issue documents and/or transfer title ownership for transferable documents :</strong></h3>
 <p><strong>TradeTrust is not a platform </strong>but a set of open-source
 software components that sit in between the business application and blockchain
 layer. This architecture allows businesses or governments to enhance their
 proprietary IT systems or platforms with TradeTrust’s capabilities, independent
 of the underlying blockchain technologies.</p>
 <p>Choose between integration or subscribe to solution offered by any TradeTrust-enabled
-&lt;Business Service Provider&gt;.</p>
-<h4>Integration</h4>
+Business Service Provider.</p>
+<p></p>
+<blockquote>
+<p><strong>With Integration</strong>
+</p>
+</blockquote>
 <p>You can integrate TradeTrust into your existing IT system through engaging:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -50,13 +56,18 @@ guide.</p>
 <br>Our partners: <a href="https://www.tradetrust.io/partners" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/partners</a>
 </p>
 <p>TradeTrust is system, semantic/data and protocols agnostic. No need for
-expensive data exchange infrastructure!</p>
-<h4>No Integration</h4>
+expensive data exchange infrastructure!
+<br>
+</p>
+<blockquote>
+<p><strong>Without Integration</strong>
+</p>
+</blockquote>
 <p>Alternatively, for no-frill quick subscription model, you can subscribe
 to the platform service from TradeTrust-enabled Business Service Provider
 of your choice to commence your live transactions.</p>
 <p></p>
-<h3><strong><u>Evaluation Checklist</u></strong></h3>
+<h4><u>Evaluation Checklist</u></h4>
 <p>We've come up with a checklist to ease your evaluation :</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -207,7 +218,6 @@ or revoke them (meaning no gas fee is payable)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <p></p>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> for
