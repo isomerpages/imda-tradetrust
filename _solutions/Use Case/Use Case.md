@@ -13,11 +13,11 @@ Chain verticals, have adopted TradeTrust.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/635f32c5001b2d0011fff09b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Use Case Trade Finance" src="/images/TradeFinance.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trade Finance</div><div class="isomer-card-description">Improve operational efficiency through faster transfers of title and other documents digitally and automate document validation, reduce risk of trade finance fraud and increase confidence in financing</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/635f32c5001b2d0011fff09b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Use Case Trade Finance" src="/images/Stock_image_samples/istockphoto_1560841101_financing.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trade Finance</div><div class="isomer-card-description">Improve operational efficiency through faster transfers of title and other documents digitally and automate document validation, reduce risk of trade finance fraud and increase confidence in financing</div><div class="isomer-card-link">Contact us</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/635f32c5001b2d0011fff09b" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Use Case Trade &amp; Logistics" src="/images/TradeLogistics.png">
+<img style="width: 100%" height="auto" width="100%" alt="Use Case Trade &amp; Logistics" src="/images/Stock_image_samples/istockphoto_842093808_documentation.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,10 +27,10 @@ efficiency, lower overhead cost of paper and reduce unnecessary demurrage
 and detention charges of holding cargo due to delay in documentation</div>
 <div class="isomer-card-link">Contact us</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/635f32c5001b2d0011fff09b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Use Case Tech &amp; BSP" src="/images/TechBSP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Many Other Use Cases…</div><div class="isomer-card-description">Improve service offerings through the development of innovative digital products and services, increase your new business and partnership opportunities with trade digitalisation such as creation of digital arts and notarisation service</div><div class="isomer-card-link">Contact us</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/635f32c5001b2d0011fff09b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Use Case Tech &amp; BSP" src="/images/Stock_image_samples/istockphoto_933102408_Others.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Many Other Use Cases…</div><div class="isomer-card-description">Improve service offerings through the development of innovative digital products and services, increase your new business and partnership opportunities with trade digitalisation such as creation of digital arts and notarisation service</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
-<h4>Who Can Benefit</h4>
+<h4><strong>Who Can Benefit</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Financing Banks, Exporters, Importers, Carriers, Insurers, Surveyors&nbsp;</p>
