@@ -12,7 +12,7 @@ achieves this by using advanced technologies and adhering to global standards
 and legal requirements to enable trusted interoperability of electronic
 trade documents across digital platforms. Electronic documents issued this
 way can be trusted, portable, and legally effective on different systems,
-thereby streamlining cross-platform compatibility and enhancing overall
+thereby streamlining cross-platform interoperability and enhancing overall
 operational efficiency for businesses and governments.</p>
 <p>And offered as a free digital utility, it is open-sourced so that all
 parties can easily adopt for free and build upon it to benefit the business
@@ -58,34 +58,12 @@ Transfer for transferable documents</p>
 <p>TradeTrust's open-source code is free, without data format or standard
 restrictions to hinder implementation. Or, subscribe to the services offered
 by TradeTrust ready partners to start your live transactions</p>
-<h4>Best Practices</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Guided by global standards and compliant to Model Law on Electronic Transferable
-Records by United Nations Commission on International Trade Law, leads
-to proven benefits</p>
-</li>
-<li>
-<p>The decentralised nature of a public blockchain – with no single governing
-authority, makes it the most accessible and neutral way to record transactions</p>
-</li>
-<li>
-<p>No need for all parties to use a common digital platform and contractual
-rulebook, eliminates scalability limitation</p>
-<p></p>
-</li>
-</ul>
-<h4><strong><u>Secure and Confidential</u></strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>No data is stored on the blockchain to preserve confidentiality</p>
-</li>
-<li>
-<p>Electronic documents are supported by statutory law and cryptographically
-trustworthy and can be verified independently, providing you a peace of
-mind.</p>
-</li>
-</ul>
+<h4>Best Practices as Effective Methods</h4>
+<p>Enable scalability and cross-platform interoperability, no need for all
+parties to use a common digital platform and contractual rulebook</p>
+<h4>Secure and Confidential</h4>
+<p>Ensure electronic documents are compliant to global standards and statutory
+law and cryptographically trustworthy with data confidentiality</p>
 <p>&nbsp;</p>
 <blockquote>
 <p>You can find out more about how TradeTrust works in <strong><a href="https://youtu.be/-YD21elPXxs" rel="noopener noreferrer nofollow" target="_blank">this video</a></strong>.
