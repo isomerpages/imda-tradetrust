@@ -40,13 +40,13 @@ with, or simply with an internet access just to verify documents.</p>
 <h4><strong>Why choose TradeTrust? </strong><br><br>Save Time with Easy Adoption</h4>
 <p>TradeTrust's open-source code is free, without data format or standard
 restrictions to hinder implementation. Or, subscribe to the services offered
-by TradeTrust ready partners to start your live transactions</p>
+by TradeTrust ready partners to start your live transactions.</p>
 <h4>Best Practices as Effective Methods</h4>
 <p>Enable scalability and cross-platform interoperability, no need for all
-parties to use a common digital platform and contractual rulebook</p>
+parties to use a common digital platform and contractual rulebook.</p>
 <h4>Secure and Confidential</h4>
 <p>Ensure electronic documents are compliant to global standards and statutory
-law and cryptographically trustworthy with data confidentiality</p>
+law and cryptographically trustworthy with data confidentiality.</p>
 <p>&nbsp;</p>
 <blockquote>
 <p>You can find out more about how TradeTrust works in <strong><a href="https://youtu.be/-YD21elPXxs" rel="noopener noreferrer nofollow" target="_blank">this video</a></strong>.
