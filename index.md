@@ -125,8 +125,8 @@ sections:
           description: Transact securely with your trading parties in the supply chain
           linktext: Learn more
           url: ""
-        - title: Financial Services
-          description: "Ensure legal obligations and "
+        - title: Financial Service Provider
+          description: Improve legal obligations and compliance with reduced risk of fraud
           linktext: Learn more
           url: ""
 ---
