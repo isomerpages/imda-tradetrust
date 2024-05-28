@@ -7,7 +7,7 @@ third_nav_title: What is TradeTrust
 ---
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
 <p>TradeTrust is designed to transform your trade digitalisation journey.</p>
-<p><strong>TradeTrust is framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong> It
+<p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong> It
 achieves this by using advanced technologies and adhering to global standards
 and legal requirements to enable trusted interoperability of electronic
 trade documents across digital platforms. Electronic documents issued this
