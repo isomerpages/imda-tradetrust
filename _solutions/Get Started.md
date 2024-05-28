@@ -32,9 +32,8 @@ software components that sit in between the business application and blockchain
 layer. This architecture allows businesses or governments to enhance their
 proprietary IT systems or platforms with TradeTrust’s capabilities, independent
 of the underlying blockchain technologies.</p>
-<p>Choose between integration or subscribe to solution offered by any TradeTrust-enabled
-Business Service Provider.</p>
-<p></p>
+<h4>Choose between integration or subscribe to solution offered by any TradeTrust-enabled Business Service Provider.</h4>
+<h4></h4>
 <blockquote>
 <p><strong>With Integration</strong>
 </p>
