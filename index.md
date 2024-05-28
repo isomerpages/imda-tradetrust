@@ -116,14 +116,13 @@ sections:
   - textcards:
       title: What's in for you?
       id: textcards
-      description: " "
       cards:
         - title: Carrier
-          description: International shipping is document-dependent
+          description: Turn document-dependent shipping digital
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Shipper
+          description: Transact securely with your trading parties in the supply chain
           linktext: Learn more
           url: ""
         - title: Card
