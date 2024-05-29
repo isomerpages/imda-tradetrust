@@ -2,12 +2,12 @@ logo: /images/TradeTrustOfficialLogo.svg
 links:
   - title: About TradeTrust
     collection: about-tradetrust
+  - title: Solution
+    url: /solution
+    sublinks: []
   - title: Community
     collection: community
   - title: Developers
     collection: developers
   - title: News and Events
     resource_room: true
-  - title: Solution
-    url: /permalink
-    sublinks: []
