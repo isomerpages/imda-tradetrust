@@ -10,7 +10,7 @@ description: ""
 <p>Ships are estimated to transport approximately 80 percent of goods.</p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
 system interoperability and platform-agnostic, seamless data exchange with
-your upstream and downstream value chain partners.</p>
+your supply chain partners.</p>
 <p>The same electronic bills of lading can be used to facilitate trade finance
 by traders.</p>
 <p></p>
