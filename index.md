@@ -102,7 +102,7 @@ sections:
       image: /images/TradeTrust_Pilot.PNG
       url: https://www.tradetrust.io/
   - textcards:
-      title: Ready to learn how TradeTrust can benefit you?
+      title: Ready to Transform the way you Trade?
       id: textcards
       description: You will get dedicated support throughout your onboarding and
         technical integration journey, ensuring a smooth and seamless transition
