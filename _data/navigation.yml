@@ -2,8 +2,8 @@ logo: /images/TradeTrustOfficialLogo.svg
 links:
   - title: About TradeTrust
     collection: about-tradetrust
-  - title: Solutions Old
-    collection: solutions-old
+  - title: Solutions
+    collection: solutions
   - title: Community
     collection: community
   - title: Developers
