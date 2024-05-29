@@ -75,7 +75,7 @@ sections:
           description: Go digital-ready for document-dependent business
           linktext: Learn more
           url: ""
-        - title: Shipper or Trader for goods
+        - title: Shipper or Trader for Goods
           description: Transact securely with your trading parties in the supply chain
           linktext: Learn more
           url: ""
