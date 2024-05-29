@@ -13,8 +13,10 @@ system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners.</p>
 <p>The same electronic bills of lading can be used to facilitate trade finance
 by traders, trade compliance and marine cargo shipping arrangement by logistics
-service providers</p>
-<p></p>
+service providers.</p>
+<p>Taking blank endorsed Bill of Lading as an example, the electronic version
+issued with TradeTrust's technical method will allow the transfer of title
+from one party to another seamlessly.</p>
 <h4>Benefits</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stronger Customer Relationships</div><div class="isomer-card-description">Match the increasing needs of digitalisation from your customers and foster stronger collaboration</div><div class="isomer-card-link">This is a link for your card</div></div></a>
