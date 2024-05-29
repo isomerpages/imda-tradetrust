@@ -2,4 +2,5 @@ collections:
   solution:
     output: true
     order:
+      - Financial Service Provider.md
       - Carrier & Logistics Service Provider.md
