@@ -69,7 +69,8 @@ sections:
           linktext: Learn more
           url: ""
         - title: Financial Service Provider
-          description: Improve legal obligations and compliance with reduced risk of fraud
+          description: De-risk the financing of trade, so that I can reduce fraud &
+            arbitration
           linktext: Learn more
           url: ""
         - title: Business  Solution Provider
