@@ -60,7 +60,7 @@ sections:
       title: What's in for you?
       id: textcards
       cards:
-        - title: Carrier & Logistics Provider
+        - title: Carrier & Logistics Service Provider
           description: Go digital-ready for document-dependent business
           linktext: Learn more
           url: ""
