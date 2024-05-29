@@ -12,7 +12,8 @@ description: ""
 system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners.</p>
 <p>The same electronic bills of lading can be used to facilitate trade finance
-by traders.</p>
+by traders, trade compliance and marine cargo shipping arrangement by logistics
+service providers</p>
 <p></p>
 <h4>Benefits</h4>
 <p></p>
@@ -35,4 +36,4 @@ enhance efficiency</div>
 <p></p>
 <p></p>
 <p></p>
-<p>Contact Us</p>
+<p>Contact UsLog</p>
