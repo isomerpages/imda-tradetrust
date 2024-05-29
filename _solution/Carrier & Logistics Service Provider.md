@@ -35,6 +35,6 @@ enhance efficiency</div>
 </div>
 <p></p>
 <p></p>
+<p>Wonder how to get started, contact Us!</p>
 <p></p>
 <p></p>
-<p>Contact Us</p>
