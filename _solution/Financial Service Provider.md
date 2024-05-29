@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Use Case</h3>
-<p>Tokenised and fractionalised digital assets for financing</p>
+<h4><strong><u>Tokenised and fractionalised digital assets for financing</u></strong></h4>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses. However, the emergence of tokens recorded
 on blockchains introduces a new dimension.</p>
@@ -13,11 +13,12 @@ on blockchains introduces a new dimension.</p>
 warehouse receipts, it becomes possible to trade and finance smaller fractions
 of assets. This revolutionizes the investment process, opening up new opportunities
 in both the supply and demand sides of the market.</p>
-<p>&nbsp;Banks and financiers could also leverage their upgraded systems
-with TradeTrust set of software components to converge physical, financial
-and document chains. This means making automation of key processes possible
-like automating validation of documentations, payments and release of funds
-when conditions are met</p>
+<h4><strong><u>Automatic documentation processing</u></strong></h4>
+<p>Banks and financiers could also leverage their upgraded systems with TradeTrust
+set of software components to converge physical, financial and document
+chains. This means making automation of key processes possible like automating
+validation of documentations, payments and release of funds when conditions
+are met</p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
 system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners.</p>
