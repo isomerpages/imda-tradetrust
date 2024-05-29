@@ -1,5 +1,5 @@
 collections:
-  solutions:
+  solutions-old:
     output: true
     order:
       - Use Case/.keep
