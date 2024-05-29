@@ -7,9 +7,6 @@ description: ""
 <p>Use Case</p>
 <p>Document processing</p>
 <p>Paper-based processes hamper global trade.</p>
-<p>The carrier should adopt TradeTrust to streamline and secure digital trade
-transactions, including the handling of bill of lading, enhance operational
-efficiency, and build trust with stakeholders</p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
 system interoperability and platform-agnostic, seamless data exchange with
 your upstream and downstream value chain partners.</p>
