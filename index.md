@@ -121,7 +121,7 @@ sections:
           description: Go digital-ready for document-dependent shipping processe
           linktext: Learn more
           url: ""
-        - title: Shipper & Traders for goods
+        - title: Shipper or Trader for goods
           description: Transact securely with your trading parties in the supply chain
           linktext: Learn more
           url: ""
