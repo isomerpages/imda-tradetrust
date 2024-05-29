@@ -118,7 +118,7 @@ sections:
       id: textcards
       cards:
         - title: Carrier & Logistics Provider
-          description: Go digital-ready for document-dependent shipping processe
+          description: Go digital-ready for document-dependent business
           linktext: Learn more
           url: ""
         - title: Shipper or Trader for goods
