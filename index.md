@@ -117,7 +117,7 @@ sections:
       title: What's in for you?
       id: textcards
       cards:
-        - title: Carrier
+        - title: Carrier & Logistics Provider
           description: Go digital-ready for document-dependent shipping processe
           linktext: Learn more
           url: ""
