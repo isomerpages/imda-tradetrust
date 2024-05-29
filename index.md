@@ -67,6 +67,27 @@ sections:
           linktext: Learn more
           url: ""
       subtitle: Digitise the inefficiency
+  - textcards:
+      title: What's in for you?
+      id: textcards
+      cards:
+        - title: Carrier & Logistics Provider
+          description: Go digital-ready for document-dependent business
+          linktext: Learn more
+          url: ""
+        - title: Shipper or Trader for goods
+          description: Transact securely with your trading parties in the supply chain
+          linktext: Learn more
+          url: ""
+        - title: Financial Service Provider
+          description: Improve legal obligations and compliance with reduced risk of fraud
+          linktext: Learn more
+          url: ""
+        - title: Business  Solution Provider
+          description: Innovate and create new IT product offerings by building upon
+            TradeTrust
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Successful Trials
       id: infopic
@@ -113,24 +134,4 @@ sections:
           announcement: Announcement content
           link_text: ""
           link_url: ""
-  - textcards:
-      title: What's in for you?
-      id: textcards
-      cards:
-        - title: Carrier & Logistics Provider
-          description: Go digital-ready for document-dependent business
-          linktext: Learn more
-          url: ""
-        - title: Shipper or Trader for goods
-          description: Transact securely with your trading parties in the supply chain
-          linktext: Learn more
-          url: ""
-        - title: Financial Service Provider
-          description: Improve legal obligations and compliance with reduced risk of fraud
-          linktext: Learn more
-          url: ""
-        - title: Business Service Provider
-          description: Innovate and create new product offerings by building upon TradeTrust
-          linktext: Learn more
-          url: ""
 ---
