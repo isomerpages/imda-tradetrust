@@ -3,8 +3,7 @@ links:
   - title: About TradeTrust
     collection: about-tradetrust
   - title: Solution
-    url: /solution
-    sublinks: []
+    collection: solution
   - title: Community
     collection: community
   - title: Developers
