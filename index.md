@@ -39,17 +39,6 @@ sections:
         standardizes digital trade with enhanced security and legal certainty.
       button: Learn More
       url: /Overview/
-  - infopic:
-      title: Benefits
-      id: infopic
-      description: Streamline end-to-end trade document processing seamlessly with
-        TradeTrust, ensuring optimal operational efficiency and convenience for
-        trading partners.
-      button: Learn More
-      image: /images/Seamless_Trade_Ecosystem.PNG
-      alt: Image alt text
-      subtitle: Digital Trade Ecosystem
-      url: /Benefits
   - textcards:
       title: Solution
       id: textcards
