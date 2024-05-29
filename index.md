@@ -73,8 +73,8 @@ sections:
           linktext: Learn more
           url: ""
         - title: Financial Service Provider
-          description: De-risk trade financing, tokenizing digital assets for
-            fractionalised financing
+          description: De-risk trade financing, tokenise digital assets for fractionalised
+            financing
           linktext: Learn more
           url: ""
         - title: Business  Solution Provider
