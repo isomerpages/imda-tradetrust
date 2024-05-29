@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p>Use Case</p>
-<p>Document processing</p>
+<p><strong>Document processing</strong>
+</p>
 <p>Ships are estimated to transport approximately 80 percent of goods.</p>
-<p>Paper-based processes hamper global trade.</p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
 system interoperability and platform-agnostic, seamless data exchange with
 your upstream and downstream value chain partners.</p>
