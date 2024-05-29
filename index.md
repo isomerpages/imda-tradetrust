@@ -65,7 +65,9 @@ sections:
           linktext: Learn more
           url: ""
         - title: Shipper or Trader for Goods
-          description: Transact securely with your trading parties in the supply chain
+          description: |-
+            For fast, trustworthy
+            transactions and new bsuiness relationships
           linktext: Learn more
           url: ""
         - title: Financial Service Provider
