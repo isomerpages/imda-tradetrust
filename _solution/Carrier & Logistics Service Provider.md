@@ -15,8 +15,10 @@ your upstream and downstream value chain partners.</p>
 by traders.</p>
 <p></p>
 <p>Benefits</p>
-<p>Better Service</p>
-<p>Match the increasing needs of digitalisation from your customers</p>
+<p><strong>Better Service</strong>
+</p>
+<p>Match the increasing needs of digitalisation from your customers and foster
+stronger relationships</p>
 <p></p>
 <p></p>
 <p>Contact Us</p>
