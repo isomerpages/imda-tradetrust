@@ -13,13 +13,10 @@ system interoperability and platform-agnostic, seamless data exchange with
 your upstream and downstream value chain partners.</p>
 <p>The same electronic bills of lading can be used to facilitate trade finance
 by traders.</p>
-<h4></h4>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>Benefits</p>
+<p>Better Service</p>
+<p>Match the increasing needs of digitalisation from your customers</p>
 <p></p>
 <p></p>
 <p>Contact Us</p>
