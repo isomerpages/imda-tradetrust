@@ -36,7 +36,7 @@ enhance efficiency</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>Wonder how to get started, contact Us!</p>
+<p>Wonder how to get started, contact us!</p>
 </blockquote>
 <p></p>
 <p></p>
