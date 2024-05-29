@@ -61,7 +61,9 @@ sections:
       id: textcards
       cards:
         - title: Carrier & Logistics Service Provider
-          description: Go digital-ready for document-dependent business
+          description: |-
+            Go digital-ready, stay compliant and relevant in future
+            markets
           linktext: Learn more
           url: ""
         - title: Shipper or Trader for Goods
