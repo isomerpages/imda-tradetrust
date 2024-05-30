@@ -6,7 +6,7 @@ description: ""
 ---
 <h3></h3>
 <p>Successful trials with Industry players and government bodies for Trade
-Finance, cargo release, ....</p>
+Finance, cargo release, ....with proven saving of....</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
