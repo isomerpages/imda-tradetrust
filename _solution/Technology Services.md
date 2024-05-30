@@ -19,7 +19,7 @@ the legal transfer of trade obligations at the application layer.</p>
 <li>
 <p><strong>Interoperability</strong>
 <br>Partner with anyone, regardless of technology to drive efficiency and
-lowering cost of business.</p>
+lower cost of business.</p>
 <p></p>
 <p>TradeTrust is system, semantic/data and protocols agnostic. You can choose
 from industry data standards like DCSA’s and BIMCO’s and any existing transmission
