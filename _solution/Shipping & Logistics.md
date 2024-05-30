@@ -15,7 +15,8 @@ description: ""
 <p></p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
 system interoperability and platform-agnostic, seamless data exchange with
-your supply chain partners for trusted transaction.</p>
+your supply chain partners for trusted transaction. Any revocation of documents
+can be easily done.</p>
 <p></p>
 <p>Cargo releases can be automated during acceptance of surrendered bills
 of lading and are more secured with identity and authenticity checks.</p>
@@ -34,10 +35,10 @@ clearance.</p>
 <p></p>
 </li>
 <li>
-<p>Transaction End-to-end traceability</p>
+<p><strong>Transaction End-to-end traceability</strong>
+</p>
 <p>Through endorsement chain, holdership and ownership of Bill of Lading
-can be easily traced real-time, ensuring release of goods to the right
-party. Any revocation of documents can be easily done.</p>
+can be traced real-time, ensuring release of goods to the right party.</p>
 <p></p>
 </li>
 </ol>
