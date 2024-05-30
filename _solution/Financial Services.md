@@ -7,7 +7,8 @@ description: ""
 <h3>How TradeTrust can help in Financial Services</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Trade Finance Facilitation</p>
+<p><strong>Trade Finance Facilitation</strong>
+</p>
 <p>When a electronic bills of lading issued by Carrier is received, the same
 electronic bills of lading can be used to facilitate trade finance by traders,
 trade compliance and marine cargo shipping arrangement by logistics service
@@ -18,7 +19,8 @@ from trader to bank, and bank to another party seamlessly for trade financing.</
 <p></p>
 </li>
 <li>
-<p>Automatic documentation processing</p>
+<p><strong>Automatic documentation processing</strong>
+</p>
 <p>Banks and financiers could also leverage their upgraded systems with TradeTrust
 set of software components to converge physical, financial and document
 chains. This means making automation of key processes possible like automating
@@ -28,7 +30,8 @@ easy.</p>
 <p></p>
 </li>
 <li>
-<p>Tokenised and fractionalised digital assets for financing</p>
+<p><strong>Tokenised and fractionalised digital assets for financing</strong>
+</p>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
 <p>By tokenizing real-world assets through the use of Bills of Lading and
@@ -81,8 +84,8 @@ gap</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>TradeTrust provides a reference implementation to &lt;Create Documents&gt;
-and &lt;Verify Documents&gt;. Learn more about &lt;how it works&gt;.</p>
+<p>Try &lt;Create Documents&gt; and &lt;Verify Documents&gt;. Learn more
+about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
