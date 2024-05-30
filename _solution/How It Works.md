@@ -75,7 +75,7 @@ with an internet access.</p>
 <p>&lt;Insert Trade Finance&gt;</p>
 <p></p>
 <p></p>
-<p></p>
+<h4></h4>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
 <p></p>
