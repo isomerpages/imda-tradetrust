@@ -43,19 +43,11 @@ provision and cargo movement.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_transferable_carriers.jpg">
-</div>
-</div>
-</details>
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Benefits_Carriers.jpg">
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_transferable_carriers.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
