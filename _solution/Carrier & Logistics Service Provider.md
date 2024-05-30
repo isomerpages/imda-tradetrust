@@ -37,7 +37,7 @@ enhance efficiency</div>
 <p></p>
 <blockquote>
 <p>TradeTrust provides a reference implementation for the &lt;creation of
-documents&gt;, learn more about &lt;how it works&gt;.</p>
+documents&gt;. Learn more about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
