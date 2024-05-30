@@ -14,19 +14,36 @@ outside of the confines of any contract-based platform.</p>
 <p>It functions as middleware that can be plugged into different blockchains.
 This means you can ensure authenticity, verify the source, and validate
 the legal transfer of trade obligations at the application layer.</p>
-<p>&nbsp;</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Development of new digital services</p>
+<p><strong>Interoperability</strong>
+<br>Partner with anyone, regardless of technology</p>
+<p></p>
+<p>TradeTrust is system, semantic/data and protocols agnostic. You can choose
+from industry data standards like DCSA’s and BIMCO’s and any existing transmission
+protocol like email, FTP.</p>
 <p></p>
 </li>
 <li>
-<p>Automatic documentation processing</p>
-<p>To converge physical, business and financial document chains. This means
-making automation of key processes possible like automating validation
-of documentations, payments. Identify and authenticity verification makes
-transactions more secure.</p>
-<p></p>
+<p><strong>Decentralized approach</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>removes the need for expensive data exchange infrastructure to be put
+in place in between you and exchanging parties.</p>
+</li>
+<li>
+<p>removes tight coupling and inter-dependencies between exchanging systems.
+This means exchanging parties like you and your trading partners can proceed
+to upgrade and make changes to the IT systems at your own pace according
+to your own priority.</p>
+</li>
+<li>
+<p>Removes the need that you and your trading community to sign up to one
+single platform. You have one lesser login credential to remember.</p>
+</li>
+</ul>
 </li>
 </ol>
 <h3>Benefits</h3>
@@ -51,9 +68,10 @@ for international trade operations</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">De-Risk Trade Financing</div>
-<div class="isomer-card-description">Identify and authenticity verifications reduces risk of fraud and human
-errors</div>
+<div class="isomer-card-title">Increase IT capability</div>
+<div class="isomer-card-description">Enhanced your IT system with TradeTrust's capability by making Verifiable
+Documents (VDs) and Electronic Transferable Records (ETRs*) portable and
+effective across systems</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -64,8 +82,8 @@ errors</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Business Opportunity</div>
-<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to trade finance
-gap</div>
+<div class="isomer-card-description">Increase new business and partnership opportunities through a vibrant
+digital economy</div>
 </div>
 </div>
 </div>
