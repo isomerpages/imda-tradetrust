@@ -11,9 +11,9 @@ of origin and packing lists; and
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
-file with a .TT file extension. They can be transmitted via your upgraded
-IT business application and existing data interchange system like email,
-FTP and regardless of data format or standard like DCSA’s and BIMCO’s.</p>
+file with a .TT file extension. They can be transmitted via your existing
+data interchange system like email, FTP and regardless of data format or
+standard like DCSA’s and BIMCO’s.</p>
 <p>And, when you and your trading partners uniformly adopt TradeTrust to
 process trade documentation, it eliminates the need for all parties to
 use a common digital platform and contractual rulebook. This decentralized
