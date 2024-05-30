@@ -60,24 +60,24 @@ sections:
       title: What's in for you?
       id: textcards
       cards:
-        - title: Carrier & Logistics Service Provider
+        - title: Carriers & Logistics Service Providers
           description: |-
             Go digital-ready, stay compliant and relevant in future
             markets
           linktext: Learn more
           url: ""
-        - title: Shipper or Trader for Goods
+        - title: Traders for Goods
           description: |-
             For fast, trustworthy
             transactions and new bsuiness relationships
           linktext: Learn more
           url: ""
-        - title: Financial Service Provider
+        - title: Financial Institutions
           description: De-risk trade financing, tokenise digital assets for fractionalised
             financing
           linktext: Learn more
           url: ""
-        - title: Business  Solution Provider
+        - title: Business  Solution Providers
           description: Innovate and create new IT product offerings by building upon
             TradeTrust
           linktext: Learn more
@@ -85,7 +85,7 @@ sections:
       subtitle: DIGITAL TRADE ECOSYSTEM
       description: Streamline end-to-end trade document processing seamlessly,
         ensuring optimal operational efficiency, trust and convenience for
-        stakeholders in your supply chain.
+        stakeholders in your supply chain. You can see examples here.
   - infopic:
       title: Successful Trials
       id: infopic
