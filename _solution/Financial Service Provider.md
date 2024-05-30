@@ -7,8 +7,7 @@ description: ""
 <h3>Use Case</h3>
 <h4><strong><u>Tokenised and fractionalised digital assets for financing</u></strong></h4>
 <p>Traditional banks and alternative financing platforms have long provided
-liquidity and capital to businesses. However, the emergence of tokens recorded
-on blockchains introduces a new dimension.</p>
+liquidity and capital to businesses.</p>
 <p>By tokenizing real-world assets through the use of Bills of Lading and
 warehouse receipts, it becomes possible to trade and finance smaller fractions
 of assets. This revolutionizes the investment process, opening up new opportunities
@@ -19,9 +18,6 @@ set of software components to converge physical, financial and document
 chains. This means making automation of key processes possible like automating
 validation of documentations, payments and release of funds when conditions
 are met</p>
-<p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
-system interoperability and platform-agnostic, seamless data exchange with
-your supply chain partners.</p>
 <p>When a electronic bills of lading issued by Carrier is received, the same
 electronic bills of lading can be used to facilitate trade finance by traders,
 trade compliance and marine cargo shipping arrangement by logistics service
