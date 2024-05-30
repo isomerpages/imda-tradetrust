@@ -85,7 +85,7 @@ sections:
       subtitle: DIGITAL TRADE ECOSYSTEM
       description: Streamline end-to-end trade document processing seamlessly,
         ensuring optimal operational efficiency, trust and convenience for
-        stakeholders in your supply chain. You can see examples here.
+        stakeholders in your supply chain. See some examples here.
   - infopic:
       title: Successful Trials
       id: infopic
