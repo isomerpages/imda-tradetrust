@@ -9,7 +9,7 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Demand of sustainability</strong>
+<p><strong>Demand of Sustainability</strong>
 </p>
 <p></p>
 <p>Digitisation of trade supports sustainability and meet compliance requirements,
@@ -31,7 +31,7 @@ clearance.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Transaction End-to-end traceability</strong>
+<p><strong>Transaction End-to-end Traceability</strong>
 </p>
 <p>Through endorsement chain, holdership and ownership of Bill of Lading
 can be traced real-time, ensuring release of goods to the right party.</p>
