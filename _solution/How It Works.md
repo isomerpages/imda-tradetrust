@@ -16,6 +16,9 @@ receipts</p>
 file with a .TT file extension (<a href="http://filename.tt" rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>). They can be exchanged over
 your existing business/IT and data interchange system like email, FTP and
 regardless of data format or standard like DCSA’s and BIMCO’s.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>And, when you and your trading partners uniformly adopt TradeTrust to
 process trade documentation, it eliminates the need for all parties to
 use a common digital platform and contractual rulebook. This decentralized
