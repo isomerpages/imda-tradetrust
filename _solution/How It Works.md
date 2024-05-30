@@ -22,7 +22,7 @@ process trade documentation, it eliminates the need for all parties to
 use a common digital platform and contractual rulebook. This decentralized
 approach makes scalability possible.</p>
 <p></p>
-<p>Design Principle + Components</p>
+<p></p>
 <p></p>
 <p>Document type samples</p>
 <p></p>
