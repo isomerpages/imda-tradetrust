@@ -27,15 +27,13 @@ cross-border cargo shipping arrangement by logistics service providers.</p>
 <p></p>
 </li>
 <li>
-<p>TradeTrust-enabled Certificatse of Origin issued by exporting country
-allow instant verification by border control of importing country just
-by scanning the embedded QR barcode, quicken custom clearance.</p>
-<p></p>
-<p></p>
+<p>TradeTrust-enabled Certificates of Origin issued by the exporting country
+allow for instant verification by border control of the importing country,
+simply by scanning the embedded QR barcode, thereby expediting customs
+clearance.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
 <h3>Benefits</h3>
 <p></p>
 <div class="isomer-card-grid">
