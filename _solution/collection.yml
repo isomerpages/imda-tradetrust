@@ -2,6 +2,7 @@ collections:
   solution:
     output: true
     order:
+      - Technology Services.md
       - How It Works.md
       - Shipping & Logistics.md
       - Goods Trading.md
