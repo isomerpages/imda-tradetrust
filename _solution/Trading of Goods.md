@@ -12,9 +12,9 @@ description: ""
 <p><strong>Demand of sustainability</strong>
 </p>
 <p></p>
-<p>Digitisation of trade supports sustainability. The EU is preparing legislation39
-that will require EU businesses to prove sustainability of their supply
-chains.</p>
+<p>Digitisation of trade supports sustainability and meet compliance requirements,
+for example the EU is preparing legislation that will require EU businesses
+to prove sustainability of their supply chains.</p>
 <p></p>
 <p></p>
 </li>
