@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>How TradeTrust can help in Technology Services</h3>
-<p>Whether you are from IT department serving your internal end-users or
-a Business Service Provider (BSP), the set of TradeTrust software components
-are open-source and free to use, enabling easy integration into existing
-systems. Alternatively, outsource or subscribe to services provided by
-&lt;TradeTrust-enabled BSP&gt;.</p>
+<p></p>
 <p><strong>TradeTrust is not a platform, is not a competitor to existing platforms</strong>.
 Instead, TradeTrust provides a solution to the current lack of technical
 interoperability in the market by enabling any party to digitise any document
@@ -34,6 +30,7 @@ transactions more secure.</p>
 <p></p>
 </li>
 </ol>
+<p></p>
 <h3>Benefits</h3>
 <p></p>
 <div class="isomer-card-grid">
@@ -75,6 +72,11 @@ gap</div>
 </div>
 </div>
 <p></p>
+<p>Whether you are from IT department serving your internal end-users or
+a Business Service Provider (BSP), the set of TradeTrust software components
+are open-source and free to use, enabling easy integration into existing
+systems. Alternatively, outsource or subscribe to services provided by
+&lt;TradeTrust-enabled BSP&gt;.</p>
 <p></p>
 <blockquote>
 <p>TradeTrust provides a reference implementation to &lt;Create Documents&gt;
