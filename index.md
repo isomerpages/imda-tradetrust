@@ -60,24 +60,24 @@ sections:
       title: What's in for you?
       id: textcards
       cards:
-        - title: Carriers & Logistics Service Providers
+        - title: Shipping & Logistics
           description: |-
             Go digital-ready, stay compliant and relevant in future
             markets
           linktext: Learn more
           url: ""
-        - title: Traders for Goods
+        - title: Goods Trading
           description: |-
             For fast, trustworthy
             transactions and new bsuiness relationships
           linktext: Learn more
           url: ""
-        - title: Financial Institutions
+        - title: Financial Services
           description: De-risk trade financing, tokenise digital assets for fractionalised
             financing
           linktext: Learn more
           url: ""
-        - title: Business  Solution Providers
+        - title: Technology Services
           description: Innovate and create new IT product offerings by building upon
             TradeTrust
           linktext: Learn more
