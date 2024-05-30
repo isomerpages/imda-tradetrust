@@ -36,7 +36,7 @@ from trader to bank seamlessly for trade financing.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Customer Royality</div>
-<div class="isomer-card-description">Make banking transactions faster and easier for customers, less costly
+<div class="isomer-card-description">Make banking transactions faster, easier for customers and less costly
 for international trade operations</div>
 </div>
 </div>
@@ -48,10 +48,22 @@ for international trade operations</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">De-Risk Trade Financing</div>
-<div class="isomer-card-description">Automatic identify and authenticity verifications reduces risk of fraud
-and human errors</div>
+<div class="isomer-card-description">Identify and authenticity verifications reduces risk of fraud and human
+errors</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">Tokenised and fractionalisation </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Business Opportunity</div>
+<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to trade finance
+gap</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
