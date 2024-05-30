@@ -272,8 +272,8 @@ Stainless
 </td>
 <td rowspan="1" colspan="1">
 <p>Samsung Electronics Singapore Pte Ltd (AEOTrade)
-<br>Samsung SDS Asia Pacific Pte Ltd (TradeTrust.io)
-<br>AEOTrade (BSP in China)
+<br>Samsung SDS Asia Pacific Pte Ltd,
+<br>AEOTrade,
 <br>Pacific International Lines</p>
 </td>
 <td rowspan="1" colspan="1">
