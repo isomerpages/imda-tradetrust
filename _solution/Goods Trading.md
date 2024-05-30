@@ -48,7 +48,7 @@ can be traced real-time, ensuring release of goods to the right party.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Consumers demand sustainability</div>
+<div class="isomer-card-title">Fulfil Sustainability Goal</div>
 <div class="isomer-card-description">Match the increasing demand of sustainability and legislation to prove
 sustainability of your supply chain</div>
 </div>
@@ -81,8 +81,8 @@ charges of holding cargo due to delay in documentation</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>TradeTrust provides a reference implementation to &lt;Create Documents&gt;
-and &lt;Verify Documents&gt;. Learn more about &lt;how it works&gt;.</p>
+<p>TradeTrust provides a reference implementation to &lt;Verify Documents&gt;
+and &lt;Transfer Title&gt;. Learn more about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
