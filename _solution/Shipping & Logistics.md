@@ -16,7 +16,7 @@ description: ""
 system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners.</p>
 <p></p>
-<p>Cargo release can be</p>
+<p>Cargo release can be automated during acceptance of surrendered Bills.</p>
 <p></p>
 </li>
 <li>
