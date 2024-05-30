@@ -22,7 +22,6 @@ the legal transfer of trade obligations at the application layer.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Development of new digital services</p>
-<p>To</p>
 <p></p>
 </li>
 <li>
@@ -30,7 +29,7 @@ the legal transfer of trade obligations at the application layer.</p>
 <p>To converge physical, business and financial document chains. This means
 making automation of key processes possible like automating validation
 of documentations, payments. Identify and authenticity verification makes
-customer onboarding easy.</p>
+transactions more secure.</p>
 <p></p>
 <p></p>
 </li>
