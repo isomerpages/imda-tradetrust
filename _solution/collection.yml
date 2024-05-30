@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - How It Works.md
-      - Financial Service Provider.md
+      - Financial Services.md
       - Carrier & Logistics Service Provider.md
