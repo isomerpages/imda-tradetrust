@@ -79,7 +79,7 @@ systems. Alternatively, outsource or subscribe to services provided by
 &lt;TradeTrust-enabled BSP&gt;.</p>
 <p></p>
 <blockquote>
-<p>TradeTrust provides <a href="/developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.</p>
+<p>TradeTrust provides <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
