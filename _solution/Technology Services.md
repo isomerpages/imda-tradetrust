@@ -6,15 +6,24 @@ description: ""
 ---
 <h3>How TradeTrust can help in Technology Services</h3>
 <p>Whether you are from IT department serving your internal end-users or
-a Business Service Provider (BSP), TradeTrust is designed to achieve technical
-interoperability that hampers the scalability of trade digitalisation.</p>
-<p></p>
+a Business Service Provider (BSP), the set of TradeTrust software components
+is available free for all so that you can easily integrate into your backend
+business solution/application or proprietary platform.</p>
+<p><strong>TradeTrust is not a platform, is not a competitor to existing platform</strong>s.
+Instead, TradeTrust provides a solution to the current lack of technical
+interoperability in the market by enabling any party to issue its own TT
+Electronic Transferable Records (ETRs) outside of the confines of any contract-based
+platform.</p>
+<p>It functions as middleware that can be plugged into different blockchains.
+This means you can ensure authenticity, verify the source, and validate
+the legal transfer of trade obligations.</p>
+<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Development of new digital services</p>
-<p>Automatic documentation processing with</p>
 </li>
 </ol>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>●<strong>Improve service offerings </strong>through the development of
