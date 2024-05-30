@@ -24,12 +24,13 @@ and more secured with identity and authenticity checks.</p>
 <p>Trade Compliance</p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers.</p>
-<p>A TradeTrust-enabled Certificate of Origin allow instant verification
-by border control of importing country just by scanning the embedded QR
-barcode, quicken custom clearance.</p>
 <p></p>
 </li>
 <li>
+<p>TradeTrust-enabled Certificatse of Origin issued by exporting country
+allow instant verification by border control of importing country just
+by scanning the embedded QR barcode, quicken custom clearance.</p>
+<p></p>
 <p></p>
 <p></p>
 </li>
