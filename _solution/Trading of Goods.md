@@ -81,8 +81,7 @@ charges of holding cargo due to delay in documentation</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>Try &lt;Create Documents&gt; and &lt;Verify Documents&gt;. Learn more
-about &lt;how it works&gt;.</p>
+<p>Try &lt;Verify Documents&gt;. Learn more about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
