@@ -78,7 +78,7 @@ of ditigal information that can be trusted</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Reduce Cost of Shipping</div>
 <div class="isomer-card-description">Lower overhead cost of paper and reduce unnecessary demurrage and detention
-charges of holding cargo due to delay in documentation</div>
+charges by customers due to delay in documentation</div>
 </div>
 </div>
 </div>
