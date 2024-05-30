@@ -4,8 +4,8 @@ permalink: /community/trials/
 variant: tiptap
 description: ""
 ---
-<h2>Trials ....</h2>
-<p></p>
+<h3></h3>
+<p>Industry players and government bodies work with us for Trade</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
