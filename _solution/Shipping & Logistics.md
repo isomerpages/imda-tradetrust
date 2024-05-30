@@ -16,6 +16,8 @@ description: ""
 system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners.</p>
 <p></p>
+<p>Cargo release can be</p>
+<p></p>
 </li>
 <li>
 <p>Trade Compliance</p>
@@ -27,7 +29,6 @@ barcode, quicken custom clearance.</p>
 <p></p>
 </li>
 <li>
-<p>fds</p>
 <p></p>
 <p></p>
 </li>
