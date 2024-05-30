@@ -2,6 +2,7 @@ collections:
   solution:
     output: true
     order:
+      - Use Case.md
       - How It Works.md
       - Shipping & Logistics.md
       - Trading of Goods.md
