@@ -66,7 +66,7 @@ sections:
             markets
           linktext: Learn more
           url: ""
-        - title: Goods Trading
+        - title: Trading in Goods
           description: |-
             For fast, trustworthy
             transactions and new bsuiness relationships
