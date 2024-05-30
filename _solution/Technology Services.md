@@ -27,10 +27,8 @@ making automation of key processes possible like automating validation
 of documentations, payments. Identify and authenticity verification makes
 transactions more secure.</p>
 <p></p>
-<p></p>
 </li>
 </ol>
-<p></p>
 <h3>Benefits</h3>
 <p></p>
 <div class="isomer-card-grid">
