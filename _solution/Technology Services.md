@@ -27,7 +27,7 @@ protocol like email, FTP.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Decentralized approach</strong>
+<p><strong>Decentralized Approach for Scalability</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +57,7 @@ single platform.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Increase IT capability &amp; Business Efficiency</div>
+<div class="isomer-card-title">Increase IT Capability &amp; Business Efficiency</div>
 <div class="isomer-card-description">Enhanced your IT system with TradeTrust's capability by making Verifiable
 Documents (VDs) and Electronic Transferable Records (ETRs*) portable and
 effective across systems for overall efficiency</div>
@@ -72,7 +72,8 @@ effective across systems for overall efficiency</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Business Opportunity</div>
 <div class="isomer-card-description">Improve service offerings through the development of innovative digital
-products and services using TradeTrust open-source code</div>
+products and services by Business Solution Provider using TradeTrust open-source
+code for example digital arts, issuance of cert etc</div>
 </div>
 </div>
 </div>
