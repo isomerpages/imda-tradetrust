@@ -8,7 +8,6 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Trade Finance Facilitation</p>
-<p></p>
 <p>When a electronic bills of lading issued by Carrier is received, the same
 electronic bills of lading can be used to facilitate trade finance by traders,
 trade compliance and marine cargo shipping arrangement by logistics service
