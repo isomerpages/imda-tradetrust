@@ -20,16 +20,8 @@ the legal transfer of trade obligations.</p>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Development of new digital services</p>
-</li>
-</ol>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>●<strong>Improve service offerings </strong>through the development of
-innovative digital products and services using TradeTrust open-source code</p>
-<p>●<strong>Increase new business </strong>and<strong> partnership opportunities </strong>to
-drive a vibrant digital economy</p>
+<p>Development of new digital services or automation</p>
+<p>To</p>
 <p></p>
 </li>
 <li>
@@ -41,15 +33,6 @@ validation of documentations, payments and release of funds when conditions
 are met. Identify and authenticity verification makes customer onboarding
 easy.</p>
 <p></p>
-</li>
-<li>
-<p>Tokenised and fractionalised digital assets for financing</p>
-<p>Traditional banks and alternative financing platforms have long provided
-liquidity and capital to businesses.</p>
-<p>By tokenizing real-world assets through the use of Bills of Lading and
-warehouse receipts, it becomes possible to trade and finance smaller fractions
-of assets. This revolutionizes the investment process, opening up new opportunities
-in both the supply and demand sides of the market.</p>
 <p></p>
 </li>
 </ol>
