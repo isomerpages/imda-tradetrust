@@ -4,7 +4,7 @@ permalink: /how-it-works/
 variant: tiptap
 description: ""
 ---
-<p>You can digitise any business documents into two document types:
+<p>Digitise your business documents into two document types:
 <br>1. <strong>Verifiable Documents&nbsp;</strong>for example certificates
 of origin and packing lists; and
 <br>2. <strong>Transferable Documents</strong>&nbsp;for example Electronic
