@@ -48,7 +48,7 @@ can be traced real-time, ensuring release of goods to the right party.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Fulfil Sustainability Goal</div>
+<div class="isomer-card-title">Fulfill Sustainability Goal</div>
 <div class="isomer-card-description">Match the increasing demand of sustainability and legislation to prove
 sustainability of your supply chain</div>
 </div>
