@@ -19,9 +19,14 @@ process trade documentation, it eliminates the need for all parties to
 use a common digital platform and contractual rulebook. This decentralized
 approach makes scalability possible.</p>
 <p></p>
+<p>Certificate of Origin Use Case</p>
+<p>&lt;Insert COO&gt;</p>
+<p></p>
+<p>Trade Finance Use Case</p>
+<p>&lt;Insert Trade Finance&gt;</p>
 <p></p>
 <p></p>
-<p>Document type samples</p>
+<p></p>
 <p></p>
 <p>See Demo, try verify</p>
 <p></p>
