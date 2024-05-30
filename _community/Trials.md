@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3></h3>
-<p>Industry players and government bodies work with us for Trade</p>
+<p>Industry players and government bodies work with us for Trade Finance
+and</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
