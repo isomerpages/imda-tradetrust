@@ -39,11 +39,11 @@ provision and cargo movement.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements for the CHECKING AUTHORITY</summary>
+<summary>Improvements for the CARRIER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/transferable_customs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_transferable_carriers.jpg">
 </div>
 </div>
 </details>
