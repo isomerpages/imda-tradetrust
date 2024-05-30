@@ -20,7 +20,7 @@ with an internet access.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_exporter.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
 </div>
 </div>
 </details>
