@@ -57,22 +57,10 @@ single platform.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Enhanced Customer Experience</div>
-<div class="isomer-card-description">Make banking transactions faster, easier for customers and less costly
-for international trade operations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Increase IT capability</div>
+<div class="isomer-card-title">Increase IT capability &amp; Business Efficiency</div>
 <div class="isomer-card-description">Enhanced your IT system with TradeTrust's capability by making Verifiable
 Documents (VDs) and Electronic Transferable Records (ETRs*) portable and
-effective across systems</div>
+effective across systems for overall efficiency</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -83,8 +71,8 @@ effective across systems</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Business Opportunity</div>
-<div class="isomer-card-description">Increase new business and partnership opportunities through a vibrant
-digital economy</div>
+<div class="isomer-card-description">Improve service offerings through the development of innovative digital
+products and services using TradeTrust open-source code</div>
 </div>
 </div>
 </div>
