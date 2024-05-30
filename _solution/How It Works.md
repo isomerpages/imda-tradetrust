@@ -28,7 +28,5 @@ approach makes scalability possible.</p>
 <p></p>
 <p></p>
 <p></p>
-<blockquote>
-<p>See Demo and try &lt;verify documents&gt;</p>
-</blockquote>
+<p></p>
 <p></p>
