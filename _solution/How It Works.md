@@ -19,7 +19,7 @@ process trade documentation, it eliminates the need for all parties to
 use a common digital platform and contractual rulebook. This decentralized
 approach makes scalability possible.</p>
 <p></p>
-<h4><strong>Verifiable Documents Use Case Example</strong></h4>
+<h4><strong>Verifiable Document Use Case Example</strong></h4>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
 of the document can be easily verified by any party independently just
 with an internet access.</p>
@@ -69,7 +69,7 @@ with an internet access.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Trade Finance Use Case Example</strong></h4>
+<h4><strong>Trade Finance with Transferable Document Use Case Example</strong></h4>
 <p></p>
 <p>Trade Finance Use Case</p>
 <p>&lt;Insert Trade Finance&gt;</p>
