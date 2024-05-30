@@ -24,7 +24,7 @@ trade compliance and marine cargo shipping arrangement by logistics service
 providers.</p>
 <p>Taking blank endorsed Bill of Lading as an example, the electronic version
 issued with TradeTrust's technical method will allow the transfer of title
-from one party to another seamlessly for trade financing.</p>
+from trader to bank seamlessly for trade financing.</p>
 <h3>Benefits</h3>
 <p></p>
 <div class="isomer-card-grid">
