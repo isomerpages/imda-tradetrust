@@ -16,13 +16,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trade Lane (POL/POD)</p>
+<p><strong>Trade Lane (POL/POD)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Companies</p>
+<p><strong>Companies</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Document Types</p>
+<p><strong>Document Types</strong>
+</p>
 </td>
 </tr>
 <tr>
