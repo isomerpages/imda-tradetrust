@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Trials ....</h2>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -12,6 +14,17 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trade Lane (POL/POD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Companies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Document Types</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>South Africa-China</p>
@@ -31,7 +44,7 @@ description: ""
 <p>Olam, ONE, DLT, Naviporta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
@@ -42,18 +55,18 @@ description: ""
 <p>ONE, Mitsuit, DLTLedgers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore-The Netherlands</p>
+<p>Singapore - The Netherlands</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hoogwegt-Naviporta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
@@ -70,13 +83,13 @@ Grou</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Technical Roleplay Between Banks</p>
+<p>Abu Dhabi Global Markets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Emirates NBD - DBS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +97,7 @@ Grou</p>
 <p>DBS(SG) - DBS(AD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
@@ -92,62 +105,273 @@ Grou</p>
 <p>StanChart (SG) - StanChart (AD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shenzhen</p>
+<p>China (Shenzhen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UOB – Guangdong Guangyun, Manufacturing Network Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shenzhen</p>
+<p>China (Shenzhen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UOB - Uni-Right &amp; Tri-Star</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shenzhen</p>
+<p>China (Shenzhen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DBS-Makino</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shenzhen</p>
+<p>China (Shenzhen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MUFG-Advantest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eBL</p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>China (Chongqing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NLSC - PIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Zhejiang)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wuchan-Zhongda-Sino Commodities- Bank of China-RootAnt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Zhejiang)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wuchan-Zhongda-Sino Commodities- DBS-GUUD&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indonesia - USA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mitsui, ONE, DLTLedger</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thailand - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONE, Mitsuit, DLTLedgers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Suzhou)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bank of China - Rootant - Lian feng international</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore - Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ExxonMobil SG/ TH, VLK, BunkerChain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UK - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arqit Quantum
+<br>Permavoid Limited (part of the Genuit Group) , AESE Laboratory
+<br>Imperial College London
+<br>AG Midgley Ltd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>India - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maersk, Maptrasco (Khaitan International), DBS(SG), ICICI Bank, Jindal
+Stainless
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Xiamen) -
+<br>Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pacific International Lines
+<br>COFCO International (AEOTrade)
+<br>YitHong Pte Ltd (AEOTrade)
+<br>AEOTrade (BSP in China)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Shanghai) - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samsung Electronics Singapore Pte Ltd (AEOTrade)
+<br>Samsung SDS Asia Pacific Pte Ltd (TradeTrust.io)
+<br>AEOTrade (BSP in China)
+<br>Pacific International Lines</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Shenzhen) - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Land-sea Corridor Operation Co Ltd
+<br>Pacific International Lines
+<br>PIL Logistics Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mitrphol Group
+<br>Betagro Group
+<br>Unicord Group
+<br>Toyota Tsusho Thailand
+<br>Bidfood
+<br>Czarnikow
+<br>Pacific International Line
+<br>TradeGO
+<br>SGTraDex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abu Dhabi - Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADNOC Global Trading (AGT) &amp; ADNOC Global Trading (AGT) Asia, BunkerChain
+and Navig8 Passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UK - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tradeflow Capital, XDC Trade Network, Yodaplus, TradeFinex, Propine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Xiamen) - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maersk, COFCO International, YitHong Pte Ltd, AEOTrade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Shanghai) - Manila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maersk, Higer Bus, Primex Motors, AEOTrade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bahrain - Melbourne&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONE, Aluminium Bahrain B.S.C (Alba), Capral Limited, SGTraDex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
 </td>
 </tr>
 </tbody>
