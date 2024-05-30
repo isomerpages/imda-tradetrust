@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>You can digitise any business documents, with no data format or standard
-restriction, into two document types:</p>
+<p>You can digitise any business documents into two document types:</p>
 <p>(1)&nbsp;<strong>Verifiable Documents&nbsp;</strong>for example certificates
 of origin and packing lists; and
 <br>(2)&nbsp;<strong>Transferable Documents</strong>&nbsp;for example Electronic
