@@ -82,5 +82,5 @@ systems. Alternatively, outsource or subscribe to services provided by
 <p>TradeTrust provides <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.</p>
 </blockquote>
 <p></p>
-<p>Wonder how to get started, contact us!</p>
+<p>Need further assistance, contact us!</p>
 <p></p>
