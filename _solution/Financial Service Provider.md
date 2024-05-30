@@ -4,7 +4,7 @@ permalink: /financial-service-provider/
 variant: tiptap
 description: ""
 ---
-<h3>Financial Service Use Case</h3>
+<h3>How TradeTrust can help in Financial Service </h3>
 <h4><strong><u>Tokenised and fractionalised digital assets for financing</u></strong></h4>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
