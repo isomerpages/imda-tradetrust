@@ -4,15 +4,20 @@ permalink: /financial-service-provider/
 variant: tiptap
 description: ""
 ---
-<h3>How TradeTrust can help in Financial Service </h3>
-<h4><strong><u>Tokenised and fractionalised digital assets for financing</u></strong></h4>
+<h3>How TradeTrust can help in Financial Service</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Tokenised and fractionalised digital assets for financing</p>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
 <p>By tokenizing real-world assets through the use of Bills of Lading and
 warehouse receipts, it becomes possible to trade and finance smaller fractions
 of assets. This revolutionizes the investment process, opening up new opportunities
 in both the supply and demand sides of the market.</p>
-<h4><strong><u>Automatic documentation processing</u></strong></h4>
+<p></p>
+</li>
+<li>
+<p>Automatic documentation processing</p>
 <p>Banks and financiers could also leverage their upgraded systems with TradeTrust
 set of software components to converge physical, financial and document
 chains. This means making automation of key processes possible like automating
@@ -25,6 +30,8 @@ providers.</p>
 <p>Taking blank endorsed Bill of Lading as an example, the electronic version
 issued with TradeTrust's technical method will allow the transfer of title
 from trader to bank seamlessly for trade financing.</p>
+</li>
+</ol>
 <h3>Benefits</h3>
 <p></p>
 <div class="isomer-card-grid">
