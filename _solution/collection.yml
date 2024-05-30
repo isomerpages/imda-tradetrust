@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - How It Works.md
-      - Use Case.md
       - Shipping & Logistics.md
       - Trading of Goods.md
       - Financial Services.md
