@@ -17,7 +17,7 @@ and issue its own TradeTrust-enabled Electronic Transferable Records (ETRs)
 outside of the confines of any contract-based platform.</p>
 <p>It functions as middleware that can be plugged into different blockchains.
 This means you can ensure authenticity, verify the source, and validate
-the legal transfer of trade obligations.</p>
+the legal transfer of trade obligations at the application layer.</p>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -27,12 +27,10 @@ the legal transfer of trade obligations.</p>
 </li>
 <li>
 <p>Automatic documentation processing</p>
-<p>Banks and financiers could also leverage their upgraded systems with TradeTrust
-set of software components to converge physical, financial and document
-chains. This means making automation of key processes possible like automating
-validation of documentations, payments and release of funds when conditions
-are met. Identify and authenticity verification makes customer onboarding
-easy.</p>
+<p>To converge physical, business and financial document chains. This means
+making automation of key processes possible like automating validation
+of documentations, payments. Identify and authenticity verification makes
+customer onboarding easy.</p>
 <p></p>
 <p></p>
 </li>
@@ -81,7 +79,8 @@ gap</div>
 <p></p>
 <blockquote>
 <p>TradeTrust provides a reference implementation to &lt;Create Documents&gt;
-and &lt;Verify Documents&gt;. Learn more about &lt;how it works&gt;.</p>
+and &lt;Verify Documents&gt; and &lt;technical guides&gt;. Learn more about
+&lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
