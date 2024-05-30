@@ -7,14 +7,15 @@ description: ""
 <h3>How TradeTrust can help in Financial Services</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Trade Finance</p>
+<p>Trade Finance Facilitation</p>
+<p></p>
 <p>When a electronic bills of lading issued by Carrier is received, the same
 electronic bills of lading can be used to facilitate trade finance by traders,
 trade compliance and marine cargo shipping arrangement by logistics service
 providers.</p>
 <p>Taking blank endorsed Bill of Lading as an example, the electronic version
 issued with TradeTrust's technical method will allow the transfer of title
-from trader to bank seamlessly for trade financing.</p>
+from trader to bank, and bank to another party seamlessly for trade financing.</p>
 <p></p>
 </li>
 <li>
@@ -23,7 +24,8 @@ from trader to bank seamlessly for trade financing.</p>
 set of software components to converge physical, financial and document
 chains. This means making automation of key processes possible like automating
 validation of documentations, payments and release of funds when conditions
-are met.</p>
+are met. Identify and authenticity verification makes customer onboarding
+easy.</p>
 <p></p>
 </li>
 <li>
