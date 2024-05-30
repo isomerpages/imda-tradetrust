@@ -4,7 +4,7 @@ permalink: /financial-service-provider/
 variant: tiptap
 description: ""
 ---
-<h3>Use Case</h3>
+<h3>Financial Service Use Case</h3>
 <h4><strong><u>Tokenised and fractionalised digital assets for financing</u></strong></h4>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
@@ -35,7 +35,7 @@ from trader to bank seamlessly for trade financing.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Customer Royality</div>
+<div class="isomer-card-title">Enhanced Customer Experience</div>
 <div class="isomer-card-description">Make banking transactions faster, easier for customers and less costly
 for international trade operations</div>
 </div>
