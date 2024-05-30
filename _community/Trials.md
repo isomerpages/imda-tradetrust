@@ -113,8 +113,9 @@ Grou</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>China (Shenzhen)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UOB – Guangdong Guangyun, Manufacturing Network Pte. Ltd.</p>
@@ -125,9 +126,6 @@ Grou</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Shenzhen)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>UOB - Uni-Right &amp; Tri-Star</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,9 +134,6 @@ Grou</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Shenzhen)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>DBS-Makino</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,9 +141,6 @@ Grou</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>China (Shenzhen)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>MUFG-Advantest</p>
 </td>
