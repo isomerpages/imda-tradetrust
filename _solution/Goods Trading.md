@@ -9,16 +9,13 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Cargo Shipments</strong>
+<p><strong>Demand of sustainability</strong>
 </p>
 <p></p>
-<p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
-system interoperability and platform-agnostic, seamless data exchange with
-your supply chain partners for trusted transaction. Any revocation of documents
-can be easily done.</p>
+<p>Digitisation of trade supports sustainability. The EU is preparing legislation39
+that will require EU businesses to prove sustainability of their supply
+chains.</p>
 <p></p>
-<p>Cargo releases can be automated during acceptance of surrendered bills
-of lading and are more secured with identity and authenticity checks.</p>
 <p></p>
 </li>
 <li>
@@ -51,9 +48,9 @@ can be traced real-time, ensuring release of goods to the right party.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Stronger Customer Relationships</div>
-<div class="isomer-card-description">Match the increasing demand of sustainability and foster stronger collaboration
-with your customers</div>
+<div class="isomer-card-title">Consumers demand sustainability</div>
+<div class="isomer-card-description">Match the increasing demand of sustainability and legislation to prove
+sustainability of your supply chain</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -64,7 +61,7 @@ with your customers</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Operational Process Efficiency</div>
-<div class="isomer-card-description">Increase productivity and optimise asset utilisation through rapid exchange
+<div class="isomer-card-description">Increase productivity and optimise supply chain through rapid exchange
 of ditigal information that can be trusted</div>
 </div>
 </div>
