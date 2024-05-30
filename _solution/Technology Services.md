@@ -6,18 +6,21 @@ description: ""
 ---
 <h3>How TradeTrust can help in Technology Services</h3>
 <p>Whether you are from IT department serving your internal end-users or
-a Business Service Provider (BSP), TradeTrust is built to ...</p>
+a Business Service Provider (BSP), TradeTrust is designed to achieve technical
+interoperability that hampers the scalability of trade digitalisation.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Trade Finance Facilitation</p>
-<p>When a electronic bills of lading issued by Carrier is received, the same
-electronic bills of lading can be used to facilitate trade finance by traders,
-trade compliance and marine cargo shipping arrangement by logistics service
-providers.</p>
-<p>Taking blank endorsed Bill of Lading as an example, the electronic version
-issued with TradeTrust's technical method will allow the transfer of title
-from trader to bank, and bank to another party seamlessly for trade financing.</p>
+<p>Development of new digital services</p>
+<p>Automatic documentation processing with</p>
+</li>
+</ol>
+<ol data-tight="true" class="tight">
+<li>
+<p>●<strong>Improve service offerings </strong>through the development of
+innovative digital products and services using TradeTrust open-source code</p>
+<p>●<strong>Increase new business </strong>and<strong> partnership opportunities </strong>to
+drive a vibrant digital economy</p>
 <p></p>
 </li>
 <li>
