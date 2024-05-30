@@ -9,7 +9,8 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Cargo Shipments</p>
+<p><strong>Cargo Shipments</strong>
+</p>
 <p>Ships are estimated to transport approximately 80 percent of goods.</p>
 <p></p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
@@ -21,12 +22,11 @@ and more secured with identity and authenticity checks.</p>
 <p></p>
 </li>
 <li>
-<p>Trade Compliance</p>
+<p><strong>Trade Compliance</strong>
+</p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers.</p>
 <p></p>
-</li>
-<li>
 <p>TradeTrust-enabled Certificates of Origin issued by the exporting country
 allow for instant verification by border control of the importing country,
 simply by scanning the embedded QR barcode, thereby expediting customs
