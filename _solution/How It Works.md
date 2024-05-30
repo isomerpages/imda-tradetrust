@@ -11,10 +11,10 @@ of origin and packing lists; and
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
 <p>These TradeTrust-enabled electronic documents generated are saved as TradeTrust
-file with a .TT file extension (<a href="http://filename.tt" rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>). They can be exchanged over
-your existing business/IT and data interchange system like email, FTP and
-regardless of data format or standard like DCSA’s and BIMCO’s.</p>
-<p></p>
+file with a .TT file extension (<a href="http://filename.tt" rel="noopener noreferrer nofollow" target="_blank">filename.tt</a>). They can be transmitted via
+your upgraded IT business application and existing data interchange system
+like email, FTP and regardless of data format or standard like DCSA’s and
+BIMCO’s.</p>
 <p></p>
 <p></p>
 <p>And, when you and your trading partners uniformly adopt TradeTrust to
