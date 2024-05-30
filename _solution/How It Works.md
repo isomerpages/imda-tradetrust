@@ -28,5 +28,5 @@ approach makes scalability possible.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<p>Wonder how to get started, contact us!</p>
 <p></p>
