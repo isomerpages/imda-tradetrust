@@ -17,7 +17,7 @@ system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners.</p>
 <p></p>
 <p>Cargo release can be automated during acceptance of surrendered Bills
-with identity and authenticity checks.</p>
+and more secured with identity and authenticity checks.</p>
 <p></p>
 </li>
 <li>
