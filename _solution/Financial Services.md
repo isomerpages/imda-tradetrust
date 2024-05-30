@@ -84,7 +84,7 @@ gap</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>Learn more &lt;legality guide&gt; and &lt;&lt;how it works&gt;.</p>
+<p>Learn more on &lt;legality guide&gt; and &lt;&lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
