@@ -69,7 +69,7 @@ with an internet access.</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<h4><strong>Trade Finance Use Case Example</strong></h4>
 <p></p>
 <p>Trade Finance Use Case</p>
 <p>&lt;Insert Trade Finance&gt;</p>
