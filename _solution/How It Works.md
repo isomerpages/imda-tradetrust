@@ -15,8 +15,6 @@ file with a .TT file extension (<a href="http://filename.tt" rel="noopener noref
 your upgraded IT business application and existing data interchange system
 like email, FTP and regardless of data format or standard like DCSA’s and
 BIMCO’s.</p>
-<p></p>
-<p></p>
 <p>And, when you and your trading partners uniformly adopt TradeTrust to
 process trade documentation, it eliminates the need for all parties to
 use a common digital platform and contractual rulebook. This decentralized
