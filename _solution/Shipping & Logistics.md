@@ -18,8 +18,9 @@ system interoperability and platform-agnostic, seamless data exchange with
 your supply chain partners for trusted transaction. Any revocation of documents
 can be easily managed.</p>
 <p></p>
-<p>Cargo releases can be automated during acceptance of surrendered bills
-of lading and are more secured with identity and authenticity checks.</p>
+<p>Automated cargo releases can be facilitated by accepting surrendered bills
+of lading, ensuring enhanced security through identity and authenticity
+checks.</p>
 <p></p>
 </li>
 <li>
