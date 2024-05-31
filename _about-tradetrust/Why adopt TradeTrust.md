@@ -28,7 +28,7 @@ rulebook.</p>
 the legal hassles.</p>
 </li>
 <li>
-<p>Optimise your operation with benefits from digitalisation</p>
+<p>Optimise your operations and busineses with benefits from digitalisation</p>
 <p></p>
 </li>
 </ul>
