@@ -40,7 +40,6 @@ with, or simply with an internet access just to verify documents.</p>
 </div>
 <p></p>
 <blockquote>
-<p>Download TradeTrust for free at <strong><a href="www.github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank">github.com/tradetrust</a>.&nbsp;</strong>
-</p>
+<p>Learn more about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
