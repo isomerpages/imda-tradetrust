@@ -35,20 +35,7 @@ and legal requirements.</p>
 </ul>
 <p>All from the convenience of your enhanced IT system that you are familiar
 with, or simply with an internet access just to verify documents.</p>
-<hr>
-<h3><strong><u>Why choose TradeTrust?</u></strong></h3>
-<h4>Easy Adoption</h4>
-<p>Save time and cost! Quick launch with TradeTrust's free open-source code
-and no data format or standard restrictions, or, subscribe to the services
-offered by TradeTrust ready partners</p>
-<h4>Best Practices</h4>
-<p>Enable scalability and cross-platform interoperability, no need for all
-parties to use a common digital platform and contractual rulebook.</p>
-<h4>Secure and Confidential</h4>
-<p>Ensure electronic documents are compliant to global standards and statutory
-law and cryptographically trustworthy with data confidentiality.</p>
 <p></p>
-<hr>
 <p></p>
 <blockquote>
 <p>You can find out more about how TradeTrust works in <strong><a href="https://youtu.be/-YD21elPXxs" rel="noopener noreferrer nofollow" target="_blank">this video</a></strong>.
