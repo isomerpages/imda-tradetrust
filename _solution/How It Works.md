@@ -12,6 +12,9 @@ Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
 files and can be transmitted to your stakeholders</p>
+<p>We use technology to assure all trade players that no matter how they
+obtained a document, no matter how many hands it had passed through before,
+that it hadn’t been tampered with since it was created.</p>
 <p></p>
 <h4><strong>Verifiable Document Use Case Example</strong></h4>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
