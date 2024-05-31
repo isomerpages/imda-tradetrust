@@ -11,9 +11,9 @@ description: ""
 </p>
 <p>A electronic bills of lading can be used to facilitate trade finance.</p>
 <p></p>
-<p>It allows the transfer of title from trader to bank, and bank to another
-party seamlessly for trade financing. Making it convenience and less costly
-to your customers.</p>
+<p>It enables the seamless transfer of title from trader to bank, and from
+bank to another party for trade financing, providing convenience and cost
+savings for your customers.</p>
 <p></p>
 </li>
 <li>
