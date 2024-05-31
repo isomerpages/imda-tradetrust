@@ -42,7 +42,5 @@ with, or simply with an internet access just to verify documents.</p>
 &nbsp;</p>
 <p>Download TradeTrust for free at <strong><a href="www.github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank">github.com/tradetrust</a>.&nbsp;</strong>
 </p>
-<p></p>
-<p></p>
 </blockquote>
 <p></p>
