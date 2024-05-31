@@ -12,11 +12,13 @@ description: ""
 <h4>Easy Adoption</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quick launch with TradeTrust's free open-source code and no data format
-or standard restrictions.</p>
+<p>Quick launch with free open-source code with no data format or standard
+restrictions. Or subscribe to the services of TradeTrust ready partners.</p>
 </li>
 <li>
-<p>Or subscribe to the services offered by TradeTrust ready partners.</p>
+<p>Best practices enable scalability and cross-platform interoperability,
+no need for all parties to use a common digital platform and contractual
+rulebook.</p>
 </li>
 </ul>
 <h4>Save Time &amp; Money</h4>
@@ -26,9 +28,7 @@ or standard restrictions.</p>
 the legal hassles.</p>
 </li>
 <li>
-<p>Best practices enable scalability and cross-platform interoperability,
-no need for all parties to use a common digital platform and contractual
-rulebook.</p>
+<p></p>
 <p></p>
 </li>
 </ul>
