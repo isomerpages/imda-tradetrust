@@ -9,6 +9,14 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
+<p><strong>Fast &amp; Trusted Trade</strong>
+</p>
+<p>Secure financing from banks or financiers easier with proven trustworthy
+of credit, identity and documents' authenticity</p>
+<p></p>
+<p></p>
+</li>
+<li>
 <p><strong>Demand of Sustainability</strong>
 </p>
 <p></p>
@@ -19,7 +27,7 @@ to prove sustainability of their supply chains.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Trade Compliance</strong>
+<p><strong>Sustainability &amp; Trade Compliance</strong>
 </p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers.</p>
