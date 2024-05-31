@@ -75,8 +75,8 @@ errors</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Business Opportunity</div>
-<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to trade finance
-gap</div>
+<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to bridge the
+trade finance gap</div>
 </div>
 </div>
 </div>
