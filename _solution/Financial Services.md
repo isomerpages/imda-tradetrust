@@ -17,7 +17,7 @@ savings for your customers.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Documentation Checks &amp; Processing</strong>
+<p><strong>Inefficient processes lead to greater risk</strong>
 </p>
 <p>Banks and financiers could converge physical, financial and document chains.
 This means making automation of key processes possible like automating
