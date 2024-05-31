@@ -20,7 +20,7 @@ Making it convenience and less costly to your customers.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Trade Financing Processing</strong>
+<p><strong>Documentation Checks &amp; Processing</strong>
 </p>
 <p>Banks and financiers could converge physical, financial and document chains.
 This means making automation of key processes possible like automating
