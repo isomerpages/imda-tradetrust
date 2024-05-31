@@ -9,10 +9,11 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Fast &amp; Trusted Trade &amp; Li</strong>
+<p><strong>Better Cash Flow &amp; Trusted Trade</strong>
 </p>
 <p>Secure financing from banks or financiers easier with proven trustworthy
-of credit through proof of identity and documents' authenticity.</p>
+of credit quicken by documents' source and authenticity and</p>
+<p>Electronic documents like bills of lading faciliates the</p>
 <p></p>
 <p></p>
 </li>
