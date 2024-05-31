@@ -61,7 +61,6 @@ ensure the TradeTrust framework for its reliability and trustworthiness.</p>
 </li>
 </ul>
 <h4>Award-Winning Solution</h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
