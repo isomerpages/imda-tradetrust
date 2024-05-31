@@ -35,7 +35,7 @@ to prove sustainability of their supply chains.</p>
 trade compliance and cross-border cargo shipping arrangement.</p>
 <p></p>
 <p>Border control of the importing country scan the embedded QR barcode,
-for instant verification of</p>
+for instant verification of documents' source and authenticity.</p>
 <p></p>
 </li>
 <li>
