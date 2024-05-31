@@ -49,7 +49,7 @@ Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).
 Learn more at &lt;legality guide&gt;</p>
 </li>
 <li>
-<p>Supports sustainability goal</p>
+<p>Supports sustainability goal by going paperless</p>
 </li>
 </ul>
 <h4>Reliability and Trustworthiness</h4>
