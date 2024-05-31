@@ -20,11 +20,11 @@ trustworthiness of credit.</p>
 <li>
 <p><strong>Supply Chain Optimisation</strong>
 </p>
-<p>Optmise process workflow to end-to-end transaction traceability, documentation
-and validation checks automation.</p>
+<p>Optmise process and collaborative workflows between partners with end-to-end
+transaction traceability, documentation and validation checks automation.</p>
 <p>Support trading activities through endorsement chain, transfer holdership
 and title ownership of Bill of Lading real-time, ensuring release of goods
-to the right party.</p>
+to the right party timely.</p>
 <p></p>
 </li>
 <li>
