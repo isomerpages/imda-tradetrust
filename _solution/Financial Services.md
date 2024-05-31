@@ -25,7 +25,7 @@ their trading partners.</p>
 This means making automation of key processes possible like automating
 validation of documentations, payments and release of funds when conditions
 are met. Identify and authenticity verification makes customer onboarding
-easy.</p>
+easy and safer.</p>
 <p></p>
 </li>
 <li>
