@@ -56,8 +56,8 @@ Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).</p>
 <h4>Security Assessment</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ernst &amp; Young audited, also reviewed, and assessed the TradeTrust
-framework in 2021 to ensure its reliability and trustworthiness.</p>
+<p>Ernst &amp; Young audited and assessed the TradeTrust framework in 2021
+to ensure its reliability and trustworthiness.</p>
 </li>
 </ul>
 <p></p>
