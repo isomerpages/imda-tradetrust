@@ -29,13 +29,13 @@ to prove sustainability of their supply chains.</p>
 <li>
 <p><strong>Sustainability &amp; Trade Compliance</strong>
 </p>
-<p>The same electronic bills of lading can be used for trade compliance and
-cross-border cargo shipping arrangement by logistics service providers.</p>
+<p>Fulfill sustainability goal by going paperless.</p>
 <p></p>
-<p>TradeTrust-enabled Certificates of Origin issued by the exporting country
-allow for instant verification by border control of the importing country,
-simply by scanning the embedded QR barcode, thereby expediting customs
-clearance.</p>
+<p>Electronic documents like bills of lading and certificates of origin expedite
+trade compliance and cross-border cargo shipping arrangement.</p>
+<p></p>
+<p>Border control of the importing country scan the embedded QR barcode,
+for instant verification of</p>
 <p></p>
 </li>
 <li>
