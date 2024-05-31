@@ -73,7 +73,6 @@ the UK and the US</p>
 </li>
 </ul>
 <p>Download to find out more about the legality of TradeTrust
-<br><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">TradeTrust-enabled Electronic Bills of Lading: </a>
 <br><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of their use in global trade.</a>
 </p>
 <p></p>
