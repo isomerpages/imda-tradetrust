@@ -53,7 +53,7 @@ Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).</p>
 <p>Learn more at &lt;legality guide&gt;.</p>
 </li>
 </ul>
-<h4> Reliability and Trustworthiness</h4>
+<h4>Reliability and Trustworthiness</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Security Assessment was completed by third party - Ernst &amp; Young to
