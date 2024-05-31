@@ -49,9 +49,9 @@ to the right party.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Fulfill Sustainability Goal</div>
-<div class="isomer-card-description">Match the increasing demand of sustainability and legislation to prove
-sustainability of your supply chain</div>
+<div class="isomer-card-title">More Capital Liquidity</div>
+<div class="isomer-card-description">Conduct more trades, as quickly as possible for more profit with increased
+working capital from banks and financiers.</div>
 </div>
 </div>
 <div class="isomer-card">
