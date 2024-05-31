@@ -30,7 +30,7 @@ instant verification of documents' source and authenticity.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Optimise Supply Chain</strong>
+<p><strong>Supply Chain Optimisation</strong>
 </p>
 <p>Optmise process workflow to end-to-end transaction traceability, documentation
 and validation checks automation.</p>
