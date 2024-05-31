@@ -23,10 +23,9 @@ trustworthiness of credit.</p>
 <p>Fulfill sustainability goal by going paperless.</p>
 <p></p>
 <p>Electronic documents like bills of lading and certificates of origin expedite
-trade compliance and cross-border cargo shipping arrangement.</p>
-<p></p>
-<p>Border control of the importing country scan the embedded QR barcode,
-for instant verification of documents' source and authenticity.</p>
+trade compliance and cross-border cargo shipping arrangement. Border control
+of the importing country scan the embedded QR barcode on printed, for instant
+verification of documents' source and authenticity.</p>
 <p></p>
 </li>
 <li>
