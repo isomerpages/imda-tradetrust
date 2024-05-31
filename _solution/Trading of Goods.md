@@ -50,8 +50,8 @@ to the right party.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">More Capital Liquidity</div>
-<div class="isomer-card-description">Conduct more trades, as quickly as possible for more profit with increased
-working capital from banks and financiers.</div>
+<div class="isomer-card-description">Conduct more trades for profit with access to more working capital due
+to expedited customer on-boarding from banks and financiers</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -63,7 +63,7 @@ working capital from banks and financiers.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Operational Process Efficiency</div>
 <div class="isomer-card-description">Increase productivity and optimise supply chain through rapid exchange
-of ditigal information that can be trusted</div>
+of ditigal information that can be trusted and with transparency</div>
 </div>
 </div>
 <div class="isomer-card">
