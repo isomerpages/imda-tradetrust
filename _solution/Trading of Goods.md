@@ -30,8 +30,9 @@ for instant verification of documents' source and authenticity.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Optimise Transaction End-to-end Traceability</strong>
+<p><strong>Optimise Supply Chain</strong>
 </p>
+<p>Transaction End-to-end Traceability</p>
 <p>Through endorsement chain, holdership and ownership of Bill of Lading
 can be traced real-time, ensuring release of goods to the right party.</p>
 <p></p>
