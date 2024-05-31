@@ -1,7 +1,0 @@
-collections:
-  cross-border-updates:
-    output: true
-    order:
-      - International Rules and Guides.md
-      - Singapore.md
-      - Country 2.md
