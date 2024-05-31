@@ -20,11 +20,10 @@ Making it convenience and less costly to your customers.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Automatic documentation processing</strong>
+<p><strong>Trade Financing Processing</strong>
 </p>
-<p>Banks and financiers could also leverage their upgraded systems with TradeTrust
-set of software components to converge physical, financial and document
-chains. This means making automation of key processes possible like automating
+<p>Banks and financiers could converge physical, financial and document chains.
+This means making automation of key processes possible like automating
 validation of documentations, payments and release of funds when conditions
 are met. Identify and authenticity verification makes customer onboarding
 easy.</p>
