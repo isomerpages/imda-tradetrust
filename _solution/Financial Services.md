@@ -87,7 +87,7 @@ trade finance gap</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>Learn more about &lt;how it works&gt;</p>
+<p>Learn more about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
