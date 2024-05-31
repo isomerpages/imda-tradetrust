@@ -28,7 +28,7 @@ rulebook.</p>
 the legal hassles.</p>
 </li>
 <li>
-<p></p>
+<p>Optimise your operation with benefits from digitalisation</p>
 <p></p>
 </li>
 </ul>
@@ -39,8 +39,8 @@ the legal hassles.</p>
 law and cryptographically trustworthy with data confidentiality.</p>
 </li>
 <li>
-<p>Confidently conduct trade with new trading partners with complete transparency
-and traceability.</p>
+<p>Confidently conduct trustworthy trade with new trading partners with complete
+transparency and traceability.</p>
 </li>
 </ul>
 <h4>Compliance</h4>
