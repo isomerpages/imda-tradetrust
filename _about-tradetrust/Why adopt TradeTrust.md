@@ -26,8 +26,7 @@ on International Trade Law (UNCITRAL) Model Law on Electronic Transferable
 Records (MLETR). Adopting TradeTrust means following internationally recognised
 standards.</p>
 <p>See more at &lt;legality guide&gt;.</p>
-<p><strong>Security Assessment</strong>
-</p>
+<h4>Security Assessment</h4>
 <p>Ernst &amp; Young audited, also reviewed, and assessed the TradeTrust
 framework in 2021 to ensure its reliability and trustworthiness.</p>
 <h4></h4>
