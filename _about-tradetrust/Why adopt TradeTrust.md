@@ -4,7 +4,7 @@ permalink: /about-tradetrust/why-adopt-tradetrust/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>Why choose TradeTrust?</u></strong></h3>
+<h3><strong><u>Why adopt TradeTrust?</u></strong></h3>
 <h4>Easy Adoption</h4>
 <ul data-tight="true" class="tight">
 <li>
