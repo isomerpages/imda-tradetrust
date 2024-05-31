@@ -13,10 +13,10 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>Quick launch with TradeTrust's free open-source code and no data format
-or standard restrictions</p>
+or standard restrictions.</p>
 </li>
 <li>
-<p>Or subscribe to the services offered by TradeTrust ready partners</p>
+<p>Or subscribe to the services offered by TradeTrust ready partners.</p>
 </li>
 </ul>
 <h4>Save Time &amp; Money</h4>
@@ -32,8 +32,16 @@ rulebook.</p>
 </li>
 </ul>
 <h4>Secure and Confidential</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ensure electronic documents are compliant to global standards and statutory
 law and cryptographically trustworthy with data confidentiality.</p>
+</li>
+<li>
+<p>Confidently conduct trade with new trading partners with complete transparency
+and traceability.</p>
+</li>
+</ul>
 <h4>Compliance</h4>
 <p>The TradeTrust framework adheres to the requirements by international
 standards bodies like the UN/CEFACT, W3C, UNESCAP and United Nations Commission
@@ -92,5 +100,4 @@ its innovative service in the international trade ecosystem.</div>
 </div>
 </div>
 </div>
-<h3></h3>
 <p></p>
