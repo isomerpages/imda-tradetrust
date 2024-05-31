@@ -60,7 +60,7 @@ Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).</p>
 ensure the TradeTrust framework for its reliability and trustworthiness.</p>
 </li>
 </ul>
-<h4>Award-winning Solution</h4>
+<h4>Award-Winning Solution</h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
