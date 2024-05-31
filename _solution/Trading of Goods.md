@@ -9,11 +9,11 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Better Cash Flow &amp; Trusted Trade</strong>
+<p><strong>Better Cash Flow</strong>
 </p>
 <p>Secure financing from banks or financiers easier with proven trustworthy
-of credit quicken by documents' source and authenticity and</p>
-<p>Electronic documents like bills of lading faciliates the</p>
+of credit quicken by electronic document with its source and authenticity
+able to be verified instantly.</p>
 <p></p>
 <p></p>
 </li>
@@ -84,4 +84,4 @@ charges of holding cargo due to delay in documentation</div>
 about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
-<p>Wonder how to get started, contact us!</p>
+<p>Wonder how to get started, contact us</p>
