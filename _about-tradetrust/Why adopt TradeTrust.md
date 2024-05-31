@@ -39,14 +39,17 @@ law and cryptographically trustworthy with data confidentiality.</p>
 transparency and traceability.</p>
 </li>
 </ul>
-<h4>Compliance</h4>
+<h4>Compliance &amp; Sustainability</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Adopting TradeTrust means following internationally recognised standards.
 Adheres to the requirements by international standards bodies like the
 UN/CEFACT, W3C, UNESCAP and United Nations Commission on International
-Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).</p>
-<p>Learn more at &lt;legality guide&gt;.</p>
+Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).
+Learn more at &lt;legality guide&gt;</p>
+</li>
+<li>
+<p>Supports sustainability goal</p>
 </li>
 </ul>
 <h4>Reliability and Trustworthiness</h4>
