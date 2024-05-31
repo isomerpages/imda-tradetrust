@@ -17,7 +17,10 @@ parties in the supply chain.</p>
 <p>Documentary collection services can be elevated with better document checks
 for compliance and validity, providing assurance to banks' customers and
 their trading partners.</p>
+<blockquote>
+<p>Learn more on &lt;legality guide&gt;</p>
 <p></p>
+</blockquote>
 </li>
 <li>
 <p><strong>Inefficient processes lead to greater risk</strong>
