@@ -11,13 +11,7 @@ of origin and packing lists; and
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
-files and can be transmitted via your existing data interchange system
-like email, FTP and regardless of data format or standard like DCSA’s and
-BIMCO’s.</p>
-<p>And, when you and your trading partners uniformly adopt TradeTrust to
-process trade documentation, it eliminates the need for all parties to
-use a common digital platform and contractual rulebook. This decentralized
-approach makes scalability possible.</p>
+files and can be transmitted to your stakeholders</p>
 <p></p>
 <h4><strong>Verifiable Document Use Case Example</strong></h4>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
