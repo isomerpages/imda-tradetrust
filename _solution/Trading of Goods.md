@@ -11,9 +11,9 @@ description: ""
 <li>
 <p><strong>Better Cash Flow</strong>
 </p>
-<p>Secure financing from banks or financiers easier with proven trustworthy
-of credit quicken by electronic document with its source and authenticity
-able to be verified instantly.</p>
+<p>Secure financing from banks or financiers is expedited by electronic documents,
+whose source and authenticity can be instantly verified, ensuring proven
+trustworthiness of credit.</p>
 <p></p>
 <p></p>
 </li>
