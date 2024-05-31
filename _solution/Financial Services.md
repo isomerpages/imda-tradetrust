@@ -9,10 +9,11 @@ description: ""
 <li>
 <p><strong>Trade Finance Facilitation</strong>
 </p>
-<p>TradeTrust-enabled electronic bills of lading can be used to facilitate
-trade finance. It enables the seamless transfer of title from trader to
-bank, and from bank to another party for trade financing, providing convenience
-and cost savings for all parties in the supply chain.</p>
+<p>TradeTrust-enabled electronic bills of lading are backed by statutory
+law and can be used to facilitate trade finance. It enables the seamless
+transfer of title from trader to bank, and from bank to another party for
+trade financing, providing convenience and cost savings for all parties
+in the supply chain.</p>
 <p>Documentary collection services can be elevated with better document checks
 for compliance and validity, providing assurance to banks' customers and
 their trading partners.</p>
