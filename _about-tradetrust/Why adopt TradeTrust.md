@@ -4,10 +4,6 @@ permalink: /about-tradetrust/why-adopt-tradetrust/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1287244680_compliance.jpg">
-</div>
 <h3><strong><u>Why choose TradeTrust?</u></strong></h3>
 <h4>Easy Adoption</h4>
 <ul data-tight="true" class="tight">
