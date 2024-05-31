@@ -4,17 +4,10 @@ permalink: /about-tradetrust/who-we-are/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
-is a statutory board in the Singapore government.&nbsp; IMDA develops and
-regulates the infocomm and media sectors to create a dynamic, holistic
-and exciting ecosystem filled with growth opportunities through talent,
-research, innovation and enterprise. As Architects of Singapore’s Digital
-Future, we strive to ensure businesses, the workforce and the public are
-ready for a future enabled by infocomm and digital media.</p>
-<p>IMDA is the driving force behind Singapore's digital transformation efforts
-by building the foundations of its digital infrastructure and driving digital
-innovation.</p>
+is a statutory board in the Singapore government. IMDA is the driving force
+behind Singapore's digital transformation efforts by building the foundations
+of its digital infrastructure and driving digital innovation.</p>
 <p><strong>In 2019, IMDA launched TradeTrust,</strong>  <strong>a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
 </p>
 <p>Designed to enable the secure and seamless transaction and processing
@@ -49,11 +42,19 @@ ecosystems with:</p>
 everyone by providing a globally-harmonised and inclusive framework. It
 achieves this by establishing a common, globally accepted framework that
 promotes trust, efficiency, and inclusivity in digital trade practices.</p>
+<p></p>
 </blockquote>
-<p></p>
-<p></p>
 <p></p>
 <p>Transform the way you trade - subscribe to our TradeTrust newsletter for
 exclusive insights. &lt;link to google form&gt;</p>
 <p></p>
+<p><strong>About IMDA</strong>
+</p>
+<p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
+is a statutory board in the Singapore government.&nbsp; IMDA develops and
+regulates the infocomm and media sectors to create a dynamic, holistic
+and exciting ecosystem filled with growth opportunities through talent,
+research, innovation and enterprise. As Architects of Singapore’s Digital
+Future, we strive to ensure businesses, the workforce and the public are
+ready for a future enabled by infocomm and digital media.</p>
 <p></p>
