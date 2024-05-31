@@ -35,11 +35,11 @@ and legal requirements.</p>
 </ul>
 <p>All from the convenience of your enhanced IT system that you are familiar
 with, or simply with an internet access just to verify documents.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
+</div>
 <p></p>
 <blockquote>
-<p>You can find out more about how TradeTrust works in <strong><a href="https://youtu.be/-YD21elPXxs" rel="noopener noreferrer nofollow" target="_blank">this video</a></strong>.
-&nbsp;</p>
 <p>Download TradeTrust for free at <strong><a href="www.github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank">github.com/tradetrust</a>.&nbsp;</strong>
 </p>
 </blockquote>
