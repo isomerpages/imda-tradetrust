@@ -8,8 +8,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1287244680_compliance.jpg">
 </div>
-<p></p>
-<h2>Compliance</h2>
+<h3><strong><u>Why choose TradeTrust?</u></strong></h3>
+<h4>Easy Adoption</h4>
+<p>Save time and cost! Quick launch with TradeTrust's free open-source code
+and no data format or standard restrictions, or, subscribe to the services
+offered by TradeTrust ready partners</p>
+<h4>Best Practices</h4>
+<p>Enable scalability and cross-platform interoperability, no need for all
+parties to use a common digital platform and contractual rulebook.</p>
+<h4>Secure and Confidential</h4>
+<p>Ensure electronic documents are compliant to global standards and statutory
+law and cryptographically trustworthy with data confidentiality.</p>
+<h4>Compliance</h4>
 <h4><strong>Singapore’s Electronic Transactions Act</strong></h4>
 <p>Yes, TradeTrust is designed to comply with <strong><a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Singapore Electronic Transactions Act</a></strong> (ETA),
 which is in line with other global jurisdictions adopting the United Nations
