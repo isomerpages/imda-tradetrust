@@ -10,12 +10,27 @@ description: ""
 </div>
 <h3><strong><u>Why choose TradeTrust?</u></strong></h3>
 <h4>Easy Adoption</h4>
-<p>Save time and cost! Quick launch with TradeTrust's free open-source code
-and no data format or standard restrictions, or, subscribe to the services
-offered by TradeTrust ready partners</p>
-<h4>Best Practices</h4>
-<p>Enable scalability and cross-platform interoperability, no need for all
-parties to use a common digital platform and contractual rulebook.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quick launch with TradeTrust's free open-source code and no data format
+or standard restrictions</p>
+</li>
+<li>
+<p>Or subscribe to the services offered by TradeTrust ready partners</p>
+</li>
+</ul>
+<h4>Save Time &amp; Money</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct faster, more profitable trades while minimizing the legal hassles.</p>
+</li>
+<li>
+<p>Best practices enable scalability and cross-platform interoperability,
+no need for all parties to use a common digital platform and contractual
+rulebook.</p>
+<p></p>
+</li>
+</ul>
 <h4>Secure and Confidential</h4>
 <p>Ensure electronic documents are compliant to global standards and statutory
 law and cryptographically trustworthy with data confidentiality.</p>
