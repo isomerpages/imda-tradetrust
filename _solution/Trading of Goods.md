@@ -18,6 +18,16 @@ trustworthiness of credit.</p>
 <p></p>
 </li>
 <li>
+<p><strong>Supply Chain Optimisation</strong>
+</p>
+<p>Optmise process workflow to end-to-end transaction traceability, documentation
+and validation checks automation.</p>
+<p>Support trading activities through endorsement chain, transfer holdership
+and title ownership of Bill of Lading real-time, ensuring release of goods
+to the right party.</p>
+<p></p>
+</li>
+<li>
 <p><strong>Sustainability &amp; Trade Compliance</strong>
 </p>
 <p>Fulfill sustainability goal by going paperless.</p>
@@ -28,15 +38,6 @@ of the importing country performs document checks by automation of the
 digital copy, or scanning the embedded QR barcode on printed copy, for
 instant verification of documents' source and authenticity.</p>
 <p></p>
-</li>
-<li>
-<p><strong>Supply Chain Optimisation</strong>
-</p>
-<p>Optmise process workflow to end-to-end transaction traceability, documentation
-and validation checks automation.</p>
-<p>Support trading activities through endorsement chain, transfer holdership
-and title ownership of Bill of Lading real-time, ensuring release of goods
-to the right party.</p>
 </li>
 </ol>
 <h3>Benefits</h3>
