@@ -34,8 +34,9 @@ for instant verification of documents' source and authenticity.</p>
 </p>
 <p>Optmise process workflow to end-to-end transaction traceability, documentation
 and validation checks automation.</p>
-<p>Through endorsement chain, holdership and ownership of Bill of Lading
-can be traced real-time, ensuring release of goods to the right party.</p>
+<p>Support trading activities through endorsement chain, transfer holdership
+and title ownership of Bill of Lading real-time, ensuring release of goods
+to the right party.</p>
 </li>
 </ol>
 <h3>Benefits</h3>
