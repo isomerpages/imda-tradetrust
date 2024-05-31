@@ -46,14 +46,13 @@ transparency and traceability.</p>
 <h4>Compliance</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>The TradeTrust framework adheres to the requirements by international
-standards bodies like the UN/CEFACT, W3C, UNESCAP and United Nations Commission
-on International Trade Law (UNCITRAL) Model Law on Electronic Transferable
-Records (MLETR). Adopting TradeTrust means following internationally recognised
-standards.</p>
+<p>Adopting TradeTrust means following internationally recognised standards.
+Adheres to the requirements by international standards bodies like the
+UN/CEFACT, W3C, UNESCAP and United Nations Commission on International
+Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).</p>
+<p>Learn more at &lt;legality guide&gt;.</p>
 </li>
 </ul>
-<p>See more at &lt;legality guide&gt;.</p>
 <h4>Security Assessment</h4>
 <ul data-tight="true" class="tight">
 <li>
