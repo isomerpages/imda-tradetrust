@@ -9,20 +9,10 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Fast &amp; Trusted Trade</strong>
+<p><strong>Fast &amp; Trusted Trade &amp; Li</strong>
 </p>
 <p>Secure financing from banks or financiers easier with proven trustworthy
-of credit, identity and documents' authenticity</p>
-<p></p>
-<p></p>
-</li>
-<li>
-<p><strong>Demand of Sustainability</strong>
-</p>
-<p></p>
-<p>Digitisation of trade supports sustainability and meet compliance requirements,
-for example the EU is preparing legislation that will require EU businesses
-to prove sustainability of their supply chains.</p>
+of credit through proof of identity and documents' authenticity.</p>
 <p></p>
 <p></p>
 </li>
@@ -39,7 +29,7 @@ for instant verification of documents' source and authenticity.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Transaction End-to-end Traceability</strong>
+<p><strong>Optimise Transaction End-to-end Traceability</strong>
 </p>
 <p>Through endorsement chain, holdership and ownership of Bill of Lading
 can be traced real-time, ensuring release of goods to the right party.</p>
