@@ -22,7 +22,8 @@ or standard restrictions.</p>
 <h4>Save Time &amp; Money</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Conduct faster, more profitable trades while minimizing the legal hassles.</p>
+<p>Conduct faster, more profitable trades and capital financing while minimizing
+the legal hassles.</p>
 </li>
 <li>
 <p>Best practices enable scalability and cross-platform interoperability,
