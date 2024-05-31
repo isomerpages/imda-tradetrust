@@ -29,26 +29,53 @@ standards.</p>
 <h4>Security Assessment</h4>
 <p>Ernst &amp; Young audited, also reviewed, and assessed the TradeTrust
 framework in 2021 to ensure its reliability and trustworthiness.</p>
-<h4></h4>
+<p></p>
 <hr>
 <h2><strong>Recognition</strong></h2>
-<h3><strong>WSIS Prizes</strong>&nbsp;</h3>
-<p>The WSIS Prizes contest evaluates projects and activities that leverage
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WSIS Prizes&nbsp;</div>
+<div class="isomer-card-description">The WSIS Prizes contest evaluates projects and activities that leverage
 the power of information and communication technologies (ICTs) to advance
 sustainable development. TradeTrust is proud to be a finalist for the WSIS
-Prize 2023.</p>
-<hr>
-<h3><strong>SDG Digital GameChangers Award</strong></h3>
-<p>The SDG Digital GameChangers Award honours individuals and organisations
-that use digital technologies to achieve the UN’s Sustainable Development
-Goals (SDGs). These 17 Goals aim to address the world’s most urgent environmental
-and socio-economic challenges. TradeTrust is proud to receive the SDG GameChangers
-runner-up award.&nbsp;</p>
-<hr>
-<h3><strong>World Summit Award</strong></h3>
-<p>The World Summit Awards recognises ICT projects that contribute to both
-the WSIS and UN SDG’s goals by showcasing creative use of digital innovation.
-TradeTrust is proud to be the 2023 winner in the Business and Commerce
-category, showcasing its innovative service in the international trade
-ecosystem.&nbsp;</p>
+Prize 2023.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SDG Digital GameChangers Award</div>
+<div class="isomer-card-description">The SDG Digital GameChangers Award recognizes individuals and organizations
+leveraging digital technologies to advance the UN's Sustainable Development
+Goals (SDGs). TradeTrust is proud to receive the SDG GameChangers runner-up
+award.&nbsp;</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">World Summit Award</div>
+<div class="isomer-card-description">The World Summit Awards recognizes ICT projects contributing to the WSIS
+and UN SDG’s goals through creative digital innovation. TradeTrust is proud
+to be the 2023 winner in the Business and Commerce category, showcasing
+its innovative service in the international trade ecosystem.</div>
+</div>
+</div>
+</div>
+<h3></h3>
 <p></p>
