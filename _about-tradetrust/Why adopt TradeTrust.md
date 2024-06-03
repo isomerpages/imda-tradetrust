@@ -32,8 +32,8 @@ transparency, traceability for supply chain optimisation.</p>
 <h4>Secure and Confidential</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ensure electronic documents are compliant to global standards and statutory
-law and cryptographically trustworthy with .</p>
+<p>Ensure electronic documents are cryptographically trustworthy and compliant
+to global standards and statutory law</p>
 </li>
 <li>
 <p>Data confidentiality is ensured as the blockchain does not store any business
