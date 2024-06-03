@@ -20,8 +20,9 @@ rulebook.</p>
 <h4>Save Time &amp; Money</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Conduct faster, more profitable trades and capital financing while minimizing
-the legal hassles.</p>
+<p>A standardizes digital trade means more consistency to support faster,
+more profitable trades and capital financing while minimizing the legal
+hassles.</p>
 </li>
 <li>
 <p>Confidently conduct trustworthy trade with new trading partners with complete
