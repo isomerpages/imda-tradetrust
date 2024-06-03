@@ -29,7 +29,7 @@ transparency, traceability for supply chain optimisation.</p>
 <p></p>
 </li>
 </ul>
-<h4>Secure and Confidential</h4>
+<h4>Secure &amp; Confidential</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ensure electronic documents are cryptographically trustworthy and compliant
@@ -40,20 +40,19 @@ to global standards and statutory law</p>
 data.</p>
 </li>
 </ul>
-<h4>Compliance &amp; Sustainability</h4>
+<h4>Sustainability &amp; Compliance</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>Adopting TradeTrust means following internationally recognised standards.
-Adheres to the requirements by international standards bodies like the
-UN/CEFACT, W3C, UNESCAP and United Nations Commission on International
-Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).
-Learn more at &lt;legality guide&gt;</p>
-</li>
 <li>
 <p>Supports sustainability goal by going paperless</p>
 </li>
+<li>
+<p>Adopting TradeTrust means following internationally recognised standards
+like the UN/CEFACT, W3C, UNESCAP and United Nations Commission on International
+Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).
+Learn more at &lt;legality guide&gt;</p>
+</li>
 </ul>
-<h4>Reliability and Trustworthiness</h4>
+<h4>Reliability</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Security Assessment was completed by third party - Ernst &amp; Young to
