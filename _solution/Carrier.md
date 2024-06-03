@@ -90,7 +90,6 @@ charges by customers due to delay in documentation</div>
 about &lt;how it works&gt;.</p>
 </blockquote>
 <p></p>
-<p>Wonder how to get started, contact us!</p>
 <p></p>
 <p></p>
 <p></p>
