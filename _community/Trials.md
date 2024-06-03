@@ -32,6 +32,20 @@ use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vietnam - Netherland</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olam
+<br>ONE
+<br>DLT
+<br>Naviporta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Australia - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
