@@ -58,6 +58,9 @@ Learn more at &lt;legality guide&gt;</p>
 <p>Security Assessment was completed by third party - Ernst &amp; Young to
 ensure the TradeTrust framework for its reliability and trustworthiness.</p>
 </li>
+<li>
+<p>Proven solution through over xxx successful trials</p>
+</li>
 </ul>
 <h4>Award-Winning Solution</h4>
 <div class="isomer-card-grid">
