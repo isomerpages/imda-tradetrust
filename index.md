@@ -66,13 +66,13 @@ sections:
             markets
           linktext: Learn more
           url: ""
-        - title: Exporter/Importer
+        - title: Exporter / Importer
           description: |-
             For fast, trustworthy
             transactions and new bsuiness relationships
           linktext: Learn more
           url: ""
-        - title: Banker/Financier
+        - title: Banker / Financier
           description: De-risk trade financing, tokenise digital assets for fractionalised
             financing
           linktext: Learn more
