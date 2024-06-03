@@ -37,7 +37,7 @@ conducted successful trials for Trade Finance, cargo release use cases.</p>
 <br>Australia Industry Group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cert of Origin</p>
+<p>Certificate of Origin</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ conducted successful trials for Trade Finance, cargo release use cases.</p>
 </tbody>
 </table>
 <p></p>
-<p>Others trials:</p>
+<p>Other trials:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
