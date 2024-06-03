@@ -285,7 +285,7 @@ use cases.</p>
 <h4>Proven Benefits</h4>
 <p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange oftrade documentation from 48 hours to just under a day–a huge benefit in terms of efficiency, security and interoperability across systems.”</em>  <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto</strong>
 </p>
-<p></p>
+<p>According to <strong>COFCO International</strong> "<em>It is estimated that by promoting digital transformation of their shipping and 2 export processes, the document-processing efficiency of COFCO Industrial Food can be improved by over 80%, and the business operation cost can be reduced by over 30%.</em>"</p>
 <p></p>
 <p></p>
 <p></p>
