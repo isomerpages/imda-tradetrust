@@ -31,50 +31,6 @@ Finance, cargo release, ....with proven saving of....</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>South Africa-China</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Invoice, Packing List, other digital docs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vietnam - Netherland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Japan - Philippines</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore - The Netherlands</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Singapore - Australia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,25 +117,6 @@ Stainless
 <br>Samsung SDS Asia Pacific Pte Ltd,
 <br>AEOTrade,
 <br>Pacific International Lines</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thailand</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mitrphol Group
-<br>Betagro Group
-<br>Unicord Group
-<br>Toyota Tsusho Thailand
-<br>Bidfood
-<br>Czarnikow
-<br>Pacific International Line
-<br>TradeGO
-<br>SGTraDex</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
