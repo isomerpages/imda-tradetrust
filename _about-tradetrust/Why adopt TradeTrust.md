@@ -24,8 +24,8 @@ rulebook.</p>
 more profitable trades and capital financing, while minimizing legal complexities.</p>
 </li>
 <li>
-<p>Confidently conduct trustworthy trade with new trading partners with complete
-transparency, traceability for supply chain optimisation.</p>
+<p>Conduct trustworthy trade and establish new trading relationships with
+complete transparency, traceability for supply chain optimisation.</p>
 <p></p>
 </li>
 </ul>
