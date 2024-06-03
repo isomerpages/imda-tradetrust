@@ -225,14 +225,6 @@ use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vietnam - Netherland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Japan - Philippines</p>
 </td>
 <td rowspan="1" colspan="1">
