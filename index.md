@@ -77,7 +77,7 @@ sections:
             financing
           linktext: Learn more
           url: ""
-        - title: Developer/Business Solution Provider
+        - title: Business Solution Provider
           description: Innovate and create new IT product offerings by building upon
             TradeTrust
           linktext: Learn more
