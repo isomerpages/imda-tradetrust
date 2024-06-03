@@ -25,7 +25,7 @@ more profitable trades and capital financing, while minimizing legal complexitie
 </li>
 <li>
 <p>Conduct trustworthy trade and establish new trading relationships with
-complete transparency, traceability for supply chain optimisation.</p>
+complete transparency, traceability for end-to-end supply chain optimisation.</p>
 <p></p>
 </li>
 </ul>
