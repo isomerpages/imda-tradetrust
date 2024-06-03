@@ -26,7 +26,7 @@ sections:
           description: Trusted Interoperability
           url: /how-to-get-started/easy-steps/
         - title: Why adopt TradeTrust
-          description: ""
+          description: Key Benefits
           url: /benefits-of-tradetrust/
       variant: floating
       size: md
