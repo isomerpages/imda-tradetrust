@@ -184,7 +184,7 @@ Finance, cargo release, ....with proven saving of....</p>
 </tbody>
 </table>
 <p></p>
-<p>Others include :</p>
+<p>Others trials:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
