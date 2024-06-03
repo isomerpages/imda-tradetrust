@@ -34,8 +34,9 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>Australia - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rio Tinto,</p>
-<p>Australian Chamber of Commerce &amp; Industry, Australia Industry Group</p>
+<p>Rio Tinto
+<br>Australian Chamber of Commerce &amp; Industry
+<br>Australia Industry Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cert of Origin</p>
@@ -73,9 +74,9 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>Singapore - Thailand</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ExxonMobil SG/ TH</p>
-<p>VLK</p>
-<p>BunkerChain</p>
+<p>ExxonMobil SG/ TH
+<br>VLK
+<br>BunkerChain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -86,9 +87,11 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>India - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maersk, Maptrasco (Khaitan International) DBS(SG)</p>
-<p>ICICI Bank</p>
-<p>Jindal Stainless</p>
+<p>Maersk
+<br>Maptrasco (Khaitan International)
+<br>DBS(SG)
+<br>ICICI Bank
+<br>Jindal Stainless</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
