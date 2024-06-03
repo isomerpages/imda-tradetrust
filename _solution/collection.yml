@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - How It Works.md
-      - Shipping & Logistics.md
+      - Carrier.md
       - Trading of Goods.md
       - Financial Services.md
       - Technology Services.md
