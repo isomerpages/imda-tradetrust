@@ -283,7 +283,8 @@ use cases.</p>
 </table>
 <p></p>
 <h4>Proven Benefits</h4>
-<p></p>
+<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange oftrade documentation from 48 hours to just under a day–a huge benefit in terms of efficiency, security and interoperability across systems.”</em>  <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
