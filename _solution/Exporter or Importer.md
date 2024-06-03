@@ -14,9 +14,9 @@ description: ""
 <p>Secure financing from banks or financiers using collateral security over
 electronic Bills of Lading. Fractionising of eBL trade and finance smaller
 fractions of assets.</p>
-<p>Your ACRA's Business Profiles and Business Certificates (which uses the
-same technology as TradeTrust) which authenticity can be instantly verified,
-expedites the on boarding process by banks in Singapore.</p>
+<p>Your ACRA's Business Profiles and Business Certificates, which utilize
+the same technology as TradeTrust, allow for instant verification of authenticity,
+expediting the onboarding process by banks in Singapore</p>
 <p></p>
 <p></p>
 </li>
