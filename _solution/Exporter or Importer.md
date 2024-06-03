@@ -4,7 +4,7 @@ permalink: /exporter-importer/
 variant: tiptap
 description: ""
 ---
-<h3>How TradeTrust can help in Goods Trading</h3>
+<h3>How TradeTrust can help in your Trading</h3>
 <p></p>
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
