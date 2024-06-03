@@ -17,7 +17,7 @@ financing with smaller fractions of assets through financial platforms
 possible.</p>
 <p>Your ACRA's Business Profiles and Business Certificates, which utilize
 the same technology as TradeTrust, allow for instant verification of authenticity,
-expediting the onboarding process by banks in Singapore</p>
+expediting the onboarding process by banks in Singapore.</p>
 <p></p>
 <p></p>
 </li>
