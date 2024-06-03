@@ -185,9 +185,8 @@ Finance, cargo release, ....with proven saving of....</p>
 </table>
 <p></p>
 <p>Others include :</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -200,30 +199,85 @@ Finance, cargo release, ....with proven saving of....</p>
 <p><strong>Document Types</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>South Africa - China</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Invoice, Packing List, other digital docs</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vietnam - Netherland</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Japan - Philippines</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore - The Netherlands</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indonesia - USA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thailand - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UK - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Shenzhen) - Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abu Dhabi - Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
 </td>
 </tr>
 </tbody>
