@@ -11,9 +11,12 @@ description: ""
 <li>
 <p><strong>Better Cash Flow</strong>
 </p>
-<p>Secure financing from banks or financiers is expedited by electronic documents,
-whose source and authenticity can be instantly verified, ensuring proven
-trustworthiness of credit.</p>
+<p>Secure financing from banks or financiers using collateral security over
+electronic Bills of Lading. Fractionising of eBL trade and finance smaller
+fractions of assets.</p>
+<p>Your ACRA's Business Profiles and Business Certificates (which uses the
+same technology as TradeTrust) which authenticity can be instantly verified,
+expedites the on boarding process by banks in Singapore.</p>
 <p></p>
 <p></p>
 </li>
