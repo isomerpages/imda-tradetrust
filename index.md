@@ -63,7 +63,7 @@ sections:
         - title: Carrier
           description: |-
             Go digital-ready, stay compliant and relevant in future
-            markets
+            needs
           linktext: Learn more
           url: ""
         - title: Exporter / Importer
