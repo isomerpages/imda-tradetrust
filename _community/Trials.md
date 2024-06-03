@@ -98,8 +98,8 @@ Stainless</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines
-<br>COFCO International (AEOTrade)
-<br>YitHong Pte Ltd (AEOTrade)
+<br>COFCO International
+<br>YitHong Pte Ltd
 <br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,10 +111,10 @@ Stainless</p>
 <p>China (Shanghai) - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Samsung Electronics Singapore Pte Ltd (AEOTrade)
+<p>Pacific International Lines</p>
+<p>Samsung Electronics Singapore Pte Ltd
 <br>Samsung SDS Asia Pacific Pte Ltd,
-<br>AEOTrade,
-<br>Pacific International Lines</p>
+<br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
