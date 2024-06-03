@@ -85,9 +85,7 @@ Finance, cargo release, ....with proven saving of....</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk, Maptrasco (Khaitan International), DBS(SG), ICICI Bank, Jindal
-Stainless
-<br>
-</p>
+Stainless</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -102,7 +100,7 @@ Stainless
 <p>Pacific International Lines
 <br>COFCO International (AEOTrade)
 <br>YitHong Pte Ltd (AEOTrade)
-<br>AEOTrade (BSP in China)</p>
+<br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
