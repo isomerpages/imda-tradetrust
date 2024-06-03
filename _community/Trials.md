@@ -31,7 +31,7 @@ Finance, cargo release, ....with proven saving of....</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore - Australia</p>
+<p>Australia - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rio Tinto,</p>
