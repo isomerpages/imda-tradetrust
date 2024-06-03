@@ -73,7 +73,9 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>Singapore - Thailand</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ExxonMobil SG/ TH, VLK, BunkerChain</p>
+<p>ExxonMobil SG/ TH</p>
+<p>VLK</p>
+<p>BunkerChain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -84,8 +86,9 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>India - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maersk, Maptrasco (Khaitan International), DBS(SG), ICICI Bank, Jindal
-Stainless</p>
+<p>Maersk, Maptrasco (Khaitan International) DBS(SG)</p>
+<p>ICICI Bank</p>
+<p>Jindal Stainless</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -113,7 +116,7 @@ Stainless</p>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines</p>
 <p>Samsung Electronics Singapore Pte Ltd
-<br>Samsung SDS Asia Pacific Pte Ltd,
+<br>Samsung SDS Asia Pacific Pte Ltd
 <br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +128,10 @@ Stainless</p>
 <p>UK - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tradeflow Capital, XDC Trade Network, Yodaplus, TradeFinex, Propine</p>
+<p>Tradeflow Capital</p>
+<p>XDC Trade Network Yodaplus</p>
+<p>TradeFinex</p>
+<p>Propine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -136,7 +142,8 @@ Stainless</p>
 <p>China (Xiamen) - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maersk, COFCO International, YitHong Pte Ltd, AEOTrade</p>
+<p>Maersk</p>
+<p>COFCO International YitHong Pte Ltd AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -147,7 +154,9 @@ Stainless</p>
 <p>China (Shanghai) - Manila</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maersk, Higer Bus, Primex Motors, AEOTrade</p>
+<p>Maersk</p>
+<p>Higer Bus</p>
+<p>Primex Motors AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -158,7 +167,10 @@ Stainless</p>
 <p>Bahrain - Melbourne&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONE, Aluminium Bahrain B.S.C (Alba), Capral Limited, SGTraDex</p>
+<p>ONE</p>
+<p>Aluminium Bahrain B.S.C (Alba)</p>
+<p>Capral Limited</p>
+<p>SGTraDex</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
