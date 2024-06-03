@@ -4,10 +4,8 @@ permalink: /community/trials/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
-<p>Successful trials with Industry players and government bodies for Trade
-Finance, cargo release, ....with proven saving of....</p>
-<p></p>
+<p>Over 40 industry players, 14 government bodies and TAC, 10 platforms have
+conducted successful trials for Trade Finance, cargo release use cases.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -283,6 +281,7 @@ Finance, cargo release, ....with proven saving of....</p>
 </tbody>
 </table>
 <p></p>
+<h4>Proven Benefits</h4>
 <p></p>
 <p></p>
 <p></p>
