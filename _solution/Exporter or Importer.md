@@ -90,4 +90,3 @@ charges of holding cargo due to delay in documentation</div>
 <p>Learn more about &lt;how it works&gt; or try &lt;Verify Documents&gt;.</p>
 </blockquote>
 <p></p>
-<p>Wonder how to get started, contact us</p>
