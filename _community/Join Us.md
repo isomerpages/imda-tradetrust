@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Make TradeTrust your preferred framework for trade digitalization</h2>
-<p>TradeTrust is the preferred partner for forward-thinking companies, serving
-as the global gateway for driving innovation and connecting businesses
+<p>TradeTrust is the preferred framework for forward-thinking companies,
+serving as the global gateway for driving innovation and connecting businesses
 with key players to advance trade digitalization, creating a more seamless,
 accessible, and secure trade process for all.</p>
 <p></p>
