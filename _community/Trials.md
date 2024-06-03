@@ -4,8 +4,9 @@ permalink: /community/trials/
 variant: tiptap
 description: ""
 ---
-<p>Over 40 industry players, 14 government bodies and TAC, 10 platforms have
-conducted successful trials for Trade Finance, cargo release use cases.</p>
+<p>Over 40 industry players, 14 government bodies and TAC, and 10 platforms
+have successfully conducted trials for Trade Finance and cargo release
+use cases.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
