@@ -117,8 +117,8 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>China (Shanghai) - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pacific International Lines</p>
-<p>Samsung Electronics Singapore Pte Ltd
+<p>Pacific International Lines
+<br>Samsung Electronics Singapore Pte Ltd
 <br>Samsung SDS Asia Pacific Pte Ltd
 <br>AEOTrade</p>
 </td>
@@ -131,10 +131,11 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>UK - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tradeflow Capital</p>
-<p>XDC Trade Network Yodaplus</p>
-<p>TradeFinex</p>
-<p>Propine</p>
+<p>Tradeflow Capital
+<br>XDC Trade Network
+<br>Yodaplus
+<br>TradeFinex
+<br>Propine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -145,8 +146,8 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>China (Xiamen) - Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maersk</p>
-<p>COFCO International YitHong Pte Ltd AEOTrade</p>
+<p>Maersk
+<br>COFCO International YitHong Pte Ltd AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -157,9 +158,10 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>China (Shanghai) - Manila</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maersk</p>
-<p>Higer Bus</p>
-<p>Primex Motors AEOTrade</p>
+<p>Maersk
+<br>Higer Bus
+<br>Primex Motors
+<br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
@@ -170,10 +172,10 @@ Finance, cargo release, ....with proven saving of....</p>
 <p>Bahrain - Melbourne&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONE</p>
-<p>Aluminium Bahrain B.S.C (Alba)</p>
-<p>Capral Limited</p>
-<p>SGTraDex</p>
+<p>ONE
+<br>Aluminium Bahrain B.S.C (Alba)
+<br>Capral Limited
+<br>SGTraDex</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
