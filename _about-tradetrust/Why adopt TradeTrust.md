@@ -24,7 +24,8 @@ rulebook.</p>
 the legal hassles.</p>
 </li>
 <li>
-<p>Optimise your operations and get more business with benefits from digitalisation</p>
+<p>Confidently conduct trustworthy trade with new trading partners with complete
+transparency, traceability for supply chain optimisation.</p>
 <p></p>
 </li>
 </ul>
@@ -32,11 +33,11 @@ the legal hassles.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ensure electronic documents are compliant to global standards and statutory
-law and cryptographically trustworthy with data confidentiality.</p>
+law and cryptographically trustworthy with .</p>
 </li>
 <li>
-<p>Confidently conduct trustworthy trade with new trading partners with complete
-transparency and traceability.</p>
+<p>Data confidentiality is ensured as the blockchain does not store any business
+data.</p>
 </li>
 </ul>
 <h4>Compliance &amp; Sustainability</h4>
