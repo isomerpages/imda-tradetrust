@@ -15,7 +15,8 @@ solutions that cater to your requirements.</p>
 processes and workflows?</p>
 </li>
 <li>
-<p>de-risk business operations with security features like authenticity,</p>
+<p>de-risk business operations with security features like authenticity,
+source verification</p>
 </li>
 <li>
 <p>Collaborate with trading stakeholders to integrate them into your workflow,</p>
