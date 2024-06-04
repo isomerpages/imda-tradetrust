@@ -15,12 +15,8 @@ solutions that cater to your requirements.</p>
 accelerate common processes and workflows?</p>
 </li>
 <li>
-<p>de-risk business operations with security features like instant authenticity,
-source verification</p>
-</li>
-<li>
-<p></p>
-<p></p>
+<p>de-risk business operations with security features like instant checks
+for proof of origin, tampering, and authenticity.</p>
 <p></p>
 </li>
 </ul>
@@ -28,7 +24,6 @@ source verification</p>
 serving as free tool for driving innovation and connecting businesses with
 key players to advance trade digitalization, creating a more seamless,
 accessible, and secure trade process for all.</p>
-<p></p>
 <p>Be at the forefront of innovation and technology alongside industry leaders
 such as Exxon Mobil, Maersk, and PIL.</p>
 <p></p>
