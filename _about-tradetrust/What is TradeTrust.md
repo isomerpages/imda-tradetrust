@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
-<p>TradeTrust is designed to transform your trade digitalisation journey.</p>
+<p>TradeTrust is designed as an enabler to transform your trade digitalisation
+journey.</p>
 <p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
 </p>
 <p>It achieves this by using advanced technologies and adhering to global
