@@ -83,6 +83,32 @@ a Business Service Provider (BSP), the set of TradeTrust software components
 are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
 &lt;TradeTrust-enabled BSP&gt;.</p>
+<p>TradeTrust-enabled BSPs use TradeTrust for new revenue and value producing
+opportunities like</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>issuance of 20,000 certificates of authenticity for consumer goods</p>
+</li>
+<li>
+<p>electronic documentation processing :</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>purchase order, invoice, bill of lading, certificate of origin, health
+cert, datalogger report, Electronic Bunker Delivery Note, Packing List,
+Certificate of Origin (COO), Invoices, Delivery Order (DO) and Airway Bill
+(AWB)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>creation of NFTs for 2,000 visual art items that can be shared, learn,
+trade and appreciation</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <blockquote>
 <p>TradeTrust provides <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.</p>
