@@ -9,9 +9,10 @@ description: ""
 <p>Identify the key priorities for your organization and seek technology
 solutions that cater to your requirements.</p>
 <p>For example, do you want to:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Standardize common processes and workflows?</p>
+<p>achieve consistency through standardize digital to accelerate common processes
+and workflows?</p>
 </li>
 <li>
 <p>Collaborate with clients to integrate them into your workflow,</p>
