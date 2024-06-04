@@ -66,7 +66,7 @@ with an internet access.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Trade Finance Use Case Example with Transferable Document </strong></h4>
+<h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
 <p></p>
 <p>Trade Finance Use Case</p>
 <p>&lt;Insert Trade Finance&gt;</p>
