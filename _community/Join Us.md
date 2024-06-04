@@ -12,7 +12,7 @@ solutions that cater to your requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>achieve consistency through standardize digital to accelerate common processes
-and workflows?</p>
+and workflows securely?</p>
 </li>
 <li>
 <p>Collaborate with clients to integrate them into your workflow,</p>
