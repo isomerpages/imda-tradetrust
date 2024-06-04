@@ -295,11 +295,10 @@ use cases.</p>
 </blockquote>
 <h4>Proven Benefits</h4>
 <p>The<strong> Singapore and the Netherlands trial</strong> saw significant
-time savings in the BL documentation process from an average of six to
-ten days when using a hardcopy to less than 24 hours when using an eBL.</p>
-<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange oftrade documentation from 48 hours to just under a day–a huge benefit in terms of efficiency, security and interoperability across systems.”</em>  <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto</strong>
+time savings in the BL documentation process from an average of <strong>six to ten days when using a hardcopy to less than 24 hours when using an eBL</strong>.</p>
+<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange oftrade documentation from</em><strong><em> 48 hours to just under a day</em></strong><em>–a huge benefit in terms of efficiency, security and interoperability across systems.”</em>  <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto</strong>
 </p>
-<p>According to <strong>COFCO International</strong> "<em>It is estimated that by promoting digital transformation of their shipping and 2 export processes, the document-processing efficiency of COFCO Industrial Food can be improved by over 80%, and the business operation cost can be reduced by over 30%.</em>"</p>
+<p>According to <strong>COFCO International</strong> "<em>It is estimated that by promoting digital transformation of their shipping and 2 export processes, the </em><strong><em>document-processing efficiency </em></strong><em>of COFCO Industrial Food can be </em><strong><em>improved by over 80%</em></strong><em>, and the b</em><strong><em>usiness operation cost</em></strong><em> can be </em><strong><em>reduced by over 30%</em></strong><em>.</em>"</p>
 <p></p>
 <blockquote>
 <p>&lt;Join us&gt; for proof of concept and adoption.</p>
