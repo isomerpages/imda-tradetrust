@@ -11,27 +11,22 @@ solutions that cater to your requirements.</p>
 <p>For example, do you want to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>achieve consistency through standardize digital trade to accelerate common
-processes and workflows?</p>
+<p>achieve consistency and efficiency through standardize digital trade to
+accelerate common processes and workflows?</p>
 </li>
 <li>
-<p>de-risk business operations with security features like authenticity,
+<p>de-risk business operations with security features like instant authenticity,
 source verification</p>
 </li>
 <li>
-<p>Collaborate with trading stakeholders to integrate them into your workflow,</p>
-</li>
-<li>
-<p>Share business documents for and</p>
-</li>
-<li>
-<p>trigger workflows?</p>
+<p></p>
+<p></p>
 <p></p>
 </li>
 </ul>
 <p>TradeTrust is the preferred framework for forward-thinking companies,
-serving as the global gateway for driving innovation and connecting businesses
-with key players to advance trade digitalization, creating a more seamless,
+serving as free tool for driving innovation and connecting businesses with
+key players to advance trade digitalization, creating a more seamless,
 accessible, and secure trade process for all.</p>
 <p></p>
 <p>Be at the forefront of innovation and technology alongside industry leaders
