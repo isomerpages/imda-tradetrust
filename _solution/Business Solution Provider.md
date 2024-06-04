@@ -108,8 +108,7 @@ and appreciation digitally</p>
 <p></p>
 <p></p>
 <blockquote>
-<p>TradeTrust provides <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.</p>
+<p>TradeTrust provides <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.
+<br>Need further assistance, contact us!</p>
 </blockquote>
-<p></p>
-<p>Need further assistance, contact us!</p>
 <p></p>
