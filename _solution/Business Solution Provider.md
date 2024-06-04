@@ -102,7 +102,7 @@ Invoices, Delivery Order (DO) and Airway Bill (AWB)</p>
 and appreciation digitally</p>
 </li>
 <li>
-<p>FinTech platform for trade financing</p>
+<p>FinTech platforms for trade financing</p>
 </li>
 </ul>
 <p></p>
