@@ -62,9 +62,9 @@ specialist, Ernst &amp; Young.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free for all to use, and anyone can implement it using the
-set of pre-built software components.
-<br>
-</p>
+set of pre-built software components.</p>
+<p>Depending on your role in the supply chain, transaction cost in term of
+gas fee maybe applicable.</p>
 </div>
 </details>
 </div>
