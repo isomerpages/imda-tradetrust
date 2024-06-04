@@ -28,6 +28,8 @@ accessible, and secure trade process for all.</p>
 such as Exxon Mobil, Maersk, and PIL.</p>
 <p></p>
 <p></p>
+<blockquote>
 <p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect with our Engagement team today!</a>
 </p>
+</blockquote>
 <p></p>
