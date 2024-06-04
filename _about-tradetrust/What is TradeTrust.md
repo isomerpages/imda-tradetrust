@@ -64,7 +64,8 @@ specialist, Ernst &amp; Young.</p>
 <p>TradeTrust is free for all to use, and anyone can implement it using the
 set of pre-built software components.</p>
 <p>Depending on your role in the supply chain, transaction cost in term of
-gas fee maybe applicable.</p>
+gas fee maybe applicable. It can be as low as $0.01^ per transaction for
+transfer of holdership on Polygon. Reach out to us to understand more.</p>
 </div>
 </details>
 </div>
