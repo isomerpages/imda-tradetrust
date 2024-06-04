@@ -11,10 +11,10 @@ of origin and packing lists; and
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
-files and can be transmitted to your stakeholders. TradeTrust uses technology
-to assure all trade players that no matter how they obtained a document,
-no matter how many hands it had passed through before, that it hadn’t been
-tampered with since it was created.</p>
+(.tt) files and can be transmitted to your stakeholders. TradeTrust uses
+technology to assure all trade players that no matter how they obtained
+a document, no matter how many hands it had passed through before, that
+it hadn’t been tampered with since it was created.</p>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Documents such as the Certificate of Origin where the provenance and authenticity
 of the document can be easily verified by any party independently just
