@@ -83,6 +83,8 @@ a Business Service Provider (BSP), the set of TradeTrust software components
 are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
 &lt;TradeTrust-enabled BSP&gt;.</p>
+<p></p>
+<h3>Use Cases</h3>
 <p>TradeTrust-enabled BSPs use TradeTrust for new revenue and value producing
 opportunities like</p>
 <ul data-tight="true" class="tight">
