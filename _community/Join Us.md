@@ -11,11 +11,14 @@ solutions that cater to your requirements.</p>
 <p>For example, do you want to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>achieve consistency through standardize digital to accelerate common processes
-and workflows securely?</p>
+<p>achieve consistency through standardize digital trade to accelerate common
+processes and workflows?</p>
 </li>
 <li>
-<p>Collaborate with clients to integrate them into your workflow,</p>
+<p>de-risk business operations with security features like authenticity,</p>
+</li>
+<li>
+<p>Collaborate with trading stakeholders to integrate them into your workflow,</p>
 </li>
 <li>
 <p>Share business documents for and</p>
