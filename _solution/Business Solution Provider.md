@@ -98,8 +98,8 @@ Electronic Bunker Delivery Note, Packing List, Certificate of Origin (COO),
 Invoices, Delivery Order (DO) and Airway Bill (AWB)</p>
 </li>
 <li>
-<p>creation of NFTs for 2,000 visual art items that can be shared, learn,
-trade and appreciation</p>
+<p>creation of NFTs for visual art items that can be shared, learn, trade
+and appreciation digitally</p>
 </li>
 <li>
 <p>FinTech platform for trade financing</p>
