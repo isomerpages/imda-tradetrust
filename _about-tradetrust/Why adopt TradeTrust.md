@@ -58,7 +58,8 @@ Learn more at &lt;legality guide&gt;</p>
 ensure the TradeTrust framework for its reliability and trustworthiness.</p>
 </li>
 <li>
-<p>A proven solution demonstrated through over 30 &lt;successful trials&gt;.</p>
+<p>A proven solution through real live implementations by businesses and
+demonstrated by over 30 &lt;successful trials&gt;.</p>
 </li>
 </ul>
 <h4>Award-Winning Solution</h4>
