@@ -74,6 +74,6 @@ much you can save on manual processing and courier costs.</p>
 <p></p>
 <blockquote>
 <p>Learn more about &lt;why adopt TradeTrust&gt;.
-<br>Download &lt;factsheet&gt;</p>
+<br>Download &lt;factsheet&gt;.</p>
 </blockquote>
 <p></p>
