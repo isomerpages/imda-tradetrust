@@ -24,7 +24,7 @@ your trading partners with enhanced security features and meeting standards
 and legal requirements.</p>
 <p></p>
 </blockquote>
-<p>Users can independently :</p>
+<p>By adopting TradeTrust, users can independently :</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>create, revoke electronic documents (normal and title/negotiable)</p>
