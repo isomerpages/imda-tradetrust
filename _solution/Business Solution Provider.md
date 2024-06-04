@@ -87,7 +87,7 @@ systems. Alternatively, outsource or subscribe to services provided by
 opportunities like</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>issuance of 20,000 certificates of authenticity for consumer goods</p>
+<p>issuance of certificates of authenticity for consumer goods</p>
 </li>
 <li>
 <p>electronic documentation processing including purchase order, invoice,
@@ -98,6 +98,9 @@ Invoices, Delivery Order (DO) and Airway Bill (AWB)</p>
 <li>
 <p>creation of NFTs for 2,000 visual art items that can be shared, learn,
 trade and appreciation</p>
+</li>
+<li>
+<p>FinTech platform for trade financing</p>
 </li>
 </ul>
 <p></p>
