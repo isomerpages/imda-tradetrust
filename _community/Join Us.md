@@ -17,9 +17,6 @@ solutions that cater to your requirements.</p>
 <p>Collaborate with clients and bring them into your workflow?</p>
 </li>
 <li>
-<p>Estimate time and budget to help make better-informed decisions?</p>
-</li>
-<li>
 <p>Share client data and trigger workflows?</p>
 <p></p>
 </li>
