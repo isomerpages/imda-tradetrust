@@ -14,10 +14,13 @@ solutions that cater to your requirements.</p>
 <p>Standardize common processes and workflows?</p>
 </li>
 <li>
-<p>Collaborate with clients and bring them into your workflow?</p>
+<p>Collaborate with clients to integrate them into your workflow,</p>
 </li>
 <li>
-<p>Share client data and trigger workflows?</p>
+<p>Share business documents for and</p>
+</li>
+<li>
+<p>trigger workflows?</p>
 <p></p>
 </li>
 </ul>
