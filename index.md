@@ -111,7 +111,7 @@ sections:
           linktext: Sign up
           url: ""
         - title: Request Demo
-          description: Watch a demonstration
+          description: Contact us for a quick demonstration
           linktext: Sign up
           url: ""
   - announcements:
