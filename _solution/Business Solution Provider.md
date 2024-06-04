@@ -86,7 +86,7 @@ systems. Alternatively, outsource or subscribe to services provided by
 <p></p>
 <h3>Use Cases</h3>
 <p>TradeTrust-enabled BSPs use TradeTrust for new revenue and value producing
-opportunities like</p>
+opportunities such as</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>issuance of certificates of authenticity for consumer goods</p>
