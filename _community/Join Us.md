@@ -5,6 +5,25 @@ variant: tiptap
 description: ""
 ---
 <h2>Make TradeTrust your preferred framework for trade digitalization</h2>
+<p>Choose technology that will support the processes you're optimizing.</p>
+<p>Identify the key priorities for your organization and seek technology
+solutions that cater to your requirements.</p>
+<p>For example, do you want to:</p>
+<ul>
+<li>
+<p>Standardize common processes and workflows?</p>
+</li>
+<li>
+<p>Collaborate with clients and bring them into your workflow?</p>
+</li>
+<li>
+<p>Estimate time and budget to help make better-informed decisions?</p>
+</li>
+<li>
+<p>Share client data and trigger workflows?</p>
+<p></p>
+</li>
+</ul>
 <p>TradeTrust is the preferred framework for forward-thinking companies,
 serving as the global gateway for driving innovation and connecting businesses
 with key players to advance trade digitalization, creating a more seamless,
