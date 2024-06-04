@@ -85,6 +85,8 @@ charges of holding cargo due to delay in documentation</div>
 </div>
 </div>
 <p></p>
+<h3>Use Case</h3>
+<p>....</p>
 <p></p>
 <blockquote>
 <p>Learn more about &lt;how it works&gt; or try &lt;Verify Documents&gt;.</p>
