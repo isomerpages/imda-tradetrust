@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>Over 40 industry players, 14 government bodies and TAC, and 10 platforms
-have successfully conducted trials for Trade Finance and cargo release
+have successfully conducted trials for Trade Finance and Cargo Release
 use cases.</p>
 </blockquote>
 <table style="minWidth: 75px">
