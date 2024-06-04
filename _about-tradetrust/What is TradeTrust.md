@@ -27,7 +27,7 @@ and legal requirements.</p>
 <p>Users can independently :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>create electronic documents (normal and title documents)</p>
+<p>create, revoke electronic documents (normal and title documents)</p>
 </li>
 <li>
 <p>verify documents’ proof of origin and authenticity</p>
