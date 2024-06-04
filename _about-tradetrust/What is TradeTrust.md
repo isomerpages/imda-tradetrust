@@ -43,6 +43,24 @@ with, or simply with an internet access just to verify documents.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Is my data and transactions safe?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Your data is not written into the public blockchain so as to preserves
+data confidentiality. Only the title ownership is recorded on one of the
+selected blockchain(Ethereum, Polygon, XDC or Stability) for title documents.</p>
+<p>You decide what data and data format that go into your electronic documents.</p>
+<p>And the security and reliability of your transactions are assured, as
+TradeTrust's security assessment was comprehensively conducted by a third-party
+specialist, Ernst &amp; Young.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <blockquote>
 <p>Learn more about &lt;why adopt TradeTrust&gt;.</p>
 </blockquote>
