@@ -43,7 +43,7 @@ with, or simply with an internet access just to verify documents.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Is my data and transactions safe?</strong>
 </summary>
@@ -55,7 +55,16 @@ selected blockchain(Ethereum, Polygon, XDC or Stability) for title documents.</p
 <p>And the security and reliability of your transactions are assured, as
 TradeTrust's security assessment was comprehensively conducted by a third-party
 specialist, Ernst &amp; Young.</p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What are the costs involved?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>TradeTrust is free for all to use, and anyone can implement it using the
+set of pre-built software components.
+<br>
+</p>
 </div>
 </details>
 </div>
