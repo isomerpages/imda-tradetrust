@@ -42,8 +42,10 @@ ecosystems with:</p>
 <p></p>
 </li>
 </ul>
-<p>Transform the way you trade - subscribe to our TradeTrust newsletter for
-exclusive insights. &lt;link to google form&gt;</p>
+<blockquote>
+<p>Transform the way you trade - &lt;subscribe&gt; to our TradeTrust newsletter
+for exclusive insights.</p>
+</blockquote>
 <hr>
 <p><strong>About IMDA</strong>
 </p>
