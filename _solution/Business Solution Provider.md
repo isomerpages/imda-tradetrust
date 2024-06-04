@@ -90,22 +90,14 @@ opportunities like</p>
 <p>issuance of 20,000 certificates of authenticity for consumer goods</p>
 </li>
 <li>
-<p>electronic documentation processing :</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>purchase order, invoice, bill of lading, certificate of origin, health
-cert, datalogger report, Electronic Bunker Delivery Note, Packing List,
-Certificate of Origin (COO), Invoices, Delivery Order (DO) and Airway Bill
-(AWB)</p>
-</li>
-</ul>
+<p>electronic documentation processing including purchase order, invoice,
+bill of lading, certificate of origin, health cert, datalogger report,
+Electronic Bunker Delivery Note, Packing List, Certificate of Origin (COO),
+Invoices, Delivery Order (DO) and Airway Bill (AWB)</p>
 </li>
 <li>
 <p>creation of NFTs for 2,000 visual art items that can be shared, learn,
 trade and appreciation</p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <p></p>
