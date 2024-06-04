@@ -67,7 +67,6 @@ with an internet access.</p>
 <p></p>
 <h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
 <p></p>
-<p>Trade Finance Use Case</p>
 <p>&lt;Insert Trade Finance&gt;</p>
 <p></p>
 <p></p>
