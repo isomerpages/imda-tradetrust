@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Make TradeTrust your preferred framework for trade digitalization</h2>
-<p>Choose technology that will support the processes you're optimizing.</p>
+<p></p>
 <p>Identify the key priorities for your organization and seek technology
 solutions that cater to your requirements.</p>
 <p>For example, do you want to:</p>
