@@ -34,7 +34,7 @@ to the right party timely.</p>
 <li>
 <p><strong>Sustainability &amp; Trade Compliance</strong>
 </p>
-<p>Fulfill sustainability goal by going paperless.</p>
+<p>Fulfil sustainability goal by going paperless.</p>
 <p></p>
 <p>Electronic documents like bills of lading and certificates of origin expedite
 trade compliance and cross-border cargo shipping arrangement. Border control
