@@ -128,7 +128,7 @@ singularity and control.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>The role of <a href="http://TradeTrust.io" rel="noopener noreferrer nofollow" target="_blank">TradeTrust.io</a> website</summary>
+<summary>The role of TradeTrust website</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The website at <a href="https://www.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io</a> serves
 as:</p>
