@@ -9,7 +9,7 @@ third_nav_title: Video Guides
 a TradeTrust file, concept of document integrity and issuer identity assurance.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NcR1M9NJ-PE?si=Ob2Ix-PNVALi4CQV"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L2C1eqVYdII?si=AiEO-5F9hymnwuwW"></iframe>
 </div>
 <p></p>
 <p>Timestamps
