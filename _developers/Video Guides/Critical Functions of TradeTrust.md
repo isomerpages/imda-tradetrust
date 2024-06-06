@@ -19,6 +19,7 @@ a TradeTrust file.</p>
 <br>10:25 Issuer Identity
 <br>
 </p>
+<p></p>
 <blockquote>
 <p>TradeTrust provides <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/Developers" rel="noopener noreferrer nofollow" target="_blank"><u>technical resources</u></a> to
 get your started.
