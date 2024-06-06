@@ -353,8 +353,9 @@ discuss further.</p>
 </div>
 <p></p>
 <p></p>
-<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact us for assistance!</a>
-</p>
+<blockquote>
+<p>Need further assistance, &lt;contact us&gt;!</p>
+</blockquote>
 <p></p>
 <p></p>
 <p></p>
