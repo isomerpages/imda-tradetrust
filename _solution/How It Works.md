@@ -69,11 +69,14 @@ or through automation.</p>
 <p></p>
 <h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
 <p>Transferable Records are trade documents that entitle the holder to claim
-the performance of an obligation or ownership.</p>
-<p>Examples of transferable records typically include bills of lading, bills
-of exchange, promissory notes, and warehouse receipts.</p>
-<p>See how things change from the use of TradeTrust-enabled solutions when
-dealing with eBL</p>
+the performance of an obligation or ownership. Examples of transferable
+records typically include bills of lading, bills of exchange, promissory
+notes, and warehouse receipts.</p>
+<p>Observe the transformation brought about by the use of TradeTrust-enabled
+solutions when dealing with transferable documents such as blank-endorsed
+electronic Bill of Lading(eBL), where the provenance and authenticity of
+the document can be easily verified by any party independently just with
+an internet access or through automation.</p>
 <p></p>
 <h4></h4>
 <p></p>
