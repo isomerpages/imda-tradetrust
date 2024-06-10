@@ -16,9 +16,11 @@ technology to assure all trade players that no matter how they obtained
 a document, no matter how many hands it had passed through before, that
 it hadn’t been tampered with since it was created.</p>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
-<p>Documents such as the Certificate of Origin where the provenance and authenticity
-of the document can be easily verified by any party independently just
-with an internet access.</p>
+<p>Observe the transformation brought about by the use of TradeTrust-enabled
+solutions when dealing with verifiable documents such as the Certificate
+of Origin, where the provenance and authenticity of the document can be
+easily verified by any party independently just with an internet access
+or through automation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VERIFIABLE DOCUMENTS’ INTEROPERABILITY" src="/images/Verifiable_Doc_Use_Case.png">
