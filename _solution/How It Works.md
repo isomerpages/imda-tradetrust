@@ -73,7 +73,7 @@ or through automation.</p>
 solutions when dealing with transferable documents such as blank-endorsed
 electronic Bill of Lading(eBL), where the provenance and authenticity of
 the document can be easily verified by any party independently just with
-an internet access or through automation.</p>
+an internet access or through automation and endorsement of eBL digitally.</p>
 <p></p>
 <p></p>
 <p></p>
