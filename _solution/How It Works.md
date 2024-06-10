@@ -66,9 +66,12 @@ with an internet access.</p>
 </div>
 <p></p>
 <h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
-<p></p>
-<p>&lt;Insert Trade Finance&gt;</p>
-<p></p>
+<p>Transferable Records are trade documents that entitle the holder to claim
+the performance of an obligation or ownership.</p>
+<p>Examples of transferable records typically include bills of lading, bills
+of exchange, promissory notes, and warehouse receipts.</p>
+<p>See how things change from the use of TradeTrust-enabled solutions when
+dealing with eBL</p>
 <p></p>
 <h4></h4>
 <p></p>
