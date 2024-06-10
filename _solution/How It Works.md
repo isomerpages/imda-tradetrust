@@ -15,7 +15,11 @@ or ownership</p>
 (.tt) files and can be transmitted to your stakeholders. TradeTrust uses
 technology to assure all trade players that no matter how they obtained
 a document, no matter how many hands it had passed through before, that
-it hadn’t been tampered with since it was created.</p>
+it hadn’t been tampered with since it was created. See sample of TradeTrust-enabled
+document:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
+</div>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the Certificate
