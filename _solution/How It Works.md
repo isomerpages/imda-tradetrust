@@ -26,13 +26,13 @@ solutions when dealing with verifiable documents such as the Certificate
 of Origin, where the provenance and authenticity of the document can be
 easily verified by any party independently just with an internet access
 or through automation.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VERIFIABLE DOCUMENTS’ INTEROPERABILITY" src="/images/Verifiable_Doc_Use_Case.png">
 </div>
+<p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Improvements to the EXPORTER</summary>
+<summary>EXPORTER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -44,7 +44,7 @@ or through automation.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements to the IMPORTER</summary>
+<summary>IMPORTER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -53,7 +53,7 @@ or through automation.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements to the CERT ISSUING/CHECKING AUTHORITY</summary>
+<summary>CERT ISSUING/CHECKING AUTHORITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -62,7 +62,7 @@ or through automation.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Improvements to the BANKER</summary>
+<summary>BANKER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -78,10 +78,52 @@ solutions when dealing with transferable documents such as blank-endorsed
 electronic Bill of Lading(eBL), where the provenance and authenticity of
 the document can be easily verified by any party independently just with
 an internet access or through automation and endorsement of eBL digitally.</p>
-<p>&lt;insert TRANSFERABLE DOCUMENTS’ INTEROPERABILITY diagram&gt;</p>
+<p>&lt;insert new TRANSFERABLE DOCUMENTS’ INTEROPERABILITY diagram&gt;</p>
 <p></p>
 <p></p>
 <p></p>
+<p>Improvements to the:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>EXPORTER</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Benefits_Exporters.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>IMPORTER</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Importer.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>CERT ISSUING/CHECKING AUTHORITY</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Customs.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>BANKER</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Banker.png">
+</div>
+</div>
+</details>
+</div>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
 <p></p>
