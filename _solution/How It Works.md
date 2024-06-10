@@ -9,7 +9,8 @@ description: ""
 of origin and packing lists; and
 <br>2. <strong>Transferable Documents</strong>&nbsp;for example Electronic
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
-receipts</p>
+receipts that entitle the holder to claim the performance of an obligation
+or ownership</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
 (.tt) files and can be transmitted to your stakeholders. TradeTrust uses
 technology to assure all trade players that no matter how they obtained
@@ -68,17 +69,15 @@ or through automation.</p>
 </div>
 <p></p>
 <h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
-<p>Transferable Records are trade documents that entitle the holder to claim
-the performance of an obligation or ownership. Examples of transferable
-records typically include bills of lading, bills of exchange, promissory
-notes, and warehouse receipts.</p>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with transferable documents such as blank-endorsed
 electronic Bill of Lading(eBL), where the provenance and authenticity of
 the document can be easily verified by any party independently just with
 an internet access or through automation.</p>
 <p></p>
-<h4></h4>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>Wonder how to get started, contact us!</p>
 <p></p>
