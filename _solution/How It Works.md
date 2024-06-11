@@ -13,10 +13,10 @@ receipts that entitle the holder to claim the performance of an obligation
 or ownership</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
 (.tt) files and can be transmitted to your stakeholders. TradeTrust uses
-technology to assure all trade players that no matter how they obtained
-a document, no matter how many hands it had passed through before, that
-it hadn’t been tampered with since it was created. See sample of TradeTrust-enabled
-document:</p>
+blockchain<strong> </strong>technology to assure all trade players that
+no matter how they obtained a document, no matter how many hands it had
+passed through before, that it hadn’t been tampered with since it was created.
+See a sample of TradeTrust-enabled document:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
 </div>
