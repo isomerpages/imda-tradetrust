@@ -258,6 +258,7 @@ to make drastic re-implementations.</p>
 </div>
 </details>
 </div>
+<h4>An open invitation to developers</h4>
 <p>The Ethereum main network is currently the canonical blockchain for our
 reference implementation at our website - <a href="https://tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">tradetrust.io</a> . Ethereum currently remains
 our choice of a data backend as it allows for permissionless onboarding,
