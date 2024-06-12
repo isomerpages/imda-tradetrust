@@ -2,6 +2,7 @@ collections:
   developers:
     output: true
     order:
+      - Blockchain Guideline.md
       - Video Guides/.keep
       - Video Guides/TradeTrust Overview.md
       - Video Guides/Critical Functions of TradeTrust.md
