@@ -45,7 +45,7 @@ with, or simply with an internet access just to verify documents.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Is my data and transactions safe?</strong>
+<summary><strong>Are my data and transactions safe?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data is not written into the public blockchain so as to preserves
