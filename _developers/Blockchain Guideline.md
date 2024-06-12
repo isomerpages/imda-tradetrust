@@ -262,14 +262,17 @@ to make drastic re-implementations.</p>
 <p>The Ethereum main network is currently the canonical blockchain for our
 reference implementation at our website - <a href="https://tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">tradetrust.io</a> . Ethereum remains our choice
 of a data backend as it allows for permissionless onboarding, and minimises
-any quarrels over ownership of the infrastructure. Ethereum 2.0 offers
+any disputes over ownership of the infrastructure. Ethereum 2.0 offers
 a promising solution that is scalable and addresses some environmental
 concerns, but it is currently not yet ready.</p>
+<p></p>
 <p>Moving forward, other suitable blockchains that have the mandatory properties
 and features may be considered to be offered as alternative options for
-the TradeTrust framework. The conditions will serve as a guideline to identify
-suitable candidates for consideration. We’d like to invite you to work
-with us to expand the list of blockchain options for TradeTrust.</p>
+the TradeTrust framework. In additional to Ethereum, we now have Polygon,
+XDC and Stability blockchain.</p>
+<p>The conditions will serve as a guideline to identify suitable candidates
+for consideration. We’d like to invite you to work with us to expand the
+list of blockchain options for TradeTrust.</p>
 <p></p>
 <blockquote>
 <p>Need further assistance, &lt;contact us&gt;!</p>
