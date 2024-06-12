@@ -269,6 +269,9 @@ concerns, but it is currently not yet ready.</p>
 and features may be considered to be offered as alternative options for
 the TradeTrust framework. The conditions will serve as a guideline to identify
 suitable candidates for consideration. We’d like to invite you to work
-with us to expand the list of blockchain options for TradeTrust. Feel free
-to <a href="https://www.form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a> to
-discuss further.</p>
+with us to expand the list of blockchain options for TradeTrust.</p>
+<p></p>
+<blockquote>
+<p>Need further assistance, &lt;contact us&gt;!</p>
+</blockquote>
+<p></p>
