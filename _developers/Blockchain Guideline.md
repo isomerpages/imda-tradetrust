@@ -260,10 +260,10 @@ to make drastic re-implementations.</p>
 </div>
 <h4>An open invitation to developers</h4>
 <p>The Ethereum main network is currently the canonical blockchain for our
-reference implementation at our website - <a href="https://tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">tradetrust.io</a> . Ethereum currently remains
-our choice of a data backend as it allows for permissionless onboarding,
-and minimises any quarrels over ownership of the infrastructure. Ethereum
-2.0 offers a promising solution that is scalable and addresses some environmental
+reference implementation at our website - <a href="https://tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">tradetrust.io</a> . Ethereum remains our choice
+of a data backend as it allows for permissionless onboarding, and minimises
+any quarrels over ownership of the infrastructure. Ethereum 2.0 offers
+a promising solution that is scalable and addresses some environmental
 concerns, but it is currently not yet ready.</p>
 <p>Moving forward, other suitable blockchains that have the mandatory properties
 and features may be considered to be offered as alternative options for
