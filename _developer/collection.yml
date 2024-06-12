@@ -1,5 +1,5 @@
 collections:
-  developers:
+  developer:
     output: true
     order:
       - Video Guides/.keep
