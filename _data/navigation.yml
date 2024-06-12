@@ -6,8 +6,8 @@ links:
     collection: solution
   - title: Community
     collection: community
-  - title: Developers
-    collection: developers
+  - title: Developer
+    collection: developer
   - title: News and Events
     resource_room: true
   - title: Testing
