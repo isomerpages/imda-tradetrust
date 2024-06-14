@@ -53,7 +53,7 @@ services of TradeTrust ready &lt;partners&gt;.</p>
 <p>Your data is not written into the public blockchain so as to preserves
 data confidentiality. Only the title ownership is recorded on one of the
 selected blockchain for title documents.</p>
-<p>You decide what data and data format that go into your electronic documents.</p>
+<p></p>
 <p>And the security and reliability of your transactions are assured, as
 TradeTrust's security assessment was comprehensively conducted by a third-party
 specialist, Ernst &amp; Young.</p>
@@ -69,6 +69,12 @@ set of pre-built software components.</p>
 blockchain gas fees may apply, for example, $0.01 per transaction for the
 transfer of ownership on Polygon. Reach out to us to learn more about how
 much you can save on manual processing and courier costs.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
