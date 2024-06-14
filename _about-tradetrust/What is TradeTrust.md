@@ -22,7 +22,6 @@ can freely adopt and build upon it to benefit their business ecosystem.</p>
 to turn your documents into smart electronic documents that are portable
 across your trading partners, with enhanced security features, all while
 meeting standards and legal requirements.</p>
-<p></p>
 </blockquote>
 <p>By adopting TradeTrust, users can independently :</p>
 <ul data-tight="true" class="tight">
@@ -49,7 +48,7 @@ with, or simply with an internet access just to verify documents.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data is not written into the public blockchain so as to preserves
 data confidentiality. Only the title ownership is recorded on one of the
-selected blockchain(Ethereum, Polygon, XDC or Stability) for title documents.</p>
+selected blockchain for title documents.</p>
 <p>You decide what data and data format that go into your electronic documents.</p>
 <p>And the security and reliability of your transactions are assured, as
 TradeTrust's security assessment was comprehensively conducted by a third-party
