@@ -69,10 +69,14 @@ specialist, Ernst &amp; Young.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free for all to use, and anyone can implement it using the
 set of pre-built software components.</p>
+<p></p>
 <p>Depending on your role in the supply chain, transaction costs such as
-blockchain gas fees may apply, for example, $0.01 per transaction for the
-transfer of ownership on Polygon. Reach out to us to learn more about how
-much you can save on manual processing and courier costs.</p>
+blockchain gas fees may apply.</p>
+<p>Outsource and subscription service from TradeTrust ready partner will
+apply.</p>
+<p></p>
+<p>Reach out to us to learn more about how much you can save on manual processing
+and courier costs.</p>
 </div>
 </details>
 <details class="isomer-details">
