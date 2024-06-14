@@ -72,7 +72,7 @@ set of pre-built software components.</p>
 <p></p>
 <p>Depending on your role in the supply chain, transaction costs such as
 blockchain gas fees may apply.</p>
-<p>Outsource and subscription service from TradeTrust ready partner will
+<p>Outsource and/or subscription service from TradeTrust ready partner will
 apply.</p>
 <p></p>
 <p>Reach out to us to learn more about how much the costs and what you can
