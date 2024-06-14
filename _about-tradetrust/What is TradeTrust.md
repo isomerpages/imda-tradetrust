@@ -53,9 +53,10 @@ of TradeTrust ready &lt;partners&gt;.</p>
 <summary><strong>Are my data and transactions safe?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Your data is not written into the public blockchain so as to preserves
-data confidentiality. Only the title ownership is recorded on one of the
-selected blockchain for title documents.</p>
+<p>Your data resides in the electronic document files generated and is not
+written into the public blockchain so as to preserves data confidentiality.
+Only the title ownership is recorded on one of the selected blockchain
+for title documents.</p>
 <p></p>
 <p>And the security and reliability of your transactions are assured, as
 TradeTrust's security assessment was comprehensively conducted by a third-party
