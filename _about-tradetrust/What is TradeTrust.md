@@ -40,7 +40,7 @@ meeting standards and legal requirements.</p>
 the capabilities of TradeTrust all from the convenience of your IT system
 that you are familiar with. Or subscribe to the services of TradeTrust
 ready partners.</p>
-<p>To verify documents received, only an internet access is required.</p>
+<p>To verify documents received, only internet access is required.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
