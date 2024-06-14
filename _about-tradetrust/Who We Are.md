@@ -23,7 +23,6 @@ international trade safer, faster, easier, and more cost-effective.&nbsp;</p>
 everyone by providing a globally-harmonised and inclusive framework. TradeTrust
 achieves this by promoting trust, efficiency, and inclusivity in digital
 trade practices</p>
-<p></p>
 <p>Offered as a digital utility to all, TradeTrust is provided open-source
 so that all parties can easily adopt for free and build upon it, benefiting
 business ecosystems.</p>
@@ -41,4 +40,3 @@ and exciting ecosystem filled with growth opportunities through talent,
 research, innovation and enterprise. As Architects of Singapore’s Digital
 Future, we strive to ensure businesses, the workforce and the public are
 ready for a future enabled by infocomm and digital media.</p>
-<p></p>
