@@ -7,8 +7,9 @@ description: ""
 <h4>Easy Adoption</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quick launch with free open-source code with no data format or standard
-restrictions. Or subscribe to the services of TradeTrust ready partners.</p>
+<p>Quick launch with code reuse by using free open-source code with no data
+format or standard restrictions. Or use the services of TradeTrust ready
+partners.</p>
 </li>
 <li>
 <p>Best practices enable scalability and cross-platform interoperability,
