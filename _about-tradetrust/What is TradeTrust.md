@@ -72,11 +72,11 @@ set of pre-built software components.</p>
 <p></p>
 <p>Depending on your role in the supply chain, transaction costs such as
 blockchain gas fees may apply.</p>
-<p>Outsource and/or subscription service from TradeTrust ready partner will
-apply.</p>
+<p>Other costs may include outsource fee for the integration of TradeTrust
+into your IT system and/or subscription service from TradeTrust ready partner.</p>
 <p></p>
-<p>Reach out to us to learn more about how much the costs and what you can
-save on manual processing and courier costs by going digital.</p>
+<p>Reach out to us to learn more about the costs and what you can save on
+manual processing and courier costs by going digital.</p>
 </div>
 </details>
 <details class="isomer-details">
