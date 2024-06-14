@@ -40,9 +40,11 @@ the UK and the US</p>
 </p>
 </li>
 </ul>
+<blockquote>
 <p>Download to find out more about the legality guide
 <br><a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of their use in global trade.</a>
 </p>
+</blockquote>
 <p></p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
 <p>&nbsp;In March 2021, the Electronic Transactions Act (ETA) was amended
@@ -76,4 +78,3 @@ Emirates are MLETR- compliant.&nbsp;</p>
 records to be similarly recognised across the borders – provides greater
 certainty to businesses and removing one barrier to end-to-end digital
 trade.</p>
-<p></p>
