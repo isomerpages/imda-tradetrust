@@ -43,7 +43,7 @@ generates and operates MLETR-compliant e-Invoices and electronic Bills
 of Lading using the TradeTrust framework.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">Bunker Chain is the co-founder of Marine Vessel Pass, Digital Identities for Ships in collaboration with S&amp;P Global Market Intelligence. It is the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">Bunker Chain is the co-founder of Marine Vessel Pass, Digital Identities for Ships in collaboration with S&amp;P Global Market Intelligence. It is the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.calista-logistics.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -81,7 +81,7 @@ verifiability and traceability for legal validity. more ...</div>
 <a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklab.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklabs_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
