@@ -76,7 +76,7 @@ blockchain gas fees may apply.</p>
 apply.</p>
 <p></p>
 <p>Reach out to us to learn more about how much the costs and what you can
-save on manual processing and courier costs.</p>
+save on manual processing and courier costs by going digital.</p>
 </div>
 </details>
 <details class="isomer-details">
