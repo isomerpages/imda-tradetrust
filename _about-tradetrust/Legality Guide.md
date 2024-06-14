@@ -35,9 +35,9 @@ eBLs from being widely used in global trade</p>
 the UK and the US</p>
 </li>
 <li>
-<p>Advice on how TradeTrust eBLs work between MLETR and non-MLETR countries/territories
-<br>
-</p>
+<p>Advice on how TradeTrust eBLs work between MLETR and non-MLETR countries/territories</p>
+<p></p>
+<p>&lt;insert picture &gt;</p>
 </li>
 </ul>
 <blockquote>
