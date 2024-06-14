@@ -7,15 +7,15 @@ description: ""
 <h3><strong>Legality Guide</strong></h3>
 <p>Previously, usage of electronic versions of bills of lading had been difficult
 due to technological and legal challenges in establishing what is the "original
-document" and "who possesses it". TradeTrust is designed to follow requirements
-set out in the MLETR law to address these difficulties.</p>
+document" and "who possesses it". TradeTrust is designed to follow the
+requirements set out in the UNCITRAL Model Law on Electronic Transferable
+Records (MLETR) to address these difficulties.</p>
 <p>Instead of contractual rule book, your TradeTrust-enabled electronic documents
 will be supported by statutory law.</p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
-jurisdiction, it is<strong> </strong>recommended to expressly choose a
-governing law and jurisdiction provision for the documents with a MLETR-compliant
-jurisdictions.</p>
+jurisdiction, it is recommended to expressly choose a governing law and
+jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</p>
 </blockquote>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
