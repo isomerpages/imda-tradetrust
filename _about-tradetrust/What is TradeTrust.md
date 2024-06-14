@@ -75,8 +75,8 @@ blockchain gas fees may apply.</p>
 <p>Outsource and subscription service from TradeTrust ready partner will
 apply.</p>
 <p></p>
-<p>Reach out to us to learn more about how much you can save on manual processing
-and courier costs.</p>
+<p>Reach out to us to learn more about how much the costs and what you can
+save on manual processing and courier costs.</p>
 </div>
 </details>
 <details class="isomer-details">
