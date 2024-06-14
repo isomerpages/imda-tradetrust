@@ -9,26 +9,25 @@ description: ""
 journey.</p>
 <p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
 </p>
-<p>It achieves this by using advanced technologies and adhering to global
-standards and legal requirements to enable trusted interoperability of
-electronic trade documents across digital platforms. Electronic documents
-issued this way can be trusted, portable, and legally effective on different
-systems, thereby streamlining cross-platform interoperability and enhancing
-overall operational efficiency for businesses and governments.</p>
-<p>And offered as a free digital utility, it is open-sourced so that all
-parties can easily adopt for free and build upon it to benefit the business
-ecosystem.</p>
+<p>TradeTrust achieves this by using decentralised technologies and adhering
+to global standards and legal requirements to enable trusted interoperability
+of electronic trade documents across digital platforms. Electronic documents
+issued this way can be trusted, portable, and legally effective across
+different systems, thereby streamlining cross-platform interoperability
+and enhancing overall operational efficiency for businesses and governments.</p>
+<p>And offered as a digital utility, it is open-sourced so that all parties
+can freely adopt and build upon it to benefit their business ecosystem.</p>
 <blockquote>
-<p>It’s like providing you with a supporting structure and free tool, to
-turn your documents into smart electronic documents that are portable across
-your trading partners with enhanced security features and meeting standards
-and legal requirements.</p>
+<p>It’s like providing you with both a free tool and the supporting structure,
+to turn your documents into smart electronic documents that are portable
+across your trading partners, with enhanced security features, all while
+meeting standards and legal requirements.</p>
 <p></p>
 </blockquote>
 <p>By adopting TradeTrust, users can independently :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>create, revoke electronic documents (normal and title/negotiable)</p>
+<p>create, revoke electronic documents</p>
 </li>
 <li>
 <p>verify documents’ proof of origin and authenticity</p>
