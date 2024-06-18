@@ -92,7 +92,7 @@ trade finance gap</div>
 </div>
 </div>
 <p></p>
-<h3>Use Case</h3>
+<h3>Possible Use Case</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Trade finance service</p>
