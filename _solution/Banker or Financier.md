@@ -9,14 +9,20 @@ description: ""
 <li>
 <p><strong>Trade Finance Facilitation</strong>
 </p>
-<p>TradeTrust-enabled documents are backed by statutory law. An electronic
-bills of lading and can be used to facilitate trade finance. It enables
-the seamless transfer of title from trader to bank, and from bank to another
-party for trade financing, providing convenience and cost savings for all
-parties in the supply chain.</p>
-<p>Documentary collection services can be elevated with better document checks
-for compliance and validity, providing assurance to banks' customers and
-their trading partners.</p>
+<p>Trade finance activities are notoriously paper-heavy.</p>
+<p></p>
+<p>Using TradeTrust to digitalise key trade documents streamlines the trade
+process and reduces the time required for document processing and verification.
+This can result in quicker trade transactions and reduced turnaround times
+for trade finance activities, particularly in complex transactions involving
+multiple banks, insurers, and corporate customers, as TradeTrust supports
+interoperability of electronic trade documents across various platforms
+and systems.</p>
+<p></p>
+<p>Thereby providing overall convenience and cost savings for all parties
+in the supply chain, with better document checks for compliance and validity,
+providing assurance to banks' customers and their trading partners.</p>
+<p></p>
 <blockquote>
 <p>Learn more on &lt;legality guide&gt;</p>
 <p></p>
@@ -87,7 +93,17 @@ trade finance gap</div>
 </div>
 <p></p>
 <h3>Use Case</h3>
-<p>....</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trade finance service</p>
+</li>
+<li>
+<p>Documentary collection service</p>
+</li>
+<li>
+<p>Customers' onboarding</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <blockquote>
