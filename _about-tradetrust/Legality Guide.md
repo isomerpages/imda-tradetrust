@@ -21,6 +21,9 @@ jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
+<p>Some jurisdictions including Singapore, the Kingdom of Great Britain and
+Northern Ireland, New York, Delaware and the Abu Dhabi Global Markets in
+the United Arab Emirates are MLETR- compliant.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
 Guide.</p>
@@ -45,6 +48,18 @@ the UK and the US</p>
 </p>
 </blockquote>
 <p></p>
+<h3><strong>Model Law on Electronic Transferable Records</strong></h3>
+<blockquote>
+<p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
+published the Model Law on Electronic Transferable Records (MLETR). This
+law allows the legal use of electronic transferable records (ETRs) within
+countries and across borders.&nbsp;&nbsp;</p>
+</blockquote>
+<p>Look up for the list of countries and territories which are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
+<p>Promoting the adoption of TradeTrust, would allow such electronic transferable
+records to be similarly recognised across the borders – provides greater
+certainty to businesses and removing one barrier to end-to-end digital
+trade.</p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
 <p>&nbsp;In March 2021, the Electronic Transactions Act (ETA) was amended
 to align Singapore’s legal and regulatory infrastructure with international
@@ -62,18 +77,5 @@ govern under the Singapore’s legal system, are legally valid.</p>
 greatly benefit you by improving the speed and security of your transactions,
 allowing you to reuse data, and automating certain transactions. This makes
 trading more efficient and convenient for you.</p>
-<h3><strong>Model Law on Electronic Transferable Records</strong></h3>
-<blockquote>
-<p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
-published the Model Law on Electronic Transferable Records (MLETR). This
-law allows the legal use of electronic transferable records (ETRs) within
-countries and across borders.&nbsp;&nbsp;</p>
-</blockquote>
-<p>Countries and territories, including Singapore, the Kingdom of Great Britain
-and Northern Ireland, New York, Delaware, Bahrain, Papua New Guinea, Belize,
-Kiribati, Paraguay and the Abu Dhabi Global Markets in the United Arab
-Emirates are MLETR- compliant.&nbsp;</p>
-<p>Promoting the adoption of TradeTrust, would allow such electronic transferable
-records to be similarly recognised across the borders – provides greater
-certainty to businesses and removing one barrier to end-to-end digital
-trade.</p>
+<h3></h3>
+<p></p>
