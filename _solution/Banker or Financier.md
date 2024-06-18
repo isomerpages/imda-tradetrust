@@ -23,10 +23,6 @@ cost savings for all parties in the supply chain, offering improved document
 checks for compliance and validity, thereby providing assurance to banks'
 customers and their trading partners.</p>
 <p></p>
-<blockquote>
-<p>Learn more on &lt;legality guide&gt;</p>
-<p></p>
-</blockquote>
 </li>
 <li>
 <p><strong>Mitigate risk &amp; Compliance Checks</strong>
@@ -43,6 +39,9 @@ their security interests, as immutable records of ownership are maintained
 on a blockchain, represented by an endorsement chain that also serves as
 an audit trail.</p>
 <p></p>
+<blockquote>
+<p>Learn more on &lt;legality guide&gt;</p>
+</blockquote>
 <p></p>
 </li>
 <li>
