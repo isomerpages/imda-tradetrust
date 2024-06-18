@@ -29,13 +29,20 @@ providing assurance to banks' customers and their trading partners.</p>
 </blockquote>
 </li>
 <li>
-<p><strong>Inefficient processes lead to greater risk</strong>
+<p><strong>Mitigate risk &amp; Compliance Checks</strong>
 </p>
-<p>Banks and financiers could converge physical, financial and document chains.
-This means making automation of key processes possible like automating
-validation of documentations, payments and release of funds when conditions
-are met. Identify and authenticity verification makes customer onboarding
-easy and safer.</p>
+<p>Trade finance banks often rely on bills of lading (BLs) as security for
+the transactions they finance. In the event of cargo loss and customer
+insolvency, the bank's security could be significantly compromised if the
+BL does not provide rights of suit against a carrier for loss in transit
+or failure to properly care for the cargo.</p>
+<p>TradeTrust-enabled trade documents are supported by statutory laws aligned
+with UNCITRAL’s Model Law on Electronic Transferable Records (MLETR). The
+use of TradeTrust-enabled eBLs could offer greater assurance to banks for
+their security interests, as immutable records of ownership are maintained
+on a blockchain, represented by an endorsement chain that also serves as
+an audit trail.</p>
+<p></p>
 <p></p>
 </li>
 <li>
