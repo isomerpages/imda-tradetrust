@@ -17,7 +17,10 @@ TradeTrust assures all trade players of the authenticity and provenance
 of a document, irrespective of how a party receives a document or at which
 stage of the supply chain a party receives it. A party can be the first,
 third, or tenth party in the supply chain and still be assured of authenticity
-and provenance. See a sample of TradeTrust-enabled document:</p>
+and provenance.</p>
+<p></p>
+<p></p>
+<p>See a sample of TradeTrust-enabled document:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
 </div>
