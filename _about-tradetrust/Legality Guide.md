@@ -48,7 +48,7 @@ the UK and the US</p>
 <p></p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
-published the Model Law on Electronic Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>). <strong>This law allows the legal use of electronic transferable records (ETRs) within countries and across borders.&nbsp;&nbsp;</strong>
+published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law allows the legal use of electronic transferable records (ETRs) within countries and across borders.&nbsp;&nbsp;</strong>
 </p>
 <p>Look up for the list of countries and territories which are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
 <p>Promoting the adoption of TradeTrust, would allow such electronic transferable
@@ -57,11 +57,11 @@ certainty to businesses and removing one barrier to end-to-end digital
 trade.</p>
 <p></p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
-<p>&nbsp;In March 2021, the Electronic Transactions Act (ETA) was amended
-to align Singapore’s legal and regulatory infrastructure with international
-trade law and the latest technological advancements. The amendment adopted
-the Model Law on Electronic Transferable Records (MLETR) published by the
-United Nations Commission on International Trade Law.</p>
+<p>&nbsp;In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
+was amended to align Singapore’s legal and regulatory infrastructure with
+international trade law and the latest technological advancements. The
+amendment adopted the Model Law on Electronic Transferable Records (MLETR)
+published by the United Nations Commission on International Trade Law.</p>
 <p>This allows Singapore’s jurisdiction to legally recognise Electronic Transferable
 Records as functional equivalents to their paper versions.</p>
 <blockquote>
