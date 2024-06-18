@@ -104,7 +104,7 @@ trade finance gap</div>
 <p>Trade finance service</p>
 </li>
 <li>
-<p>Documentary collection service</p>
+<p>Documentary collection and advising service</p>
 </li>
 <li>
 <p>Customers' onboarding made easy and safer</p>
