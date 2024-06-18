@@ -47,22 +47,16 @@ the UK and the US</p>
 </blockquote>
 <p></p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
-<blockquote>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
-published the Model Law on Electronic Transferable Records (MLETR). This
-law allows the legal use of electronic transferable records (ETRs) within
-countries and across borders.&nbsp;&nbsp;</p>
-</blockquote>
+published the Model Law on Electronic Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
+This law allows the legal use of electronic transferable records (ETRs)
+within countries and across borders.&nbsp;&nbsp;</p>
 <p>Look up for the list of countries and territories which are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
 <p>Promoting the adoption of TradeTrust, would allow such electronic transferable
 records to be similarly recognised across the borders – provides greater
 certainty to businesses and removing one barrier to end-to-end digital
 trade.</p>
 <p></p>
-<blockquote>
-<p>Learn more about <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>
-</p>
-</blockquote>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
 <p>&nbsp;In March 2021, the Electronic Transactions Act (ETA) was amended
 to align Singapore’s legal and regulatory infrastructure with international
