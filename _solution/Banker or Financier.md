@@ -11,17 +11,17 @@ description: ""
 </p>
 <p>Trade finance activities are notoriously paper-heavy.</p>
 <p></p>
-<p>Using TradeTrust to digitalise key trade documents streamlines the trade
-process and reduces the time required for document processing and verification.
-This can result in quicker trade transactions and reduced turnaround times
-for trade finance activities, particularly in complex transactions involving
-multiple banks, insurers, and corporate customers, as TradeTrust supports
-interoperability of electronic trade documents across various platforms
-and systems.</p>
-<p></p>
-<p>Thereby providing overall convenience and cost savings for all parties
-in the supply chain, with better document checks for compliance and validity,
-providing assurance to banks' customers and their trading partners.</p>
+<p>Banks and financiers can integrate physical, financial, and document chains,
+enabling the automation of key processes such as document validation, payments,
+and fund release upon meeting conditions. This can lead to faster trade
+transactions and reduced turnaround times for trade finance activities,
+especially in complex transactions involving multiple banks, insurers,
+and corporate customers.</p>
+<p>As TradeTrust supports interoperability of electronic trade documents
+across various platforms and systems, it provides overall convenience and
+cost savings for all parties in the supply chain, offering improved document
+checks for compliance and validity, thereby providing assurance to banks'
+customers and their trading partners.</p>
 <p></p>
 <blockquote>
 <p>Learn more on &lt;legality guide&gt;</p>
@@ -108,7 +108,7 @@ trade finance gap</div>
 <p>Documentary collection service</p>
 </li>
 <li>
-<p>Customers' onboarding</p>
+<p>Customers' onboarding made easy and safer</p>
 </li>
 </ul>
 <p></p>
