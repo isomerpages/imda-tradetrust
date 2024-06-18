@@ -53,7 +53,8 @@ liquidity and capital to businesses.</p>
 Lading and warehouse receipts, it becomes possible to trade and finance
 smaller fractions of assets. This revolutionizes the investment process,
 opening up new opportunities in both the supply and demand sides of the
-market.</p>
+market. This improves access to working capital financing for exporters/importers
+and fills the trade finance gap.</p>
 <p></p>
 </li>
 </ol>
