@@ -108,7 +108,7 @@ trade finance gap</div>
 <p>Documentary collection and advising service</p>
 </li>
 <li>
-<p>Customers' onboarding made easy and safer</p>
+<p>Customers' onboarding</p>
 </li>
 </ul>
 <p></p>
