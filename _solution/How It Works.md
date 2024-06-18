@@ -12,13 +12,21 @@ Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts that entitle the holder to claim the performance of an obligation
 or ownership</p>
 <p>These TradeTrust-enabled electronic documents are saved as TradeTrust
-(.tt) files and easily transmitted to stakeholders across the supply chain.
-TradeTrust assures all trade players of the authenticity and provenance
+(.tt) files that can be easily transmitted to stakeholders across the supply
+chain.</p>
+<p>TradeTrust utilizes Blockchain or Distributed Ledger Technology to :</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>demonstrate provenance and integrity, essential for document legitimacy</p>
+</li>
+<li>
+<p>create Non-Fungible Tokens (NFTs) to represent title ownership and enable
+transfers from one party to the next</p>
+</li>
+</ul>
+<p>All trading parties can be assured of the authenticity and provenance
 of a document, irrespective of how a party receives a document or at which
-stage of the supply chain a party receives it. A party can be the first,
-third, or tenth party in the supply chain and still be assured of authenticity
-and provenance.</p>
-<p></p>
+stage of the supply chain a party receives it.</p>
 <p></p>
 <p>See a sample of TradeTrust-enabled document:</p>
 <div class="isomer-image-wrapper">
