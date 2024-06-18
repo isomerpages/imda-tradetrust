@@ -7,7 +7,7 @@ description: ""
 <h3>How TradeTrust can help in Financial Services</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Trade Finance Facilitation</strong>
+<p><strong>Trade Finance Activities Optimisation</strong>
 </p>
 <p>Trade finance activities are notoriously paper-heavy.</p>
 <p></p>
