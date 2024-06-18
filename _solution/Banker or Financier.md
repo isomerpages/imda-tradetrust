@@ -37,10 +37,11 @@ easy and safer.</p>
 </p>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
-<p>By tokenizing real-world assets through the use of Bills of Lading and
-warehouse receipts, it becomes possible to trade and finance smaller fractions
-of assets. This revolutionizes the investment process, opening up new opportunities
-in both the supply and demand sides of the market.</p>
+<p>By tokenizing real-world assets for example through the use of Bills of
+Lading and warehouse receipts, it becomes possible to trade and finance
+smaller fractions of assets. This revolutionizes the investment process,
+opening up new opportunities in both the supply and demand sides of the
+market.</p>
 <p></p>
 </li>
 </ol>
