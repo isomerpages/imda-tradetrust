@@ -11,7 +11,7 @@ description: ""
 <li>
 <p><strong>Cargo Shipments</strong>
 </p>
-<p>Ships are estimated to transport approximately 80 percent of goods.</p>
+<p>Ships are estimated to transport around 80 percent of goods.</p>
 <p></p>
 <p>By digitizing bills of lading with TradeTrust, as an issuer, you can enable
 system interoperability and platform-agnostic, seamless data exchange with
