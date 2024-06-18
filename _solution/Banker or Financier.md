@@ -49,12 +49,12 @@ an audit trail.</p>
 </p>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
-<p>By tokenizing real-world assets for example through the use of Bills of
-Lading and warehouse receipts, it becomes possible to trade and finance
-smaller fractions of assets. This revolutionizes the investment process,
-opening up new opportunities in both the supply and demand sides of the
-market. This improves access to working capital financing for exporters/importers
-and fills the trade finance gap.</p>
+<p>By tokenizing real-world assets for example through the use of bills of
+lading, account receivables and warehouse receipts, it becomes possible
+to trade and finance smaller fractions of assets. This revolutionizes the
+investment process, opening up new opportunities in both the supply and
+demand sides of the market. This improves access to working capital financing
+for exporters/importers and fills the trade finance gap.</p>
 <p></p>
 </li>
 </ol>
