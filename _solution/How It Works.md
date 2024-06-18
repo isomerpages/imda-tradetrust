@@ -26,7 +26,9 @@ transfers from one party to the next</p>
 </ul>
 <p>All trading parties can be assured of the authenticity and provenance
 of a document, irrespective of how a party receives a document or at which
-stage of the supply chain a party receives it.</p>
+stage of the supply chain a party receives it. And only one rightful party
+can possess and claim ownership of the transferable document at any point
+in time.</p>
 <p></p>
 <p>See a sample of TradeTrust-enabled document:</p>
 <div class="isomer-image-wrapper">
