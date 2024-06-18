@@ -21,9 +21,8 @@ jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</
 like China to Singapore, as long as the TradeTrust-issued electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
-<p>Some jurisdictions including Singapore, the Kingdom of Great Britain and
-Northern Ireland, New York, Delaware and the Abu Dhabi Global Markets in
-the United Arab Emirates are MLETR- compliant.</p>
+<p>Some jurisdictions including <strong>Singapore, the Kingdom of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi Global Markets in the United Arab Emirates</strong> are
+MLETR- compliant.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
 Guide.</p>
@@ -40,7 +39,6 @@ the UK and the US</p>
 <li>
 <p>Advice on how TradeTrust eBLs work between MLETR and non-MLETR countries/territories</p>
 <p></p>
-<p>&lt;insert picture &gt;</p>
 </li>
 </ul>
 <blockquote>
@@ -51,9 +49,9 @@ the UK and the US</p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <blockquote>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
-published the Model Law on Electronic Transferable Records (MLETR). This
-law allows the legal use of electronic transferable records (ETRs) within
-countries and across borders.&nbsp;&nbsp;</p>
+published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR).
+This law allows the legal use of electronic transferable records (ETRs)
+within countries and across borders.&nbsp;&nbsp;</p>
 </blockquote>
 <p>Look up for the list of countries and territories which are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
 <p>Promoting the adoption of TradeTrust, would allow such electronic transferable
