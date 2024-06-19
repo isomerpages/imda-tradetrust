@@ -11,13 +11,11 @@ description: ""
 <li>
 <p><strong>Better Cash Flow</strong>
 </p>
-<p>Secure financing from banks or financiers using collateral security over
-electronic Bills of Lading(eBL). <strong>Fractionalised</strong> eBL makes
-financing with smaller fractions of assets through financial platforms
-possible.</p>
-<p>Your ACRA's Business Profiles and Business Certificates, which utilize
-the same technology as TradeTrust, allow for instant verification of authenticity,
-expediting the onboarding process by banks in Singapore.</p>
+<p>Using TradeTrust-enabled electronic Bills of Lading (eBL) may help to
+improve cash conversion cycle for businesses as it reduces time lag due
+to delays in paper document delivery. Secure financing from banks or financiers
+using collateral security over Fractionalised eBL makes financing with
+smaller fractions of assets through financial platforms possible.</p>
 <p></p>
 <p></p>
 </li>
