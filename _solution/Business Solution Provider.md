@@ -86,7 +86,7 @@ are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
 &lt;TradeTrust-enabled BSP&gt;.</p>
 <p></p>
-<h3>Use Cases </h3>
+<h3>Use Cases</h3>
 <p>TradeTrust-enabled Business Service Providers (BSPs) utilize TradeTrust
 for new revenue and value-producing opportunities such as these real-live
 use cases:</p>
