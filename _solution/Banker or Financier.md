@@ -106,16 +106,18 @@ trade finance gap</div>
 <p>Trade finance service</p>
 </li>
 <li>
-<p>Customers' onboarding</p>
-</li>
-<li>
 <p>Documentary collection and advising service</p>
 </li>
 <li>
 <p>Enhance the credibility of documents issued by banks</p>
 </li>
+<li>
+<p>Customers' onboarding, for example, the ACRA's Business Profiles and Business
+Certificates received from customers, which utilize the same technology
+as TradeTrust, allow for instant verification of authenticity, expediting
+the onboarding process by banks in Singapore.</p>
+</li>
 </ul>
-<p></p>
 <p></p>
 <blockquote>
 <p>Learn more about &lt;how it works&gt;.</p>
