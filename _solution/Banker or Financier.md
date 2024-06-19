@@ -112,7 +112,7 @@ trade finance gap</div>
 <p>Customers' onboarding</p>
 </li>
 <li>
-<p>Issuance of credible documents like banks' statement</p>
+<p>Enhance the credibility of documents issued by banks</p>
 </li>
 </ul>
 <p></p>
