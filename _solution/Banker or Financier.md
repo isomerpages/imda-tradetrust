@@ -111,6 +111,9 @@ trade finance gap</div>
 <li>
 <p>Customers' onboarding</p>
 </li>
+<li>
+<p>Issuance of credible documents like banks' statement</p>
+</li>
 </ul>
 <p></p>
 <p></p>
