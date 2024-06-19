@@ -52,8 +52,8 @@ instant verification of documents' source and authenticity.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">More Capital Liquidity</div>
-<div class="isomer-card-description">Conduct more trades for profit with access to more working capital due
-to expedited customer on-boarding from banks and financiers</div>
+<div class="isomer-card-description">Conduct more trades for profit with access to more working capital from
+banks and alternative financiers with fractionalized financing</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -82,8 +82,6 @@ charges of holding cargo due to delay in documentation</div>
 </div>
 </div>
 <p></p>
-<h3>Use Case</h3>
-<p>....</p>
 <p></p>
 <blockquote>
 <p>Learn more about &lt;how it works&gt; or try &lt;Verify Documents&gt;.</p>
