@@ -82,8 +82,8 @@ for international trade operations</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">De-Risk Trade Financing</div>
-<div class="isomer-card-description">Identify and authenticity verifications reduces risk of fraud and human
-errors</div>
+<div class="isomer-card-description">Traceability of ownership, identity and authenticity verifications reduces
+human errors and risk of fraud like double financing</div>
 </div>
 </div>
 <div class="isomer-card">
