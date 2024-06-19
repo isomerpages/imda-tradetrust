@@ -304,7 +304,7 @@ time savings in the BL documentation process from an average of <strong>six to t
 of the total trade finance lead time from <strong>25-30 working days</strong> when
 using paper-based documentation <strong>to only 10 working days </strong>with
 TradeTrust-enabled documents. All parties benefited from efficiency gains, <strong>elimination of manual processing and errors</strong>,
-and a<strong> reduction in the risk of fraud</strong>
+and a<strong> reduction in the risk of fraud.</strong>
 </p>
 <p></p>
 <blockquote>
