@@ -300,6 +300,13 @@ time savings in the BL documentation process from an average of <strong>six to t
 </p>
 <p>According to <strong>COFCO International</strong> "<em>It is estimated that by promoting digital transformation of their shipping and 2 export processes, the </em><strong><em>document-processing efficiency </em></strong><em>of COFCO Industrial Food can be </em><strong><em>improved by over 80%</em></strong><em>, and the b</em><strong><em>usiness operation cost</em></strong><em> can be </em><strong><em>reduced by over 30%</em></strong><em>.</em>"</p>
 <p></p>
+<p>The <strong>Singapore and India trial </strong>resulted in a reduction
+of the total trade finance lead time from <strong>25-30 working days</strong> when
+using paper-based documentation <strong>to only 10 working days </strong>with
+TradeTrust-enabled documents. All parties benefited from efficiency gains, <strong>elimination of manual processing and errors</strong>,
+and a<strong> reduction in the risk of fraud</strong>
+</p>
+<p></p>
 <blockquote>
 <p>&lt;Join us&gt; for proof of concept and adoption.</p>
 </blockquote>
