@@ -86,9 +86,9 @@ are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
 &lt;TradeTrust-enabled BSP&gt;.</p>
 <p></p>
-<h3>Use Cases</h3>
+<h3>Possible Use Cases</h3>
 <p>TradeTrust-enabled Business Service Providers (BSPs) utilize TradeTrust
-for new revenue and value-producing opportunities such as...</p>
+for new revenue and value-producing opportunities such as:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>issuance of certificates of authenticity for consumer goods</p>
@@ -96,8 +96,8 @@ for new revenue and value-producing opportunities such as...</p>
 <li>
 <p>electronic documentation processing including purchase order, invoice,
 bill of lading, certificate of origin, health cert, datalogger report,
-Electronic Bunker Delivery Note, Packing List, Certificate of Origin (COO),
-Invoices, Delivery Order (DO) and Airway Bill (AWB)</p>
+electronic bunker delivery note, packing list, certificate of origin, invoices,
+delivery order and airway bill</p>
 </li>
 <li>
 <p>creation of NFTs for visual art items that can be shared, learn, trade
