@@ -13,10 +13,9 @@ description: ""
 </p>
 <p>Using TradeTrust-enabled electronic Bills of Lading (eBL) may help to
 improve cash conversion cycle for businesses as it reduces time lag due
-to delays in paper document delivery. Secure financing from banks or financiers
-using collateral security over Fractionalised eBL makes financing with
-smaller fractions of assets through financial platforms possible.</p>
-<p></p>
+to delays in paper document delivery. Tokenizing Real-World Assets (RWA)
+for electronic Bills of Lading (eBL) creates the possibility of fractionalized
+financing with multiple financiers for the same eBL.</p>
 <p></p>
 </li>
 <li>
