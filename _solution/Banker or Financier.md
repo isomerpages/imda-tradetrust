@@ -106,10 +106,10 @@ trade finance gap</div>
 <p>Trade finance service</p>
 </li>
 <li>
-<p>Documentary collection and advising service</p>
+<p>Customers' onboarding</p>
 </li>
 <li>
-<p>Customers' onboarding</p>
+<p>Documentary collection and advising service</p>
 </li>
 <li>
 <p>Enhance the credibility of documents issued by banks</p>
