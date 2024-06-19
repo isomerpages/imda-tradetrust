@@ -37,7 +37,8 @@ with UNCITRAL’s Model Law on Electronic Transferable Records (MLETR). The
 use of TradeTrust-enabled eBLs could offer greater assurance to banks for
 their security interests, as immutable records of ownership are maintained
 on a blockchain, represented by an endorsement chain that also serves as
-an audit trail.</p>
+an audit trail. As you can trace the ownership and holdership of documents,
+this helps to prevent double or multiple financing.</p>
 <p></p>
 <blockquote>
 <p>Learn more on &lt;legality guide&gt;</p>
