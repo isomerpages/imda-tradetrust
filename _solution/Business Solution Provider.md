@@ -23,9 +23,16 @@ a party receives it.</p>
 <br>Partner with anyone, regardless of technology to drive efficiency and
 lower cost of business.</p>
 <p></p>
-<p>TradeTrust is system, semantic/data and protocols agnostic. You can choose
-from industry data standards like DCSA’s and BIMCO’s and any existing transmission
-protocol like email, FTP.</p>
+<p>TradeTrust is system, semantic/data and transmission agnostic.</p>
+<p>• System agnostic: Almost any system can integrate the TT software components
+to acquire the functionalities of TT.</p>
+<p>• Semantic/data format agnostic: You can freely choose from data format
+standards such as the Key Trade Documents and Data Elements (KTDDE) specifications
+by ICC DSI and/or BL data format standards from DCS and BIMCO and/or any
+data format agreed upon by you and your business partners.</p>
+<p>• Transmission agnostic: You can freely choose to use any existing transmission
+protocol like email, FTP etc. to transport the TradeTrust file from party
+to party.</p>
 <p></p>
 </li>
 <li>
