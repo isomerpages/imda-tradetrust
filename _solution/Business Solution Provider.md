@@ -6,14 +6,16 @@ description: ""
 ---
 <h3>How TradeTrust can help in Technology Services</h3>
 <p></p>
-<p><strong>TradeTrust is not a platform, is not a competitor to existing platforms</strong>.
-Instead, TradeTrust provides a solution to the current lack of technical
-interoperability in the market by enabling any party to digitise any document
-and issue its own TradeTrust-enabled Electronic Transferable Records (ETRs)
-outside of the confines of any contract-based platform.</p>
-<p>It functions as middleware that can be plugged into different blockchains.
-This means you can ensure authenticity, verify the source, and validate
-the legal transfer of trade obligations at the application layer.</p>
+<p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong> Instead,
+TradeTrust provides a solution to the current lack of technical interoperability
+in the market by enabling any party to digitise any document and issue
+its own TradeTrust-enabled Electronic Transferable Records (ETRs) outside
+of the confines of any contract-based platform.</p>
+<p>It functions as middleware (an adaptor) which can be plugged into existing
+platforms. This ensures authenticity, verifies the source, and validates
+the legal transfer of trade obligations at the application layer, regardless
+of how a party receives a document or at which stage of the supply chain
+a party receives it.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,7 +34,7 @@ protocol like email, FTP.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>removes the need for expensive data exchange infrastructure to be put
-in place in between you and exchanging parties.</p>
+in place in between you and exchanging parties</p>
 </li>
 <li>
 <p>removes tight coupling and inter-dependencies between exchanging systems.
@@ -41,7 +43,7 @@ to upgrade and make changes to the IT systems at your own pace according
 to your own priority.</p>
 </li>
 <li>
-<p>Removes the need that you and your trading community to sign up to one
+<p>removes the need that you and your trading community to sign up to one
 single platform.</p>
 </li>
 </ul>
