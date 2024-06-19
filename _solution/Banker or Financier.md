@@ -103,7 +103,7 @@ trade finance gap</div>
 <h3>Possible Use Case</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Trade finance service</p>
+<p>Pre-shipment/Post-Shipment Trade finance service</p>
 </li>
 <li>
 <p>Documentary collection and advising service</p>
