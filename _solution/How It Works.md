@@ -35,10 +35,11 @@ supply chain a party receives it. And only one rightful party can possess
 and claim ownership of the transferable document at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>See a sample of TradeTrust-enabled document</summary>
+<summary>TradeTrust-enabled document sample</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust enabled document sample" src="/images/Sample_TT_enabled_Document.png">
 </div>
 </div>
 </details>
