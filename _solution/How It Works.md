@@ -11,8 +11,9 @@ of origin and packing lists; and
 Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
 receipts that entitle the holder to claim the performance of an obligation
 or ownership</p>
-<p>These TradeTrust-enabled electronic documents are saved as TradeTrust
-(.tt) files that can be easily transmitted to stakeholders across the supply
+<p>These TradeTrust-enabled electronic documents will have the functional
+equivalent of the paper-based version and are saved as TradeTrust (.tt)
+files, which can be easily transmitted to stakeholders across the supply
 chain.</p>
 <p>TradeTrust utilizes Blockchain or Distributed Ledger Technology to :</p>
 <ul data-tight="true" class="tight">
@@ -23,17 +24,26 @@ chain.</p>
 <p>create Non-Fungible Tokens (NFTs) to represent title ownership and enable
 transfers from one party to the next</p>
 </li>
+<li>
+<p>ensure singularity meaning unique original copy of electronic document</p>
+</li>
 </ul>
 <p>All trading parties can be assured of the authenticity and provenance
 of a document, irrespective of how a party receives a document or at which
 stage of the supply chain a party receives it. And only one rightful party
 can possess and claim ownership of the transferable document at any point
 in time.</p>
-<p></p>
-<p>See a sample of TradeTrust-enabled document:</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>See a sample of TradeTrust-enabled document</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TradeTrust_Doc_Sample.png">
 </div>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the Certificate
