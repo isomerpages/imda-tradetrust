@@ -31,20 +31,21 @@ transfers from one party to the next</p>
 <p>When you or your trading parties open the .tt file in any TradeTrust-enabled
 platforms, all can be assured of the authenticity and provenance of a document,
 irrespective of how a party receives a document or at which stage of the
-supply chain a party receives it. And only one rightful party can possess
-and claim ownership of the transferable document at any point in time.</p>
+supply chain a party receives it. Exclusive control is ensured as only
+one rightful party can possess and claim ownership of the transferable
+document at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>TradeTrust-enabled document sample</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust enabled document sample" src="/images/Sample_TT_enabled_Document.png">
 </div>
+<p>Try it at</p>
+<p></p>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the Certificate
