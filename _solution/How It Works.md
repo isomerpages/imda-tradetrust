@@ -28,11 +28,11 @@ transfers from one party to the next</p>
 <p>ensure singularity meaning unique original copy of electronic document</p>
 </li>
 </ul>
-<p>All trading parties can be assured of the authenticity and provenance
-of a document, irrespective of how a party receives a document or at which
-stage of the supply chain a party receives it. And only one rightful party
-can possess and claim ownership of the transferable document at any point
-in time.</p>
+<p>When you open the .tt file in any TradeTrust-enabled platforms, all trading
+parties can be assured of the authenticity and provenance of a document,
+irrespective of how a party receives a document or at which stage of the
+supply chain a party receives it. And only one rightful party can possess
+and claim ownership of the transferable document at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>See a sample of TradeTrust-enabled document</summary>
