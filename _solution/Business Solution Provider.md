@@ -51,7 +51,8 @@ to your own priority.</p>
 </li>
 <li>
 <p>removes the need that you and your trading community to sign up to one
-single platform.</p>
+single platform, TradeTrust enabled documents are portable across different
+TradeTrust ready platforms.</p>
 </li>
 </ul>
 </li>
