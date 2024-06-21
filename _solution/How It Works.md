@@ -28,8 +28,8 @@ transfers from one party to the next</p>
 <p>ensure singularity meaning unique original copy of electronic document</p>
 </li>
 </ul>
-<p>When you open the .tt file in any TradeTrust-enabled platforms, all trading
-parties can be assured of the authenticity and provenance of a document,
+<p>When you or your trading parties open the .tt file in any TradeTrust-enabled
+platforms, all can be assured of the authenticity and provenance of a document,
 irrespective of how a party receives a document or at which stage of the
 supply chain a party receives it. And only one rightful party can possess
 and claim ownership of the transferable document at any point in time.</p>
@@ -150,5 +150,4 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 </details>
 </div>
 <p></p>
-<p>Wonder how to get started, contact us!</p>
-<p></p>
+<p>Wonder how to get started, contact u</p>
