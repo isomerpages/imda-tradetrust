@@ -41,7 +41,8 @@ document at any point in time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust enabled document sample" src="/images/Sample_TT_enabled_Document.png">
 </div>
-<p>Try it at</p>
+<p></p>
+<p>Try &lt;Verify Documents&gt;.</p>
 <p></p>
 </div>
 </details>
