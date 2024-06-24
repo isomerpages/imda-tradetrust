@@ -24,15 +24,12 @@ checks.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Trade Compliance</strong>
+<p><strong>Downstream Supply Chain Operations</strong>
 </p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers.</p>
 <p></p>
-<p>TradeTrust-enabled Certificates of Origin issued by the exporting country
-allow for instant verification by border control of the importing country,
-simply by scanning the embedded QR barcode, thereby expediting customs
-clearance.</p>
+<p>And for trade financing</p>
 <p></p>
 </li>
 <li>
