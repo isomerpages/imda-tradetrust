@@ -95,23 +95,18 @@ manual processing and courier costs by going digital.</p>
 <summary><strong>Why is public blockchains used?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>As TradeTrust is designed to facilitate trusted digital document exchanges
-used in cross-border trade and logistics processes, our target audiences
-therefore involve many different parties across different geographies.
-Blockchain or Distributed Ledger Technology is used as it can demonstrate
-provenance, which is required for the legitimacy of documents such as Bills
-of Lading. One of UNCITRAL MLETR’s requirements for electronic transferable
-records is to ensure singularity of the record. TradeTrust uses Non-Fungible
-Tokens (NFTs) to satisfy this requirement when dealing with Transferable
-documents and Blockchain is used to record the NFT transactions.</p>
+<p>TradeTrust facilitates trusted digital document exchanges for cross-border
+trade and logistics, involving various parties across different geographies.
+It utilizes Blockchain or Distributed Ledger Technology to demonstrate
+provenance, essential for the legitimacy of documents such as Bills of
+Lading. Non-Fungible Tokens (NFTs) are used to ensure singularity of the
+record for transferable documents, with Blockchain recording the NFT transactions.</p>
 <p>TradeTrust relies on public blockchain technology like Ethereum or Polygon
 to electronically endorse and transfer the ownership of a trade financing
-document amongst the stakeholders along a trade flow. TradeTrust’s use
-of public blockchain was a deliberate choice as in a global setting, there
-should not be a need for a central authority or body to govern the use
-of a network and gatekeep participation. Public blockchains also allow
-for an open and interoperable system that enables all international parties
-to participate.</p>
+document among stakeholders along a trade flow. This choice was deliberate
+to eliminate the need for a central authority or body to govern the network
+and gatekeep participation, allowing for an open and interoperable system
+for all international parties to participate seamlessly.</p>
 <p></p>
 </div>
 </details>
