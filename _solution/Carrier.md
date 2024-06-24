@@ -38,7 +38,7 @@ for downstream supply chain operations.</p>
 <li>
 <p><strong>Transaction End-to-end Traceability</strong>
 </p>
-<p>Through endorsement chain, holdership and ownership of Bill of Lading
+<p>Through endorsement chain, holdership and ownership of bill of lading
 can be traced real-time, ensuring release of goods to the right party.</p>
 <p></p>
 </li>
