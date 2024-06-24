@@ -43,7 +43,8 @@ meeting standards and legal requirements.</p>
 system that you are familiar with, you can integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
 of TradeTrust ready &lt;partners&gt;.</p>
-<p>To verify documents received, only internet access is required.</p>
+<p>And to verify documents received, only an internet access is required.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
