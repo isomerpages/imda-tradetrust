@@ -29,7 +29,7 @@ checks.</p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers.</p>
 <p></p>
-<p>And for trade financing between financial institutions.</p>
+<p>And for trade financing between financial institutions and Exporters/Importers.</p>
 <p></p>
 </li>
 <li>
