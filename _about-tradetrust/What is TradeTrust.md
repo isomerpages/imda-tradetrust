@@ -71,8 +71,11 @@ conducted by a third-party specialist, Ernst &amp; Young.</p>
 <p>TradeTrust is free for all to use, and anyone can implement it using the
 set of pre-built software components.</p>
 <p></p>
-<p>Depending on your role in the supply chain, transaction costs such as
-blockchain gas fees may apply. Below are the estimated fees (USD) computed
+<p>Other costs may include outsource fee for the integration of TradeTrust
+into your IT system and/or subscription service from TradeTrust ready partner</p>
+<p></p>
+<p>And depending on your role in the supply chain, transaction costs such
+as blockchain gas fees may apply. Below are the estimated fees (USD) computed
 as at 2 Feb 2023 for a typical series of transactions from the issuance
 to surrender of electronic bill of lading:</p>
 <ul data-tight="true" class="tight">
@@ -83,9 +86,6 @@ to surrender of electronic bill of lading:</p>
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 </ul>
-<p></p>
-<p>Other costs may include outsource fee for the integration of TradeTrust
-into your IT system and/or subscription service from TradeTrust ready partner.</p>
 <p></p>
 <p>Reach out to us to learn more about the costs and what you can save on
 manual processing and courier costs by going digital.</p>
