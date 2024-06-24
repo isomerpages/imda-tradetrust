@@ -82,8 +82,7 @@ charges by customers due to delay in documentation</div>
 </div>
 </div>
 </div>
-<h3>Use Case</h3>
-<p>....</p>
+<h3></h3>
 <p></p>
 <blockquote>
 <p>Try &lt;Create Documents&gt; and &lt;Verify Documents&gt;. Learn more
