@@ -17,11 +17,11 @@ documents and Blockchain is used to record the NFT transactions.</p>
 <p>TradeTrust relies on public blockchain technology (Ethereum, Polygon,
 XDC, Hedera and Stability) to electronically endorse and transfer the ownership
 of a trade financing document amongst the stakeholders along a trade flow.
-TradeTrust’s use of public blockchain was a deliberate choice as in a global
-setting, there should not be a need for a central authority or body to
-govern the use of a network and gatekeep participation. Public blockchains
-also allow for an open and interoperable system that enables all international
-parties to participate.</p>
+TradeTrust deliberately chose to use public blockchain, as in a global
+setting, there should be no need for a central authority to govern the
+network and gatekeep participation. Public blockchains also allow for an
+open and interoperable system that enables all international parties to
+participate.</p>
 <p>TradeTrust caters to the following blockchain networks.</p>
 <ol data-tight="true" class="tight">
 <li>
