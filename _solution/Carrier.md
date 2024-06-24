@@ -30,9 +30,8 @@ checks.</p>
 of key processes such as document filing and validation digitally.</p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers
-for downstream supply chain operations.</p>
-<p></p>
-<p>And for trade financing between financial institutions and Exporters/Importers.</p>
+for downstream supply chain operations. And for trade financing between
+financial institutions and Exporters/Importers.</p>
 <p></p>
 </li>
 <li>
