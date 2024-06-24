@@ -59,9 +59,9 @@ written into the public blockchain so as to preserves data confidentiality.
 Only the title ownership is recorded on one of the selected blockchain
 for title documents.</p>
 <p></p>
-<p>And the security and reliability of your transactions are assured, as
-TradeTrust's security assessment was comprehensively conducted by a third-party
-specialist, Ernst &amp; Young.</p>
+<p>And the security and reliability of TradeTrust is ensured through the
+VAPT of the Smart Contract Code. This security assessment was comprehensively
+conducted by a third-party specialist, Ernst &amp; Young.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -72,7 +72,18 @@ specialist, Ernst &amp; Young.</p>
 set of pre-built software components.</p>
 <p></p>
 <p>Depending on your role in the supply chain, transaction costs such as
-blockchain gas fees may apply.</p>
+blockchain gas fees may apply. Below are the estimated fees (USD) computed
+as at 2 Feb 2023 for a typical series of transactions from the issuance
+to surrender of electronic bill of lading:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Estimated Fees on Ethereum: &lt; USD $20</p>
+</li>
+<li>
+<p>Estimated Fees on Polygon: &lt; USD $0.16</p>
+</li>
+</ul>
+<p></p>
 <p>Other costs may include outsource fee for the integration of TradeTrust
 into your IT system and/or subscription service from TradeTrust ready partner.</p>
 <p></p>
