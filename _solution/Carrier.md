@@ -26,6 +26,8 @@ checks.</p>
 <li>
 <p><strong>Operational Process Optimisation</strong>
 </p>
+<p>Carrier would be able to integrate physical and document chains, enabling
+the automation of key processes such as document filing and validation.</p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers
 for downstream supply chain operations.</p>
