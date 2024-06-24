@@ -24,10 +24,11 @@ checks.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Downstream Supply Chain Operations</strong>
+<p><strong>Operational Process Optimisation</strong>
 </p>
 <p>The same electronic bills of lading can be used for trade compliance and
-cross-border cargo shipping arrangement by logistics service providers.</p>
+cross-border cargo shipping arrangement by logistics service providers
+for downstream supply chain operations.</p>
 <p></p>
 <p>And for trade financing between financial institutions and Exporters/Importers.</p>
 <p></p>
