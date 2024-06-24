@@ -14,14 +14,13 @@ of Lading. One of UNCITRAL MLETR’s requirements for electronic transferable
 records is to ensure singularity of the record. TradeTrust uses Non-Fungible
 Tokens (NFTs) to satisfy this requirement when dealing with Transferable
 documents and Blockchain is used to record the NFT transactions.</p>
-<p>TradeTrust relies on public blockchain technology (Ethereum, Polygon,
-XDC, Hedera and Stability) to electronically endorse and transfer the ownership
-of a trade financing document amongst the stakeholders along a trade flow.
-TradeTrust deliberately chose to use public blockchain, as in a global
-setting, there should be no need for a central authority to govern the
-network and gatekeep participation. Public blockchains also allow for an
-open and interoperable system that enables all international parties to
-participate.</p>
+<p>TradeTrust relies on public blockchain technology (<strong>Ethereum, Polygon, XDC, Hedera and Stability</strong>)
+to electronically endorse and transfer the ownership of a trade financing
+document amongst the stakeholders along a trade flow. TradeTrust deliberately
+chose to use public blockchain, as in a global setting, there should be
+no need for a central authority to govern the network and gatekeep participation.
+Public blockchains also allow for an open and interoperable system that
+enables all international parties to participate.</p>
 <p>TradeTrust caters to the following blockchain networks.</p>
 <ol data-tight="true" class="tight">
 <li>
