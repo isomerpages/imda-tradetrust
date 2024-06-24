@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p><strong><u>Integration Cost </u></strong>
+<p><strong><u>Integration Cost</u></strong>
 </p>
 <p>As TradeTrust is open-source, it could be downloaded for free at <a href="https://github.com/TradeTrust" rel="noopener noreferrer nofollow" target="_blank"><u>https://github.com/TradeTrust </u></a>under
 the open source licensing terms (click on Apache-2.0 license on github).</p>
