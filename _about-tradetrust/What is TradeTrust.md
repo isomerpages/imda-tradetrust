@@ -92,13 +92,30 @@ manual processing and courier costs by going digital.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Why is public blockchains used?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>As TradeTrust is designed to facilitate trusted digital document exchanges
+used in cross-border trade and logistics processes, our target audiences
+therefore involve many different parties across different geographies.
+Blockchain or Distributed Ledger Technology is used as it can demonstrate
+provenance, which is required for the legitimacy of documents such as Bills
+of Lading. One of UNCITRAL MLETR’s requirements for electronic transferable
+records is to ensure singularity of the record. TradeTrust uses Non-Fungible
+Tokens (NFTs) to satisfy this requirement when dealing with Transferable
+documents and Blockchain is used to record the NFT transactions.</p>
+<p>TradeTrust relies on public blockchain technology like Ethereum or Polygon
+to electronically endorse and transfer the ownership of a trade financing
+document amongst the stakeholders along a trade flow. TradeTrust’s use
+of public blockchain was a deliberate choice as in a global setting, there
+should not be a need for a central authority or body to govern the use
+of a network and gatekeep participation. Public blockchains also allow
+for an open and interoperable system that enables all international parties
+to participate.</p>
 <p></p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <blockquote>
 <p>Learn more about &lt;why adopt TradeTrust&gt;.
