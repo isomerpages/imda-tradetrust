@@ -15,7 +15,7 @@ records is to ensure singularity of the record. TradeTrust uses Non-Fungible
 Tokens (NFTs) to satisfy this requirement when dealing with Transferable
 documents and Blockchain is used to record the NFT transactions.</p>
 <p>TradeTrust relies on public blockchain technology (Ethereum, Polygon,
-XDC or Stability) to electronically endorse and transfer the ownership
+XDC, Hedera and Stability) to electronically endorse and transfer the ownership
 of a trade financing document amongst the stakeholders along a trade flow.
 TradeTrust’s use of public blockchain was a deliberate choice as in a global
 setting, there should not be a need for a central authority or body to
