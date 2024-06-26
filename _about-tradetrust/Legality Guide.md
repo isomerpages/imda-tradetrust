@@ -11,17 +11,17 @@ document" and "who possesses it". TradeTrust is designed to follow the
 requirements set out in the UNCITRAL Model Law on Electronic Transferable
 Records (MLETR) to address these difficulties.</p>
 <p>Instead of contractual rule book, your TradeTrust-enabled electronic documents
-will be supported by statutory law.</p>
+will be supported by statutory laws of countries that align with MLETR.</p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
 jurisdiction, it is recommended to expressly choose a governing law and
 jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</p>
 </blockquote>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
-like China to Singapore, as long as the TradeTrust-issued electronic Bill
+like China to Singapore, as long as the TradeTrust-enabled electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
-<p>Some jurisdictions including <strong>Singapore, the Kingdom of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi Global Markets in the United Arab Emirates</strong> are
+<p>Some other jurisdictions including<strong> </strong>the<strong> Kingdom of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi Global Markets in the United Arab Emirates</strong> are
 MLETR- compliant.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
