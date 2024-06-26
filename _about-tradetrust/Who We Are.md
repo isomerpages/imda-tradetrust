@@ -4,10 +4,10 @@ permalink: /about-tradetrust/who-we-are/
 variant: tiptap
 description: ""
 ---
-<p>The&nbsp;<a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a>&nbsp;(IMDA)
-is a statutory board in the Singapore government. IMDA is the driving force
-behind Singapore's digital transformation efforts by building the foundations
-of its digital infrastructure and driving digital innovation.</p>
+<p>The Infocomm Media Development Authority(IMDA) is a statutory board in
+the Singapore government. IMDA is the driving force behind Singapore's
+digital transformation efforts by building the foundations of its digital
+infrastructure and driving digital innovation.</p>
 <blockquote>
 <p>In 2019, IMDA launched TradeTrust, a framework that standardizes digital
 trade with enhanced security and legal certainty for the international
