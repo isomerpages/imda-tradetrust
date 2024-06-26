@@ -21,8 +21,9 @@ jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</
 like China to Singapore, as long as the TradeTrust-enabled electronic Bill
 of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
 such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
-<p>Some other jurisdictions including<strong> </strong>the<strong> Kingdom of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi Global Markets in the United Arab Emirates</strong> are
-MLETR- compliant.</p>
+<p>Some other jurisdictions including<strong> </strong>the<strong> </strong>Kingdom
+of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi
+Global Markets in the United Arab Emirates are MLETR- compliant.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
 Guide.</p>
