@@ -11,7 +11,7 @@ document" and "who possesses it". TradeTrust is designed to follow the
 requirements set out in the UNCITRAL Model Law on Electronic Transferable
 Records (MLETR) to address these difficulties.</p>
 <p>Instead of contractual rule book, your TradeTrust-enabled electronic documents
-will be supported by statutory laws of countries that align with MLETR.</p>
+will be supported by statutory law.</p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
 jurisdiction, it is recommended to expressly choose a governing law and
