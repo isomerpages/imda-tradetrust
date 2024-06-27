@@ -8,7 +8,7 @@ description: ""
 <br>1. <strong>Verifiable Documents&nbsp;</strong>for example certificates
 of origin and packing lists; and
 <br>2. <strong>Transferable Documents</strong>&nbsp;for example Electronic
-Transferable Records (ETRs) such as electronic Bills of Lading and warehouse
+Transferable Records (ETRs) such as electronic bills of Llding and warehouse
 receipts that entitle the holder to claim the performance of an obligation
 or ownership</p>
 <p>These TradeTrust-enabled electronic documents will have the functional
@@ -16,7 +16,7 @@ equivalent of the paper-based version. They are saved as TradeTrust (.tt)
 files containing the data, which can be easily transmitted to stakeholders
 across the supply chain via email for example. You can also saved the documents
 in pdf format with QR code.</p>
-<p>TradeTrust utilizes Blockchain or Distributed Ledger Technology to :</p>
+<p>TradeTrust utilizes blockchain or distributed ledger technology to :</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>demonstrate provenance and integrity, essential for document legitimacy</p>
