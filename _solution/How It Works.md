@@ -14,7 +14,7 @@ or ownership</p>
 <p>These TradeTrust-enabled electronic documents will have the functional
 equivalent of the paper-based version. They are saved as TradeTrust (.tt)
 files containing the data, which can be easily transmitted to stakeholders
-across the supply chain via email for example. You can also saved the document
+across the supply chain via email for example. You can also saved the documents
 in pdf format with QR code.</p>
 <p>TradeTrust utilizes Blockchain or Distributed Ledger Technology to :</p>
 <ul data-tight="true" class="tight">
