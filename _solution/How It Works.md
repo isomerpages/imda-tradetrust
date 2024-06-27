@@ -29,7 +29,7 @@ transfers from one party to the next</p>
 <p>ensure singularity meaning unique original copy of electronic document</p>
 </li>
 </ul>
-<p>When you or your trading parties open the .tt file in any TradeTrust-enabled
+<p>When you or your trading parties access the .tt file in any TradeTrust-enabled
 platforms, all can be assured of the authenticity and provenance of a document,
 irrespective of how a party receives a document or at which stage of the
 supply chain a party receives it. Exclusive control is ensured as only
