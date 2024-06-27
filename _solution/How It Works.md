@@ -8,7 +8,7 @@ description: ""
 <br>1. <strong>Verifiable Documents&nbsp;</strong>for example certificates
 of origin and packing lists; and
 <br>2. <strong>Transferable Documents</strong>&nbsp;for example Electronic
-Transferable Records (ETRs) such as electronic bills of Llding and warehouse
+Transferable Records (ETRs) such as electronic bills of lading and warehouse
 receipts that entitle the holder to claim the performance of an obligation
 or ownership</p>
 <p>These TradeTrust-enabled electronic documents will have the functional
