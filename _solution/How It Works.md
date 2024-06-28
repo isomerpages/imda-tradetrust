@@ -4,9 +4,8 @@ permalink: /how-it-works/
 variant: tiptap
 description: ""
 ---
-<p>TradeTrust supports the digitalisation of trade documents into two broad
-categories ..</p>
-<p>You can digitise your business documents into two document types:
+<p>There are broadly 2 types of trade documents that you can use TradeTrust
+to digitise:
 <br>1. <strong>Verifiable Documents&nbsp;</strong>for example certificates
 of origin and packing lists; and
 <br>2. <strong>Transferable Documents</strong>&nbsp;for example Electronic
