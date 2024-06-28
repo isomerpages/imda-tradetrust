@@ -31,7 +31,7 @@ meeting standards and legal requirements.</p>
 </p>
 </li>
 <li>
-<p><strong>verify documents’ proof of origin and authenticity</strong>
+<p><strong>verify documents’ proof of source and authenticity</strong>
 </p>
 </li>
 <li>
