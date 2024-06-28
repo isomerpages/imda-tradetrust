@@ -11,7 +11,7 @@ description: ""
 ready partners.</p>
 </li>
 <li>
-<p>With no data format or standard restrictions.</p>
+<p>With no data format or standard restrictions&nbsp;such as DCSA and BIMCO.</p>
 </li>
 <li>
 <p><em>Best practices enable scalability and cross-platform interoperability, you and your trading partners are free to choose your preferred TradeTrust-enabled system (no need for all parties to use a common digital platform and contractual rulebook).</em>
