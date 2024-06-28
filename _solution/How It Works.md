@@ -4,8 +4,7 @@ permalink: /how-it-works/
 variant: tiptap
 description: ""
 ---
-<p>There are broadly 2 types of trade documents that you can use TradeTrust
-to digitise:
+<p>There are broadly 2 types of trade documents that you can digitise:
 <br>1. <strong>Verifiable Documents&nbsp;</strong>- these are trade documents
 that are non-transferable, such as Certificates of Origin (CoO), Invoices,
 and promissory notes
