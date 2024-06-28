@@ -17,8 +17,9 @@ of an obligation or ownership</p>
 <p>These TradeTrust-enabled electronic documents will have the functional
 equivalent of the paper-based version. They are saved as TradeTrust (.tt)
 files containing the data, which can be easily transmitted to stakeholders
-across the supply chain via email for example. You can also save the documents
-in pdf format with QR code.</p>
+across the supply chain over your existing business/IT and data interchange
+system like email, FTP and regardless of data format or standard like DCSA’s
+and BIMCO’s. You can also save the documents in pdf format with QR code.</p>
 <blockquote>
 <p>You can secure any digital document to protect its authenticity and control
 the possession and actions like endorsement and revocation</p>
