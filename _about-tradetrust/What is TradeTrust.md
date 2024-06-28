@@ -9,12 +9,13 @@ description: ""
 journey.</p>
 <p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
 </p>
-<p>TradeTrust achieves this by using blockchain technologies and adhering
-to global standards and legal requirements to enable trusted interoperability
-of electronic trade documents across digital platforms. Electronic documents
-issued this way can be trusted, portable, and legally effective across
-different systems, thereby streamlining cross-platform interoperability
-and enhancing overall operational efficiency for businesses and governments.</p>
+<p>TradeTrust achieves this by using blockchain and cryptographic technologies
+and adhering to global standards and legal requirements to enable trusted
+interoperability of electronic trade documents across digital platforms.
+Electronic documents issued this way can be trusted, portable, and legally
+effective across different systems, thereby streamlining cross-platform
+interoperability and enhancing overall operational efficiency for businesses
+and governments.</p>
 <p>And offered as a digital utility, it is open-sourced so that all parties
 can freely adopt and build upon it to benefit their business ecosystem.</p>
 <blockquote>
