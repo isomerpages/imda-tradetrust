@@ -27,7 +27,7 @@ meeting standards and legal requirements.</p>
 <p>By adopting TradeTrust, users can independently :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>create, revoke electronic documents</strong>
+<p><strong>issue and revoke electronic documents</strong>
 </p>
 </li>
 <li>
