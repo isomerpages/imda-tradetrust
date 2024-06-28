@@ -7,13 +7,15 @@ description: ""
 <h4>Easy Adoption</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quick launch by reusing free open-source code with no data format or standard
-restrictions. Or use the services of TradeTrust ready partners.</p>
+<p>Quick launch by using free open-source code or the services of TradeTrust
+ready partners.</p>
 </li>
 <li>
-<p>Best practices enable scalability and cross-platform interoperability,
-no need for all parties to use a common digital platform and contractual
-rulebook.</p>
+<p>With no data format or standard restrictions.</p>
+</li>
+<li>
+<p><em>Best practices enable scalability and cross-platform interoperability, no need for all parties to use a common digital platform and contractual rulebook.</em>
+</p>
 </li>
 </ul>
 <h4>Save Time &amp; Money</h4>
@@ -31,8 +33,7 @@ complete transparency, traceability for end-to-end supply chain optimisation.</p
 <h4>Secure &amp; Confidential</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ensure electronic documents are cryptographically trustworthy and compliant
-to global standards and statutory law.</p>
+<p>Ensure electronic documents are cryptographically trustworthy</p>
 </li>
 <li>
 <p>Data confidentiality is ensured as the blockchain does not store any business
@@ -46,9 +47,9 @@ data.</p>
 </li>
 <li>
 <p>Adopting TradeTrust means following internationally recognised standards
-like the UN/CEFACT, W3C, UNESCAP and United Nations Commission on International
-Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR).
-Learn more at &lt;legality guide&gt;</p>
+like the &lt;UN/CEFACT&gt;, &lt;W3C&gt;, &lt;UNESCAP&gt; and UNCITRAL Model
+Law on Electronic Transferable Records &lt;(MLETR)&gt;. Learn more at &lt;legality
+guide&gt;</p>
 </li>
 </ul>
 <h4>Reliability</h4>
