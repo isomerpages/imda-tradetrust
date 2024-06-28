@@ -43,7 +43,8 @@ data.</p>
 <h4>Sustainability &amp; Compliance</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Supports United Nations' Sustainable Development Goals by going paperless</p>
+<p>Supports United Nations' Sustainable Development Goals (SDGs) by going
+paperless</p>
 </li>
 <li>
 <p>Adopting TradeTrust means following internationally recognised standards
