@@ -35,7 +35,7 @@ meeting standards and legal requirements.</p>
 </p>
 </li>
 <li>
-<p><strong>transfer titles for title documents</strong>
+<p><strong>transfer titles for transferable documents</strong>
 </p>
 </li>
 </ul>
