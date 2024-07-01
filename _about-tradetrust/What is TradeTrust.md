@@ -87,7 +87,6 @@ to surrender of electronic bill of lading (<em>costs distributed among different
 </li>
 </ul>
 <p></p>
-<p></p>
 <p>Reach out to us to learn more about the costs and what you can save on
 manual processing and courier costs by going digital.</p>
 </div>
