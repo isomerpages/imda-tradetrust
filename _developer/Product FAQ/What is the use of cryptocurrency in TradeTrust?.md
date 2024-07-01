@@ -11,5 +11,5 @@ ownership transfers, and surrender etc. In operationalising TradeTrust,
 Business Solution Providers insulate users from cryptocurrencies, managing
 the cryptocurrencies required to pay for the recording of the NFT transactions.</p>
 <p>The cryptocurrency utilised in TradeTrust is neither used in the settlement
-of the trade (i.e. payment for goods) nor is tradable. <strong>The cryptocurrencies involved is used solely to power the recording of the electronic trade financing document from the transferer to transferee on a public blockchain.</strong>
+of the trade (i.e. payment for goods) nor is tradable. <strong>The cryptocurrencies involved is used solely to power the recording of the electronic trade financing document from the transferrer to transferee on a public blockchain.</strong>
 </p>
