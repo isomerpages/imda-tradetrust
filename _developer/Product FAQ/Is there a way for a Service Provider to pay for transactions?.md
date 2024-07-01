@@ -5,9 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p>Please refer to <a href="https://www.openattestation.com/docs/docs-section/deprecated/gsn/gas-station-network" rel="noopener noreferrer nofollow" target="_blank">documentation</a>
-</p>
-<p>TradeTrust, built upon Open Attestation.</p>
-<p><em>Open Attestation is an open-sourced framework which endorses and verifies documents using the blockchain. Documents issued this way are cryptographically trustworthy and can be verified independently.</em>
-</p>
-<p></p>
+<p>Business Solution Providers that have integrated TradeTrust to provide
+digital services dealing with electronic transferable records such as eBLs,
+will typically manage the cryptocurrencies required to pay their clients’
+recording of their NFT transactions.</p>
+<p>For such payments, the TradeTrust team has consulted MAS’s regulatory
+team on the need for a licensing requirement. MAS has advised that if the
+Business Solution Providers are not facilitating the buying and selling
+of digital payment tokens (DPT) and arranging the transmission of DPTs
+from one account to another, they would not be deemed to be carrying on
+a business of providing a DPT service under the Payment Services Act 2019.</p>
+<p>MAS further recommends that Business Solution Providers perform their
+own legal and compliance review before proceeding.</p>
