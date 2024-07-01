@@ -94,18 +94,16 @@ manual processing and courier costs by going digital.</p>
 <summary><strong>Why is public blockchains used?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>TradeTrust facilitates trusted digital document exchanges for cross-border
-trade and logistics, involving various parties across different geographies.
-It utilizes Blockchain or Distributed Ledger Technology to demonstrate
-provenance, essential for the legitimacy of documents such as Bills of
-Lading. Non-Fungible Tokens (NFTs) are used to ensure singularity of the
-record for transferable documents, with Blockchain recording the NFT transactions.</p>
-<p>TradeTrust relies on public blockchain technology like Ethereum or Polygon
-to electronically endorse and transfer the ownership of a trade financing
-document among stakeholders along a trade flow. This choice was deliberate
-to <strong>eliminate the need for a central authority</strong> or body to
-govern the network and gatekeep participation, allowing for an open and
-interoperable system for all international parties to participate seamlessly.</p>
+<p>TradeTrust utilizes public Blockchain or Distributed Ledger Technology
+to demonstrate provenance, essential for the legitimacy of documents such
+as Bills of Lading. Non-Fungible Tokens (NFTs) are used to ensure the singularity
+of the record for transferable documents, with blockchain recording the
+NFT transactions to electronically endorse and transfer the ownership of
+a trade financing document among stakeholders along a trade flow. This
+choice was deliberate to <strong>eliminate the need for a central authority</strong> or
+body to govern the network and gatekeep participation, allowing for an
+open and interoperable system for all international parties to participate
+seamlessly.</p>
 <p></p>
 </div>
 </details>
