@@ -60,8 +60,7 @@ for title documents.</p>
 <p></p>
 <p>And the security and reliability of TradeTrust is ensured through the
 vulnerability assessment and penetration testing of the Smart Contract
-Code. This security assessment was comprehensively conducted by a third-party
-specialist, Ernst &amp; Young.</p>
+Code conducted by a third-party specialist, Ernst &amp; Young.</p>
 </div>
 </details>
 <details class="isomer-details">
