@@ -76,7 +76,8 @@ into your IT system and/or subscription service from TradeTrust ready partner</p
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
 as at 2 Feb 2023 for a typical series of transactions from the issuance
-to surrender of electronic bill of lading:</p>
+to surrender of electronic bill of lading (<em>cost distributed among different stakeholders):</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Estimated Fees on Ethereum: &lt; USD $20</p>
@@ -85,6 +86,7 @@ to surrender of electronic bill of lading:</p>
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p>Reach out to us to learn more about the costs and what you can save on
 manual processing and courier costs by going digital.</p>
