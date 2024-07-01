@@ -104,6 +104,7 @@ of framework's implementation</p>
 </tbody>
 </table>
 <p></p>
+<p>Some commonly asked questions:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Why is the temporary domain created using TradeTrust CLI not working?</summary>
