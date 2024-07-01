@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p>Currently, TradeTrust can be connected to a few public blockchain networks:</p>
+<p>Currently, TradeTrust can be connected to 5 different public blockchain
+networks:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ethereum</p>
@@ -14,12 +15,16 @@ third_nav_title: Product FAQ
 <p>P﻿olygon</p>
 </li>
 <li>
-<p>XinFin (XDC) Network</p>
+<p>XDC</p>
 </li>
 <li>
-<p>Stability (non-cryptocurrency network)</p>
+<p>Hedera</p>
+</li>
+<li>
+<p>Global Trust Network</p>
 </li>
 </ul>
+<p></p>
 <p>Below are the estimated fees (USD) computed as at 2 Feb 2023 for a typical
 series of NFT transactions related to an electronic Bill of Lading (eBL),
 from its issuance to surrender:</p>
