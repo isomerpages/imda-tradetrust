@@ -4,6 +4,82 @@ permalink: /developers/technical-guides/
 variant: tiptap
 description: ""
 ---
+<p>Access step-by-step guide, additional tools and gallery of TradeTrust-issued
+sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust technical guides.</a>
+</p>
+<p>Recommended guides :</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Documentation and guide for implementation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/getting-started</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Transfer of holdership / ownership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Will be important to first understand Transferable Records</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address book management is an additional tool to help make sense of the
+wallet addresses you might have from your partners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Get open-source code, including our reference implementation for the understanding
+of framework's implementation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://github.com/tradetrust</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TradeTrust Open-source licensing terms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust/tradetrust-website<br>c</a>on
+Apache-2.0 license</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Our response to some commonly encountered errors:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
