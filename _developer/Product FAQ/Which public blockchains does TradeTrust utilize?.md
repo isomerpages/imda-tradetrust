@@ -17,4 +17,5 @@ Trust Network.</p>
 In the testnet environment, it utilises the Sepolia (Testnet of Ethereum),
 Polygon Mumbai, XDC Apothem, Hedera Testnet and Stability (Testnet of Global
 Trust Network).</p>
-<p></p>
+<p>TradeTrust does not host any nodes. TradeTrust make use of services from
+the likes of Alchemy, Infura and QuickNode.</p>
