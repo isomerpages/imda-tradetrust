@@ -17,7 +17,8 @@ trade ecosystem.</p>
 of digital trade documents<strong>,&nbsp;</strong>TradeTrust aims to make
 international trade safer, faster, easier, and more cost-effective.&nbsp;</p>
 <h4><strong>Vision</strong></h4>
-<p>To enable everyone to confidently trade with anyone, anywhere.</p>
+<p><em>To enable everyone to confidently trade with anyone, anywhere.</em>
+</p>
 <h4><strong>Mission</strong></h4>
 <p>To make international trade more secure, efficient, and accessible for
 everyone by providing a globally-harmonised and inclusive framework. TradeTrust
