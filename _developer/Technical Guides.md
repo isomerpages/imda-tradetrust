@@ -101,7 +101,7 @@ of framework's implementation</p>
 </table>
 <p></p>
 <blockquote>
-<p>To reach our tech support, create an issue at <a href="https://github.com/TradeTrust/tradetrust-core/issues" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust/tradetrust-core/issues</a> or
+<p>To reach our tech support, <a href="https://github.com/TradeTrust/tradetrust-core/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
 &lt;contact us&gt;!</p>
 </blockquote>
 <p></p>
