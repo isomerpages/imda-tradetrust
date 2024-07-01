@@ -32,5 +32,4 @@ and a well-structured robust codebase.</p>
 <p>Open-sourced</p>
 </li>
 </ul>
-<p>Businesses can have full confidence in the security and reliability of
-their transactions.</p>
+<p></p>
