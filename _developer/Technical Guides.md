@@ -56,8 +56,14 @@ wallet addresses you might have from your partners</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TradeTrust leverages on different types of identifier resolvers:</p>
-<p>1. Local Address Book (flat file to map one identifer to another)</p>
-<p>2. Third Party REST APIS (conforming to TT specs)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Local Address Book (flat file to map one identifer to another)</p>
+</li>
+<li>
+<p>Third Party REST APIS (conforming to TT specs)</p>
+</li>
+</ol>
 <p></p>
 <p><a href="https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local" rel="noopener noreferrer nofollow" target="_blank"><sup>https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local</sup></a>
 </p>
