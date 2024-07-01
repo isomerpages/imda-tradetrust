@@ -7,8 +7,7 @@ third_nav_title: Product FAQ
 ---
 <p>Security and Reliability of TradeTrust is ensured through the VAPT of
 the Smart Contract Code. In addition, the choice of Blockchain must follow
-the <a href="https://www.tradetrust.io/guidelines" rel="noopener noreferrer nofollow" target="_blank">TradeTrust Guidelines.</a>
-</p>
+TradeTrust guidelines:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Actively maintained with a large development community</p>
