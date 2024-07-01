@@ -103,9 +103,9 @@ record for transferable documents, with Blockchain recording the NFT transaction
 <p>TradeTrust relies on public blockchain technology like Ethereum or Polygon
 to electronically endorse and transfer the ownership of a trade financing
 document among stakeholders along a trade flow. This choice was deliberate
-to eliminate the need for a central authority or body to govern the network
-and gatekeep participation, allowing for an open and interoperable system
-for all international parties to participate seamlessly.</p>
+to <strong>eliminate the need for a central authority</strong> or body to
+govern the network and gatekeep participation, allowing for an open and
+interoperable system for all international parties to participate seamlessly.</p>
 <p></p>
 </div>
 </details>
