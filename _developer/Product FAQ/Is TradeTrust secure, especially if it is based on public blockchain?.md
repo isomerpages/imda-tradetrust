@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Product FAQ
 ---
 <p>Security and Reliability of TradeTrust is ensured through the VAPT of
-the Smart Contract Code. In addition, the choice of Blockchain must follow
-TradeTrust guidelines:</p>
+the Smart Contract Code by Ernst &amp; Young, ensuring efficient gas costs
+and a well-structured robust codebase.</p>
+<p>In addition, the choice of Blockchain must follow TradeTrust guidelines:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Actively maintained with a large development community</p>
@@ -31,8 +32,5 @@ TradeTrust guidelines:</p>
 <p>Open-sourced</p>
 </li>
 </ul>
-<p>In 2021, TradeTrust awarded Ernst &amp; Young the security assessment
-through an open tender process, aligning with the OWASP Top Ten 2021 list.
-The review of smart contract and functions yielded positive results, ensuring
-efficient gas costs and a well-structured robust codebase. Businesses can
-have full confidence in the security and reliability of their transactions.</p>
+<p>Businesses can have full confidence in the security and reliability of
+their transactions.</p>
