@@ -24,7 +24,6 @@ networks:</p>
 <p>Global Trust Network</p>
 </li>
 </ul>
-<p></p>
 <p>Below are the estimated fees (USD) computed as at 2 Feb 2023 for a typical
 series of NFT transactions related to an electronic Bill of Lading (eBL),
 from its issuance to surrender:</p>
