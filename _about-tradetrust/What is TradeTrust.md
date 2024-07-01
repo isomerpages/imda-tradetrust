@@ -76,7 +76,7 @@ into your IT system and/or subscription service from TradeTrust ready partner</p
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
 as at 2 Feb 2023 for a typical series of transactions from the issuance
-to surrender of electronic bill of lading (<em>cost distributed among different stakeholders):</em>
+to surrender of electronic bill of lading (<em>costs distributed among different stakeholders):</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
