@@ -20,6 +20,7 @@ the need for gas fees. For more information:</p>
 setup of document store and hence will incur gas fee. Please refer to
 <a href="https://docs.tradetrust.io/docs/advanced/aws-kms/did-sign-demo" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/advanced/aws-kms/did-sign-demo</a>for
 more details.</p>
+<p>&lt;&lt;&gt;&gt;&gt;&gt;&gt;</p>
 <p>The DID is currently only applicable for normal/verifiable documents.
 By using the DID approach, the issuance of normal/verifiable documents
 will not incur any gas fee.</p>
