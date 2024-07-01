@@ -71,7 +71,7 @@ Code conducted by a third-party specialist, Ernst &amp; Young.</p>
 set of pre-built software components.</p>
 <p></p>
 <p>Other costs may include outsource fee for the integration of TradeTrust
-into your IT system and/or subscription service from TradeTrust ready partner</p>
+into your IT system and/or subscription service from TradeTrust ready &lt;partners&gt;.</p>
 <p></p>
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
