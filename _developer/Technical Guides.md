@@ -81,6 +81,15 @@ to some solutions available in the market</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>How can I securely store my private keys and auto issue documents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Get open-source code, including our reference implementation for the understanding
 of framework's implementation</p>
 </td>
