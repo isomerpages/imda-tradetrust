@@ -71,11 +71,12 @@ of your partners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Recommendations for wallet management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p>TradeTrust does not have any preferred wallet management. You may refer
+to the following for some solutions available in the market:</p>
+<p><a href="https://docs.tradetrust.io/docs/topics/advanced/wallet-management/" rel="noopener noreferrer nofollow" target="_blank"><u>https://docs.tradetrust.io/docs/topics/advanced/wallet-management/</u></a>
 </p>
 </td>
 </tr>
