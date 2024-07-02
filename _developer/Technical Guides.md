@@ -93,7 +93,7 @@ to some solutions available in the market:</p>
 <p>Storing of private keys and auto issue documents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview</a>
+<p><a href="https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview</a>
 </p>
 </td>
 </tr>
@@ -151,8 +151,8 @@ using the built-in obfuscation mechanism. This error occurs if the document's
 content has been modified.</p>
 </li>
 </ol>
-<p>If you encounter any of these errors, please contact the document issuer
-for assistance.</p>
+<p>If you encounter any of these errors, please contact the <strong>document issuer</strong> for
+assistance.</p>
 <p></p>
 </div>
 </details>
