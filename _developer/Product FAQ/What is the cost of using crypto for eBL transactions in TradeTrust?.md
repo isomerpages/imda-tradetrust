@@ -41,5 +41,4 @@ to surrender of electronic bill of lading (<em>costs distributed among different
 to be shared across multiple transaction parties in the eBL value chain.</p>
 <p>See information on <a href="https://www.openattestation.com/docs/docs-section/appendix/contract-costs" rel="noopener noreferrer nofollow" target="_blank">cost of contracts/gas fee</a>
 </p>
-<p>See <a href="https://www.openattestation.com/docs/docs-section/appendix/savings-comparisons" rel="noopener noreferrer nofollow" target="_blank">costs comparison between Ethereum and Polygon</a>
-</p>
+<p></p>
