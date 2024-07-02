@@ -26,7 +26,8 @@ key players to advance trade digitalization, creating a more seamless,
 accessible, and secure trade process for all.</p>
 <p>Be at the forefront of innovation and technology alongside industry leaders
 such as Exxon Mobil, Maersk, and PIL.</p>
-<p></p>
+<p>No hardware installations or initial investment required to participate
+in trial.</p>
 <blockquote>
 <p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect with our Engagement team today!</a>
 </p>
