@@ -24,15 +24,16 @@ networks:</p>
 <p>Global Trust Network</p>
 </li>
 </ul>
-<p>Below are the estimated fees (USD) computed as at 2 Feb 2023 for a typical
-series of NFT transactions related to an electronic Bill of Lading (eBL),
-from its issuance to surrender:</p>
+<p>And depending on your role in the supply chain, transaction costs such
+as blockchain gas fees may apply. Below are the estimated fees (USD) computed
+as at 2 Feb 2023 for a typical series of transactions from the issuance
+to surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Estimated Fees on Ethereum: &lt; USD $20</p>
 </li>
 <li>
-<p>E﻿stimated Fees on Polygon: &lt; USD $0.16</p>
+<p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 </ul>
 <p>Do note that the cost estimated above involves the whole chain of endorsements
