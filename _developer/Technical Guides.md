@@ -51,14 +51,6 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Address book management - an additional tool to manage the wallet addresses
 of your partners</p>
 </td>
