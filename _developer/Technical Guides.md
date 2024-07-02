@@ -104,8 +104,8 @@ of framework's implementation</p>
 <p>TradeTrust Open-source licensing terms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://github.com/TradeTrust/tradetrust-website<br>click</a> on
-Apache-2.0 license</p>
+<p><a href="https://github.com/TradeTrust/tradetrust-website?tab=Apache-2.0-1-ov-file#readme" rel="noopener noreferrer nofollow" target="_blank">Apache-2.0 license</a> 
+</p>
 </td>
 </tr>
 <tr>
