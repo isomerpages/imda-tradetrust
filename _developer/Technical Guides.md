@@ -111,7 +111,7 @@ Apache-2.0 license</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Our response to some commonly encountered errors:</strong></h4>
+<h4>Our response to some commonly encountered errors:</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Why is the temporary domain created using TradeTrust CLI not working?</summary>
