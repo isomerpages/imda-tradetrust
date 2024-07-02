@@ -7,7 +7,7 @@ description: ""
 <p>Access step-by-step guide, additional tools and gallery of TradeTrust-issued
 sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust technical guides.</a>
 </p>
-<p>Recommended guides :</p>
+<h4>Recommended guides :</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,7 +111,7 @@ Apache-2.0 license</p>
 </tbody>
 </table>
 <p></p>
-<p>Our response to some commonly encountered errors:</p>
+<h4><strong>Our response to some commonly encountered errors:</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Why is the temporary domain created using TradeTrust CLI not working?</summary>
