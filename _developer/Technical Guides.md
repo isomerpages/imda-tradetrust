@@ -42,7 +42,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Will be important to first understand Transferable Records</p>
+<p>Overview of Transferable Records</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</a>
@@ -51,7 +51,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Address book management is an additional tool to manage the wallet addresses
+<p>Address book management - an additional tool to manage the wallet addresses
 of your partners</p>
 </td>
 <td rowspan="1" colspan="1">
