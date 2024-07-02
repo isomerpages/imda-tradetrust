@@ -33,6 +33,15 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Overview of Transferable Records</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Transfer of holdership / ownership</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,11 +51,10 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overview of Transferable Records</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
