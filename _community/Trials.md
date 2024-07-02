@@ -306,6 +306,9 @@ using paper-based documentation <strong>to only 10 working days </strong>with
 TradeTrust-enabled documents. All parties benefited from efficiency gains, <strong>elimination of manual processing and errors</strong>,
 and a<strong> reduction in the risk of fraud.</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vbZMPAnQRhM?si=oyb_M6l0UWtEI42j"></iframe>
+</div>
 <p></p>
 <blockquote>
 <p>&lt;Join us&gt; for proof of concept and adoption.</p>
