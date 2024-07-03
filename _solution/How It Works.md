@@ -40,9 +40,10 @@ transfers from one party to the next</p>
 <p>When you or your trading parties access the .tt file in any TradeTrust-enabled
 platforms, all can be assured of the authenticity and provenance of a document,
 irrespective of how a party receives a document or at which stage of the
-supply chain a party receives it. Exclusive control is ensured as only
-one rightful party can possess and claim ownership of the transferable
-document at any point in time.</p>
+supply chain a party receives it. Your system can extract data from .tt
+file for automated processing. Exclusive control is ensured as only one
+rightful party can possess and claim ownership of the transferable document
+at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>TradeTrust-enabled document sample</summary>
