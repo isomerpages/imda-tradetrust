@@ -26,9 +26,9 @@ courier services.</p>
 </p>
 <p>Optimise process and collaborative workflows between partners with end-to-end
 transaction traceability, documentation and validation checks automation.</p>
-<p>Support trading activities through endorsement chain, transfer holdership
-and title ownership of Bill of Lading real-time, ensuring claiming of goods
-timely without the need of paper bill of lading.</p>
+<p></p>
+<p>Enable the electronic surrendering of the bill of lading by buyer, ensuring
+timely claiming of goods without the need for a paper bill of lading.</p>
 <p></p>
 </li>
 <li>
@@ -40,7 +40,11 @@ trade compliance and cross-border cargo shipping arrangement. Border control
 of the importing country performs document checks by automation of the
 digital copy, or scanning the embedded QR barcode on printed copy, for
 instant verification of documents' source and authenticity.</p>
+</li>
+<li>
 <p></p>
+<p>Support trading activities through endorsement chain, transfer holdership
+and title ownership of Bill of Lading real-time,</p>
 </li>
 </ol>
 <h3>Benefits</h3>
