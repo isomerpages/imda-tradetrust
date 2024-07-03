@@ -17,7 +17,7 @@ to delays in paper document delivery. Tokenizing Real-World Assets (RWA)
 for electronic Bills of Lading (eBL) creates the possibility of fractionalized
 financing with multiple financiers for the same eBL.</p>
 <p>Skip the need to submit and collect your documents physically over the
-banks' counter.</p>
+banks' counter or through courier.</p>
 <p></p>
 </li>
 <li>
@@ -87,5 +87,6 @@ charges of holding cargo due to delay in documentation</div>
 <p></p>
 <blockquote>
 <p>Learn more about &lt;how it works&gt; or try &lt;Verify Documents&gt;.</p>
+<p></p>
 </blockquote>
 <p></p>
