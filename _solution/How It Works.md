@@ -44,12 +44,12 @@ rightful party can possess and claim ownership of the transferable document
 at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>TradeTrust-enabled document sample</summary>
+<summary>TradeTrust-enabled Bill of Lading sample</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust enabled document sample" src="/images/Sample_TT_enabled_Document.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Bill of Lading Sample" src="/images/TT_eBL_sample.png">
+</div>
 <p>Try &lt;Verify Documents&gt;.</p>
 <p></p>
 </div>
