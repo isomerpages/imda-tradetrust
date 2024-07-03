@@ -9,7 +9,7 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Digital Trade Financing </strong>
+<p><strong>Digital Trade Financing</strong>
 </p>
 <p>Using TradeTrust-enabled electronic Bills of Lading (eBL) may help to
 improve cash conversion cycle for businesses as it reduces time lag due
@@ -32,7 +32,7 @@ timely without the need of paper bill of lading.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Risk management</strong>
+<p><strong>Risk of Fraud Management</strong>
 </p>
 <p></p>
 <p>Electronic documents like bills of lading and certificates of origin expedite
