@@ -9,7 +9,7 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Better Cash Flow</strong>
+<p><strong>Capital Liquidity</strong>
 </p>
 <p>Using TradeTrust-enabled electronic Bills of Lading (eBL) may help to
 improve cash conversion cycle for businesses as it reduces time lag due
