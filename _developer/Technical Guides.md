@@ -128,8 +128,8 @@ of framework's implementation</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>While verifying a document, what should I do when I encounter an error, and what does each error mean?</strong>
-</summary>
+<summary>While verifying a document, what should I do when I encounter an error,
+and what does each error mean?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are mainly three types of errors that can occur when verifying a
 document:</p>
