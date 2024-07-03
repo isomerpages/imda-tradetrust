@@ -121,7 +121,7 @@ sections:
           link_url: https://store.lawnet.com/reimagining-the-future-synergising-legal-and-technological-innovations-in-maritime-trade.html
         - title: New Announcement
           date: 11 April 2024
-          announcement: Announcement content
+          announcement: Announcement content  (placeholder)
           link_text: ""
           link_url: ""
 ---
