@@ -7,9 +7,16 @@ description: ""
 <h3>How TradeTrust can help in Financial Services</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Trade Finance Process Optimisation</strong>
+<p><strong>Support digital&nbsp;ledger&nbsp;payment commitment</strong>
 </p>
 <p>Trade finance activities are notoriously paper-heavy.</p>
+<p>
+<br>TradeTrust can transform the management of digital ledger payment commitments
+by providing a secure, transparent, and immutable platform for recording
+and managing payment obligations using blockchain and distributed ledger
+technology. This enhances the security and transparency of payment commitments,
+streamlining the overall payment process and reducing the risk of disputes
+and errors.</p>
 <p></p>
 <p>Banks and alternative financiers can integrate physical, financial, and
 document chains, enabling the automation of key processes such as document
@@ -17,6 +24,7 @@ validation, payments, and fund release upon meeting conditions. This can
 lead to faster trade transactions and reduced turnaround times for trade
 finance activities, especially in complex transactions involving multiple
 banks, insurers, and corporate customers.</p>
+<p></p>
 <p>As TradeTrust supports interoperability of electronic trade documents
 across various platforms and systems, it provides overall convenience and
 cost savings for all parties in the supply chain, offering improved document
