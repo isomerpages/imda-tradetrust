@@ -17,12 +17,12 @@ where their ownership are transferable from one party to another;&nbsp;for
 example Electronic Transferable Records (ETRs) such as electronic bills
 of lading and warehouse receipts that entitle the holder to claim the performance
 of an obligation or ownership</p>
-<p>These TradeTrust-enabled electronic documents will have the functional
-equivalent of the paper-based version. They are saved as TradeTrust (.tt)
-files containing the data, which can be easily transmitted to stakeholders
-across the supply chain over your existing business/IT and data interchange
-system like email, FTP and regardless of data format or standard like DCSA’s
-and BIMCO’s. You can also save the documents in pdf format with QR code.</p>
+<p>These TradeTrust-enabled electronic documents will have functional equivalence
+to their paper-based version. They are saved as TradeTrust (.tt) files
+containing the data, which can be easily transmitted to stakeholders across
+the supply chain over your existing business/IT and data interchange system
+like email, FTP. No restriction of the use of data format or standard.
+You can also save the documents in pdf format with QR code.</p>
 <p></p>
 <p>TradeTrust utilizes blockchain or distributed ledger technology to :</p>
 <ul data-tight="true" class="tight">
@@ -31,10 +31,8 @@ and BIMCO’s. You can also save the documents in pdf format with QR code.</p>
 </li>
 <li>
 <p>create Non-Fungible Tokens (NFTs) to represent title ownership and enable
-transfers from one party to the next</p>
-</li>
-<li>
-<p>ensure singularity meaning unique original copy of electronic document</p>
+transfers from one party to the next and ensure singularity meaning unique
+original copy of electronic document</p>
 </li>
 </ul>
 <p>When you or your trading parties access the .tt file in any TradeTrust-enabled
