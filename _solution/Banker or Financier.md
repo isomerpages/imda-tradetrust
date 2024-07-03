@@ -18,17 +18,15 @@ streamlining the overall payment process and reducing the risk of disputes
 and errors.</p>
 <p></p>
 <p>Banks and alternative financiers can integrate physical, financial, and
-document chains, enabling the automation of key processes such as document
-validation, payments, and fund release upon meeting conditions. This can
-lead to faster trade transactions and reduced turnaround times for trade
-finance activities, especially in complex transactions involving multiple
-banks, insurers, and corporate customers.</p>
-<p></p>
-<p>As TradeTrust supports interoperability of electronic trade documents
-across various platforms and systems, it provides overall convenience and
-cost savings for all parties in the supply chain, offering improved document
-checks for compliance and validity, thereby providing assurance to banks'
-customers and their trading partners.</p>
+document chains, automating key processes such as document validation,
+payments, and fund release upon meeting conditions. This leads to faster
+trade transactions and reduced turnaround times for trade finance activities,
+especially in complex transactions involving multiple banks, insurers,
+and corporate customers. TradeTrust supports interoperability of electronic
+trade documents across various platforms and systems, providing overall
+convenience and cost savings for all parties in the supply chain, offering
+improved document checks for compliance and validity, thereby providing
+assurance to banks' customers and their trading partners.</p>
 <p></p>
 </li>
 <li>
