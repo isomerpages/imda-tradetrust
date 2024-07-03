@@ -138,6 +138,7 @@ and appreciation digitally</p>
 <p></p>
 <p></p>
 <blockquote>
-<p>Learn more about TradeTrust implementation through <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a>.</p>
+<p>Learn more about TradeTrust implementation through</p>
+<p>&lt;techncial guides&gt;.</p>
 </blockquote>
 <p></p>
