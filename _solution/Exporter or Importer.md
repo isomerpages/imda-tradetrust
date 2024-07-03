@@ -9,15 +9,16 @@ description: ""
 <p>TradeTrust facilitates :</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Trade Financing digitally</strong>
+<p><strong>Digital Trade Financing </strong>
 </p>
 <p>Using TradeTrust-enabled electronic Bills of Lading (eBL) may help to
 improve cash conversion cycle for businesses as it reduces time lag due
 to delays in paper document delivery. Tokenizing Real-World Assets (RWA)
 for electronic Bills of Lading (eBL) creates the possibility of fractionalized
 financing with multiple financiers for the same eBL.</p>
-<p>Skip the need to submit and collect your documents physically over the
-banks' counter or through courier services.</p>
+<p>By going online digitally with your bank, you can skip the need to submit
+and collect your documents physically over the banks' counter or through
+courier services.</p>
 <p></p>
 </li>
 <li>
