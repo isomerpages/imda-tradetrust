@@ -4,6 +4,10 @@ permalink: /how-it-works/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<p>You can secure any digital document to protect its authenticity and control
+the possession and actions like endorsement and revocation</p>
+</blockquote>
 <p>There are broadly 2 types of trade documents that you can digitise:
 <br>1. <strong>Verifiable Documents&nbsp;</strong>- these are trade documents
 that are non-transferable, such as Certificates of Origin (CoO), Invoices,
@@ -19,10 +23,7 @@ files containing the data, which can be easily transmitted to stakeholders
 across the supply chain over your existing business/IT and data interchange
 system like email, FTP and regardless of data format or standard like DCSA’s
 and BIMCO’s. You can also save the documents in pdf format with QR code.</p>
-<blockquote>
-<p>You can secure any digital document to protect its authenticity and control
-the possession and actions like endorsement and revocation</p>
-</blockquote>
+<p></p>
 <p>TradeTrust utilizes blockchain or distributed ledger technology to :</p>
 <ul data-tight="true" class="tight">
 <li>
