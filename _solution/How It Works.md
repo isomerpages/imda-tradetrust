@@ -32,9 +32,9 @@ Smart Contracts and Non-Fungible Tokens (NFTs) to :</p>
 <p>demonstrate provenance and integrity, essential for document legitimacy</p>
 </li>
 <li>
-<p>create Non-Fungible Tokens (NFTs) to represent title ownership and enable
-transfers from one party to the next and ensure singularity meaning unique
-original copy of electronic document</p>
+<p>present title ownership and enable transfers from one party to the next
+and ensure singularity meaning unique original copy of electronic document
+using NFTs</p>
 </li>
 <li>
 <p>enforce exclusive control (i.e.Possessing that Title Documen) through
