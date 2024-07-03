@@ -21,19 +21,18 @@ banks' counter or through courier services.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Supply Chain Optimisation</strong>
+<p><strong>Cargo Claim</strong>
 </p>
-<p>Optmise process and collaborative workflows between partners with end-to-end
+<p>Optimise process and collaborative workflows between partners with end-to-end
 transaction traceability, documentation and validation checks automation.</p>
 <p>Support trading activities through endorsement chain, transfer holdership
-and title ownership of Bill of Lading real-time, ensuring release of goods
-to the right party timely.</p>
+and title ownership of Bill of Lading real-time, ensuring claiming of goods
+timely without the need of paper bill of lading.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Sustainability &amp; Trade Compliance</strong>
+<p><strong>Risk management</strong>
 </p>
-<p>Fulfil sustainability goal by going paperless.</p>
 <p></p>
 <p>Electronic documents like bills of lading and certificates of origin expedite
 trade compliance and cross-border cargo shipping arrangement. Border control
