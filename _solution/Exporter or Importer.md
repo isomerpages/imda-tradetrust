@@ -41,8 +41,9 @@ of the importing country performs document checks by automation of the
 digital copy, or scanning the embedded QR barcode on printed copy, for
 instant verification of documents' source and authenticity.</p>
 <p></p>
-<p>Support trading activities through endorsement chain, transfer holdership
-and title ownership of Bill of Lading real-time,</p>
+<p>Support trading activities by enabling an endorsement chain, real-time
+transfer of ownership and title of the Bill of Lading, ensuring traceability,
+authenticity, thereby reducing the risk of fraud.</p>
 </li>
 </ol>
 <h3>Benefits</h3>
