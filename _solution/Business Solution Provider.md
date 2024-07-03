@@ -138,7 +138,6 @@ and appreciation digitally</p>
 <p></p>
 <p></p>
 <blockquote>
-<p>Learn more about TradeTrust implementation through</p>
-<p>&lt;techncial guides&gt;.</p>
+<p>Learn more about TradeTrust implementation through &lt;techncial guides&gt;.</p>
 </blockquote>
 <p></p>
