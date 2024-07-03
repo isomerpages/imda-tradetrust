@@ -23,8 +23,6 @@ containing the data, which can be easily transmitted to stakeholders across
 the supply chain over your existing business/IT and data interchange system
 like email, FTP. No restriction of the use of data format or standard.
 You can also save the documents in pdf format with QR code.</p>
-<p>Leveraging on the strength of its immutability and security of cutting-edge
-technologies like Blockchain, Smart Contracts and Non-Fungible Tokens (NFTs),</p>
 <p>TradeTrust leverages the strength of immutability and security of blockchain,
 Smart Contracts and Non-Fungible Tokens (NFTs) to :</p>
 <ul data-tight="true" class="tight">
