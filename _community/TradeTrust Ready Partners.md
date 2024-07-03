@@ -6,8 +6,9 @@ description: TradeTrust partners
 image: /images/TradeTrustOfficialLogo.svg
 ---
 <blockquote>
-<p><strong>Here are the partners we have collaborated with, whom you may consider reaching out to on how you can implement the TradeTrust framework into your organisation's workflow..</strong>
-</p>
+<p>Here are the partners we have collaborated with, whom you may consider
+reaching out to on how you can implement the TradeTrust framework into
+your organisation's workflow</p>
 </blockquote>
 <p></p>
 <p>Do note that being on this list indicates that these companies have demonstrated
@@ -208,4 +209,7 @@ for SMEs.</div>
 </a>
 </div>
 <p></p>
+<blockquote>
+<p>&lt;Join us&gt; as a TradeTrust ready partner</p>
+</blockquote>
 <p></p>
