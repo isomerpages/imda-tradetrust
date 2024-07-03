@@ -117,7 +117,7 @@ sections:
             Singapore Academy of Law, the panel discussion will address the
             legal and technological challenges of digitalising the maritime
             trade from a multi-jurisdictional perspective."
-          link_text: See more (for example only)
+          link_text: See more
           link_url: https://store.lawnet.com/reimagining-the-future-synergising-legal-and-technological-innovations-in-maritime-trade.html
         - title: New Announcement
           date: 11 April 2024
