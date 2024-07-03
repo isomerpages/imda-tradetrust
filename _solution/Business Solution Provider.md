@@ -138,7 +138,7 @@ and appreciation digitally</p>
 <p></p>
 <p></p>
 <blockquote>
-<p>TradeTrust provides <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a> to get your started.
+<p>Learn more about TradeTrust implementation through <a href="/Developers" rel="noopener noreferrer nofollow" target="_blank">technical resources</a>.
 <br>Need further assistance, &lt;contact us&gt;!</p>
 </blockquote>
 <p></p>
