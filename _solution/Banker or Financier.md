@@ -10,8 +10,7 @@ description: ""
 <p><strong>Support digital&nbsp;ledger&nbsp;payment commitment</strong>
 </p>
 <p>Trade finance activities are notoriously paper-heavy.</p>
-<p>
-<br>TradeTrust can transform the management of digital ledger payment commitments
+<p>TradeTrust can transform the management of digital ledger payment commitments
 by providing a secure, transparent, and immutable platform for recording
 and managing payment obligations using blockchain and distributed ledger
 technology. This enhances the security and transparency of payment commitments,
