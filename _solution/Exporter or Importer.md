@@ -40,8 +40,6 @@ trade compliance and cross-border cargo shipping arrangement. Border control
 of the importing country performs document checks by automation of the
 digital copy, or scanning the embedded QR barcode on printed copy, for
 instant verification of documents' source and authenticity.</p>
-</li>
-<li>
 <p></p>
 <p>Support trading activities through endorsement chain, transfer holdership
 and title ownership of Bill of Lading real-time,</p>
