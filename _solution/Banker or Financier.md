@@ -22,8 +22,8 @@ document chains, automating key processes such as document validation,
 payments, and fund release upon meeting conditions. By offering digital
 trade finance, it provides overall convenience and cost savings for all
 parties in the supply chain, faster trade transactions, improved document
-checks for compliance and validity, thereby providing assurance to banks'
-customers and their trading partners.</p>
+checks for compliance and validity, thereby providing assurance to financial
+institutions, banks' customers and their trading partners.</p>
 <p></p>
 </li>
 <li>
