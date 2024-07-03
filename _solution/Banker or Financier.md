@@ -112,6 +112,9 @@ trade finance gap</div>
 <p>Enhance the credibility of documents issued by banks</p>
 </li>
 <li>
+<p>Letter of Credit Negotiation/Discounting</p>
+</li>
+<li>
 <p>Customers' onboarding, for example, the ACRA's Business Profiles and Business
 Certificates received from customers, which utilize the same technology
 as TradeTrust, allow for instant verification of authenticity, expediting
