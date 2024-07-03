@@ -57,10 +57,23 @@ TradeTrust ready platforms.</p>
 </ul>
 </li>
 <li>
-<p>Compliance to internationally recognised standards like the &lt;UN/CEFACT&gt;,
-&lt;W3C&gt;'s verifiable credential(in progress), &lt;UNESCAP&gt; and UNCITRAL
-Model Law on Electronic Transferable Records &lt;(MLETR)&gt;. Learn more
-at &lt;legality guide</p>
+<p><strong>Compliance to internationally recognised</strong>  <strong>standards</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&lt;UN/CEFACT&gt;,</p>
+</li>
+<li>
+<p>&lt;W3C&gt;'s verifiable credential(in progress),</p>
+</li>
+<li>
+<p>&lt;UNESCAP&gt;</p>
+</li>
+<li>
+<p>UNCITRAL Model Law on Electronic Transferable Records &lt;(MLETR)&gt;.
+Learn more at &lt;legality guide&gt;</p>
+</li>
+</ul>
 </li>
 </ol>
 <h3>Benefits</h3>
