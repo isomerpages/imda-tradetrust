@@ -4,7 +4,7 @@ permalink: /developers/technical-guides/
 variant: tiptap
 description: ""
 ---
-<p>Access step-by-step guide, additional tools and gallery of TradeTrust-issued
+<p>Access step-by-step guide, additional tools and gallery of TradeTrust-enabled
 sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust technical guides.</a>
 </p>
 <h4>Recommended guides :</h4>
