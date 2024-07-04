@@ -25,7 +25,7 @@ serving as free tool for driving innovation and connecting businesses with
 key players to advance trade digitalization, creating a more seamless,
 accessible, and secure trade process for all.</p>
 <p>Be at the forefront of innovation and technology alongside industry leaders
-such as Exxon Mobil, Maersk, and PIL.</p>
+such as ExxonMobil, Maersk, and PIL.</p>
 <p>Still unsure? Validate the practical application of TradeTrust by joining
 our trial. No hardware installations or initial investment required.</p>
 <blockquote>
