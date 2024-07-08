@@ -6,11 +6,11 @@ description: ""
 ---
 <h3><strong>Legality Guide</strong></h3>
 <p>Previously, usage of electronic versions of bills of lading had been difficult
-due to technological and legal challenges in establishing what is the "original
-document" and "who possesses it". TradeTrust is designed to follow the
-requirements set out in the UNCITRAL Model Law on Electronic Transferable
-Records (MLETR) to address these difficulties.</p>
-<p><strong>Instead of contractual rule book, your TradeTrust-enabled electronic documents will be supported by statutory law.</strong>
+due to technological and legal challenges in establishing which is the
+"original document" and "who possesses it". TradeTrust is designed to facilitate
+systems to achieve the requirements set out in the UNCITRAL Model Law on
+Electronic Transferable Records (MLETR) to address these difficulties.</p>
+<p><strong>Instead of relying wholly on contract law, your TradeTrust-enabled electronic documents can be supported by statutory law.</strong>
 </p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
@@ -19,8 +19,11 @@ jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</
 </blockquote>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
 like China to Singapore, as long as the TradeTrust-enabled electronic Bill
-of Lading (eBL) by carrier is governed by a MLETR-compliant jurisdiction
-such as Singapore, the eBL will be legally valid to facilitate the shipment.</p>
+of Lading (eBL) issued by carrier is governed by a MLETR-compliant jurisdiction
+such as Singapore, that eBL will most likely be considered in accordance
+with the MLETR as applied under Singapore law and be treated as equivalent
+to a paper bill of lading. That is the same position with regard to express
+choice of law and jurisdiction as under current law.</p>
 <p>Some other jurisdictions including<strong> </strong>the<strong> </strong>Kingdom
 of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi
 Global Markets in the United Arab Emirates are MLETR- compliant.</p>
