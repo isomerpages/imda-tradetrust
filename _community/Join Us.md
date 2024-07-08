@@ -8,8 +8,7 @@ description: ""
 <p>Beyond replacing paper with electronic documents, businesses aiming to
 unlock the full potential of digital solutions should identify the key
 priorities for their organization and seek technology solutions that cater
-to their specific requirements.</p>
-<p>For example, do you want to:</p>
+to their specific requirements. For example, do you want to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>achieve consistency and efficiency through standardize digital trade to
