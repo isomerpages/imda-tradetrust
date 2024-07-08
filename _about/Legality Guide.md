@@ -56,10 +56,10 @@ the UK and the US</p>
 published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;&nbsp;</strong>
 </p>
 <p>Look up the list of countries and territories that are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
-<p>Promoting the adoption of TradeTrust, would allow such electronic transferable
-records to be similarly recognised across the borders – provides greater
-certainty to businesses and removing one barrier to end-to-end digital
-trade.</p>
+<p>The adoption of TradeTrust, would allow you to to easily create and manage
+MLETR-compliant electronic transferable records that satisfy relevant statutory
+laws, providing greater certainty to businesses and removing one barrier
+to end-to-end digital trade.</p>
 <p></p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
 <p>In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
