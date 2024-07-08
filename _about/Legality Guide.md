@@ -67,14 +67,14 @@ international trade law and the latest technological advancements. The
 amendment adopted the Model Law on Electronic Transferable Records (MLETR)
 published by the United Nations Commission on International Trade Law for
 the creation and use of ETRs.</p>
-<p>This allows Singapore’s jurisdiction to legally recognise ETRs as functional
-equivalents to their paper versions.</p>
 <blockquote>
-<p>The creation and use of electronic documents including transferable ones,
-govern under the Singapore’s legal system, are legally valid.</p>
+<p>ETA allows Singapore’s jurisdiction to legally recognise ETRs as functional
+equivalents to their paper versions.</p>
 </blockquote>
-<p>while the ETA gives electronically concluded contracts the same status
-as written contracts through a set of legal provisions, it does</p>
+<p>While the ETA gives electronically concluded contracts the same status
+as written contracts through a set of legal provisions, it does not apply
+to certain types of legal instruments or contracts as listed in the First
+Schedule of the Act, also known as the “Exclusion List”</p>
 <p>not apply to certain types of legal instruments or contracts as listed
 in the First Schedule of the Act, also known as the “Exclusion List”, as
 these</p>
