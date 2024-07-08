@@ -1,5 +1,5 @@
 collections:
-  about-tradetrust:
+  about:
     output: true
     order:
       - Who We Are.md
