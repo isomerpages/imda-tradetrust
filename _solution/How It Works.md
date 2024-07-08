@@ -66,7 +66,7 @@ of Origin, where the provenance and authenticity of the document can be
 easily verified by any party independently just with an internet access
 or through automation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VERIFIABLE DOCUMENTS’ INTEROPERABILITY" src="/images/Verifiable_Doc_Use_Case.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VDV1.png">
 </div>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -75,10 +75,10 @@ or through automation.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Benefits_Exporters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Exporter.png">
 </div>
 </div>
 </details>
@@ -87,7 +87,7 @@ or through automation.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Importer.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Importer.png">
 </div>
 </div>
 </details>
@@ -96,7 +96,7 @@ or through automation.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Customs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_CA.png">
 </div>
 </div>
 </details>
@@ -105,7 +105,7 @@ or through automation.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Banker.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Banker.png">
 </div>
 </div>
 </details>
