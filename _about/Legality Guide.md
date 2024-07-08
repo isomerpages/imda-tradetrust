@@ -54,7 +54,7 @@ the UK and the US</p>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
 published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;&nbsp;</strong>
 </p>
-<p>Look up for the list of countries and territories which are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
+<p>Look up the list of countries and territories that are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
 <p>Promoting the adoption of TradeTrust, would allow such electronic transferable
 records to be similarly recognised across the borders – provides greater
 certainty to businesses and removing one barrier to end-to-end digital
