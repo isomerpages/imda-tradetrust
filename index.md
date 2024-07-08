@@ -89,7 +89,7 @@ sections:
         days to less than 24 hours for cross-border trade .
       button: Learn more
       alt: Image alt text
-      image: /images/TradeTrust_Pilot.PNG
+      image: /images/anigif_tradetrust_V2_040724.gif
       url: https://www.tradetrust.io/
   - textcards:
       title: Ready to Transform the way you Trade?
