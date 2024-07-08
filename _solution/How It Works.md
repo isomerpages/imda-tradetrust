@@ -117,10 +117,6 @@ solutions when dealing with transferable documents such as blank-endorsed
 electronic Bill of Lading(eBL), where the provenance and authenticity of
 the document can be easily verified by any party independently just with
 an internet access or through automation and endorsement of eBL digitally.</p>
-<p>&lt;insert new TRANSFERABLE DOCUMENTS’ INTEROPERABILITY diagram&gt;</p>
-<p></p>
-<p></p>
-<p></p>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -128,7 +124,7 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Benefits_Exporters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Exporter.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
@@ -140,7 +136,7 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Importer.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Importer.png">
 </div>
 </div>
 </details>
@@ -148,18 +144,12 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <summary>CERT ISSUING/CHECKING AUTHORITY</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Customs.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>BANKER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/Verifiable_Banker.png">
-</div>
 </div>
 </details>
 </div>
