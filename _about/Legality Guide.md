@@ -80,5 +80,3 @@ power of attorney and conveyance of immovable property.</p>
 greatly benefit you by improving the speed and security of your transactions,
 allowing you to reuse data, and automating certain transactions. This makes
 trading more efficient and convenient for you.</p>
-<h3></h3>
-<p></p>
