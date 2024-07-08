@@ -65,14 +65,20 @@ to end-to-end digital trade.</p>
 was amended to align Singapore’s legal and regulatory infrastructure with
 international trade law and the latest technological advancements. The
 amendment adopted the Model Law on Electronic Transferable Records (MLETR)
-published by the United Nations Commission on International Trade Law.</p>
-<p>This allows Singapore’s jurisdiction to legally recognise Electronic Transferable
-Records as functional equivalents to their paper versions.</p>
+published by the United Nations Commission on International Trade Law for
+the creation and use of ETRs.</p>
+<p>This allows Singapore’s jurisdiction to legally recognise ETRs as functional
+equivalents to their paper versions.</p>
 <blockquote>
 <p>The creation and use of electronic documents including transferable ones,
 govern under the Singapore’s legal system, are legally valid.</p>
 </blockquote>
-<p></p>
+<p>while the ETA gives electronically concluded contracts the same status
+as written contracts through a set of legal provisions, it does</p>
+<p>not apply to certain types of legal instruments or contracts as listed
+in the First Schedule of the Act, also known as the “Exclusion List”, as
+these</p>
+<p>were assessed to be not ready for the electronic medium at that time.</p>
 <p>Having your documents and instruments available in electronic form can
 greatly benefit you by improving the speed and security of your transactions,
 allowing you to reuse data, and automating certain transactions. This makes
