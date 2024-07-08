@@ -122,7 +122,6 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <details class="isomer-details">
 <summary>EXPORTER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Exporter.png">
 </div>
@@ -134,16 +133,17 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <details class="isomer-details">
 <summary>IMPORTER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Importer.png">
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CERT ISSUING/CHECKING AUTHORITY</summary>
+<summary>CARRIER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Carrier.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
