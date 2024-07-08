@@ -73,9 +73,9 @@ equivalents to their paper versions.</p>
 </blockquote>
 <p>While the ETA gives electronically concluded contracts the same status
 as written contracts through a set of legal provisions, it does not apply
-to certain types of legal instruments or contracts as listed in the First
-Schedule of the Act, also known as the “Exclusion List” such as creation
-or execution of a will, power of attorney and conveyance of immovable property.</p>
+to certain types of legal instruments or contracts as listed in the <a href="https://sso.agc.gov.sg/Act/ETA2010?ProvIds=Sc1-#Sc1-" rel="noopener noreferrer nofollow" target="_blank">First Schedule of the Act</a>,
+also known as the “Exclusion List” such as creation or execution of a will,
+power of attorney and conveyance of immovable property.</p>
 <p>not apply to certain types of legal instruments or contracts as listed
 in the First Schedule of the Act, also known as the “Exclusion List”, as
 these</p>
