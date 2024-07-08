@@ -61,7 +61,7 @@ certainty to businesses and removing one barrier to end-to-end digital
 trade.</p>
 <p></p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
-<p>&nbsp;In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
+<p>In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
 was amended to align Singapore’s legal and regulatory infrastructure with
 international trade law and the latest technological advancements. The
 amendment adopted the Model Law on Electronic Transferable Records (MLETR)
