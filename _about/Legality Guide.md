@@ -28,8 +28,8 @@ choice of law and jurisdiction as under current law.</p>
 of Great Britain and Northern Ireland, New York, Delaware and the Abu Dhabi
 Global Markets in the United Arab Emirates are MLETR- compliant.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
-with input on US aspects from Blank Rome LLP, to develop a TradeTrust Legality
-Guide.</p>
+with input on US law aspects from Blank Rome LLP, to develop a TradeTrust
+Legality Guide.</p>
 <p>You will find</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,7 +41,7 @@ eBLs from being widely used in global trade</p>
 the UK and the US</p>
 </li>
 <li>
-<p>Advice on how TradeTrust eBLs work between MLETR and non-MLETR countries/territories</p>
+<p>Advice on how TradeTrust eBLs can work between MLETR and non-MLETR countries/territories</p>
 <p></p>
 </li>
 </ul>
@@ -52,7 +52,7 @@ the UK and the US</p>
 <p></p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
-published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law allows the legal use of electronic transferable records (ETRs) within countries and across borders.&nbsp;&nbsp;</strong>
+published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;&nbsp;</strong>
 </p>
 <p>Look up for the list of countries and territories which are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
 <p>Promoting the adoption of TradeTrust, would allow such electronic transferable
