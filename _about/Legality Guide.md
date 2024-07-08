@@ -60,7 +60,6 @@ published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/elect
 MLETR-compliant electronic transferable records that satisfy relevant statutory
 laws, providing greater certainty to businesses and removing one barrier
 to end-to-end digital trade.</p>
-<p></p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
 <p>In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
 was amended to align Singapore’s legal and regulatory infrastructure with
