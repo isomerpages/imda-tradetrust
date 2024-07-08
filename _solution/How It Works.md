@@ -149,7 +149,9 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <details class="isomer-details">
 <summary>BANKER</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Banker.png">
+</div>
 </div>
 </details>
 </div>
@@ -157,4 +159,5 @@ an internet access or through automation and endorsement of eBL digitally.</p>
 <blockquote>
 <p>Wonder how to get started, &lt;contact us&gt;.</p>
 </blockquote>
+<p></p>
 <p></p>
