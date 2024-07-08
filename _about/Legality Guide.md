@@ -69,7 +69,7 @@ published by the United Nations Commission on International Trade Law for
 the creation and use of ETRs.</p>
 <blockquote>
 <p>ETA allows Singapore’s jurisdiction to legally recognise ETRs as functional
-equivalents to their paper versions.</p>
+equivalent to their paper versions.</p>
 </blockquote>
 <p>While the ETA gives electronically concluded contracts the same status
 as written contracts through a set of legal provisions, it does not apply
