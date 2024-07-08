@@ -26,7 +26,7 @@ to a paper bill of lading. That is the same position with regard to express
 choice of law and jurisdiction as under current law.</p>
 <p>Some other jurisdictions including<strong> </strong>the<strong> </strong>Kingdom
 of Great Britain and Northern Ireland, New York, Delaware, the Abu Dhabi
-Global Markets in the United Arab Emirates are MLETR-compliant and more.</p>
+Global Markets in the United Arab Emirates are MLETR-compliant and <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">more</a>.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US law aspects from Blank Rome LLP, to develop a TradeTrust
 Legality Guide.</p>
