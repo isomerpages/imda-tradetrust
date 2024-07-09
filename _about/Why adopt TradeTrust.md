@@ -39,7 +39,7 @@ complete transparency, traceability for end-to-end supply chain optimisation</p>
 be verified independently</p>
 </li>
 <li>
-<p>Data confidentiality is ensured as the blockchain does not store any business
+<p>Ensure data confidentiality as the blockchain does not store any business
 data</p>
 </li>
 </ul>
