@@ -36,8 +36,8 @@ Legality Guide. You will find</p>
 eBLs from being widely used in global trade</p>
 </li>
 <li>
-<p>How TradeTrust eBLs work under the MLETR and legal systems in Singapore,
-the UK and the US</p>
+<p>How TradeTrust-enabled eBLs work under the MLETR and legal systems in
+Singapore, the UK and the US</p>
 </li>
 <li>
 <p>Advice on how TradeTrust eBLs can work between MLETR and non-MLETR countries/territories</p>
