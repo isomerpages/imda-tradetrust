@@ -30,9 +30,9 @@ business ecosystems.</p>
 <blockquote>
 <p>Transform the way you trade - subscribe to our TradeTrust newsletter for
 exclusive insights. &lt;link to google form&gt;</p>
+<p></p>
 </blockquote>
-<p></p>
-<p></p>
+<hr>
 <p><strong>More about IMDA</strong>
 </p>
 <p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
