@@ -23,8 +23,8 @@ international trade safer, faster, easier, and more cost-effective.&nbsp;</p>
 <p>To make international trade more secure, efficient, and accessible for
 everyone by providing a globally-harmonised and inclusive framework. TradeTrust
 achieves this by promoting trust, efficiency, and inclusivity in digital
-trade practices</p>
-<p>Offered as a digital utility to all, TradeTrust is provided open-source
+trade practices.</p>
+<p>And offered as a digital utility to all, TradeTrust is provided open-source
 so that all parties can easily adopt for free and build upon it, benefiting
 business ecosystems.</p>
 <blockquote>
