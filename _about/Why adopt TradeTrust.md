@@ -26,7 +26,7 @@ more profitable trades and capital financing, while minimizing legal complexitie
 </li>
 <li>
 <p>Conduct trustworthy trade and establish new trading relationships with
-complete transparency, traceability for end-to-end supply chain optimisation.</p>
+complete transparency, traceability for end-to-end supply chain optimisation</p>
 <p></p>
 </li>
 </ul>
@@ -37,7 +37,7 @@ complete transparency, traceability for end-to-end supply chain optimisation.</p
 </li>
 <li>
 <p>Data confidentiality is ensured as the blockchain does not store any business
-data.</p>
+data</p>
 </li>
 </ul>
 <h4>Sustainability &amp; Compliance</h4>
