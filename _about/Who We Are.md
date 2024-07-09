@@ -33,9 +33,6 @@ exclusive insights. &lt;link to google form&gt;</p>
 </blockquote>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<hr>
 <p><strong>More about IMDA</strong>
 </p>
 <p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
