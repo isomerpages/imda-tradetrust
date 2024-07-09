@@ -35,7 +35,7 @@ complete transparency, traceability for end-to-end supply chain optimisation</p>
 <h4>Secure &amp; Confidential</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ensure electronic documents are cryptographically trustworthy and documents’
+<p>Ensure electronic documents are cryptographically trustworthy - documents’
 proof of source and authenticity can be verified independently</p>
 </li>
 <li>
