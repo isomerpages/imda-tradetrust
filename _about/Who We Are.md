@@ -32,7 +32,7 @@ business ecosystems.</p>
 exclusive insights. &lt;link to google form&gt;</p>
 </blockquote>
 <hr>
-<p><strong>About IMDA</strong>
+<p><strong>More about IMDA</strong>
 </p>
 <p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
 is a statutory board in the Singapore government.&nbsp; IMDA develops and
