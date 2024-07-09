@@ -15,8 +15,9 @@ of electronic trade documents across digital platforms. Electronic documents
 issued this way can be trusted, portable, and legally effective across
 different systems, thereby streamlining cross-platform interoperability
 and enhancing overall operational efficiency for businesses and governments.</p>
-<p>And offered as a digital utility, it is open-sourced so that all parties
-can freely adopt and build upon it to benefit their business ecosystem.</p>
+<p>And offered as a digital utility (also known as digital public infrastructure),
+it is open-sourced so that all parties can freely adopt and build upon
+it to benefit their business ecosystem.</p>
 <blockquote>
 <p>It’s like providing you with both a free tool and the supporting structure,
 to turn your documents into smart electronic documents that are portable
