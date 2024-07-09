@@ -11,7 +11,9 @@ description: ""
 ready partners.</p>
 </li>
 <li>
-<p>With no data format or standard restrictions&nbsp;such as DCSA and BIMCO.</p>
+<p>No semantic/data format and standard restrictions. You can choose from
+industry data standards like DCSA’s and BIMCO’s and any existing transmission
+protocol like email, FTP.</p>
 </li>
 <li>
 <p><em>Best practices enable scalability and cross-platform interoperability so you and your trading partners are free to choose your preferred TradeTrust-enabled system (no need for all parties to use a common digital platform and contractual rulebook).</em>
@@ -57,11 +59,11 @@ guide&gt;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Security Assessment was completed by third party - Ernst &amp; Young to
-ensure the TradeTrust framework for its reliability and trustworthiness.</p>
+ensure the TradeTrust framework for its reliability and trustworthiness</p>
 </li>
 <li>
 <p>A proven solution demonstrated through &lt;real live implementations&gt;
-by businesses and over 30 successful trials.</p>
+by businesses and over 30 successful trials</p>
 </li>
 </ul>
 <h4>Award-Winning Solution</h4>
