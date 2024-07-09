@@ -51,9 +51,11 @@ Singapore, the UK and the US</p>
 <p></p>
 <h3><strong>Model Law on Electronic Transferable Records</strong></h3>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
-published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;&nbsp;</strong>
+published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;</strong>
 </p>
-<p>Look up the list of countries and territories that are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.</p>
+<p>Look up the list of countries and territories that are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.
+It is recommended to check for any exclusion to certain types of legal
+instruments of your preferred governing law.</p>
 <p>The adoption of TradeTrust, would allow you to to easily create and manage
 MLETR-compliant electronic transferable records that satisfy relevant statutory
 laws, providing greater certainty to businesses and removing one barrier
