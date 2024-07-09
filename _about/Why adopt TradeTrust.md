@@ -11,9 +11,11 @@ description: ""
 ready partners.</p>
 </li>
 <li>
-<p>No semantic/data format and standard restrictions. You can choose from
-industry data standards like DCSA’s and BIMCO’s and any existing transmission
-protocol like email, FTP.</p>
+<p>No semantic/data format and standard restrictions&nbsp;such as DCSA and
+BIMCO</p>
+</li>
+<li>
+<p>Work with any of your existing transmission protocol like email, FTP</p>
 </li>
 <li>
 <p><em>Best practices enable scalability and cross-platform interoperability so you and your trading partners are free to choose your preferred TradeTrust-enabled system (no need for all parties to use a common digital platform and contractual rulebook).</em>
