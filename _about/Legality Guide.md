@@ -29,8 +29,7 @@ of Great Britain and Northern Ireland, New York, Delaware, the Abu Dhabi
 Global Markets in the United Arab Emirates and <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">more</a>.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US law aspects from Blank Rome LLP, to develop a TradeTrust
-Legality Guide.</p>
-<p>You will find</p>
+Legality Guide. You will find</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>How TradeTrust addresses legal and technical issues that have prevented
