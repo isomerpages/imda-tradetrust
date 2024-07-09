@@ -15,7 +15,7 @@ Electronic Transferable Records (MLETR) to address these difficulties.</p>
 <blockquote>
 <p>When using these electronic documents across MLETR-aligned and/or non-MLETR-aligned
 jurisdiction, it is recommended to expressly choose a governing law and
-jurisdiction provision for the documents with a MLETR-compliant jurisdictions.</p>
+jurisdiction provision for the documents with a MLETR-compliant jurisdiction.</p>
 </blockquote>
 <p>Using an example of a shipment from a non MLETR-compliant jurisdiction
 like China to Singapore, as long as the TradeTrust-enabled electronic Bill
