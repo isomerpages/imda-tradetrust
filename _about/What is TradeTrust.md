@@ -39,16 +39,16 @@ meeting standards and legal requirements.</p>
 </p>
 </li>
 </ul>
-<p>Having your documents and instruments available in electronic form can
-greatly benefit you by improving the speed and security of your transactions,
-allowing you to reuse data, and automating certain transactions. This makes
-trading more efficient and convenient for you and your trading partners.</p>
+<p></p>
 <p>To enjoy the capabilities of TradeTrust all from the convenience of your
 system that you are familiar with, you can integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
 of TradeTrust ready &lt;partners&gt;.</p>
 <p>And to verify documents received, only an internet access is required.</p>
-<p></p>
+<p>Having your documents and instruments available in electronic form can
+greatly benefit you by improving the speed and security of your transactions,
+allowing you to reuse data, and automating certain transactions. This makes
+trading more efficient and convenient for you and your trading partners.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
