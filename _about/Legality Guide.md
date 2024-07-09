@@ -55,7 +55,7 @@ published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/elect
 </p>
 <p>Look up the list of countries and territories that are <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">MLETR-compliant</a>.
 It is recommended to check for any exclusion to certain types of legal
-instruments of your preferred governing law.</p>
+instruments under your preferred governing law.</p>
 <p>The adoption of TradeTrust, would allow you to to easily create and manage
 MLETR-compliant electronic transferable records that satisfy relevant statutory
 laws, providing greater certainty to businesses and removing one barrier
