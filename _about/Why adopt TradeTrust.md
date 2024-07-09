@@ -35,8 +35,8 @@ complete transparency, traceability for end-to-end supply chain optimisation</p>
 <h4>Secure &amp; Confidential</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ensure electronic documents are cryptographically trustworthy and can
-be verified independently</p>
+<p>Ensure electronic documents are cryptographically trustworthy and documents’
+proof of source and authenticity can be verified independently</p>
 </li>
 <li>
 <p>Ensure data confidentiality as the blockchain does not store any business
