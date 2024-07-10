@@ -17,6 +17,7 @@ variant: markdown
 		1.4  If you do not agree to these Terms of Use, you must not use the Service.
     
 		1.5  All terms and conditions of use of IMDA’s website (available at [www.imda.gov.sg/terms-of-use](https://www.imda.gov.sg/terms-of-use) shall apply mutatis mutandis to this website.
+
 2.    **Nature of the Service**
     
     2.1  Please see the Schedule for more information and terms concerning the Service.
