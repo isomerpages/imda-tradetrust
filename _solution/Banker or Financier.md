@@ -43,7 +43,7 @@ an audit trail. As you can trace the ownership and holdership of documents,
 this helps to prevent double or multiple financing.</p>
 <p></p>
 <blockquote>
-<p>Learn more on &lt;legality guide&gt;</p>
+<p>Learn more about <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide</a>.</p>
 </blockquote>
 <p></p>
 </li>
@@ -125,8 +125,7 @@ the onboarding process by banks in Singapore.</p>
 </ul>
 <p></p>
 <blockquote>
-<p>Learn more about &lt;how it works&gt;.</p>
+<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>.</p>
 </blockquote>
-<p></p>
 <p></p>
 <p></p>
