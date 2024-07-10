@@ -77,7 +77,7 @@ sections:
           description: Innovate and create new IT product offerings by building upon
             TradeTrust
           linktext: Learn more
-          url: ""
+          url: /business-solution-provider/
       subtitle: DIGITAL TRADE ECOSYSTEM
       description: Efficiently streamline end-to-end trade document processing to
         ensure optimal operational efficiency, trust, and convenience for
