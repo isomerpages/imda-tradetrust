@@ -11,8 +11,8 @@ variant: markdown
     1.1  These Terms of Use govern your access to and use of our website and the services provided on our website, including any and all applications (whether as software or as a website or otherwise), their contents, push notifications and all other accompanying materials as identified in the Schedule below (collectively, the “**Service**”).
 		
     1.2  The Service is provided to you by the Infocomm Media Development Authority of Singapore ("**IMDA**").
-    
-		1.3  By accessing or using any part of the Service, you unconditionally agree and accept to be legally bound by these Terms of Use and any amendments thereto from time to time. IMDA reserves the right to change these Terms of Use at its sole discretion and at any time. **You should read the Terms of Use carefully each time you access or use any part of the Service as such access or use will constitute your agreement to the Terms of Use and any amendments to it.**
+		
+	1.3  By accessing or using any part of the Service, you unconditionally agree and accept to be legally bound by these Terms of Use and any amendments thereto from time to time. IMDA reserves the right to change these Terms of Use at its sole discretion and at any time. **You should read the Terms of Use carefully each time you access or use any part of the Service as such access or use will constitute your agreement to the Terms of Use and any amendments to it.**
 		1.4  If you do not agree to these Terms of Use, you must not use the Service.
 		1.5  All terms and conditions of use of IMDA’s website (available at [www.imda.gov.sg/terms-of-use](https://www.imda.gov.sg/terms-of-use) shall apply mutatis mutandis to this website.
 		
