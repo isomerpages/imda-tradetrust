@@ -19,8 +19,8 @@ locations:
     title: Infocomm Media Development Authority Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6377 3800
+      - email: tradetrust@imda.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
 feedback: ""
