@@ -89,7 +89,7 @@ charges of holding cargo due to delay in documentation</div>
 <p></p>
 <p></p>
 <blockquote>
-<p>Learn more about &lt;how it works&gt; or try &lt;Verify Documents&gt;.</p>
+<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a> or try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
 <p></p>
 </blockquote>
 <p></p>
