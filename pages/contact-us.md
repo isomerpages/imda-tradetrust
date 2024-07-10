@@ -17,13 +17,6 @@ locations:
         description: Closed on Public Holidays
     maps_link: https://www.onemap.gov.sg/?lat=1.2748275&lng=103.7990649
     title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6123 4567
