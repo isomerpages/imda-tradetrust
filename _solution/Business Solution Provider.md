@@ -61,17 +61,20 @@ TradeTrust ready platforms.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&lt;UN/CEFACT&gt;,</p>
+<p><a href="https://unece.org/trade/uncefact" rel="noopener noreferrer nofollow" target="_blank">UN/CEFACT</a>,</p>
 </li>
 <li>
-<p>&lt;W3C&gt;'s verifiable credential(in progress),</p>
+<p><a href="https://www.w3.org/" rel="noopener noreferrer nofollow" target="_blank">W3C</a> verifiable
+credential(in progress),</p>
 </li>
 <li>
-<p>&lt;UNESCAP&gt;</p>
+<p><a href="https://www.unescap.org/" rel="noopener noreferrer nofollow" target="_blank">UNESCAP</a>
+</p>
 </li>
 <li>
-<p>UNCITRAL Model Law on Electronic Transferable Records &lt;(MLETR)&gt;.
-Learn more at &lt;legality guide&gt;</p>
+<p>UNCITRAL Model Law on Electronic Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
+Learn more at <a href="/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide.</a>
+</p>
 </li>
 </ul>
 </li>
