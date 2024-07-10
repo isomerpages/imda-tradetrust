@@ -159,7 +159,7 @@ and endorsement of eBL digitally.</p>
 </div>
 <p></p>
 <blockquote>
-<p>Wonder how to get started, &lt;contact us&gt;.</p>
+<p>Wonder how to get started, <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">conduct us</a>.</p>
 </blockquote>
 <p></p>
 <p></p>
