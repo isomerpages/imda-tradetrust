@@ -61,10 +61,9 @@ at any point in time.</p>
 </div>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
-solutions when dealing with verifiable documents such as the Certificate
-of Origin, where the provenance and authenticity of the document can be
-easily verified by any party independently just with an internet access
-or through automation.</p>
+solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
+where the provenance and authenticity of the document can be easily verified
+by any party independently just with an internet access or through automation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VDV1.png">
 </div>
@@ -112,10 +111,10 @@ or through automation.</p>
 <p></p>
 <h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
-solutions when dealing with transferable documents such as blank-endorsed
-electronic Bill of Lading(eBL), where the provenance and authenticity of
-the document can be easily verified by any party independently just with
-an internet access or through automation and endorsement of eBL digitally.</p>
+solutions when dealing with transferable documents such as<strong> blank-endorsed electronic Bill of Lading</strong>(eBL),
+where the provenance and authenticity of the document can be easily verified
+by any party independently just with an internet access or through automation
+and endorsement of eBL digitally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDV1.png">
