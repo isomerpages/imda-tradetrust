@@ -8,23 +8,23 @@ variant: markdown
 
 1.       **General**
     
-    1.  These Terms of Use govern your access to and use of our website and the services provided on our website, including any and all applications (whether as software or as a website or otherwise), their contents, push notifications and all other accompanying materials as identified in the Schedule below (collectively, the “**Service**”).
-    2.  The Service is provided to you by the Infocomm Media Development Authority of Singapore ("**IMDA**").
-    3.  By accessing or using any part of the Service, you unconditionally agree and accept to be legally bound by these Terms of Use and any amendments thereto from time to time. IMDA reserves the right to change these Terms of Use at its sole discretion and at any time. **You should read the Terms of Use carefully each time you access or use any part of the Service as such access or use will constitute your agreement to the Terms of Use and any amendments to it.**
-    4.  If you do not agree to these Terms of Use, you must not use the Service.
-    5.  All terms and conditions of use of IMDA’s website (available at [www.imda.gov.sg/terms-of-use](https://www.imda.gov.sg/terms-of-use) shall apply mutatis mutandis to this website.
+    1.1  These Terms of Use govern your access to and use of our website and the services provided on our website, including any and all applications (whether as software or as a website or otherwise), their contents, push notifications and all other accompanying materials as identified in the Schedule below (collectively, the “**Service**”).
+    1.2  The Service is provided to you by the Infocomm Media Development Authority of Singapore ("**IMDA**").
+    1.3  By accessing or using any part of the Service, you unconditionally agree and accept to be legally bound by these Terms of Use and any amendments thereto from time to time. IMDA reserves the right to change these Terms of Use at its sole discretion and at any time. **You should read the Terms of Use carefully each time you access or use any part of the Service as such access or use will constitute your agreement to the Terms of Use and any amendments to it.**
+    1.4  If you do not agree to these Terms of Use, you must not use the Service.
+    1.5  All terms and conditions of use of IMDA’s website (available at [www.imda.gov.sg/terms-of-use](https://www.imda.gov.sg/terms-of-use) shall apply mutatis mutandis to this website.
 2.    **Nature of the Service**
     
-    1.  Please see the Schedule for more information and terms concerning the Service.
+    2.1  Please see the Schedule for more information and terms concerning the Service.
 3.   **Licence Terms and Restrictions**
     
-    1.  The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by IMDA. Please see clause 4 (Third Party Materials) for more information.
-    2.  Subject to these Terms of Use, IMDA grants to you a non-exclusive and non-transferable right to access and use the Service for personal or internal purposes only, and only for such use permitted by the functions of the Service. You shall not, amongst other things, modify, reverse-engineer, decompile, adapt, publish, redistribute or sublicense the Service or any part of the Service without the prior written consent of IMDA or the respective third-party owners. You also shall not use the Service in violation of any applicable laws or agreements that you have with any third parties. All express or implied rights to the Service not specifically granted herein are expressly reserved to IMDA.
-    3.  IMDA reserves the right to:
-        1.  Update or modify the Service from time to time;
-        2.  Deny or restrict access to or use of the Service by any particular person without ascribing any reasons whatsoever; and
-        3.  Discontinue the Service at any time without notice or liability to you whatsoever, whereupon all rights granted to you hereunder shall also terminate forthwith. You shall further upon notice from IMDA return or destroy all copies of the Service or materials therein that you may have downloaded.
-    4.  You will not interfere or attempt to interfere with the proper working of the Service or otherwise do anything that imposes an unreasonable or disproportionately large load on IMDA’s servers
+    3.1  The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by IMDA. Please see clause 4 (Third Party Materials) for more information.
+    3.2  Subject to these Terms of Use, IMDA grants to you a non-exclusive and non-transferable right to access and use the Service for personal or internal purposes only, and only for such use permitted by the functions of the Service. You shall not, amongst other things, modify, reverse-engineer, decompile, adapt, publish, redistribute or sublicense the Service or any part of the Service without the prior written consent of IMDA or the respective third-party owners. You also shall not use the Service in violation of any applicable laws or agreements that you have with any third parties. All express or implied rights to the Service not specifically granted herein are expressly reserved to IMDA.
+    3.3  IMDA reserves the right to:
+        3.3.1  Update or modify the Service from time to time;
+        3.3.2  Deny or restrict access to or use of the Service by any particular person without ascribing any reasons whatsoever; and
+        3.3.3  Discontinue the Service at any time without notice or liability to you whatsoever, whereupon all rights granted to you hereunder shall also terminate forthwith. You shall further upon notice from IMDA return or destroy all copies of the Service or materials therein that you may have downloaded.
+    3.4  You will not interfere or attempt to interfere with the proper working of the Service or otherwise do anything that imposes an unreasonable or disproportionately large load on IMDA’s servers
 4.   
     
     #### Third Party Materials
