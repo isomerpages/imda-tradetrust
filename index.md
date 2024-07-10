@@ -105,7 +105,7 @@ sections:
         - title: Partner Us
           description: Register as a TradeTrust ready partner
           linktext: Sign up
-          url: ""
+          url: https://form.gov.sg/63b7e833df5f2900128cdbb6
   - announcements:
       title: Latest Happenings
       id: announcements
