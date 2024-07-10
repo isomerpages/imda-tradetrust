@@ -24,9 +24,12 @@ variant: markdown
 3.   **Licence Terms and Restrictions**
     
     3.1  The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by IMDA. Please see clause 4 (Third Party Materials) for more information.
+		
     3.2  Subject to these Terms of Use, IMDA grants to you a non-exclusive and non-transferable right to access and use the Service for personal or internal purposes only, and only for such use permitted by the functions of the Service. You shall not, amongst other things, modify, reverse-engineer, decompile, adapt, publish, redistribute or sublicense the Service or any part of the Service without the prior written consent of IMDA or the respective third-party owners. You also shall not use the Service in violation of any applicable laws or agreements that you have with any third parties. All express or implied rights to the Service not specifically granted herein are expressly reserved to IMDA.
+		
     3.3  IMDA reserves the right to:
-        3.3.1  Update or modify the Service from time to time;
+		
+		3.3.1  Update or modify the Service from time to time;
         3.3.2  Deny or restrict access to or use of the Service by any particular person without ascribing any reasons whatsoever; and
         3.3.3  Discontinue the Service at any time without notice or liability to you whatsoever, whereupon all rights granted to you hereunder shall also terminate forthwith. You shall further upon notice from IMDA return or destroy all copies of the Service or materials therein that you may have downloaded.
     3.4  You will not interfere or attempt to interfere with the proper working of the Service or otherwise do anything that imposes an unreasonable or disproportionately large load on IMDA’s servers
