@@ -311,7 +311,8 @@ and a<strong> reduction in the risk of fraud.</strong>
 </div>
 <p></p>
 <blockquote>
-<p>&lt;Join us&gt; for proof of concept and adoption.</p>
+<p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Join us</a> for
+proof of concept and adoption.</p>
 </blockquote>
 <p></p>
 <p></p>
