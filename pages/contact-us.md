@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: +65 6377 3800
       - email: tradetrust@imda.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 feedback: ""
 ---
