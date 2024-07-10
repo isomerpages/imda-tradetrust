@@ -4,7 +4,7 @@ permalink: /about/why-adopt-tradetrust/
 variant: tiptap
 description: ""
 ---
-<h4>Easy Adoption</h4>
+<h4><strong>Easy Adoption</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Quick launch by using free open-source code or the services of TradeTrust
@@ -20,7 +20,7 @@ FTP</p>
 </p>
 </li>
 </ul>
-<h4>Save Time &amp; Money</h4>
+<h4><strong>Save Time &amp; Money</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Standardizing digital trade leads to consistency, resulting in faster,
@@ -32,7 +32,7 @@ complete transparency, traceability for end-to-end supply chain optimisation</p>
 <p></p>
 </li>
 </ul>
-<h4>Secure &amp; Confidential</h4>
+<h4><strong>Secure &amp; Confidential</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ensure electronic documents are cryptographically trustworthy - documents’
@@ -43,7 +43,7 @@ proof of source and authenticity can be verified independently</p>
 data</p>
 </li>
 </ul>
-<h4>Sustainability &amp; Compliance</h4>
+<h4><strong>Sustainability &amp; Compliance</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Supports United Nations' Sustainable Development Goals (SDGs) by going
@@ -56,7 +56,7 @@ Law on Electronic Transferable Records &lt;(MLETR)&gt;. Learn more at &lt;legali
 guide&gt;</p>
 </li>
 </ul>
-<h4>Reliability</h4>
+<h4><strong>Reliability</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Security Assessment was completed by third party - Ernst &amp; Young to
@@ -67,7 +67,7 @@ ensure the TradeTrust framework for its reliability and trustworthiness</p>
 by businesses and over 30 successful trials</p>
 </li>
 </ul>
-<h4>Award-Winning Solution</h4>
+<h4><strong>Award-Winning Solution</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
