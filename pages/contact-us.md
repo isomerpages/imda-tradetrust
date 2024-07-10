@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Infocomm Media Development Authority
+agency_name: TradeTrust
 locations:
   - address:
       - "10 Pasir Panjang Road #03-01"
@@ -23,10 +23,5 @@ contacts:
       - email: enquiries@abc.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 feedback: ""
 ---
