@@ -29,7 +29,7 @@ such as ExxonMobil, Maersk, and PIL.</p>
 <p>Still unsure? Validate the practical application of TradeTrust by joining
 our trial. No hardware installations or initial investment required.</p>
 <blockquote>
-<p><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Connect with our Engagement team today!</a>
+<p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a>
 </p>
 </blockquote>
 <p></p>
