@@ -210,6 +210,7 @@ for SMEs.</div>
 </div>
 <p></p>
 <blockquote>
-<p>&lt;Join us&gt; as a TradeTrust ready partner.</p>
+<p><a href="https://form.gov.sg/63b7e833df5f2900128cdbb6" rel="noopener noreferrer nofollow" target="_blank">Join us</a> as
+a TradeTrust ready partner.</p>
 </blockquote>
 <p></p>
