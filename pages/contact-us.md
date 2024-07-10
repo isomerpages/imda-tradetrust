@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: TradeTrust of Infocomm Media Development Authority
+agency_name: TradeTrust
 locations:
   - address:
       - "10 Pasir Panjang Road #03-01"
@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
     maps_link: https://www.onemap.gov.sg/?lat=1.2748275&lng=103.7990649
-    title: Main Office
+    title: Infocomm Media Development Authority Office
 contacts:
   - content:
       - phone: +65 6123 4567
