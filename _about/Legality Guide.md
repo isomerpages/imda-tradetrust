@@ -58,8 +58,6 @@ countries and territories whose legislation has been influenced by the
 MLETR and the principles on which it is based. It is recommended that professional
 advice be sought on choice of governing law in regards to electronic transferable
 records.</p>
-<p>It is recommended to check for any exclusion to certain types of legal
-instruments under your choice of governing law.</p>
 <p>The adoption of TradeTrust, would allow you to to easily create and manage
 MLETR-compliant electronic transferable records that satisfy relevant statutory
 laws, providing greater certainty to businesses and removing one barrier
