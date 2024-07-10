@@ -59,19 +59,13 @@ variant: markdown
     7.3  IMDA reserves all rights:
         7.3.1  to disable any links to, or frames of, any materials which are unauthorised (including without limitation materials which imply endorsement by or association or affiliation with IMDA, materials containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights); and
         7.3.2  to disclaim responsibility and/or liability for materials that link to or frame any part of the Service
-8.   
+8.   **Privacy Policy**
     
-    #### Privacy Policy
+    8.1  You also agree to the terms of the Privacy Policy for the Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
+9.   **Rights of Third Parties**
     
-    1.  You also agree to the terms of the Privacy Policy for the Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
-9.   
-    
-    #### Rights of Third Parties
-    
-    1.  Subject to the rights of the Third Party set out in Clause 4.5, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
-10.   
-    
-    #### Assignment
+    9.1  Subject to the rights of the Third Party set out in Clause 4.5, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
+10. **Assignment**
     
     1.  You may not assign or sub-contract this Terms of Use without the prior written consent of IMDA.
     2.  IMDA may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract
