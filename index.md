@@ -21,10 +21,10 @@ sections:
       key_highlights:
         - title: What is TradeTrust
           description: Overview
-          url: /about-tradetrust/what-is-tradetrust/overview/
+          url: /what-is-tradetrust/
         - title: How it works
           description: Trusted Interoperability
-          url: /how-to-get-started/easy-steps/
+          url: /how-it-works/
         - title: Why adopt TradeTrust
           description: Key Benefits
           url: /benefits-of-tradetrust/
@@ -38,7 +38,7 @@ sections:
       description: To unify the international trade ecosystem through a framework that
         standardises digital trade with enhanced security and legal certainty.
       button: Learn More
-      url: /Overview/
+      url: /what-is-tradetrust/
   - textcards:
       title: Solution
       id: textcards
