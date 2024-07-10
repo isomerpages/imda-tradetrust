@@ -82,8 +82,8 @@ charges by customers due to delay in documentation</div>
 <h3></h3>
 <p></p>
 <blockquote>
-<p>Try &lt;Create Documents&gt; and &lt;Verify Documents&gt;. Learn more
-about &lt;how it works&gt;.</p>
+<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>. Try <a href="https://creator.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
+<a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
 </blockquote>
 <p></p>
 <p></p>
