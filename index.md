@@ -90,7 +90,7 @@ sections:
       button: Learn more
       alt: Image alt text
       image: /images/anigif_tradetrust_V2_040724.gif
-      url: https://www.tradetrust.io/
+      url: /community/trials/
   - textcards:
       title: Ready to Transform the way you Trade?
       id: textcards
