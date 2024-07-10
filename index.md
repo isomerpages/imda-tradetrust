@@ -21,13 +21,13 @@ sections:
       key_highlights:
         - title: What is TradeTrust
           description: Overview
-          url: /what-is-tradetrust/
+          url: /about/what-is-tradetrust/
         - title: How it works
           description: Trusted Interoperability
           url: /how-it-works/
         - title: Why adopt TradeTrust
           description: Key Benefits
-          url: /about-tradetrust/why-adopt-tradetrust/
+          url: /about/why-adopt-tradetrust/
       variant: floating
       size: md
       alignment: left
