@@ -67,12 +67,12 @@ sections:
         - title: Exporter / Importer
           description: For fast, trustworthy transactions and new bsuiness relationships
           linktext: Learn more
-          url: ""
+          url: /exporter-importer/
         - title: Banker / Financier
           description: De-risk trade financing, tokenise digital assets for fractionalised
             financing
           linktext: Learn more
-          url: ""
+          url: /banker-financier/
         - title: Business Solution Provider
           description: Innovate and create new IT product offerings by building upon
             TradeTrust
