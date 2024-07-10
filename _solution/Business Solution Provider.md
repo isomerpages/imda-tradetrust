@@ -73,7 +73,7 @@ credential(in progress),</p>
 </li>
 <li>
 <p>UNCITRAL Model Law on Electronic Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
-Learn more at <a href="/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide.</a>
+Learn more at <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide.</a>
 </p>
 </li>
 </ul>
