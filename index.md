@@ -38,7 +38,7 @@ sections:
       description: To unify the international trade ecosystem through a framework that
         standardises digital trade with enhanced security and legal certainty.
       button: Learn More
-      url: /what-is-tradetrust/
+      url: /about/what-is-tradetrust/
   - textcards:
       title: Solution
       id: textcards
