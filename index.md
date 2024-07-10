@@ -24,7 +24,7 @@ sections:
           url: /about/what-is-tradetrust/
         - title: How it works
           description: Trusted Interoperability
-          url: /how-it-works/
+          url: /solution/how-it-works/
         - title: Why adopt TradeTrust
           description: Key Benefits
           url: /about/why-adopt-tradetrust/
