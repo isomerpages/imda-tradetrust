@@ -39,12 +39,10 @@ Privacy Policy
 8.  You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
     
 9.  The Service may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
-    
-10.  Please contact [tradetrust@imda.gov.sg](mailto:tradetrust@imda.gov.sg) if you:
+1.  Please contact [tradetrust@imda.gov.sg](mailto:tradetrust@imda.gov.sg) if you:
     
     10.1. have any enquires or feedback on our data protection policies and procedures; or
     
     10.2. need more information on or access to data which you have provided to us in the past.
- 
- 
+
 This version of the Privacy Policy is dated **06-Sep-2022**.
