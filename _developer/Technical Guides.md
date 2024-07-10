@@ -160,7 +160,7 @@ assistance.</p>
 <p></p>
 <blockquote>
 <p>To reach our tech support, <a href="https://github.com/TradeTrust/tradetrust-core/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
-&lt;contact us&gt;!</p>
+<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
 </blockquote>
 <p></p>
 <p></p>
