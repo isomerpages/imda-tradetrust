@@ -15,7 +15,7 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: ""
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.2748275&lng=103.7990649
     title: Main Office
   - address:
       - 109 North Bridge Road
