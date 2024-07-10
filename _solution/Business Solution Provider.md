@@ -114,7 +114,7 @@ code for example digital arts, issuance of cert etc</div>
 a Business Service Provider (BSP), the set of TradeTrust software components
 are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
-&lt;TradeTrust-enabled BSP&gt;.</p>
+TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.</p>
 <p></p>
 <h3>Use Cases</h3>
 <p>TradeTrust-enabled Business Service Providers (BSPs) utilize TradeTrust
