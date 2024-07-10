@@ -3,7 +3,9 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-### **Government Agency Privacy Statement**
+Privacy Policy
+--------------
+
 1.  This Privacy Policy must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the "Service"). In this Privacy Policy, "Public Sector Entities" means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards).
     
 2.  Insofar as the Service consists of or is provided to you through a website, please note that:
