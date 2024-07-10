@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: TradeTrust (IMDA)
+agency_name: TradeTrust of Infocomm Media Development Authority
 locations:
   - address:
       - "10 Pasir Panjang Road #03-01"
