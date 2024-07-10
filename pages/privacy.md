@@ -43,6 +43,6 @@ variant: markdown
     10.1. have any enquires or feedback on our data protection policies and procedures; or
     
     10.2. need more information on or access to data which you have provided to us in the past.
-    
-
+ 
+ 
 This version of the Privacy Policy is dated **06-Sep-2022**.
