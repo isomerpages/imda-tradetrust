@@ -49,12 +49,12 @@ sections:
         - title: Create
           description: Create or revoke TradeTrust-enabled business documents
           linktext: Learn more
-          url: ""
+          url: https://creator.tradetrust.io/
         - title: Verify
           description: Drag and drop for the source, authenticity and transfer title of
             documents
           linktext: Learn more
-          url: ""
+          url: https://ref.tradetrust.io
       subtitle: Digitise the inefficiency
   - textcards:
       title: What's in for you?
