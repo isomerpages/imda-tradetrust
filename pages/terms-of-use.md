@@ -37,10 +37,8 @@ variant: markdown
     4.6  Notwithstanding Clause 4.4 nothing in the Third Party Terms increases the liability of IMDA beyond that stated in Clause 6.
 5.   **Your Consent to Access Functions of Your Device**
     
-    1.  Use of the Service may require you to allow access by the Service to certain functions of your device, such as push notifications, the obtaining and/or sharing of your location, or the collection of data from you in connection with the Service. Your use of the Service shall constitute your consent to the access by the Service of such functions of your device as may be reasonably required by the Service.
-6.   
-    
-    #### Disclaimers and Indemnity
+    5.1  Use of the Service may require you to allow access by the Service to certain functions of your device, such as push notifications, the obtaining and/or sharing of your location, or the collection of data from you in connection with the Service. Your use of the Service shall constitute your consent to the access by the Service of such functions of your device as may be reasonably required by the Service.
+6.   **Disclaimers and Indemnity**
     
     1.  The Service is provided on an "as is" and “as available” basis without warranties of any kind. To the fullest extent permitted by law, IMDA does not make any representations or warranties of any kind whatsoever in relation to the Service and hereby disclaims all express, implied and/or statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to any representations or warranties:
         1.  as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Service; and/or
