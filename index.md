@@ -27,7 +27,7 @@ sections:
           url: /how-it-works/
         - title: Why adopt TradeTrust
           description: Key Benefits
-          url: /benefits-of-tradetrust/
+          url: /about-tradetrust/why-adopt-tradetrust/
       variant: floating
       size: md
       alignment: left
