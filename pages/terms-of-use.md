@@ -67,36 +67,28 @@ variant: markdown
     9.1  Subject to the rights of the Third Party set out in Clause 4.5, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
 10. **Assignment**
     
-    1.  You may not assign or sub-contract this Terms of Use without the prior written consent of IMDA.
-    2.  IMDA may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract
-11.   
+    10.1  You may not assign or sub-contract this Terms of Use without the prior written consent of IMDA.
+    10.2  IMDA may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract
+11.   **Governing Law and Dispute Resolution**
     
-    #### Governing Law and Dispute Resolution
+    11.1  These Terms of Use shall be governed and construed in accordance with laws of Singapore.
+    11.2  Subject to clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
+    11.3  IMDA may, at its sole discretion, refer any dispute referred to in clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre ("**SIAC**") in Singapore in accordance with the Arbitration Rules of the SIAC ("**SIAC Rules**") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
+        11.3.1  The seat of the arbitration shall be Singapore.
+        11.3.2 The tribunal shall consist of one (1) arbitrator.
+        11.3.3 The language of the arbitration shall be English.
+        11.3.4  All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
+        11.3.5  Where IMDA is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice IMDA’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of IMDA during the said period.
+12.   **Name of Service**
     
-    1.  These Terms of Use shall be governed and construed in accordance with laws of Singapore.
-    2.  Subject to clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
-    3.  IMDA may, at its sole discretion, refer any dispute referred to in clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre ("**SIAC**") in Singapore in accordance with the Arbitration Rules of the SIAC ("**SIAC Rules**") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
-        1.  The seat of the arbitration shall be Singapore.
-        2.  The tribunal shall consist of one (1) arbitrator.
-        3.  The language of the arbitration shall be English.
-        4.  All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
-        5.  Where IMDA is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice IMDA’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of IMDA during the said period.
-12.   
+    12.1  TradeTrust
+13.   **Nature of Service and Special Terms**
     
-    #### Name of Service
-    
-    1.  TradeTrust
-13.   
-    
-    #### Nature of Service and Special Terms
-    
-    1.  Developed and pioneered by the Infocomm Media Development Authority (IMDA), TradeTrust was designed to address the challenges of paper-based international trade. TradeTrust is a set of international standards and frameworks supported by open-source software that utilises blockchain-powered technology to digitalise the end-to-end processing of trade documents to ensure that documents issued can be verified in terms of their source and authenticity. Through a holistic framework made of four key components – legal harmonisation, accreditation structure, standards development and open-source software – TradeTrust seeks to make digitalised trade robust, legally recognisable, and inclusive for all stakeholders in the ecosystem, resulting in faster, simpler and more secure trade processes
-    2.  To use the Service, you will need to upload a document onto the site.
-    3.  IMDA is NOT responsible for the fulfilment and response of third party blockchain network, or of the functioning of any third party software or technology (such as Ethereum and Polygon).
-    4.  Please note that separate terms (and not these Terms of Use) may govern the relationship between you and the document issuer/verifier/presenter, or any person accessing or providing a copy of the relevant document. For the avoidance of doubt, IMDA is not responsible for the contents of the document or the legal acceptability of the document. IMDA makes no representations or warranties concerning the powers or authority of the document issuer/verifier/presenter.
-14.   
-    
-    #### Third party software/services
+    13.1  Developed and pioneered by the Infocomm Media Development Authority (IMDA), TradeTrust was designed to address the challenges of paper-based international trade. TradeTrust is a set of international standards and frameworks supported by open-source software that utilises blockchain-powered technology to digitalise the end-to-end processing of trade documents to ensure that documents issued can be verified in terms of their source and authenticity. Through a holistic framework made of four key components – legal harmonisation, accreditation structure, standards development and open-source software – TradeTrust seeks to make digitalised trade robust, legally recognisable, and inclusive for all stakeholders in the ecosystem, resulting in faster, simpler and more secure trade processes
+    13.2  To use the Service, you will need to upload a document onto the site.
+    13.3  IMDA is NOT responsible for the fulfilment and response of third party blockchain network, or of the functioning of any third party software or technology (such as Ethereum and Polygon).
+    13.4  Please note that separate terms (and not these Terms of Use) may govern the relationship between you and the document issuer/verifier/presenter, or any person accessing or providing a copy of the relevant document. For the avoidance of doubt, IMDA is not responsible for the contents of the document or the legal acceptability of the document. IMDA makes no representations or warranties concerning the powers or authority of the document issuer/verifier/presenter.
+14.   **Third party software/services**
     
     1.  [Google Analytics](https://policies.google.com/technologies/partner-sites)
     2.  [Netlify](https://www.netlify.com/legal/terms-of-use/)
