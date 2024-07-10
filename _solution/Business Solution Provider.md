@@ -140,6 +140,6 @@ and appreciation digitally</p>
 </ul>
 <p></p>
 <blockquote>
-<p>Kickstart the implementation of TradeTrust with &lt;technical guides&gt;.</p>
+<p>Kickstart the integration of TradeTrust with <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>.</p>
 </blockquote>
 <p></p>
