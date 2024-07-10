@@ -53,7 +53,7 @@ Singapore, the UK and the US</p>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
 published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;</strong>
 </p>
-<p>Refer to the list <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">list</a> of
+<p>Refer to the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">list</a> of
 countries and territories whose legislation has been influenced by the
 MLETR and the principles on which it is based. It is recommended that professional
 advice be sought on choice of governing law in regards to electronic transferable
