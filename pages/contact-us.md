@@ -9,11 +9,11 @@ locations:
       - Mapletree Business City
       - Singapore 117438
     operating_hours:
-      - days: Mon - Fri
+      - days: Mon - Thu
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Fri
+        time: 8.30am - 5.30pm
         description: ""
     maps_link: ""
     title: Main Office
