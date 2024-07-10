@@ -43,7 +43,7 @@ meeting standards and legal requirements.</p>
 <p>To enjoy the capabilities of TradeTrust all from the convenience of your
 system that you are familiar with, you can integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
-of TradeTrust ready &lt;partners&gt;.</p>
+of TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.</p>
 <p>And to verify documents received, only an internet access is required.</p>
 <p>Having your documents and instruments available in electronic form can
 greatly benefit you by improving the speed and security of your transactions,
