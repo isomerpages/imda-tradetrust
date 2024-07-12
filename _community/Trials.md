@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/anigif_tradetrust_V2_040724.gif">
-</div>
-<p></p>
 <blockquote>
 <p>Over 40 industry players, 14 government bodies and TAC, and 10 platforms
 have successfully conducted trials for Trade Finance and Cargo Release
