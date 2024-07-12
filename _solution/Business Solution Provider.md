@@ -4,6 +4,10 @@ permalink: /business-solution-provider/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1646500561_technology.jpg">
+</div>
 <h3>How TradeTrust can help in Technology Services</h3>
 <p></p>
 <p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong> Instead,
