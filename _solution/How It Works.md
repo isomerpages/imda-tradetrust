@@ -9,14 +9,18 @@ description: ""
 the possession and actions like endorsement and revocation</p>
 </blockquote>
 <p>There are broadly 2 types of trade documents that you can digitise:
-<br>1. <strong>Verifiable Documents&nbsp;</strong>- these are trade documents
-that are non-transferable, such as Certificates of Origin (CoO), Invoices,
-and promissory notes
-<br>2. <strong>Transferable Documents </strong>- these are documents of title
-where their ownership are transferable from one party to another;&nbsp;for
-example Electronic Transferable Records (ETRs) such as electronic bills
-of lading and warehouse receipts that entitle the holder to claim the performance
-of an obligation or ownership</p>
+<br>
+</p>
+<h4>1. <strong>Verifiable Documents&nbsp;</strong></h4>
+<p>These are trade documents that are non-transferable, such as Certificates
+of Origin (CoO), Invoices, and promissory notes
+<br>
+</p>
+<h4>2. <strong>Transferable Documents </strong></h4>
+<p>These are documents of title where their ownership are transferable from
+one party to another;&nbsp;for example Electronic Transferable Records
+(ETRs) such as electronic bills of lading and warehouse receipts that entitle
+the holder to claim the performance of an obligation or ownership</p>
 <p>These TradeTrust-enabled electronic documents will have functional equivalence
 to their paper-based version. They are saved as TradeTrust (.tt) files
 containing the data, which can be easily transmitted to stakeholders across
