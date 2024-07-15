@@ -52,7 +52,8 @@ rightful party can possess and claim ownership of the transferable document
 at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>A sample of the reference implementation for a TradeTrust-enabled ETR</summary>
+<summary><strong>A sample of the reference implementation for a TradeTrust-enabled ETR</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
