@@ -16,7 +16,7 @@ the possession and actions like endorsement and revocation</p>
 of Origin (CoO), Invoices, and promissory notes
 <br>
 </p>
-<h4>2. <strong>Transferable Documents </strong></h4>
+<h4>2. <strong>Transferable Documents</strong></h4>
 <p>These are documents of title where their ownership are transferable from
 one party to another;&nbsp;for example Electronic Transferable Records
 (ETRs) such as electronic bills of lading and warehouse receipts that entitle
@@ -52,7 +52,7 @@ rightful party can possess and claim ownership of the transferable document
 at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>TradeTrust-enabled Bill of Lading sample</summary>
+<summary>A sample of the reference implementation for a TradeTrust-enabled ETR</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
