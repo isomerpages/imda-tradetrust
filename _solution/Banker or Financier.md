@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1471378553_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
