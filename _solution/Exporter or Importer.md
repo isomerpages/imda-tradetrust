@@ -56,7 +56,7 @@ authenticity, thereby reducing the risk of fraud.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1414916335_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,7 +68,7 @@ banks and alternative financiers with fractionalized financing</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1029794730_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -80,7 +80,7 @@ of ditigal information that can be trusted and with transparency</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1449484368_Shipping.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
