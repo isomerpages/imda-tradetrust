@@ -4,10 +4,37 @@ permalink: /business-solution-provider/
 variant: tiptap
 description: ""
 ---
+<h3>Benefits</h3>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1646500561_technology.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1646500561_technology.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Increase IT Capability &amp; Business Efficiency</div>
+<div class="isomer-card-description">Enhanced your IT system with TradeTrust's capability by making Verifiable
+Documents (VDs) and Electronic Transferable Records (ETRs*) portable and
+effective across systems for overall efficiency</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="/images/Stock_image_samples/istockphoto_1591572504_2048x2048.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Business Opportunity</div>
+<div class="isomer-card-description">Improve service offerings through the development of innovative digital
+products and services by Business Solution Provider using TradeTrust open-source
+code for example digital arts, issuance of cert etc</div>
+</div>
+</div>
+</div>
+<p></p>
 <h3>How TradeTrust can help in Technology Services</h3>
 <p></p>
 <p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong> Instead,
@@ -83,36 +110,6 @@ Learn more at <a href="/about/legality-guide/" rel="noopener noreferrer nofollow
 </ul>
 </li>
 </ol>
-<h3>Benefits</h3>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Increase IT Capability &amp; Business Efficiency</div>
-<div class="isomer-card-description">Enhanced your IT system with TradeTrust's capability by making Verifiable
-Documents (VDs) and Electronic Transferable Records (ETRs*) portable and
-effective across systems for overall efficiency</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">New Business Opportunity</div>
-<div class="isomer-card-description">Improve service offerings through the development of innovative digital
-products and services by Business Solution Provider using TradeTrust open-source
-code for example digital arts, issuance of cert etc</div>
-</div>
-</div>
-</div>
 <p></p>
 <p>Whether you are from IT department serving your internal end-users or
 a Business Service Provider (BSP), the set of TradeTrust software components
