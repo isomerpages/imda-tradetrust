@@ -4,10 +4,6 @@ permalink: /banker-financier/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1484283221_business.jpg">
-</div>
 <h3>How TradeTrust can help in Financial Services</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -71,7 +67,7 @@ for exporters/importers and fills the trade finance gap.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_952625346_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,7 +79,7 @@ for international trade operations</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_2042798578_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -95,7 +91,7 @@ human errors and risk of fraud like double financing</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
