@@ -4,6 +4,46 @@ permalink: /banker-financier/
 variant: tiptap
 description: ""
 ---
+<h3>Benefits</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_952625346_2048x2048.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhanced Customer Experience</div>
+<div class="isomer-card-description">Make banking transactions faster, easier for customers and less costly
+for international trade operations</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_2042798578_2048x2048.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">De-Risk Trade Financing</div>
+<div class="isomer-card-description">Traceability of ownership, identity and authenticity verifications reduces
+human errors and risk of fraud like double financing</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">New Business Opportunity</div>
+<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to bridge the
+trade finance gap</div>
+</div>
+</div>
+</div>
 <h3>How TradeTrust can help in Financial Services</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -61,47 +101,6 @@ for exporters/importers and fills the trade finance gap.</p>
 <p></p>
 </li>
 </ol>
-<h3>Benefits</h3>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_952625346_2048x2048.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Enhanced Customer Experience</div>
-<div class="isomer-card-description">Make banking transactions faster, easier for customers and less costly
-for international trade operations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_2042798578_2048x2048.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">De-Risk Trade Financing</div>
-<div class="isomer-card-description">Traceability of ownership, identity and authenticity verifications reduces
-human errors and risk of fraud like double financing</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">New Business Opportunity</div>
-<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to bridge the
-trade finance gap</div>
-</div>
-</div>
-</div>
-<p></p>
 <h3>Possible Use Case</h3>
 <ul data-tight="true" class="tight">
 <li>
