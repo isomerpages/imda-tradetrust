@@ -4,10 +4,6 @@ permalink: /carrier/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stock_image_samples/istockphoto_1449484368_Shipping.jpg">
-</div>
 <h3>How TradeTrust can help in Shipping &amp; Logistics</h3>
 <p></p>
 <p>TradeTrust facilitates :</p>
@@ -49,7 +45,7 @@ can be traced real-time, ensuring release of goods to the right party.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_952625346_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +57,7 @@ with your customers</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1029794730_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -73,7 +69,7 @@ of ditigal information that can be trusted</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1449484368_Shipping.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
