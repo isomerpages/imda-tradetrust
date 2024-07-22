@@ -37,7 +37,7 @@ arts, issuance of cert, etc</div>
 <p></p>
 <h3>How TradeTrust can help in Technology Services</h3>
 <p></p>
-<p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong> 
+<p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong>
 </p>
 <p>TradeTrust provides a solution to the current lack of technical interoperability
 in the market by enabling any party to digitise any document and issue
@@ -56,8 +56,8 @@ a party receives it.</p>
 lower cost of business.</p>
 <p></p>
 <p>TradeTrust is system, semantic/data and transmission agnostic.</p>
-<p>• <u>System agnostic</u>: Almost any system can integrate the TT software
-components to acquire the functionalities of TT.
+<p>• <u>System agnostic</u>: Almost any system can integrate the TradeTrust
+software components to acquire the functionalities of TradeTrust.
 <br>• <u>Semantic/data format agnostic:</u> You can freely choose from data
 format standards such as the Key Trade Documents and Data Elements (KTDDE)
 specifications by ICC Digital Standards Initiative (DSI) and/or BL data
@@ -69,22 +69,22 @@ file from party to party.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Decentralized Approach for Scalability</strong>
+<p><strong>Decentralised approach for scalability</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>removes the need for expensive data exchange infrastructure to be put
-in place in between you and exchanging parties</p>
+<p>Remove the need for expensive data exchange infrastructure to be put in
+place in between you and exchanging parties</p>
 </li>
 <li>
-<p>removes tight coupling and inter-dependencies between exchanging systems.
+<p>Remove tight coupling and inter-dependencies between exchanging systems.
 This means exchanging parties like you and your trading partners can proceed
 to upgrade and make changes to the IT systems at your own pace according
 to your own priority.</p>
 </li>
 <li>
-<p>removes the need that you and your trading community to sign up to one
-single platform, TradeTrust enabled documents are portable across different
+<p>Remove the need for all parties (you and your trading community) to use
+one single platform, TradeTrust enabled documents are portable across different
 TradeTrust ready platforms.</p>
 </li>
 </ul>
