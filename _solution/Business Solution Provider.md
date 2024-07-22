@@ -15,7 +15,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Increase IT Capability &amp; Business Efficiency</div>
-<div class="isomer-card-description">Enhanced your IT system with TradeTrust's capability by making Verifiable
+<div class="isomer-card-description">Enhance your IT system with TradeTrust's capability by making Verifiable
 Documents (VDs) and Electronic Transferable Records (ETRs*) portable and
 effective across systems for overall efficiency</div>
 </div>
@@ -23,26 +23,27 @@ effective across systems for overall efficiency</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="/images/Stock_image_samples/istockphoto_1591572504_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_image_samples/istockphoto_1591572504_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">New Business Opportunity</div>
+<div class="isomer-card-title">New Business Opportunities</div>
 <div class="isomer-card-description">Improve service offerings through the development of innovative digital
-products and services by Business Solution Provider using TradeTrust open-source
-code for example digital arts, issuance of cert etc</div>
+products and services using TradeTrust open-source code such as digital
+arts, issuance of cert, etc</div>
 </div>
 </div>
 </div>
 <p></p>
 <h3>How TradeTrust can help in Technology Services</h3>
 <p></p>
-<p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong> Instead,
-TradeTrust provides a solution to the current lack of technical interoperability
+<p><strong>TradeTrust is not a platform. It does not compete with existing platforms but serves as a complementary digital utility to assist platforms in achieving scalability of their products.</strong> 
+</p>
+<p>TradeTrust provides a solution to the current lack of technical interoperability
 in the market by enabling any party to digitise any document and issue
-its own TradeTrust-enabled Electronic Transferable Records (ETRs) outside
-of the confines of any contract-based platform.</p>
-<p>It functions as middleware (an adaptor) which can be plugged into existing
+its own TradeTrust-enabled ETRs outside of the confines of any contract-based
+platform.</p>
+<p>It functions as a middleware (an adaptor) which can be plugged into existing
 platforms. This ensures authenticity, verifies the source, and validates
 the legal transfer of trade obligations at the application layer, regardless
 of how a party receives a document or at which stage of the supply chain
@@ -59,7 +60,8 @@ lower cost of business.</p>
 components to acquire the functionalities of TT.
 <br>• <u>Semantic/data format agnostic:</u> You can freely choose from data
 format standards such as the Key Trade Documents and Data Elements (KTDDE)
-specifications by ICC DSI and/or BL data format standards from DCS and
+specifications by ICC Digital Standards Initiative (DSI) and/or BL data
+format standards from Digital Container Shipping Association(DCSA) and
 BIMCO and/or any data format agreed upon by you and your business partners.
 <br>• <u>Transmission agnostic</u>: You can freely choose to use any existing
 transmission protocol like email, FTP etc. to transport the TradeTrust
