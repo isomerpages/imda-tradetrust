@@ -52,8 +52,8 @@ a party receives it.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Interoperability</strong>
-<br>Partner with anyone, regardless of technology to drive efficiency and
-lower cost of business.</p>
+<br>Partner with anyone, regardless of technology capability, to drive efficiency
+and lower cost of business.</p>
 <p></p>
 <p>TradeTrust is system, semantic/data and transmission agnostic.</p>
 <p>• <u>System agnostic</u>: Almost any system can integrate the TradeTrust
