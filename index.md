@@ -61,11 +61,11 @@ sections:
       id: textcards
       cards:
         - title: Carrier
-          description: Go digital-ready, stay compliant and relevant in future needs
+          description: Be digital-ready, stay compliant and relevant for future needs
           linktext: Learn more
           url: /carrier/
         - title: Exporter / Importer
-          description: For fast, trustworthy transactions and new bsuiness relationships
+          description: For fast, trustworthy transactions and new business opportunities
           linktext: Learn more
           url: /exporter-importer/
         - title: Banker / Financier
