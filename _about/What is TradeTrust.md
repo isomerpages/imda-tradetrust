@@ -61,9 +61,9 @@ trading more efficient and convenient for you and your trading partners.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data resides in the electronic document files generated and is not
-written into the public blockchain so as to preserves data confidentiality.
-Only the title ownership is recorded on one of the selected blockchain
-for title documents.</p>
+written into the public blockchain to preserves data confidentiality. Only
+the title ownership is recorded on one of the selected blockchain for title
+documents.</p>
 <p></p>
 <p>And the security and reliability of TradeTrust is ensured through the
 vulnerability assessment and penetration testing of the Smart Contract
@@ -82,8 +82,8 @@ into your IT system and/or subscription service from TradeTrust ready &lt;partne
 <p></p>
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
-as at 2 Feb 2023 for a typical series of transactions from the issuance
-to surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
+as at 2 February 2023 for a typical series of transactions from the issuance
+to the surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Estimated Fees on Ethereum: &lt; USD $20</p>
@@ -93,7 +93,7 @@ to surrender of electronic bill of lading (<em>costs distributed among different
 </li>
 </ul>
 <p></p>
-<p>Reach out to us to learn more about the costs and what you can save on
+<p>Reach out to us to learn more about the costs and how you can save on
 manual processing and courier costs by going digital.</p>
 </div>
 </details>
