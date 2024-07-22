@@ -79,9 +79,9 @@ sections:
           linktext: Learn more
           url: /business-solution-provider/
       subtitle: DIGITAL TRADE ECOSYSTEM
-      description: Efficiently streamline end-to-end trade document processing to
-        ensure optimal operational efficiency, trust, and convenience for
-        stakeholders in your supply chain, with examples here ...
+      description: Streamline end-to-end trade document processing to enhance
+        operational efficiency, build trust, and provide convenience for
+        stakeholders in your supply chain. Read more ...
   - infopic:
       title: Successful Trials
       id: infopic
