@@ -17,29 +17,29 @@ of Origin (CoO), Invoices, and promissory notes
 <br>
 </p>
 <h4>2. <strong>Transferable Documents</strong></h4>
-<p>These are documents of title where their ownership are transferable from
+<p>These are documents of title where their ownerships are transferable from
 one party to another;&nbsp;for example Electronic Transferable Records
 (ETRs) such as electronic bills of lading and warehouse receipts that entitle
 the holder to claim the performance of an obligation or ownership</p>
 <p>These TradeTrust-enabled electronic documents will have functional equivalence
 to their paper-based version. They are saved as TradeTrust (.tt) files
 containing the data, which can be easily transmitted to stakeholders across
-the supply chain over your existing business/IT and data interchange system
-like email, FTP. No restriction of the use of data format or standard.
-You can also save the documents in pdf format with QR code.</p>
+the supply chain over your existing business/IT and data interchange systems
+like email, FTP, etc. There is no restriction on the use of data format
+or standard. You can also save the documents in pdf format with QR code.</p>
 <p>TradeTrust leverages the strength of immutability and security of blockchain,
 Smart Contracts and Non-Fungible Tokens (NFTs) to :</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>demonstrate provenance and integrity, essential for document legitimacy</p>
+<p>Demonstrate provenance and integrity, essential for document legitimacy</p>
 </li>
 <li>
-<p>present title ownership and enable transfers from one party to the next
+<p>Present title ownership and enable transfers from one party to the next
 and ensure singularity meaning unique original copy of electronic document
 using NFTs</p>
 </li>
 <li>
-<p>enforce exclusive control (i.e. Possessing that Title Document) through
+<p>nforce exclusive control (i.e. possessing that Title Document) through
 Smart Contract</p>
 </li>
 </ul>
