@@ -134,7 +134,7 @@ delivery order and airway bill</p>
 </li>
 <li>
 <p>Creation of Non-Fungible Tokens (NFTs) for visual art items that can be
-shared, learn, trade and appreciation digitally</p>
+shared, learned, traded and appreciated digitally</p>
 </li>
 <li>
 <p>FinTech platforms for trade financing</p>
