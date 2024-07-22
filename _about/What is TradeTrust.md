@@ -42,9 +42,9 @@ meeting international standards and legal requirements.</p>
 </li>
 </ul>
 <p></p>
-<p>To enjoy the capabilities of TradeTrust all from the convenience of your
-system that you are familiar with, you can integrate TradeTrust into your
-existing IT system. Alternatively, outsource or subscribe to the services
+<p>To enjoy all the capabilities of TradeTrust all from the convenience of
+the system you are familiar with, you can just integrate TradeTrust into
+your existing IT system. Alternatively, outsource or subscribe to the services
 of TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.</p>
 <p>And to verify documents received, only an internet access is required.</p>
 <p>Having your documents and instruments available in electronic form can
