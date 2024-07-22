@@ -83,8 +83,8 @@ digital copy, or scans the embedded QR barcode on printed copy, for instant
 verification of documents' source and authenticity.</p>
 <p></p>
 <p>Support trading activities by enabling an endorsement chain, real-time
-transfer of ownership and title of the Bill of Lading, ensuring traceability,
-authenticity, thereby reducing the risk of fraud.</p>
+transfer of ownership and title of the Bill of Lading, ensuring traceability
+and authenticity, thereby reducing the risk of fraud.</p>
 </li>
 </ol>
 <p></p>
