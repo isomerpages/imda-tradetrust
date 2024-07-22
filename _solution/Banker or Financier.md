@@ -33,12 +33,12 @@ human errors and risk of fraud like double financing</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunity" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">New Business Opportunity</div>
-<div class="isomer-card-description">Tokenised assets and fractionalisation provides liquidity to bridge the
+<div class="isomer-card-title">New Business Opportunities</div>
+<div class="isomer-card-description">Tokenised assets and fractionalisation provide liquidity to bridge the
 trade finance gap</div>
 </div>
 </div>
@@ -53,14 +53,14 @@ trade finance gap</div>
 by providing a secure, transparent, and immutable platform for recording
 and managing payment obligations using blockchain and distributed ledger
 technology. This enhances the security and transparency of payment commitments,
-streamlining the overall payment process and reducing the risk of disputes
+streamlining the overall payment process, and reducing the risk of disputes
 and errors.</p>
 <p></p>
 <p>Banks and alternative financiers can integrate physical, financial, and
 document chains, automating key processes such as document validation,
 payments, and fund release upon meeting conditions. By offering digital
 trade finance, it provides overall convenience and cost savings for all
-parties in the supply chain, faster trade transactions, improved document
+parties in the supply chain, faster trade transactions, and improved document
 checks for compliance and validity, thereby providing assurance to financial
 institutions, banks' customers and their trading partners.</p>
 <p></p>
