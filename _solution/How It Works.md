@@ -34,7 +34,7 @@ Smart Contracts and Non-Fungible Tokens (NFTs) to :</p>
 <p>Demonstrate provenance and integrity, essential for document legitimacy</p>
 </li>
 <li>
-<p>Present title ownership and enable transfers from one party to the next
+<p>Present title ownership and enable transfers from one party to the next,
 and ensure singularity meaning unique original copy of electronic document
 using NFTs</p>
 </li>
