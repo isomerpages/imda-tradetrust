@@ -5,7 +5,7 @@ variant: markdown
 ---
 # Terms Of Use
 
-1.      General
+1.      **General**
 
 1.1.   These Terms of Use govern your access to and use of our website and the services provided on our website, including any and all applications (whether as software or as a website or otherwise), their contents, push notifications and all other accompanying materials as identified in the Schedule below (collectively, the “Service”).
 
@@ -17,7 +17,7 @@ variant: markdown
 
 1.5.   All terms and conditions of use of IMDA’s website (available at www.imda.gov.sg/terms-of-use shall apply mutatis mutandis to this website.
 
-2.      Nature of the Service
+2.      **Nature of the Service**
 
 2.1.   Please see the Schedule for more information and terms concerning the Service.
 
@@ -152,5 +152,3 @@ variant: markdown
 14.3.                    List of open source software
 
 This version of the Terms of Use is dated 06-Sep-2022.
-
-
