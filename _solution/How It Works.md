@@ -59,12 +59,12 @@ at any point in time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eBL_How_to_read.png">
 </div>
-<p>Try &lt;Verify Documents&gt;.</p>
-<p></p>
+<p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Document</a>
+</p>
 </div>
 </details>
 </div>
-<h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
+<h4><strong>T rade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
 where the provenance and authenticity of the document can be easily verified
