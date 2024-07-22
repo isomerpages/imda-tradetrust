@@ -66,7 +66,7 @@ institutions, banks' customers and their trading partners.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Mitigate risk &amp; Compliance Checks</strong>
+<p><strong>Mitigate risk &amp; compliance checks</strong>
 </p>
 <p>Trade finance banks often rely on bills of lading (BLs) as security for
 the transactions they finance. In the event of cargo loss and customer
@@ -75,11 +75,11 @@ BL does not provide rights of suit against a carrier for loss in transit
 or failure to properly care for the cargo.</p>
 <p>TradeTrust-enabled trade documents are supported by statutory laws aligned
 with UNCITRAL’s Model Law on Electronic Transferable Records (MLETR). The
-use of TradeTrust-enabled eBLs could offer greater assurance to banks for
-their security interests, as immutable records of ownership are maintained
-on a blockchain, represented by an endorsement chain that also serves as
-an audit trail. As you can trace the ownership and holdership of documents,
-this helps to prevent double or multiple financing.</p>
+use of TradeTrust-enabled electronic Bills of Lading(eBLs) could offer
+greater assurance to banks for their security interests, as immutable records
+of ownership are maintained on a blockchain, represented by an endorsement
+chain that also serves as an audit trail. As you can trace the ownership
+and holdership of documents, this helps to prevent double or multiple financing.</p>
 <p></p>
 <blockquote>
 <p>Learn more about <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide</a>.</p>
