@@ -52,12 +52,12 @@ rightful party can possess and claim ownership of the transferable document
 at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>A sample of the reference implementation for a TradeTrust-enabled ETR</strong>
-</summary>
+<summary><strong>A sample of the reference implementation for a TradeTrust-enabled </strong>Electronic
+Transferable Record</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Bill of Lading Sample" src="/images/TT_eBL_sample.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eBL_How_to_read.png">
 </div>
 <p>Try &lt;Verify Documents&gt;.</p>
 <p></p>
