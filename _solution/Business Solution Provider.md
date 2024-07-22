@@ -124,17 +124,17 @@ TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener n
 opportunities such as these real-live use cases:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>issuance of certificates of authenticity for consumer goods</p>
+<p>Issuance of certificates of authenticity for consumer goods</p>
 </li>
 <li>
-<p>electronic documentation processing including purchase order, invoice,
+<p>Electronic documentation processing including purchase order, invoice,
 bill of lading, certificate of origin, health cert, datalogger report,
 electronic bunker delivery note, packing list, certificate of origin, invoices,
 delivery order and airway bill</p>
 </li>
 <li>
-<p>creation of NFTs for visual art items that can be shared, learn, trade
-and appreciation digitally</p>
+<p>Creation of Non-Fungible Tokens (NFTs) for visual art items that can be
+shared, learn, trade and appreciation digitally</p>
 </li>
 <li>
 <p>FinTech platforms for trade financing</p>
