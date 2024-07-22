@@ -118,8 +118,8 @@ by any party independently just with an internet access or through automation.</
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with transferable documents such as<strong> blank-endorsed electronic Bill of Lading</strong>(eBL),
 where the provenance and authenticity of the document can be easily verified
-by any party independently just with an internet access or through automation
-and endorsement of eBL digitally.</p>
+by any party independently just with an internet access or through automation,
+and the endorsement of eBL digitally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDV1.png">
