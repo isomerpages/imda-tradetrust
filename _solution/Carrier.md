@@ -14,8 +14,8 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Stronger Customer Relationships</div>
-<div class="isomer-card-description">Match the increasing demand of sustainability and foster stronger collaboration
+<div class="isomer-card-title">Enhance Customer Relationships</div>
+<div class="isomer-card-description">Meet the growing demand of sustainability and foster stronger collaborations
 with your customers</div>
 </div>
 </div>
@@ -26,9 +26,9 @@ with your customers</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Operational Process Efficiency</div>
+<div class="isomer-card-title">Efficient Operational Processes</div>
 <div class="isomer-card-description">Increase productivity and optimise asset utilisation through rapid exchange
-of ditigal information that can be trusted</div>
+of digital information that can be trusted</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -39,8 +39,8 @@ of ditigal information that can be trusted</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Reduce Cost of Shipping</div>
-<div class="isomer-card-description">Lower overhead cost of paper and reduce unnecessary demurrage and detention
-charges by customers due to delay in documentation</div>
+<div class="isomer-card-description">Lower overhead cost of paper usage and reduce unnecessary demurrage and
+detention charges by customers due to delay in documentation</div>
 </div>
 </div>
 </div>
@@ -56,10 +56,10 @@ charges by customers due to delay in documentation</div>
 <p>According to DCSA "<em>The bill of lading is one of the most important trade documents in container shipping. It functions as a document of title, receipt for shipped goods and a record of agreed terms and conditions. Ocean carriers issue around 45 million bills of lading a year. In 2021, just 1.2% of these were in electronic format."</em>
 </p>
 <p></p>
-<p>By digitizing bills of lading with TradeTrust, as an issuer, carrier can
+<p>By digitising bills of lading with TradeTrust, as an issuer, carrier can
 enable system interoperability and platform-agnostic, seamless data exchange
-with your supply chain partners for trusted transaction. Any revocation
-of documents can be easily managed.</p>
+with your supply chain partners for trusted transactions. Any revocation
+of documents can be easily managed too.</p>
 <p></p>
 <p>Automated cargo releases can be facilitated by accepting digitally surrendered
 bills of lading, ensuring enhanced security through identity and authenticity
@@ -68,7 +68,7 @@ checks.</p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers
 for downstream supply chain operations. And for trade financing between
-financial institutions and Exporters/Importers.</p>
+financial institutions and exporters/importers.</p>
 <p></p>
 </li>
 <li>
