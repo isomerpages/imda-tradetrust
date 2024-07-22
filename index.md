@@ -99,7 +99,7 @@ sections:
         with TradeTrust.
       cards:
         - title: Contact Us
-          description: Join our fast growing mailing list, send your queries
+          description: Join our fast growing mailing list or send us your queries
           linktext: Sign up
           url: https://form.gov.sg/635f32c5001b2d0011fff09b
         - title: Partner Us
