@@ -58,9 +58,9 @@ countries and territories whose legislation has been influenced by the
 MLETR and the principles on which it is based. It is recommended that professional
 advice be sought on choice of governing law in regards to electronic transferable
 records.</p>
-<p>The adoption of TradeTrust, would allow you to to easily create and manage
+<p>The adoption of TradeTrust, would allow you to easily create and manage
 MLETR-compliant electronic transferable records that satisfy relevant statutory
-laws, providing greater certainty to businesses and removing one barrier
+laws, providing greater certainty to businesses and removing the barrier
 to end-to-end digital trade.</p>
 <h3><strong>Singapore's Electronic Transactions Act</strong></h3>
 <p>In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
