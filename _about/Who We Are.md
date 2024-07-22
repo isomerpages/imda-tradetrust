@@ -6,10 +6,10 @@ description: ""
 ---
 <p>The Infocomm Media Development Authority(IMDA) is a statutory board in
 the Singapore government. IMDA is the driving force behind Singapore's
-digital transformation efforts by building the foundations of its digital
+digital transformation efforts, building the foundations of its digital
 infrastructure and driving digital innovation.</p>
 <blockquote>
-<p>In 2019, IMDA launched TradeTrust, a framework that standardizes digital
+<p>In 2019, IMDA launched TradeTrust, a framework that standardises digital
 trade with enhanced security and legal certainty for the international
 trade ecosystem.</p>
 </blockquote>
@@ -35,8 +35,8 @@ for exclusive insights.</p>
 <hr>
 <p><strong>More about IMDA</strong>
 </p>
-<p>The <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Infocomm Media Development Authority</u></a> (IMDA)
-is a statutory board in the Singapore government.&nbsp; IMDA develops and
+<p><a href="https://www.imda.gov.sg/business" rel="noopener noreferrer nofollow" target="_blank">IMDA</a> is
+a statutory board in the Singapore government.&nbsp; IMDA develops and
 regulates the infocomm and media sectors to create a dynamic, holistic
 and exciting ecosystem filled with growth opportunities through talent,
 research, innovation and enterprise. As Architects of Singapore’s Digital
