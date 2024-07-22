@@ -26,9 +26,9 @@ banks and alternative financiers with fractionalized financing</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Operational Process Efficiency</div>
-<div class="isomer-card-description">Increase productivity and optimise supply chain through rapid exchange
-of ditigal information that can be trusted and with transparency</div>
+<div class="isomer-card-title">Efficient Operational Processes</div>
+<div class="isomer-card-description">Enhance productivity and optimise supply chain through rapid exchange
+of digital information that can be trusted and with transparency</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -39,8 +39,8 @@ of ditigal information that can be trusted and with transparency</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Reduce Cost of Shipping</div>
-<div class="isomer-card-description">Lower overhead cost of paper and reduce unnecessary demurrage and detention
-charges of holding cargo due to delay in documentation</div>
+<div class="isomer-card-description">Lower overhead cost of paper usage and reduce unnecessary demurrage and
+detention charges of holding cargo due to delay in documentation</div>
 </div>
 </div>
 </div>
@@ -52,11 +52,11 @@ charges of holding cargo due to delay in documentation</div>
 <li>
 <p><strong>Digital Trade Financing</strong>
 </p>
-<p>Using TradeTrust-enabled electronic Bills of Lading (eBL) may help to
+<p>Using TradeTrust-enabled electronic Bills of Lading (eBL) will aid to
 improve cash conversion cycle for businesses as it reduces time lag due
-to delays in paper document delivery. Tokenizing Real-World Assets (RWA)
-for electronic Bills of Lading (eBL) creates the possibility of fractionalized
-financing with multiple financiers for the same eBL.</p>
+to delays in paper document delivery. Tokenising Real-World Assets (RWA)
+for eBL creates the possibility of fractionalised financing with multiple
+financiers for the same eBL.</p>
 <p>By going online digitally with your bank, you can skip the need to submit
 and collect your documents physically over the banks' counter or through
 courier services.</p>
@@ -65,7 +65,7 @@ courier services.</p>
 <li>
 <p><strong>Cargo Claim</strong>
 </p>
-<p>Optimise process and collaborative workflows between partners with end-to-end
+<p>Optimise processes and collaborative workflows between partners with end-to-end
 transaction traceability, documentation and validation checks automation.</p>
 <p></p>
 <p>Enable the electronic surrendering of the bill of lading by buyer, ensuring
@@ -77,10 +77,10 @@ timely claiming of goods without the need for a paper bill of lading.</p>
 </p>
 <p></p>
 <p>Electronic documents like bills of lading and certificates of origin expedite
-trade compliance and cross-border cargo shipping arrangement. Border control
+trade compliance and cross-border cargo shipping arrangemenst. Border control
 of the importing country performs document checks by automation of the
-digital copy, or scanning the embedded QR barcode on printed copy, for
-instant verification of documents' source and authenticity.</p>
+digital copy, or scans the embedded QR barcode on printed copy, for instant
+verification of documents' source and authenticity.</p>
 <p></p>
 <p>Support trading activities by enabling an endorsement chain, real-time
 transfer of ownership and title of the Bill of Lading, ensuring traceability,
