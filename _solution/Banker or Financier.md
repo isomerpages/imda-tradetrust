@@ -91,22 +91,22 @@ and holdership of documents, this helps to prevent double or multiple financing.
 </p>
 <p>Traditional banks and alternative financing platforms have long provided
 liquidity and capital to businesses.</p>
-<p>By tokenizing real-world assets for example through the use of bills of
-lading, account receivables and warehouse receipts, it becomes possible
-to trade and finance smaller fractions of assets. This revolutionizes the
-investment process, opening up new opportunities in both the supply and
-demand sides of the market. This improves access to working capital financing
-for exporters/importers and fills the trade finance gap.</p>
+<p>By tokenising real-world assets through the use of bills of lading, account
+receivables and warehouse receipts, it becomes possible to trade and finance
+smaller fractions of assets. This revolutionises the investment process,
+opening up new opportunities in both the supply and demand sides of the
+market. This improves access to working capital financing for exporters/importers
+and fills the trade finance gap.</p>
 <p></p>
 </li>
 </ol>
 <h3>Possible Use Case</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pre-shipment/Post-Shipment Trade finance service</p>
+<p>Pre-shipment/Post-shipment trade finance services</p>
 </li>
 <li>
-<p>Documentary collection and advising service</p>
+<p>Documentary collection and advising services</p>
 </li>
 <li>
 <p>Enhance the credibility of documents issued by banks</p>
@@ -115,8 +115,8 @@ for exporters/importers and fills the trade finance gap.</p>
 <p>Letter of Credit Negotiation/Discounting</p>
 </li>
 <li>
-<p>Customers' onboarding, for example, the ACRA's Business Profiles and Business
-Certificates received from customers, which utilize the same technology
+<p>Customers' onboarding - for example, the ACRA's Business Profiles and
+Business Certificates received from customers, which utilise the same technology
 as TradeTrust, allow for instant verification of authenticity, expediting
 the onboarding process by banks in Singapore.</p>
 </li>
