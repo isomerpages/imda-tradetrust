@@ -59,12 +59,12 @@ guide&gt;</p>
 <h4><strong>Reliability</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Security assessment was completed by third party - Ernst &amp; Young to
-ensure the reliability and trustworthiness of TradeTrust framework</p>
+<p>Security assessment was completed by third party - Ernst &amp; Young,
+to ensure the reliability and trustworthiness of TradeTrust framework</p>
 </li>
 <li>
 <p>A proven solution demonstrated through &lt;real live implementations&gt;
-by businesses and over 30 successful trials</p>
+by international businesses with over 30 successful trials</p>
 </li>
 </ul>
 <h4><strong>Award-Winning Solution</strong></h4>
