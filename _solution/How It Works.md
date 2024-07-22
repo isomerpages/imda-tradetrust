@@ -64,7 +64,7 @@ document at any point in time.</p>
 </div>
 </details>
 </div>
-<h4><strong>T rade Compliance Use Case with Verifiable Document</strong></h4>
+<h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
 where the provenance and authenticity of the document can be easily verified
