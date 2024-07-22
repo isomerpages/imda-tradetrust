@@ -8,7 +8,7 @@ description: TradeTrust is a framework that standardizes digital trade with
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
 <p>TradeTrust is designed as an enabler to transform your trade digitalisation
 journey.</p>
-<p><strong>TradeTrust is a framework that standardizes digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
+<p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
 </p>
 <p>TradeTrust achieves this by using blockchain and cryptographic technologies,
 adhering to global standards and legal requirements to enable trusted interoperability
@@ -24,7 +24,7 @@ ecosystem.</p>
 <p>It’s like providing you with both a free tool and the supporting structure,
 to turn your documents into smart electronic documents that are portable
 across your trading partners, with enhanced security features, all while
-meeting standards and legal requirements.</p>
+meeting international standards and legal requirements.</p>
 </blockquote>
 <p>By adopting TradeTrust, users can independently :</p>
 <ul data-tight="true" class="tight">
