@@ -23,12 +23,12 @@ FTP etc</p>
 <h4><strong>Save Time &amp; Money</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Standardizing digital trade leads to consistency, resulting in faster,
-more profitable trades and capital financing, while minimizing legal complexities</p>
+<p>Standardising digital trade leads to consistency, resulting in faster,
+more profitable trades and capital financing, while minimising legal complexities</p>
 </li>
 <li>
 <p>Conduct trustworthy trade and establish new trading relationships with
-complete transparency, traceability for end-to-end supply chain optimisation</p>
+complete transparency and traceability for end-to-end supply chain optimisation</p>
 <p></p>
 </li>
 </ul>
