@@ -84,8 +84,8 @@ to your own priority.</p>
 </li>
 <li>
 <p>Remove the need for all parties (you and your trading community) to use
-one single platform, TradeTrust enabled documents are portable across different
-TradeTrust ready platforms.</p>
+one single platform as, TradeTrust enabled documents are portable across
+different TradeTrust ready platforms.</p>
 </li>
 </ul>
 </li>
@@ -113,16 +113,15 @@ Learn more at <a href="/about/legality-guide/" rel="noopener noreferrer nofollow
 </li>
 </ol>
 <p></p>
-<p>Whether you are from IT department serving your internal end-users or
-a Business Service Provider (BSP), the set of TradeTrust software components
+<p>Whether you are from the IT department serving your internal end-users
+or a Business Service Provider (BSP), the set of TradeTrust software components
 are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
 TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.</p>
 <p></p>
 <h3>Use Cases</h3>
-<p>TradeTrust-enabled Business Service Providers (BSPs) utilize TradeTrust
-for new revenue and value-producing opportunities such as these real-live
-use cases:</p>
+<p>TradeTrust-enabled BSPs utilise TradeTrust for new revenues and value-producing
+opportunities such as these real-live use cases:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>issuance of certificates of authenticity for consumer goods</p>
