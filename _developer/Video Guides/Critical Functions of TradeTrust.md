@@ -24,6 +24,7 @@ identity assurance.</p>
 <blockquote>
 <p>TradeTrust provides <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/Developers" rel="noopener noreferrer nofollow" target="_blank"><u>technical resources</u></a> to
 get you started.
-<br>Need further assistance, &lt;contact us&gt;!</p>
+<br>To reach our tech support, <a href="https://github.com/TradeTrust/tradetrust-core/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
+<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
 </blockquote>
 <p></p>
