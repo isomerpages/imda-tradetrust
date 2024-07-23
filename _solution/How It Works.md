@@ -76,40 +76,61 @@ by any party independently just with an internet access or through automation.</
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>EXPORTER</summary>
+<summary><strong>EXPORTER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Exporter.png">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Exporters" src="/images/Graphics /TT_Verifiable_Exporter.jpg">
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>IMPORTER</summary>
+<summary><strong>IMPORTER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Importers" src="/images/Graphics /TT_Verifiable_Importer.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Importer.png">
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CERT ISSUING/CHECKING AUTHORITY</summary>
+<summary><strong>CERT ISSUING/CHECKING AUTHORITY</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust improvements process flow for Cert Issuing or Checking Authority" src="/images/Graphics /TT_Verifiable_Authority.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_CA.png">
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>BANKER</summary>
+<summary><strong>BANKER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Bankers" src="/images/Graphics /TT_Verifiable_Banker.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Banker.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CARRIERS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Carriers" src="/images/Graphics /TT_Transferable_Carrier.jpg">
 </div>
 </div>
 </details>
@@ -128,7 +149,8 @@ and the endorsement of eBL digitally.</p>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>EXPORTER</summary>
+<summary><strong>EXPORTER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Exporter.png">
@@ -136,10 +158,14 @@ and the endorsement of eBL digitally.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust transferable documents improvement for Exporters" src="/images/Graphics /tt_transferable_exporter.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>IMPORTER</summary>
+<summary><strong>IMPORTER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Importer.png">
@@ -147,7 +173,8 @@ and the endorsement of eBL digitally.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CARRIER</summary>
+<summary><strong>CARRIER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Carrier.png">
@@ -155,7 +182,8 @@ and the endorsement of eBL digitally.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>BANKER</summary>
+<summary><strong>BANKER</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Banker.png">
