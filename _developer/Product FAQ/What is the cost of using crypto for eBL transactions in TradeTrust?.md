@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p>Currently, TradeTrust can be connected to 5 different public blockchain
+<p>Currently, TradeTrust can be connected to five different public blockchain
 networks:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -27,7 +27,7 @@ networks:</p>
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
 as at 2 Feb 2023 for a typical series of transactions from the issuance
-to surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
+to the surrender of electronic bill of lading (eBL) (<em>costs distributed among different stakeholders)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Estimated Fees on Ethereum: &lt; USD $20 or</p>
