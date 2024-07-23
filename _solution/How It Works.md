@@ -70,6 +70,10 @@ document at any point in time.</p>
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
 where the provenance and authenticity of the document can be easily verified
 by any party independently just with an internet access or through automation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_V4_220724_Page_2.png">
+</div>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -139,6 +143,10 @@ solutions when dealing with transferable documents such as<strong> blank-endorse
 where the provenance and authenticity of the document can be easily verified
 by any party independently just with an internet access or through automation,
 and the endorsement of eBL digitally.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_V4_220724_Page_1.png">
+</div>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
