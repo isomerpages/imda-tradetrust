@@ -7,7 +7,8 @@ description: ""
 <blockquote>
 <h4>You can secure any digital document to protect its authenticity and control the possession and actions like endorsement and revocation</h4>
 </blockquote>
-<p>There are broadly 2 types of trade documents that you can digitise:</p>
+<p><strong>There are broadly 2 types of trade documents that you can digitise:</strong>
+</p>
 <h4>1. <strong>Verifiable Documents&nbsp;</strong></h4>
 <p>These are trade documents that are non-transferable, such as Certificates
 of Origin (CoO), Invoices, and certificates of quality/quantity.
