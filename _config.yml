@@ -1,6 +1,6 @@
 title: TradeTrust Accelerates the Digitalisation of Global Trade
 url: https://www.tradetrust.io
-favicon: /images/TradeTrust_favicon.png
+favicon: /images/TT___Logo___Full_Colour___02.svg
 colors:
   primary-color: "#005eb8"
   secondary-color: "#ff8200"
@@ -15,11 +15,12 @@ colors:
       color: "#9b9b9b"
     - title: media-color-five
       color: "#f5a623"
-description: A free digital utility tool to digitalise the end-to-end processing
-  of trade documents.  Businesses can issue, exchange, verify the source and
-  authenticity of electronic documents across different digital platforms
-  seamlessly. And for transferable documents such as electronic bill of lading
-  to effect title transfer in accordance with statutory law.
+description: Tradetrust is a free digital utility tool to digitalise the
+  end-to-end processing of trade documents.  Businesses can issue, exchange,
+  verify the source and authenticity of electronic documents across different
+  digital platforms seamlessly. And for transferable documents such as
+  electronic bill of lading to effect title transfer in accordance with
+  statutory law.
 permalink: none
 baseurl: ""
 exclude:
@@ -56,7 +57,7 @@ plugins:
 staging: https://staging-lite.d19rlfkkwl33mg.amplifyapp.com
 prod: https://master.d3cy4ek5hang2l.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/TT___Logo___Full_Colour___02.svg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
