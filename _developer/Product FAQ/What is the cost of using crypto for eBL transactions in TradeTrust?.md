@@ -21,7 +21,7 @@ networks:</p>
 <p>Hedera</p>
 </li>
 <li>
-<p>Global Trust Network</p>
+<p>Stability</p>
 </li>
 </ul>
 <p>And depending on your role in the supply chain, transaction costs such
