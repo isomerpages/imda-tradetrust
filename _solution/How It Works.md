@@ -142,33 +142,25 @@ solutions when dealing with transferable documents such as<strong> blank-endorse
 where the provenance and authenticity of the document can be easily verified
 by any party independently just with an internet access or through automation,
 and the endorsement of eBL digitally.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDV1.png">
-</div>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>EXPORTER</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Exporter.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics/benefits_verifiable_exporters.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust transferable documents improvement for Exporters" src="/images/Graphics /tt_transferable_exporter.jpg">
-</div>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>IMPORTER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Importer.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /TT_Transferable_Importer.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EXPORTER</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /tt_transferable_exporter.jpg">
 </div>
 </div>
 </details>
@@ -176,8 +168,9 @@ and the endorsement of eBL digitally.</p>
 <summary><strong>CARRIER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Carrier.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /TT_Transferable_Carrier.jpg">
 </div>
 </div>
 </details>
@@ -185,11 +178,15 @@ and the endorsement of eBL digitally.</p>
 <summary><strong>BANKER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Banker.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /TT_Transferable_Banker.jpg">
 </div>
 </div>
 </details>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDV1.png">
 </div>
 <p></p>
 <blockquote>
