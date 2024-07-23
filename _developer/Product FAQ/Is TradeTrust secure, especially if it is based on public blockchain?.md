@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p>Security and Reliability of TradeTrust is ensured through the VAPT of
-the Smart Contract Code by Ernst &amp; Young, ensuring efficient gas costs
-and a well-structured robust codebase.</p>
-<p>In addition, the choice of Blockchain must follow TradeTrust guidelines:</p>
+<p>The security and reliability of TradeTrust are ensured through the VAPT
+of the Smart Contract Code by Ernst &amp; Young, ensuring efficient gas
+costs and a well-structured robust codebase.</p>
+<p>In addition, the choice of blockchain must follow TradeTrust guidelines:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Actively maintained with a large development community</p>
