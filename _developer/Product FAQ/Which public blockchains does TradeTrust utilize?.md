@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Product FAQ
 ---
-<p>TradeTrust relies on <strong>public blockchain</strong> technology - <strong>Ethereum, Polygon, XDC, Hedera and Stability</strong> to
-electronically endorse and transfer the ownership of a document amongst
+<p>TradeTrust relies on <strong>public blockchain</strong> technology - <strong>Ethereum, Polygon, XDC, Hedera and Stability</strong>(crypto-less)
+to electronically endorse and transfer the ownership of a document amongst
 the stakeholders along a trade flow. Public blockchains allow for an open
 and interoperable system, enabling all international parties to participate.</p>
 <p>TradeTrust caters to the following blockchain networks.</p>
