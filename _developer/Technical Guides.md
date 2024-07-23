@@ -140,9 +140,9 @@ issued and its issuance status is in good standing. This error occurs if
 the issuer revokes the document or if the document has not been issued.</p>
 </li>
 <li>
-<p><u>Document issuer identity is invalid</u>: TradeTrust validates and returns
-the identity of the issuer. This error occurs if the document was issued
-by someone whose identity could not be verified.</p>
+<p><u>Document issuer's identity is invalid</u>: TradeTrust validates the
+identity of the issuer. This error occurs if the document was issued by
+someone whose identity could not be verified.</p>
 </li>
 <li>
 <p><u>Document has been tampered with</u>: TradeTrust ensures that the content
