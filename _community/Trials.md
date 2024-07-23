@@ -19,7 +19,7 @@ Finance and Cargo Release use cases.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Trade Lane (POL/POD)</strong>
+<p><strong>Trade Lane (Port Of Load/Port Of Departure)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
