@@ -58,10 +58,6 @@ document at any point in time.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eBL_How_to_read.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /eBL_How_to_read_V4_170724.png">
 </div>
 <p>
