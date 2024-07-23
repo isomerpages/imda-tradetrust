@@ -23,7 +23,7 @@ identity assurance.</p>
 <p></p>
 <blockquote>
 <p>TradeTrust provides <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/Developers" rel="noopener noreferrer nofollow" target="_blank"><u>technical resources</u></a> to
-get your started.
+get you started.
 <br>Need further assistance, &lt;contact us&gt;!</p>
 </blockquote>
 <p></p>
