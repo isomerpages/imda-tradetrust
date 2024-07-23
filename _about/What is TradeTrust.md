@@ -75,7 +75,8 @@ Code conducted by a third-party specialist, Ernst &amp; Young.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free for all to use, and anyone can implement it using the
-set of pre-built software components.</p>
+set of pre-built software components. Your time is required to understand,
+learn, and apply this new technological tool into your business use cases.</p>
 <p></p>
 <p>Other costs may include outsource fee for the integration of TradeTrust
 into your IT system and/or subscription service from TradeTrust ready &lt;partners&gt;.</p>
