@@ -142,7 +142,7 @@ the issuer revokes the document or if the document has not been issued.</p>
 <li>
 <p>Document issuer identity is invalid: TradeTrust validates and returns
 the identity of the issuer. This error occurs if the document was issued
-by an invalid user.</p>
+by someone whose identity could not be verified.</p>
 </li>
 <li>
 <p>Document has been tampered with: TradeTrust ensures that the content of
