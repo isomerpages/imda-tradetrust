@@ -39,8 +39,6 @@ to surrender of electronic bill of lading (<em>costs distributed among different
 <p>Do note that the cost estimated above involves the whole chain of endorsements
 (NFT transactions) for a transferable document like eBL. This cost is expected
 to be shared across multiple transaction parties in the eBL value chain.</p>
-<p>Learn more about <a href="https://docs.tradetrust.io/docs/topics/introduction/estimated-cost-for-transactions/" rel="noopener noreferrer nofollow" target="_blank">cost of contracts/gas fee.</a>
-</p>
-<p>Contact &lt;XDC&gt;, &lt;Hedera&gt; and &lt;Stability&gt; for the gas
-fee.</p>
+<p>Learn more about <a href="https://docs.tradetrust.io/docs/topics/introduction/estimated-cost-for-transactions/" rel="noopener noreferrer nofollow" target="_blank">cost of contracts/gas fee.</a> Contact
+&lt;XDC&gt;, &lt;Hedera&gt; and &lt;Stability&gt; for the gas fee.</p>
 <p></p>
