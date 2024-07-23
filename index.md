@@ -1,12 +1,13 @@
 ---
 layout: homepage
 title: TradeTrust Accelerates the Digitalisation of Global Trade
-description: A free digital utility tool to digitalise the end-to-end processing
-  of trade documents.  Businesses can issue, exchange, verify the source and
-  authenticity of electronic documents across different digital platforms
-  seamlessly. And for transferable documents such as electronic bill of lading
-  to effect title transfer in accordance with statutory law.
-image: /images/isomer-logo.svg
+description: Tradetrust is a free digital utility tool to digitalise the
+  end-to-end processing of trade documents.  Businesses can issue, exchange,
+  verify the source and authenticity of electronic documents across different
+  digital platforms seamlessly. And for transferable documents such as
+  electronic bill of lading to effect title transfer in accordance with
+  statutory law.
+image: /images/TT___Logo___Full_Colour___02.svg
 permalink: /
 notification: ""
 sections:
