@@ -23,8 +23,6 @@ identity assurance.</p>
 <p></p>
 <blockquote>
 <p>TradeTrust provides <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank"><u>technical guides</u></a> to get you
-started.
-<br>To reach our tech support, <a href="https://github.com/TradeTrust/tradetrust-core/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
-<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
+started.</p>
 </blockquote>
 <p></p>
