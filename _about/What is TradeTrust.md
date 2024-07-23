@@ -55,6 +55,7 @@ trading more efficient and convenient for you and your trading partners.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
 <p>TradeTrust Overview Video</p>
+<p>Some commonly asked FAQ</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Are my data and transactions safe?</strong>
