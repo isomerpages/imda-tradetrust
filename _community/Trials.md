@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <blockquote>
-<p>Over 40 industry players, 14 government bodies and TAC, and 10 platforms
-have successfully conducted trials for Trade Finance and Cargo Release
-use cases.</p>
+<p>Over 40 industry players, 14 government bodies and Trade Association and
+Chambers, and 10 platforms have successfully conducted trials for Trade
+Finance and Cargo Release use cases.</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -292,14 +292,15 @@ use cases.</p>
 </table>
 <p></p>
 <blockquote>
-<p>Contact us for more.</p>
+<p>Contact us for more information and use cases.</p>
 </blockquote>
 <h4>Proven Benefits</h4>
-<p>The<strong> Singapore and the Netherlands trial</strong> saw significant
-time savings in the BL documentation process from an average of <strong>six to ten days when using a hardcopy to less than 24 hours when using an eBL</strong>.</p>
-<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange oftrade documentation from</em><strong><em> 48 hours to just under a day</em></strong><em>–a huge benefit in terms of efficiency, security and interoperability across systems.”</em>  <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto</strong>
+<p>The<strong> Singapore and Netherlands trial</strong> saw significant time
+savings in the Bill of Lading (BL) documentation process from an average
+of <strong>six to ten days when using a hardcopy to less than 24 hours when using an electronic BL</strong>.</p>
+<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange oftrade documentation from</em><strong><em> 48 hours to just under a day</em></strong><em>–a huge benefit in terms of efficiency, security and interoperability across systems.”</em> said <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto</strong>
 </p>
-<p>According to <strong>COFCO International</strong> "<em>It is estimated that by promoting digital transformation of their shipping and 2 export processes, the </em><strong><em>document-processing efficiency </em></strong><em>of COFCO Industrial Food can be </em><strong><em>improved by over 80%</em></strong><em>, and the b</em><strong><em>usiness operation cost</em></strong><em> can be </em><strong><em>reduced by over 30%</em></strong><em>.</em>"</p>
+<p>According to <strong>COFCO International</strong> "<em>it is estimated that by promoting digital transformation of their shipping and two export processes, the </em><strong><em>document-processing efficiency </em></strong><em>of COFCO Industrial Food can be </em><strong><em>improved by over 80%</em></strong><em>, and the b</em><strong><em>usiness operation cost</em></strong><em> can be </em><strong><em>reduced by over 30%</em></strong><em>.</em>"</p>
 <p></p>
 <p>The <strong>Singapore and India trial </strong>resulted in a reduction
 of the total trade finance lead time from <strong>25-30 working days</strong> when
