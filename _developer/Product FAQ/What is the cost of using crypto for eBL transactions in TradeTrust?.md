@@ -30,7 +30,7 @@ as at 2 Feb 2023 for a typical series of transactions from the issuance
 to surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Estimated Fees on Ethereum: &lt; USD $20</p>
+<p>Estimated Fees on Ethereum: &lt; USD $20 or</p>
 </li>
 <li>
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
