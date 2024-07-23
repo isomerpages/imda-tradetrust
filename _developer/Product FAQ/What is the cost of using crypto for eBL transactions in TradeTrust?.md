@@ -41,4 +41,6 @@ to surrender of electronic bill of lading (<em>costs distributed among different
 to be shared across multiple transaction parties in the eBL value chain.</p>
 <p>Learn more about <a href="https://docs.tradetrust.io/docs/topics/introduction/estimated-cost-for-transactions/" rel="noopener noreferrer nofollow" target="_blank">cost of contracts/gas fee.</a>
 </p>
+<p>Contact &lt;XDC&gt;, &lt;Hedera&gt; and &lt;Stability&gt; for the gas
+fee.</p>
 <p></p>
