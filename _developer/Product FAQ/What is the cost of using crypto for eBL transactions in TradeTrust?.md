@@ -35,6 +35,12 @@ to surrender of electronic bill of lading (<em>costs distributed among different
 <li>
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
+<li>
+<p>Estimated Fees on Stability: Free for up to 1000 transactions per month</p>
+</li>
+<li>
+<p>Estimated Fees on XDC or Hedera: contact us</p>
+</li>
 </ul>
 <p>Do note that the cost estimated above involves the whole chain of endorsements
 (NFT transactions) for a transferable document like eBL. This cost is expected
