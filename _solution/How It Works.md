@@ -165,22 +165,22 @@ and the endorsement of eBL digitally.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CARRIER</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /TT_Transferable_Carrier.jpg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>BANKER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /TT_Transferable_Banker.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CARRIERS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /TT_Transferable_Carrier.jpg">
 </div>
 </div>
 </details>
