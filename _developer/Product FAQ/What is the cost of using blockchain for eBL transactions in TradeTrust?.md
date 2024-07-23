@@ -26,7 +26,7 @@ networks:</p>
 </ul>
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
-as at 2 Feb 2023 for a typical series of transactions from the issuance
+as at 2 February 2023 for a typical series of transactions from the issuance
 to the surrender of electronic bill of lading (eBL) (<em>costs distributed among different stakeholders)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
