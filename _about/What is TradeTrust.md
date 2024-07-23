@@ -62,8 +62,8 @@ trading more efficient and convenient for you and your trading partners.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data resides in the electronic document files generated and is not
 written into the public blockchain to preserves data confidentiality. Only
-the title ownership is recorded on one of the selected blockchain for title
-documents.</p>
+the title ownership is tracked through the use of Non-fungible Tokens (NFTs)
+on one of the selected blockchain for title documents.</p>
 <p></p>
 <p>And the security and reliability of TradeTrust is ensured through the
 vulnerability assessment and penetration testing of the Smart Contract
