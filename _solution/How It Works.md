@@ -60,8 +60,7 @@ document at any point in time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /eBL_How_to_read_V4_170724.png">
 </div>
-<p>
-<br>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Document</a>
+<p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Document</a>
 </p>
 </div>
 </details>
