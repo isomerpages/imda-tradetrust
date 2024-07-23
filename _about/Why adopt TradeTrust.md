@@ -24,7 +24,7 @@ existing transmission protocol like email, FTP etc</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Standardising digital trade leads to consistency, resulting in faster,
-more profitable trades and capital financing, while minimising legal complexities</p>
+more profitable trades and financing, while minimising legal complexities</p>
 </li>
 <li>
 <p>Conduct trustworthy trade and establish new trading relationships with
