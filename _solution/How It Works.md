@@ -40,7 +40,7 @@ and ensure singularity meaning unique original copy of electronic document
 using NFTs</p>
 </li>
 <li>
-<p>nforce exclusive control (i.e. possessing that Title Document) through
+<p>Enforce exclusive control (i.e. possessing that Title Document) through
 Smart Contract</p>
 </li>
 </ul>
