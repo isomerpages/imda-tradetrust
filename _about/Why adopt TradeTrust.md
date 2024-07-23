@@ -63,7 +63,7 @@ guide&gt;</p>
 to ensure the reliability and trustworthiness of TradeTrust framework</p>
 </li>
 <li>
-<p>A proven solution demonstrated through &lt;real live implementations&gt;
+<p>A proven solution demonstrated through &lt;real life implementations&gt;
 by international businesses with over 30 successful trials</p>
 </li>
 </ul>
