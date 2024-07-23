@@ -70,9 +70,6 @@ document at any point in time.</p>
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
 where the provenance and authenticity of the document can be easily verified
 by any party independently just with an internet access or through automation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VDV1.png">
-</div>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -184,9 +181,6 @@ and the endorsement of eBL digitally.</p>
 </div>
 </div>
 </details>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDV1.png">
 </div>
 <p></p>
 <blockquote>
