@@ -51,9 +51,10 @@ paperless</p>
 </li>
 <li>
 <p>Adopting TradeTrust means following internationally recognised standards
-like the &lt;UN/CEFACT&gt;, &lt;W3C&gt;, &lt;UNESCAP&gt; and UNCITRAL Model
-Law on Electronic Transferable Records &lt;(MLETR)&gt;. Learn more at &lt;legality
-guide&gt;</p>
+like the <a href="https://unece.org/trade/uncefact" rel="noopener noreferrer nofollow" target="_blank">UN/CEFACT</a>,
+<a href="https://www.w3.org/" rel="noopener noreferrer nofollow" target="_blank">W3C</a>verifiable credential, <a href="https://www.unescap.org/" rel="noopener noreferrer nofollow" target="_blank">UNESCAP</a> and UNCITRAL Model Law on Electronic
+Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
+Learn more at &lt;legality guide&gt;</p>
 </li>
 </ul>
 <h4><strong>Reliability</strong></h4>
