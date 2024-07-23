@@ -70,8 +70,8 @@ amendment adopted the Model Law on Electronic Transferable Records (MLETR)
 published by the United Nations Commission on International Trade Law for
 the creation and use of ETRs.</p>
 <blockquote>
-<p>ETA allows Singapore’s jurisdiction to legally recognise ETRs as functional
-equivalent to their paper versions.</p>
+<p>ETA allows ETRs to be recognised as functional equivalent to their paper
+versions in Singapore.</p>
 </blockquote>
 <p>While the ETA gives electronically concluded contracts the same status
 as written contracts through a set of legal provisions, it <strong>does not apply </strong>to
