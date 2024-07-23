@@ -7,7 +7,7 @@ description: ""
 <p>Access step-by-step guide, additional tools and gallery of TradeTrust-enabled
 sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust technical guides.</a>
 </p>
-<h4>Recommended guides :</h4>
+<h4>Some recommended guides :</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,7 +24,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Documentation and guide for implementation</p>
+<p>Documentation and implementation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/getting-started</a>
@@ -91,8 +91,8 @@ to some solutions available in the market:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Get open-source code, including our reference implementation for the understanding
-of framework's implementation</p>
+<p>Get open-source code, including reference implementation to understand
+the framework's implementation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://github.com/tradetrust</a>
@@ -119,7 +119,7 @@ of framework's implementation</p>
 </tbody>
 </table>
 <p></p>
-<h4>Our response to some commonly encountered errors:</h4>
+<h4>Responses to some commonly encountered errors:</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Why is the temporary domain created using TradeTrust CLI not working?</summary>
@@ -128,25 +128,25 @@ of framework's implementation</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>While verifying a document, what should I do when I encounter an error,
-and what does each error mean?</summary>
+<summary>While verifying a document, what should I do when I encounter an error?
+And what does each error mean?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are mainly three types of errors that can occur when verifying a
 document:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Document not issued: TradeTrust checks that the document has been issued
-and that its issuance status is in good standing. This error occurs if
+<p><u>Document not issued:</u> TradeTrust checks that the document has been
+issued and its issuance status is in good standing. This error occurs if
 the issuer revokes the document or if the document has not been issued.</p>
 </li>
 <li>
-<p>Document issuer identity is invalid: TradeTrust validates and returns
+<p><u>Document issuer identity is invalid</u>: TradeTrust validates and returns
 the identity of the issuer. This error occurs if the document was issued
 by someone whose identity could not be verified.</p>
 </li>
 <li>
-<p>Document has been tampered with: TradeTrust ensures that the content of
-the document remains unchanged since its creation, except for data removed
+<p><u>Document has been tampered with</u>: TradeTrust ensures that the content
+of the document remains unchanged since its creation, except for data removed
 using the built-in obfuscation mechanism. This error occurs if the document's
 content has been modified.</p>
 </li>
