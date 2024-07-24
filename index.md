@@ -7,7 +7,7 @@ description: Tradetrust is a free digital utility tool to digitalise the
   digital platforms seamlessly. And for transferable documents such as
   electronic bill of lading to effect title transfer in accordance with
   statutory law.
-image: /images/TT___Logo___Full_Colour___02.svg
+image: /images/TT_LOGO_vertical.png
 permalink: /
 notification: ""
 sections:
