@@ -1,6 +1,6 @@
 title: TradeTrust Accelerates the Digitalisation of Global Trade
 url: https://www.tradetrust.io
-favicon: /images/TT_icon.png
+favicon: /images/TradeTrust logos/TT_icon.png
 colors:
   primary-color: "#005eb8"
   secondary-color: "#ff8200"
@@ -57,7 +57,7 @@ plugins:
 staging: https://staging-lite.d19rlfkkwl33mg.amplifyapp.com
 prod: https://master.d3cy4ek5hang2l.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/TT_icon.png
+shareicon: /images/TradeTrust logos/TT_LOGO_vertical.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
