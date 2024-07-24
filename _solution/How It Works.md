@@ -70,6 +70,9 @@ where the provenance and authenticity of the document can be easily verified
 by any party independently just with an internet access or through automation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_transferable.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_transferable_documents.jpg">
 </div>
 <p>Improvements to the:</p>
