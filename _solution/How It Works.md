@@ -143,7 +143,7 @@ by any party independently just with an internet access or through automation,
 and the endorsement of eBL digitally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_verifiable_documents.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_verifiable.png">
 </div>
 <p>Improvements to the:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
