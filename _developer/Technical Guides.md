@@ -122,7 +122,8 @@ the framework's implementation</p>
 <h4>Responses to some commonly encountered errors:</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Why is the temporary domain created using TradeTrust CLI not working?</summary>
+<summary>Why is the temporary domain created using TradeTrust Command Line Interface
+not working?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The temporary domain is only valid for 24 hours.</p>
 </div>
