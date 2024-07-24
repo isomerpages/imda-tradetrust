@@ -75,7 +75,7 @@ by international businesses with over 30 successful trials</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust won APTFF Innovation Award" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust won APTFF Innovation Award 2022" src="/images/Graphics /Awards_APTFF.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -89,7 +89,7 @@ with the goals of the 2030 United Nations sustainable development agenda.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="WSIS 2023 Finalist" src="/images/Graphics /Awards_WSIS2023.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -103,7 +103,7 @@ Prize 2023.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="SDG Digital Game Changers Award Runner-up 2023" src="/images/Graphics /Awards_UNSDG.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -117,7 +117,7 @@ award.&nbsp;</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="SDG Game Changers Award World Summit award Winner 2023" src="/images/Graphics /Awards_Wold_summit.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -131,7 +131,7 @@ its innovative service in the international trade ecosystem.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="ICC C4DTI Digital Trade Awards 2024" src="/images/Graphics /Awards_C_DT.png">
 </div>
 </div>
 <div class="isomer-card-body">
