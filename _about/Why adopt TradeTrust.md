@@ -117,12 +117,12 @@ award.&nbsp;</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SDG Game Changers Award World Summit award Winner 2023" src="/images/Graphics /Awards_World_summit.png">
+<img style="width: 100%" height="auto" width="100%" alt="SDG Game Changers Award World Summit Award Winner 2023" src="/images/Graphics /Awards_World_summit.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">World Summit Award</div>
-<div class="isomer-card-description">The World Summit Awards recognizes ICT projects contributing to the WSIS
+<div class="isomer-card-description">The World Summit Awards recognises ICT projects contributing to the WSIS
 and UN SDG’s goals through creative digital innovation. TradeTrust is proud
 to be the 2023 winner in the Business and Commerce category, showcasing
 its innovative service in the international trade ecosystem.</div>
