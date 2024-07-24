@@ -68,14 +68,11 @@ was amended to align Singapore’s legal and regulatory infrastructure with
 international trade law and the latest technological advancements. The
 amendment adopted the Model Law on Electronic Transferable Records (MLETR)
 published by the United Nations Commission on International Trade Law for
-the creation and use of ETRs.</p>
+the creation and use of ETRs. ETA gives electronically concluded contracts
+the same status as written contracts through a set of legal provisions.</p>
 <blockquote>
 <p>ETA allows ETRs to be recognised as functional equivalent to their paper
 versions in Singapore.</p>
 </blockquote>
-<p>While the ETA gives electronically concluded contracts the same status
-as written contracts through a set of legal provisions, it <strong>does not apply </strong>to
-certain types of legal instruments or contracts as listed in the <a href="https://sso.agc.gov.sg/Act/ETA2010?ProvIds=Sc1-#Sc1-" rel="noopener noreferrer nofollow" target="_blank">First Schedule of the Act</a>,
-also known as the “Exclusion List” such as creation or execution of a will,
-power of attorney and conveyance of immovable property.</p>
+<p></p>
 <p></p>
