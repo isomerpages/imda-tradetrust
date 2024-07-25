@@ -21,7 +21,7 @@ networks:</p>
 <p>Hedera</p>
 </li>
 <li>
-<p>Stability (crypto-less)</p>
+<p>STABILITY (crypto-less)</p>
 </li>
 </ul>
 <p>And depending on your role in the supply chain, transaction costs such
