@@ -98,10 +98,11 @@ to the surrender of electronic bill of lading (<em>costs distributed among diffe
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 <li>
-<p>Estimated Fees on STABILITY: Free - contact us for service packages</p>
+<p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact <a href="klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for
+service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC or Hedera: contact us</p>
+<p>Estimated Fees on XDC or Hedera: contact <a href="sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a> or &lt;Hedera&gt;</p>
 </li>
 </ul>
 <p></p>
