@@ -36,15 +36,15 @@ to the surrender of electronic bill of lading (eBL) (<em>costs distributed among
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 <li>
-<p>Estimated Fees on STABILITY: Free - contact us for service packages</p>
+<p>Estimated Fees on STABILITY: Free - contact <a href="klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC or Hedera: contact us</p>
+<p>Estimated Fees on XDC or Hedera: contact <a href="sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a> or &lt;Hedera&gt;</p>
 </li>
 </ul>
 <p>Do note that the cost estimated above involves the whole chain of endorsements
 (NFT transactions) for a transferable document like eBL. This cost is expected
 to be shared across multiple transaction parties in the eBL value chain.</p>
-<p>Learn more about <a href="https://docs.tradetrust.io/docs/topics/introduction/estimated-cost-for-transactions/" rel="noopener noreferrer nofollow" target="_blank">cost of contracts/gas fee.</a> Contact
-&lt;XDC&gt;, &lt;Hedera&gt; and &lt;Stability&gt; for the gas fee.</p>
+<p>Learn more about <a href="https://docs.tradetrust.io/docs/topics/introduction/estimated-cost-for-transactions/" rel="noopener noreferrer nofollow" target="_blank">cost of contracts/gas fee.</a> 
+</p>
 <p></p>
