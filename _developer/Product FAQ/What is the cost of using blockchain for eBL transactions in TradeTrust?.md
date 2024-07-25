@@ -18,9 +18,6 @@ networks:</p>
 <p>XDC</p>
 </li>
 <li>
-<p>Hedera</p>
-</li>
-<li>
 <p>STABILITY (crypto-less)</p>
 </li>
 </ul>
@@ -39,7 +36,8 @@ to the surrender of electronic bill of lading (eBL) (<em>costs distributed among
 <p>Estimated Fees on STABILITY: Free, contact <a href="mailto:klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC or Hedera: contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a> or &lt;Hedera&gt;</p>
+<p>Estimated Fees on XDC : contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+</p>
 </li>
 </ul>
 <p>Do note that the cost estimated above involves the whole chain of endorsements
