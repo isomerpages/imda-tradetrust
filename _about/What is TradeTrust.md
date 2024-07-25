@@ -45,7 +45,7 @@ meeting international standards and legal requirements.</p>
 <p>To enjoy all the capabilities of TradeTrust from the convenience of the
 system you are familiar with, you can just integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
-of TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>. This flexibility
+of TradeTrust-ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>. This flexibility
 allows you and your trading partners to choose your preferred TradeTrust-enabled
 system, eliminating the need for all parties to use a common digital platform
 and contractual rulebook, thus facilitating easy scalability of adoption.</p>
@@ -66,8 +66,8 @@ trading more efficient and convenient for you and your trading partners.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data resides in the electronic document files generated and is not
 written into the public blockchain to preserves data confidentiality. Only
-the title ownership is tracked through the use of Non-fungible Tokens (NFTs)
-on one of the selected blockchain for title documents.</p>
+the title ownership is tracked through the use of Non-Fungible Tokens (NFTs)
+on one of the selected blockchains for title documents.</p>
 <p></p>
 <p>And the security and reliability of TradeTrust is ensured through the
 vulnerability assessment and penetration testing of the Smart Contract
@@ -82,9 +82,9 @@ Code conducted by a third-party specialist, Ernst &amp; Young.</p>
 set of pre-built software components.</p>
 <p></p>
 <p>Your resource is required to understand, learn, and apply this new technological
-tool into your business use cases. Other costs may include outsource fee
-for the integration of TradeTrust into your IT system and/or subscription
-service from TradeTrust ready &lt;partners&gt;.</p>
+tool into your business use cases. Other costs may include an outsourcing
+fee for the integration of TradeTrust into your IT system and/or subscription
+service from TradeTrust-ready &lt;partners&gt;.</p>
 <p></p>
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
@@ -92,10 +92,10 @@ as at 2 February 2023 for a typical series of transactions from the issuance
 to the surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Estimated Fees on Ethereum: &lt; USD $20 or</p>
+<p>Estimated Fees on Ethereum: &lt; US$20 or</p>
 </li>
 <li>
-<p>Estimated Fees on Polygon: &lt; USD $0.16</p>
+<p>Estimated Fees on Polygon: &lt; US$0.16</p>
 </li>
 <li>
 <p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact <a href="mailto:klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for
@@ -111,16 +111,19 @@ manual processing and courier costs by going digital.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Why is public blockchains used?</strong>
+<summary><strong>Why are public blockchains used?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>TradeTrust utilises public Blockchain or Distributed Ledger Technology
+<p>TradeTrust utilises public blockchains or Distributed Ledger Technology
 to demonstrate provenance that is essential for the legitimacy of documents
-such as Bills of Lading. Non-Fungible Tokens (NFTs) are used to ensure
-the singularity of the record for transferable documents, with blockchain
-recording the NFT transactions to electronically endorse and transfer the
-ownership of a document among stakeholders along a trade flow. This choice
-was deliberate to <strong>eliminate the need for a central authority</strong> or
+such as Bills of Lading.
+<br>
+<br>Non-Fungible Tokens (NFTs) are used to ensure the singularity of the record
+for transferable documents, with the blockchain recording the NFT transactions
+to electronically endorse and transfer the ownership of a document among
+stakeholders along a trade flow.
+<br>
+<br>This choice was deliberate to <strong>eliminate the need for a central authority</strong> or
 body to govern the network and gatekeep participation, allowing for an
 open and interoperable system for all international parties to participate
 seamlessly.</p>
