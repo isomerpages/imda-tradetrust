@@ -90,7 +90,7 @@ and authenticity, thereby reducing the risk of fraud.</p>
 <p></p>
 <p></p>
 <blockquote>
-<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a> or try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
+<p>Find other TradeTrust ready partners or try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
 <p></p>
 </blockquote>
 <p></p>
