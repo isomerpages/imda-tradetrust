@@ -78,7 +78,8 @@ financial institutions and exporters/importers.</p>
 can be traced real-time, ensuring release of goods to the right party.</p>
 </li>
 </ol>
-<p>Explore and connect with our community of <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholders.</a>
+<p>Explore <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a> and
+connect with our community of <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholders.</a>
 </p>
 <p>For integration of TradeTrust into your existing IT system, use our
 <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. Alternatively, outsource or subscribe to the services
