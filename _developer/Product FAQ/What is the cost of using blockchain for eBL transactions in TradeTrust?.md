@@ -36,10 +36,10 @@ to the surrender of electronic bill of lading (eBL) (<em>costs distributed among
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 <li>
-<p>Estimated Fees on STABILITY: Free - contact <a href="klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for service packages</p>
+<p>Estimated Fees on STABILITY: Free, contact <a href="mailto:klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC or Hedera: contact <a href="sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a> or &lt;Hedera&gt;</p>
+<p>Estimated Fees on XDC or Hedera: contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a> or &lt;Hedera&gt;</p>
 </li>
 </ul>
 <p>Do note that the cost estimated above involves the whole chain of endorsements
