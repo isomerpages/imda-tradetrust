@@ -98,7 +98,7 @@ to the surrender of electronic bill of lading (<em>costs distributed among diffe
 <p>Estimated Fees on Polygon: &lt; USD $0.16</p>
 </li>
 <li>
-<p>Estimated Fees on Stability: Free for up to 1000 transactions per month</p>
+<p>Estimated Fees on STABILITY: Free - contact us for service packages</p>
 </li>
 <li>
 <p>Estimated Fees on XDC or Hedera: contact us</p>
