@@ -87,11 +87,12 @@ transfer of ownership and title of the Bill of Lading, ensuring traceability
 and authenticity, thereby reducing the risk of fraud.</p>
 </li>
 </ol>
-<p>Explore and connect with other <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholders.</a>
+<p>Explore and connect with our community of <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholder.</a>
 </p>
-<p>For integration of TradeTrust into your existing IT system, use our
-<a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. Alternatively, outsource or subscribe to the services
-of TradeTrust ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
+<p>or integration of TradeTrust into your existing IT system, use our <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>.
+Alternatively, outsource or subscribe to the services of TradeTrust ready
+<a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u>
+</a>.</p>
 <p></p>
 <blockquote>
 <p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
