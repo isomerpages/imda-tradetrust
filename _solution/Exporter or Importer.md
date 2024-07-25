@@ -87,7 +87,7 @@ transfer of ownership and title of the Bill of Lading, ensuring traceability
 and authenticity, thereby reducing the risk of fraud.</p>
 </li>
 </ol>
-<p>Connect with other <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholders.</a>
+<p>Explore and connect with other <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholders.</a>
 </p>
 <p>For integration of TradeTrust into your existing IT system, use our
 <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. Alternatively, outsource or subscribe to the services
