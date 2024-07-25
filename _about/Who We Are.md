@@ -4,7 +4,7 @@ permalink: /about/who-we-are/
 variant: tiptap
 description: ""
 ---
-<p>The Infocomm Media Development Authority(IMDA) is a statutory board in
+<p>The Infocomm Media Development Authority (IMDA) is a statutory board in
 the Singapore government. IMDA is the driving force behind Singapore's
 digital transformation efforts, building the foundations of its digital
 infrastructure and driving digital innovation.</p>
