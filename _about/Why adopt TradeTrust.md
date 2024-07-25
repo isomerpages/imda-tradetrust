@@ -7,13 +7,13 @@ description: ""
 <h4><strong>Easy Adoption</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quick launch by using free open-source code or the services of TradeTrust
-ready partners</p>
+<p>Quick launch by using free open-source code or the services of TradeTrust-ready
+partners</p>
 </li>
 <li>
 <p>No semantic/data format and standard restrictions&nbsp;such as Digital
-Container Shipping Association(DCSA) and BIMCO and works with any of your
-existing transmission protocol like email, FTP etc</p>
+Container Shipping Association (DCSA) and BIMCO and works with any of your
+existing transmission protocols like email, FTP etc</p>
 </li>
 <li>
 <p>Best practices enable scalability and cross-platform interoperability
@@ -62,8 +62,8 @@ Learn more at &lt;legality guide&gt;</p>
 <h4><strong>Reliability</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Security assessment was completed by third party - Ernst &amp; Young,
-to ensure the reliability and trustworthiness of TradeTrust framework</p>
+<p>Security assessment completed by third party - Ernst &amp; Young, to ensure
+the reliability and trustworthiness of the TradeTrust framework</p>
 </li>
 <li>
 <p>A proven solution demonstrated through &lt;real life implementations&gt;
@@ -81,7 +81,7 @@ by international businesses with over 30 successful trials</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">APTFF Innovation Award</div>
 <div class="isomer-card-description">As one of the winners of the 2022 Trade Facilitation Innovation Award
-at the 10th Asia Pacific Trade Facilitation Forum, this recognition acknowledges
+at the 10th Asia-Pacific Trade Facilitation Forum, this recognition acknowledges
 TradeTrust’s innovative approach to trade facilitation and its alignment
 with the goals of the 2030 United Nations sustainable development agenda.</div>
 </div>
@@ -108,7 +108,7 @@ Prize 2023.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">SDG Digital GameChangers Award</div>
-<div class="isomer-card-description">The SDG Digital GameChangers Award recognizes individuals and organizations
+<div class="isomer-card-description">The SDG Digital GameChangers Award recognises individuals and organisations
 leveraging digital technologies to advance the UN's Sustainable Development
 Goals (SDGs). TradeTrust is proud to receive the SDG GameChangers runner-up
 award.&nbsp;</div>
@@ -136,7 +136,7 @@ its innovative service in the international trade ecosystem.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">ICC C4DTI Digital Trade Awards</div>
-<div class="isomer-card-description">The awards convened practitioners to recognize excellence in delivering
+<div class="isomer-card-description">The awards convened practitioners to recognise excellence in delivering
 a more cost-effective, efficient, and simplified trading system. TradeTrust
 was a finalist for Best Advisor, Best Use of Interoperable Digital Trade
 Technology in the Banking Sector, and Best Industry Champion 2024.</div>
