@@ -44,7 +44,7 @@ sections:
   - textcards:
       title: Solution
       id: textcards
-      description: You can create, exchange, verify  digitized documents, and transfer
+      description: You can create, exchange, verify  digitised documents, and transfer
         ownership for title documents, while reducing the risk of fraud through
         checks for proof of origin, tampering, and authenticity.
       cards:
@@ -101,11 +101,11 @@ sections:
         with TradeTrust.
       cards:
         - title: Contact Us
-          description: Join our fast growing mailing list or send us your queries
+          description: Join our fast-growing mailing list or send us your queries
           linktext: Sign up
           url: https://form.gov.sg/635f32c5001b2d0011fff09b
         - title: Partner Us
-          description: Join us to become a TradeTrust ready partner
+          description: Join us to become a TradeTrust-ready partner
           linktext: Sign up
           url: https://form.gov.sg/63b7e833df5f2900128cdbb6
   - announcements:
