@@ -102,7 +102,8 @@ to the surrender of electronic bill of lading (<em>costs distributed among diffe
 service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC or Hedera: contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a> or &lt;Hedera&gt;</p>
+<p>Estimated Fees on XDC: contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+</p>
 </li>
 </ul>
 <p></p>
