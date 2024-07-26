@@ -19,27 +19,27 @@ of Origin (CoO), Invoices, and certificates of quality/quantity.
 one party to another;&nbsp;for example Electronic Transferable Records
 (ETRs) such as electronic bills of lading and warehouse receipts that entitle
 the holder to claim the performance of an obligation or ownership.</p>
-<p>These TradeTrust-enabled electronic documents are functional equivalent
-to their paper-based version. They are saved as TradeTrust (.tt) files
+<p>These TradeTrust-enabled electronic documents are functional equivalents
+to their paper-based versions. They are saved as TradeTrust (.tt) files
 containing the data, which can be easily transmitted to stakeholders across
 the supply chain over your existing business/IT system via email, FTP,
-portal uploads/downloads, and legacy EDI systems etc. There is no restriction
-on the use of data format or standard. You can also save the documents
-in pdf format with QR code.</p>
-<p>TradeTrust leverages the strength of immutability and security of blockchain,
-Smart Contracts and Non-Fungible Tokens (NFTs) to :</p>
+portal uploads/downloads, and legacy EDI systems etc. There are no restrictions
+on the use of data formats or standards. You can also save the documents
+in pdf format with a QR code.</p>
+<p>TradeTrust leverages the strength of immutability and security of blockchains,
+Smart Contracts and Non-Fungible Tokens (NFTs) to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Demonstrate provenance and integrity, essential for document legitimacy</p>
 </li>
 <li>
 <p>Present title ownership and enable transfers from one party to the next,
-and ensure singularity meaning unique original copy of electronic document
-using NFTs</p>
+and ensure singularity, meaning the unique original copy of the electronic
+document, using NFTs</p>
 </li>
 <li>
 <p>Enforce exclusive control (i.e. possessing that Title Document) through
-Smart Contract</p>
+Smart Contracts</p>
 </li>
 </ul>
 <p>When you or your trading parties access the .tt file in any TradeTrust-enabled
@@ -67,7 +67,7 @@ document at any point in time.</p>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
 where the provenance and authenticity of the document can be easily verified
-by any party independently just with an internet access or through automation.</p>
+by any party independently with just an internet access or through automation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /Interoperability_transferable.png">
@@ -193,7 +193,7 @@ and the endorsement of eBL digitally.</p>
 </div>
 <p></p>
 <blockquote>
-<p>Wonder how to get started, <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">conduct us</a>.</p>
+<p>Wondering how to get started? <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a>.</p>
 </blockquote>
 <p></p>
 <p></p>
