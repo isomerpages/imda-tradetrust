@@ -53,13 +53,13 @@ detention charges by customers due to delay in documentation</div>
 </p>
 <p>Ships are estimated to transport around 80 percent of goods.</p>
 <p></p>
-<p>According to DCSA "<em>The bill of lading is one of the most important trade documents in container shipping. It functions as a document of title, receipt for shipped goods and a record of agreed terms and conditions. Ocean carriers issue around 45 million bills of lading a year. In 2021, just 1.2% of these were in electronic format."</em>
+<p>According to the DCSA, "<em>The bill of lading is one of the most important trade documents in container shipping. It functions as a document of title, receipt for shipped goods and a record of agreed terms and conditions. Ocean carriers issue around 45 million bills of lading a year. In 2021, just 1.2% of these were in electronic format."</em>
 </p>
 <p></p>
-<p>By digitising bills of lading with TradeTrust, as an issuer, carrier can
-enable system interoperability and platform-agnostic, seamless data exchange
-with your supply chain partners for trusted transactions. Any revocation
-of documents can be easily managed too.</p>
+<p>By digitising bills of lading with TradeTrust, as an issuer, carriers
+can enable system interoperability and platform-agnostic, seamless data
+exchange with your supply chain partners for trusted transactions. Any
+revocation of documents can be easily managed too.</p>
 <p></p>
 <p>Automated cargo releases can be facilitated by accepting digitally surrendered
 bills of lading, ensuring enhanced security through identity and authenticity
@@ -67,21 +67,22 @@ checks.</p>
 <p></p>
 <p>The same electronic bills of lading can be used for trade compliance and
 cross-border cargo shipping arrangement by logistics service providers
-for downstream supply chain operations. And for trade financing between
-financial institutions and exporters/importers.</p>
+for downstream supply chain operations. They can also be used for trade
+financing between financial institutions and exporters/importers.</p>
 <p></p>
 </li>
 <li>
 <p><strong>Cargo Release</strong>
 </p>
-<p>Through endorsement chain, holdership and ownership of bill of lading
-can be traced real-time, ensuring release of goods to the right party.</p>
+<p>Through the endorsement chain, the ownership and holding of electronic
+bills of lading can be traced in real-time, ensuring the release of goods
+to the right party.</p>
 </li>
 </ol>
 <p></p>
 <p>For integration of TradeTrust into your existing IT system, use our
 <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. Alternatively, outsource or subscribe to the services
-of TradeTrust ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
+of TradeTrust-ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
 <p></p>
 <blockquote>
 <p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>. Try <a href="https://creator.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
