@@ -140,9 +140,9 @@ by any party independently with just an internet access or through automation.</
 <p></p>
 <h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
-solutions when dealing with transferable documents such as<strong> blank-endorsed electronic Bill of Lading</strong>(eBL),
+solutions when dealing with transferable documents such as<strong> blank-endorsed electronic Bill of Lading </strong>(eBL),
 where the provenance and authenticity of the document can be easily verified
-by any party independently just with an internet access or through automation,
+by any party independently with just an internet access or through automation,
 and the endorsement of eBL digitally.</p>
 <p></p>
 <div class="isomer-image-wrapper">
