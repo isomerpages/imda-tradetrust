@@ -46,7 +46,7 @@ detention charges by customers due to delay in documentation</div>
 </div>
 <h3>How TradeTrust can help in Shipping &amp; Logistics</h3>
 <p></p>
-<p>TradeTrust facilitates :</p>
+<p>TradeTrust facilitates:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Cargo Shipments</strong>
