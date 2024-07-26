@@ -26,8 +26,8 @@ for international trade operations</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">De-Risk Trade Financing</div>
-<div class="isomer-card-description">Traceability of ownership, identity and authenticity verifications reduces
-human errors and risk of fraud like double financing</div>
+<div class="isomer-card-description">Traceability of ownership, identity and authenticity verifications reduce
+human errors and risk of fraud, such as double financing</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -52,7 +52,7 @@ trade finance gap</div>
 <p>TradeTrust can transform the management of digital ledger payment commitments
 by providing a secure, transparent, and immutable platform for recording
 and managing payment obligations using blockchain and distributed ledger
-technology. This enhances the security and transparency of payment commitments,
+technologies. This enhances the security and transparency of payment commitments,
 streamlining the overall payment process, and reducing the risk of disputes
 and errors.</p>
 <p></p>
@@ -75,14 +75,14 @@ BL does not provide rights of suit against a carrier for loss in transit
 or failure to properly care for the cargo.</p>
 <p>TradeTrust-enabled trade documents are supported by statutory laws aligned
 with UNCITRAL’s Model Law on Electronic Transferable Records (MLETR). The
-use of TradeTrust-enabled electronic Bills of Lading(eBLs) could offer
+use of TradeTrust-enabled electronic Bills of Lading (eBLs) could offer
 greater assurance to banks for their security interests, as immutable records
 of ownership are maintained on a blockchain, represented by an endorsement
 chain that also serves as an audit trail. As you can trace the ownership
 and holdership of documents, this helps to prevent double or multiple financing.</p>
 <p></p>
 <blockquote>
-<p>Learn more about <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide</a>.</p>
+<p>Learn more in the <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide</a>.</p>
 </blockquote>
 <p></p>
 </li>
