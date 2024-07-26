@@ -58,7 +58,7 @@ in paper document delivery. Tokenising real-world assets for eBLs creates
 the possibility of fractionalised financing with multiple financiers for
 the same eBL.</p>
 <p>By using digital banking, you can skip the need to submit and collect
-physical documents from the banks or through courier services.</p>
+physical documents from banks or through courier services.</p>
 <p></p>
 </li>
 <li>
