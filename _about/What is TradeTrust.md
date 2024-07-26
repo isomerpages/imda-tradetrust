@@ -8,7 +8,7 @@ description: TradeTrust is a framework that standardizes digital trade with
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
 <p>TradeTrust is designed as an enabler to transform your trade digitalisation
 journey.</p>
-<p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for international trade ecosystem.</strong>
+<p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem.</strong>
 </p>
 <p>TradeTrust achieves this by using blockchain and cryptographic technologies,
 adhering to global standards and legal requirements to enable trusted portability
@@ -45,7 +45,7 @@ meeting international standards and legal requirements.</p>
 <p>To enjoy all the capabilities of TradeTrust from the convenience of the
 system you are familiar with, you can just integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
-of TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>. This flexibility
+of TradeTrust-ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>. This flexibility
 allows you and your trading partners to choose your preferred TradeTrust-enabled
 system, eliminating the need for all parties to use a common digital platform
 and contractual rulebook, thus facilitating easy scalability of adoption.</p>
@@ -58,14 +58,14 @@ trading more efficient and convenient for you and your trading partners.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
 <p>TradeTrust Overview Video</p>
-<p>Some commonly asked FAQ:</p>
+<p>Some commonly asked questions:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Are my data and transactions safe?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data resides in the electronic document files generated and is not
-written into the public blockchain to preserves data confidentiality. Only
+written into the public blockchain to preserve data confidentiality. Only
 the title ownership is tracked through the use of Non-Fungible Tokens (NFTs)
 on one of the selected blockchains for title documents.</p>
 <p></p>
