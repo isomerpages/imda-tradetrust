@@ -20,16 +20,16 @@ jurisdiction provision for the documents with a MLETR-compliant jurisdiction.</p
 <p>Using an example of a shipment from a non-MLETR-compliant jurisdiction
 like China to Singapore: As long as the TradeTrust-enabled electronic Bill
 of Lading (eBL) issued by the carrier is governed by a MLETR-compliant
-jurisdiction such as Singapore, that eBL will most likely be considered
-in accordance with the MLETR as applied under Singapore law, and be treated
-as equivalent to a paper bill of lading. That is the same position with
-regards to express choice of law and jurisdiction as current law.</p>
+jurisdiction such as Singapore, that eBL will be considered compliant to
+the MLETR as applied under Singapore law, and be treated as equivalent
+to a paper bill of lading. That is the same position with regards to express
+choice of law and jurisdiction as current law.</p>
 <p>Some other MLETR-compliant jurisdictions include<strong> </strong>the<strong> </strong>UK;
-New York and Delaware in the US, the Abu Dhabi Global Market in the United
+New York and Delaware in the US; the Abu Dhabi Global Market in the United
 Arab Emirates, and <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">more</a>.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US law aspects from Blank Rome LLP, to develop a TradeTrust
-Legality Guide. In it you will find</p>
+Legality Guide. In it you will find:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>How TradeTrust addresses legal and technical issues that have prevented
@@ -45,7 +45,7 @@ Singapore, the UK and the US</p>
 </li>
 </ul>
 <blockquote>
-<p>Download <a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of their use in global trade.</a>
+<p>Download <a href="https://www.tradetrust.io/static/images/legality/Stephenson_Harwood_Article_on_TradeTrust_eBLs.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of TradeTrust-enabled eBLs and their use in global trade.</a>
 </p>
 </blockquote>
 <p></p>
