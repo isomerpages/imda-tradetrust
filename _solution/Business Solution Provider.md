@@ -29,8 +29,8 @@ effective across systems for overall efficiency</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">New Business Opportunities</div>
 <div class="isomer-card-description">Improve service offerings through the development of innovative digital
-products and services using TradeTrust open-source code such as digital
-arts, issuance of cert, etc</div>
+products and services using TradeTrust's open-source code, such as digital
+art, issuance of certificates and so on</div>
 </div>
 </div>
 </div>
@@ -55,7 +55,7 @@ a party receives it.</p>
 <br>Partner with anyone, regardless of technology capability, to drive efficiency
 and lower cost of business.</p>
 <p></p>
-<p>TradeTrust is system, semantic/data and transmission agnostic.</p>
+<p>TradeTrust is system-, semantic/data format- and transmission agnostic.</p>
 <p>• <u>System agnostic</u>: Almost any system can integrate the TradeTrust
 software components to acquire the functionalities of TradeTrust.
 <br>• <u>Semantic/data format agnostic:</u> You can freely choose from data
@@ -64,7 +64,7 @@ specifications by ICC Digital Standards Initiative (DSI) and/or BL data
 format standards from Digital Container Shipping Association(DCSA) and
 BIMCO and/or any data format agreed upon by you and your business partners.
 <br>• <u>Transmission agnostic</u>: You can freely choose to use any existing
-transmission protocol like email, FTP etc. to transport the TradeTrust
+transmission protocols like email, FTP etc. to transport the TradeTrust
 file from party to party.</p>
 <p></p>
 </li>
@@ -80,12 +80,12 @@ place in between you and exchanging parties</p>
 <p>Remove tight coupling and inter-dependencies between exchanging systems.
 This means exchanging parties like you and your trading partners can proceed
 to upgrade and make changes to the IT systems at your own pace according
-to your own priority.</p>
+to your own priorities.</p>
 </li>
 <li>
 <p>Remove the need for all parties (you and your trading community) to use
-one single platform as, TradeTrust enabled documents are portable across
-different TradeTrust ready platforms.</p>
+one single platform as TradeTrust-enabled documents are portable across
+different TradeTrust-ready platforms.</p>
 </li>
 </ul>
 </li>
@@ -94,11 +94,12 @@ different TradeTrust ready platforms.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://unece.org/trade/uncefact" rel="noopener noreferrer nofollow" target="_blank">UN/CEFACT</a>,</p>
+<p><a href="https://unece.org/trade/uncefact" rel="noopener noreferrer nofollow" target="_blank">UN/CEFACT</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.w3.org/" rel="noopener noreferrer nofollow" target="_blank">W3C</a> verifiable
-credential(in progress),</p>
+credential (in progress)</p>
 </li>
 <li>
 <p><a href="https://www.unescap.org/" rel="noopener noreferrer nofollow" target="_blank">UNESCAP</a>
@@ -106,7 +107,7 @@ credential(in progress),</p>
 </li>
 <li>
 <p>UNCITRAL Model Law on Electronic Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
-Learn more at <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide.</a>
+Learn more in the <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide.</a>
 </p>
 </li>
 </ul>
@@ -117,7 +118,7 @@ Learn more at <a href="/about/legality-guide/" rel="noopener noreferrer nofollow
 or a Business Service Provider (BSP), the set of TradeTrust software components
 are open-source and free to use, enabling easy integration into existing
 systems. Alternatively, outsource or subscribe to services provided by
-TradeTrust ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.</p>
+TradeTrust-ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.</p>
 <p></p>
 <h3>Use Cases</h3>
 <p>TradeTrust-enabled BSPs utilise TradeTrust for new revenues and value-producing
@@ -129,8 +130,8 @@ opportunities such as these real-life use cases:</p>
 <li>
 <p>Electronic documentation processing including purchase order, invoice,
 bill of lading, certificate of origin, health cert, datalogger report,
-electronic bunker delivery note, packing list, certificate of origin, invoices,
-delivery order and airway bill</p>
+electronic bunker delivery note, packing list, delivery order and airway
+bill</p>
 </li>
 <li>
 <p>Creation of Non-Fungible Tokens (NFTs) for visual art items that can be
