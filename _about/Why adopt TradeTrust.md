@@ -7,8 +7,8 @@ description: ""
 <h4><strong>Easy Adoption</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Quick launch by using free open-source code or the services of TradeTrust-ready
-partners</p>
+<p>Quick launch by using free open-source code or the services of TradeTrust
+ready partners</p>
 </li>
 <li>
 <p>No semantic/data format and standard restrictions&nbsp;such as Digital
