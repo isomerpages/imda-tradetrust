@@ -16,7 +16,7 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">More Capital Liquidity</div>
 <div class="isomer-card-description">Conduct more trades for profit with access to more working capital from
-banks and alternative financiers with fractionalized financing</div>
+banks and alternative financiers with fractionalised financing</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -27,8 +27,8 @@ banks and alternative financiers with fractionalized financing</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Efficient Operational Processes</div>
-<div class="isomer-card-description">Enhance productivity and optimise supply chain through rapid exchange
-of digital information that can be trusted and with transparency</div>
+<div class="isomer-card-description">Enhance productivity and optimise supply chains through rapid exchange
+of digital information that is transparent and can be trusted</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -47,29 +47,29 @@ detention charges of holding cargo due to delay in documentation</div>
 <p></p>
 <h3>How TradeTrust can help in your Trading</h3>
 <p></p>
-<p>TradeTrust facilitates :</p>
+<p>TradeTrust facilitates:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Digital Trade Financing</strong>
 </p>
-<p>Using TradeTrust-enabled electronic Bills of Lading (eBL) will aid to
-improve cash conversion cycle for businesses as it reduces time lag due
-to delays in paper document delivery. Tokenising Real-World Assets (RWA)
-for eBL creates the possibility of fractionalised financing with multiple
-financiers for the same eBL.</p>
-<p>By going online digitally with your bank, you can skip the need to submit
-and collect your documents physically over the banks' counter or through
-courier services.</p>
+<p>Using TradeTrust-enabled electronic Bills of Lading (eBLs) will improve
+the cash conversion cycle for businesses as it reduces time lag from delays
+in paper document delivery. Tokenising real-world assets for eBLs creates
+the possibility of fractionalised financing with multiple financiers for
+the same eBL.</p>
+<p>By using digital banking, you can skip the need to submit and collect
+physical documents from the banks or through courier services.</p>
 <p></p>
 </li>
 <li>
 <p><strong>Cargo Claim</strong>
 </p>
-<p>Optimise processes and collaborative workflows between partners with end-to-end
-transaction traceability, documentation and validation checks automation.</p>
+<p>Between trade partners, processes and collaborative workflows are optimised
+with end-to-end transactions that can be traced, as well as documentation
+and validation checks that are fully automated.</p>
 <p></p>
-<p>Enable the electronic surrendering of the bill of lading by buyer, ensuring
-timely claiming of goods without the need for a paper bill of lading.</p>
+<p>By enabling the surrendering of the eBL digitally, goods can be claimed
+in a timely fashion without the need for a paper bill of lading.</p>
 <p></p>
 </li>
 <li>
@@ -77,21 +77,21 @@ timely claiming of goods without the need for a paper bill of lading.</p>
 </p>
 <p></p>
 <p>Electronic documents like bills of lading and certificates of origin expedite
-trade compliance and cross-border cargo shipping arrangemenst. Border control
-of the importing country performs document checks by automation of the
-digital copy, or scans the embedded QR barcode on printed copy, for instant
-verification of documents' source and authenticity.</p>
+trade compliance and cross-border cargo shipping arrangements. Border controls
+of the importing country perform document checks by automation of the digital
+copy, or scanning the embedded QR code on printed copies, for instant verification
+of documents' source and authenticity.</p>
 <p></p>
-<p>Support trading activities by enabling an endorsement chain, real-time
-transfer of ownership and title of the Bill of Lading, ensuring traceability
-and authenticity, thereby reducing the risk of fraud.</p>
+<p>By enabling an endorsement chain, the real-time transfer of ownership
+and title of the Bill of Lading, and ensuring traceability and authenticity,
+the risk of fraud is significantly reduced.</p>
 </li>
 </ol>
 <p>Explore and connect with our community of <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">stakeholders.</a>
 </p>
 <p>For integration of TradeTrust into your existing IT system, use our
 <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. Alternatively, outsource or subscribe to the services
-of TradeTrust ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
+of TradeTrust-ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
 <p></p>
 <blockquote>
 <p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
