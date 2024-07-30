@@ -61,8 +61,7 @@ trading more efficient and convenient for you and your trading partners.</p>
 <p>Some commonly asked questions:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Are my data and transactions safe?</strong>
-</summary>
+<summary>Are my data and transactions safe?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data resides in the electronic document files generated and is not
 written into the public blockchain to preserve data confidentiality. Only
@@ -75,8 +74,7 @@ Code conducted by a third-party specialist, Ernst &amp; Young.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What are the costs involved?</strong>
-</summary>
+<summary>What are the costs involved?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust is free for all to use, and anyone can implement it using the
 set of pre-built software components.</p>
@@ -89,31 +87,20 @@ service from TradeTrust-ready &lt;partners&gt;.</p>
 <p>And depending on your role in the supply chain, transaction costs such
 as blockchain gas fees may apply. Below are the estimated fees (USD) computed
 as at 2 February 2023 for a typical series of transactions from the issuance
-to the surrender of electronic bill of lading (<em>costs distributed among different stakeholders)</em>:</p>
-<ul data-tight="true" class="tight">
-<li>
+to the surrender of electronic bill of lading (costs distributed among
+different stakeholders):</p>
 <p>Estimated Fees on Ethereum: &lt; US$20 or</p>
-</li>
-<li>
 <p>Estimated Fees on Polygon: &lt; US$0.16</p>
-</li>
-<li>
-<p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact <a href="mailto:klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for
-service packages</p>
-</li>
-<li>
-<p>Estimated Fees on XDC: contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
-</p>
-</li>
-</ul>
+<p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact STABILITY
+for service packages</p>
+<p>Estimated Fees on XDC: contact XDC</p>
 <p></p>
 <p>Reach out to us to learn more about the costs and how you can save on
 manual processing and courier costs by going digital.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Why are public blockchains used?</strong>
-</summary>
+<summary>Why are public blockchains used?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust utilises public blockchains or Distributed Ledger Technology
 to demonstrate provenance that is essential for the legitimacy of documents
@@ -124,14 +111,15 @@ for transferable documents, with the blockchain recording the NFT transactions
 to electronically endorse and transfer the ownership of a document among
 stakeholders along a trade flow.
 <br>
-<br>This choice was deliberate to <strong>eliminate the need for a central authority</strong> or
-body to govern the network and gatekeep participation, allowing for an
-open and interoperable system for all international parties to participate
+<br>This choice was deliberate to eliminate the need for a central authority
+or body to govern the network and gatekeep participation, allowing for
+an open and interoperable system for all international parties to participate
 seamlessly.</p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <blockquote>
 <p>Download &lt;factsheet&gt;.</p>
 </blockquote>
