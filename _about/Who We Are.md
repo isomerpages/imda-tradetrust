@@ -28,8 +28,8 @@ trade practices.</p>
 all parties can easily adopt it for free and build upon it, benefiting
 business ecosystems.</p>
 <blockquote>
-<p>Transform the way you trade - &lt;subscribe&gt; to our TradeTrust newsletter
-for exclusive insights.</p>
+<p>Transform the way you trade - <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">subscribe</a> to our
+TradeTrust newsletter for exclusive insights.</p>
 <p></p>
 </blockquote>
 <hr>
