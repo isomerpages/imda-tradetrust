@@ -83,7 +83,7 @@ copy, or scanning the embedded QR code on printed copies, for instant verificati
 of documents' source and authenticity.</p>
 <p></p>
 <p>By enabling an endorsement chain, the real-time transfer of ownership
-and title of the Bill of Lading, and ensuring traceability and authenticity,
+or title of the Bill of Lading, and ensuring traceability and authenticity,
 the risk of fraud is significantly reduced.</p>
 </li>
 </ol>
