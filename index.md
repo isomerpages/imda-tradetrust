@@ -65,21 +65,21 @@ sections:
         - title: Carrier
           description: Be digital-ready, stay compliant and relevant for future needs
           linktext: Learn more
-          url: /carrier/
+          url: /solution/carrier/
         - title: Exporter / Importer
           description: For fast, trustworthy transactions and new business opportunities
           linktext: Learn more
-          url: /exporter-importer/
+          url: /solution/exporter-importer/
         - title: Banker / Financier
           description: De-risk trade financing, tokenise digital assets for fractionalised
             financing
           linktext: Learn more
-          url: /banker-financier/
+          url: /solution/banker-financier/
         - title: Business Solution Provider
           description: Innovate and create new IT product offerings by building upon
             TradeTrust
           linktext: Learn more
-          url: /business-solution-provider/
+          url: /solution/business-solution-provider/
       subtitle: DIGITAL TRADE ECOSYSTEM
       description: Streamline end-to-end trade document processing to enhance
         operational efficiency, build trust, and provide convenience for
