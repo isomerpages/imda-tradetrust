@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: TradeTrust Accelerates the Digitalisation of Global Trade
-description: Tradetrust is a free digital utility tool to digitalise the
+description: TradeTrust is a free digital utility tool to digitalise the
   end-to-end processing of trade documents.  Businesses can issue, exchange,
   verify the source and authenticity of electronic documents across different
   digital platforms seamlessly. And for transferable documents such as
