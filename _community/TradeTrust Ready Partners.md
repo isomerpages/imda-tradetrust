@@ -1,5 +1,5 @@
 ---
-title: TradeTrust Ready Partners
+title: "TradeTrust-Ready Partners"
 permalink: /community/tradetrust-ready-partners/
 variant: tiptap
 description: TradeTrust partners
