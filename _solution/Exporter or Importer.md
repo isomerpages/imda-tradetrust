@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1414916335_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="liquidity" src="/images/Stock_images/more_capital_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ banks and alternative financiers with fractionalised financing</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1029794730_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="efficient" src="/images/Stock_images/efficient_ops_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ of digital information that is transparent and can be trusted</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1449484368_Shipping.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="shipping" src="/images/Stock_images/shipping_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
