@@ -33,7 +33,7 @@ human errors and risk of fraud, such as double financing</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_images/istockphoto_621247676_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_images/new_biz_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
