@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1471378553_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="enhanced customer experience" src="/images/Stock_images/enhanced_customer_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -21,7 +21,7 @@ for international trade operations</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_2042798578_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="de-risk" src="/images/Stock_images/de_risk_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -33,7 +33,7 @@ human errors and risk of fraud, such as double financing</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_image_samples/istockphoto_621247676_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_images/istockphoto_621247676_2048x2048.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
