@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_952625346_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="carrier" src="/images/Stock_images/enhanced_customer2_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ with your customers</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1029794730_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Efficient" src="/images/Stock_images/efficient_ops_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ of digital information that can be trusted</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1449484368_Shipping.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_images/shipping_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
