@@ -138,7 +138,7 @@ by any party independently with just an internet access or through automation.</
 </details>
 </div>
 <p></p>
-<h4><strong>Trade Finance Use Case Example with Transferable Document</strong></h4>
+<h4><strong>Trade Finance Use Case with Transferable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with transferable documents such as<strong> blank-endorsed electronic Bill of Lading </strong>(eBL),
 where the provenance and authenticity of the document can be easily verified
