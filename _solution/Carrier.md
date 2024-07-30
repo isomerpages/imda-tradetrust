@@ -53,7 +53,7 @@ detention charges by customers due to delay in documentation</div>
 </p>
 <p>Ships are estimated to transport around 80 percent of goods.</p>
 <p></p>
-<p>According to the DCSA, "<em>The bill of lading is one of the most important trade documents in container shipping. It functions as a document of title, receipt for shipped goods and a record of agreed terms and conditions. Ocean carriers issue around 45 million bills of lading a year. In 2021, just 1.2% of these were in electronic format."</em>
+<p>According to the Digital Container Shipping Association, "<em>The bill of lading is one of the most important trade documents in container shipping. It functions as a document of title, receipt for shipped goods and a record of agreed terms and conditions. Ocean carriers issue around 45 million bills of lading a year. In 2021, just 1.2% of these were in electronic format."</em>
 </p>
 <p></p>
 <p>By digitising bills of lading with TradeTrust, as an issuer, carriers
