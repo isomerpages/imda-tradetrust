@@ -293,7 +293,8 @@ Finance and Cargo Release use cases.</p>
 </table>
 <p></p>
 <blockquote>
-<p>Contact us for more information and use cases.</p>
+<p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> for
+more information and use cases.</p>
 </blockquote>
 <h4>Proven Benefits</h4>
 <p>The<strong> Singapore and Netherlands trial</strong> saw significant time
