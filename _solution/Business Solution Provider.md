@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_image_samples/istockphoto_1646500561_technology.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Stock_images/increased_it_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -23,7 +23,7 @@ effective across systems for overall efficiency</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_image_samples/istockphoto_1591572504_2048x2048.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="More Business Opportunities" src="/images/Stock_images/new_business.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
