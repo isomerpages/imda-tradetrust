@@ -26,7 +26,8 @@ achieves this by promoting trust, efficiency, and inclusivity in digital
 trade practices.</p>
 <p>Offered as a digital utility to all, TradeTrust is open-source so that
 all parties can easily adopt it for free and build upon it, benefiting
-business ecosystems.</p>
+business ecosystems. Other digital utilities include <a href="https://www.imda.gov.sg/how-we-can-help/nationwide-e-invoicing-framework" rel="noopener noreferrer nofollow" target="_blank">InvoiceNow</a> and
+<a href="https://sgtradex.com/" rel="noopener noreferrer nofollow" target="_blank">SGTraDex</a>.</p>
 <blockquote>
 <p>Transform the way you trade - &lt;subscribe&gt; to our TradeTrust newsletter
 for exclusive insights.</p>
@@ -41,4 +42,8 @@ regulates the infocomm and media sectors to create a dynamic, holistic
 and exciting ecosystem filled with growth opportunities through talent,
 research, innovation and enterprise. As Architects of Singapore’s Digital
 Future, we strive to ensure businesses, the workforce and the public are
-ready for a future enabled by infocomm and digital media.</p>
+ready for a future enabled by infocomm and digital media. Digital utilities
+are foundational digital services provided by the Government, which enable
+our citizens and businesses to transact seamlessly in a trusted and secure
+way in the digital economy, promoting seamless compatibility, while fostering
+beneficial network effects.</p>
