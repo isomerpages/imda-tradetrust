@@ -134,7 +134,6 @@ seamlessly.</p>
 </div>
 <p></p>
 <blockquote>
-<p>Learn more about &lt;why adopt TradeTrust&gt;.
-<br>Download &lt;factsheet&gt;.</p>
+<p>Download &lt;factsheet&gt;.</p>
 </blockquote>
 <p></p>
