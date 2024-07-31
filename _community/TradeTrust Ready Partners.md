@@ -1,5 +1,5 @@
 ---
-title: "TradeTrust-Ready Partners"
+title: TradeTrust-Ready Partners
 permalink: /community/tradetrust-ready-partners/
 variant: tiptap
 description: TradeTrust partners
@@ -14,7 +14,7 @@ TradeTrust framework into your organisation's workflow</p>
 of implementing TradeTrust, but does not imply direct endorsement of IMDA.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aeotrade.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AEOTrade" src="/images/Partner Logos/600x400_Aeotrade.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AEOTrade</div><div class="isomer-card-description">An Internet Technology enterprise headquartered in Beijing, AEOTrade operates a digital infrastructure for new trade. It provides professional digital services to numerous governments and enterprises for digital trade.</div><div class="isomer-card-link">more...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aeotrade.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AEOTrade" src="/images/Partner Logos/600x400_Aeotrade.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AEOTrade</div><div class="isomer-card-description">AEOTrade is an internet technology enterprise headquartered in Beijing, it operates a digital infrastructure for new trade. It provides professional digital services to numerous governments and enterprises for digital trade.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://angsanatech.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -23,9 +23,9 @@ of implementing TradeTrust, but does not imply direct endorsement of IMDA.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Angsana Technology</div>
-<div class="isomer-card-description">Provides digital bunkering solutions for verifiable and secure document
-generation, multi-platform functionality, and multi-stakeholder collaboration
-with network-independent operations for uninterrupted bunkering.</div>
+<div class="isomer-card-description">Angsana Technology provides digital bunkering solutions for verifiable
+and secure document generation, multi-platform functionality, and multi-stakeholder
+collaboration with network-independent operations for uninterrupted bunkering.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.banco.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="banco" src="/images/Partner Logos/banco_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">banco</div><div class="isomer-card-description">Part of RABC Group, banco is a Singapore-headquartered financing platform on a mission to empower local SMEs with simple, transparent and accessible financing solutions.</div><div class="isomer-card-link">more...</div></div></a>
@@ -37,12 +37,12 @@ with network-independent operations for uninterrupted bunkering.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">BlockPeer</div>
-<div class="isomer-card-description">A blockchain wallet-embedded accounting platform that seamlessly generates
-and operates MLETR-compliant e-Invoices and electronic Bills of Lading
-using the TradeTrust framework.</div>
+<div class="isomer-card-description">BlockPeer is a blockchain wallet-embedded accounting platform that seamlessly
+generates and operates MLETR-compliant e-Invoices and electronic Bills
+of Lading using the TradeTrust framework.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">The co-founder of Marine Vessel Pass, Digital Identities for Ships in collaboration with S&amp;P Global Market Intelligence. Bunker Chain is the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">The company is the co-founder of Marine Vessel Pass, Digital Identities for Ships in collaboration with S&amp;P Global Market Intelligence. Bunker Chain is also the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.calista-logistics.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -51,8 +51,8 @@ using the TradeTrust framework.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CALISTA Logistics</div>
-<div class="isomer-card-description">A cloud-based SaaS platform that offers multi-party collaboration for
-supply chain orchestration.</div>
+<div class="isomer-card-description">CALISTA Logistics is a cloud-based SaaS platform that offers multi-party
+collaboration for supply chain orchestration.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.cargox.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CargoX" src="/images/Partner Logos/CargoX_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CargoX</div><div class="isomer-card-description">The CargoX Platform is used by over 125,000 companies globally in trade, finance, and supply chain sectors and enables instant and cost-efficient creation and transfer of electronic trade documents (eBL, ACI, certs) using blockchain.</div><div class="isomer-card-link">more...</div></div></a>
@@ -64,9 +64,9 @@ supply chain orchestration.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Credore</div>
-<div class="isomer-card-description">Provides cross-border trade with a paperless IT infrastructure, leveraging
-TradeTrust to issue MLETR-compliant electronic documents, ensuring verifiability
-and traceability for legal validity.</div>
+<div class="isomer-card-description">Credore provides cross-border trade with a paperless IT infrastructure,
+leveraging TradeTrust to issue MLETR-compliant electronic documents, ensuring
+verifiability and traceability for legal validity.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dimuto.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DiMuto" src="/images/Partner Logos/Dimuto_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DiMuto</div><div class="isomer-card-description">DiMuto is an Agrifintech Solutions Provider that powers AgriFood trade with AI, Data Visibility, and Finance. With its Marketplace, Trade Management, and Financial services, DiMuto redefines global AgriFood trade.</div><div class="isomer-card-link">more ...</div></div></a>
