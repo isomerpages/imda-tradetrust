@@ -108,22 +108,4 @@ sections:
           description: Join us to become a TradeTrust-ready partner
           linktext: Sign up
           url: https://form.gov.sg/63b7e833df5f2900128cdbb6
-  - announcements:
-      title: Latest Happenings
-      id: announcements
-      announcement_items:
-        - title: 26 Mar 2024 15:30 - 17:00 (GMT+8) at Singapore Academy of Law
-          date: 06 June 2024
-          announcement: "[Event] Reimagining the Future: Synergising Legal and
-            Technological Innovations in Maritime Trade. In partnership with
-            Singapore Academy of Law, the panel discussion will address the
-            legal and technological challenges of digitalising the maritime
-            trade from a multi-jurisdictional perspective."
-          link_text: See more
-          link_url: https://store.lawnet.com/reimagining-the-future-synergising-legal-and-technological-innovations-in-maritime-trade.html
-        - title: New Announcement
-          date: 11 April 2024
-          announcement: Announcement content  (placeholder)
-          link_text: ""
-          link_url: ""
 ---
