@@ -18,9 +18,8 @@ issued this way can be trusted, interoperable, and legally effective across
 different systems, thereby streamlining and enhancing overall operational
 efficiency for businesses and governments.</p>
 <p>And offered as a<strong> digital utility </strong>(similar to digital
-public infrastructure or digital public goods), it is open-sourced so that
-all parties can freely adopt and build upon it to benefit their business
-ecosystem.</p>
+public infrastructure), it is open-sourced so that all parties can freely
+adopt and build upon it to benefit their business ecosystem.</p>
 <blockquote>
 <p>It’s like providing you with both a free tool and the supporting structure,
 to turn your documents into smart electronic documents that are portable
