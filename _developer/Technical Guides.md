@@ -4,7 +4,7 @@ permalink: /developer/technical-guides/
 variant: tiptap
 description: ""
 ---
-<p>Access step-by-step guide, additional tools and gallery of TradeTrust-enabled
+<p>Access step-by-step guides, additional tools and gallery of TradeTrust-enabled
 sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust technical guides.</a>
 </p>
 <h4>Some recommended guides :</h4>
@@ -129,26 +129,26 @@ not working?</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary>While verifying a document, what should I do when I encounter an error?
-And what does each error mean?</summary>
+<summary><strong>What should I do when I encounter an error while verifying a document? And what does each error mean?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are mainly three types of errors that can occur when verifying a
 document:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><u>Document not issued:</u> TradeTrust checks that the document has been
-issued and its issuance status is in good standing. This error occurs if
-the issuer revokes the document or if the document has not been issued.</p>
+issued and that its issuance status is in good standing. This error occurs
+if the issuer revokes the document or if it has not been issued.</p>
 </li>
 <li>
 <p><u>Document issuer's identity is invalid</u>: TradeTrust validates the
-identity of the issuer. This error occurs if the document was issued by
-someone whose identity could not be verified.</p>
+the issuer's idenity. This error occurs if the document was issued by someone
+whose identity could not be verified.</p>
 </li>
 <li>
-<p><u>Document has been tampered with</u>: TradeTrust ensures that the content
-of the document remains unchanged since its creation, except for data removed
-using the built-in obfuscation mechanism. This error occurs if the document's
+<p><u>Document has been tampered with</u>: TradeTrust ensures that the document's
+contents remain unchanged since its creation, except for data removed using
+the built-in obfuscation mechanism. This error occurs if the document's
 content has been modified.</p>
 </li>
 </ol>
