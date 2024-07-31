@@ -11,9 +11,9 @@ description: TradeTrust by IMDA, is a free digital utility tool to digitalise
 third_nav_title: Product FAQ
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
-<p>Ernst &amp; Young's VAPT of the Smart Contract Code ensures TradeTrust's
-security and reliability, ensuring efficient gas costs and a well-structured,
-robust codebase.</p>
+<p>Ernst &amp; Young's Vulnerability Assessment and Penetration Testing (VAPT)
+of the Smart Contract Code ensures TradeTrust's security and reliability,
+ensuring efficient gas costs and a well-structured, robust codebase.</p>
 <p>In addition, the choice of blockchain must follow TradeTrust guidelines:</p>
 <ul data-tight="true" class="tight">
 <li>
