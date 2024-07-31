@@ -128,7 +128,7 @@ TradeTrust-ready <a href="/community/tradetrust-ready-partners/" rel="noopener n
 <p></p>
 <h3>Use Cases</h3>
 <p>TradeTrust-enabled BSPs utilise TradeTrust for new revenues and value-producing
-opportunities such as these real-life use cases:</p>
+opportunities such as these commercialised use cases:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Issuance of certificates of authenticity for consumer goods</p>
