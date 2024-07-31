@@ -11,18 +11,18 @@ priorities for their organisation and seek technology solutions that cater
 to their specific requirements. For example, do you want to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Achieve consistency and efficiency through standardize digital trade to
-accelerate common processes and workflows?</p>
+<p>Achieve consistency and efficiency through standardised digital trade
+to accelerate common processes and workflows?</p>
 </li>
 <li>
 <p>De-risk business operations with security features like instant checks
-for proof of origin, tampering, and authenticity.</p>
+for proof of origin, tampering, and authenticity?</p>
 <p></p>
 </li>
 </ul>
 <p>TradeTrust is the preferred framework for forward-thinking companies,
 serving as free tool for driving innovation and connecting businesses with
-key players to advance trade digitalization, creating a more seamless,
+key players to advance trade digitalisation. It creates a more seamless,
 accessible, and secure trade process for all.</p>
 <p>Be at the forefront of innovation and technology alongside industry leaders
 such as ExxonMobil, Maersk, and PIL.</p>
