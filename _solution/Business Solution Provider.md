@@ -135,7 +135,7 @@ opportunities such as these real-life use cases:</p>
 </li>
 <li>
 <p>Electronic documentation processing including purchase order, invoice,
-bill of lading, certificate of origin, health cert, datalogger report,
+bill of lading, certificate of origin, health certificate, datalogger report,
 electronic bunker delivery note, packing list, delivery order and airway
 bill</p>
 </li>
