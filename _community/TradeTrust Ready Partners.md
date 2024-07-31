@@ -76,7 +76,7 @@ verifiability and traceability for legal validity.</div>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dltledgers.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DLT Ledgers" src="/images/Partner Logos/DLT_ledgers_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DLT Ledgers</div><div class="isomer-card-description">A industry-leading "low-code" supply chain digitisation platform that utilises blockchain technology to deliver multi-enterprise supply chain business networks.</div><div class="isomer-card-link">more...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dltledgers.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DLT Ledgers" src="/images/Partner Logos/DLT_ledgers_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DLT Ledgers</div><div class="isomer-card-description">DLT Ledgers is a industry-leading "low-code" supply chain digitisation platform that utilises blockchain technology to deliver multi-enterprise supply chain business networks.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -85,8 +85,8 @@ verifiability and traceability for legal validity.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Docklab</div>
-<div class="isomer-card-description">Develops breakthrough emerging technology solutions to accelerate the
-energy transition and transform supply chains into viable ventures.</div>
+<div class="isomer-card-description">Docklabs develops breakthrough emerging technology solutions to accelerate
+the energy transition and transform supply chains into viable ventures.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docsonblocks</div><div class="isomer-card-description">Offers no-code document generation, management, and verification using TradeTrust for blockchain-backed, verifiable, transferable documents in international trade.</div><div class="isomer-card-link">more ...</div></div></a>
@@ -98,12 +98,12 @@ energy transition and transform supply chains into viable ventures.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">DocuShield</div>
-<div class="isomer-card-description">Provides digital trade across the Americas by offering secure, compliant
-documentation solutions tailored for MSME and facilitating simplified global
-commerce.</div>
+<div class="isomer-card-description">DocuShield provides digital trade across the Americas by offering secure,
+compliant documentation solutions tailored for MSME and facilitating simplified
+global commerce.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID, and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">FuixLabs offers Web3 solutions for supply chain management with paperless trade, decentralised ID, and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -112,12 +112,12 @@ commerce.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">FDP Connect™</div>
-<div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct
-100% electronic trade, facilitating seamless data flow among supply chain
-stakeholders by Automaxis.</div>
+<div class="isomer-card-description">FDP Connect™ is a cross-border trade transaction platform that enables
+users to conduct 100% electronic trade, facilitating seamless data flow
+among supply chain stakeholders by Automaxis.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="/images/Partner Logos/GUUD_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">Empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products from banks.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="/images/Partner Logos/GUUD_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">GUUD empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products from banks.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.jedtrade.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -126,12 +126,12 @@ stakeholders by Automaxis.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">JEDTrade</div>
-<div class="isomer-card-description">Builds solutions for enterprises to enable true digitalisation while upholding
-trust. ConsenTrade is one of the solutions we have built that allows users
-to issue and attest to the authenticity of digital trade documents.</div>
+<div class="isomer-card-description">JedTrade builds solutions for enterprises to enable true digitalisation
+while upholding trust. ConsenTrade is one of the solutions it built that
+allows users to issue and attest to the authenticity of digital trade documents.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://jupyton.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jupyton" src="/images/Partner Logos/Jupytron_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jupyton</div><div class="isomer-card-description">A secure Trust and Provenance Engine for verifying identities, transactions and secure signings. Our tech stack’s modular nature supports custom solutions and data exchange in being transparent, auditable, and tamper-proof.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://jupyton.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jupyton" src="/images/Partner Logos/Jupytron_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jupyton</div><div class="isomer-card-description">Jupyton is a secure Trust and Provenance Engine for verifying identities, transactions and secure signings. Its tech stack’s modular nature supports custom solutions and data exchange in being transparent, auditable, and tamper-proof.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linklogis.com.hk/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -140,8 +140,8 @@ to issue and attest to the authenticity of digital trade documents.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Linklogis</div>
-<div class="isomer-card-description">Offers Supply Chain Financing SaaS service to financial institutions and
-anchor buyers that ultimately provides financing support to SMEs along
+<div class="isomer-card-description">Linklogis offers Supply Chain Financing SaaS service to financial institutions
+and anchor buyers, that ultimately provides financing support to SMEs along
 the supply chain.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
