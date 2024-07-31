@@ -72,7 +72,7 @@ Learn more at &lt;legality guide&gt;</p>
 the reliability and trustworthiness of the TradeTrust framework</p>
 </li>
 <li>
-<p>A proven solution demonstrated through <a href="/solution/business-solution-provider/" rel="noopener noreferrer nofollow" target="_blank">real-life implementations</a> by
+<p>A proven solution demonstrated through <a href="/solution/business-solution-provider/" rel="noopener noreferrer nofollow" target="_blank">commercial implementations</a> by
 international businesses with over 30 successful trials</p>
 </li>
 </ul>
