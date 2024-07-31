@@ -89,7 +89,7 @@ verifiability and traceability for legal validity.</div>
 the energy transition and transform supply chains into viable ventures.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docsonblocks</div><div class="isomer-card-description">Offers no-code document generation, management, and verification using TradeTrust for blockchain-backed, verifiable, transferable documents in international trade.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docsonblocks" src="/images/Partner Logos/Dockonblocks.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docsonblocks</div><div class="isomer-card-description">Docsonblock offers no-code document generation, management, and verification using TradeTrust for blockchain-backed, verifiable, transferable documents in international trade.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
