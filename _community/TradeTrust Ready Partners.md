@@ -168,12 +168,12 @@ for internet communications and digital economies.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">SGTraDex</div>
-<div class="isomer-card-description">A national data-sharing infrastructure that facilitates secure and seamless
-data exchange between supply chain players. It leverages TradeTrust for
-verifiability and transferability of trade data and documents.</div>
+<div class="isomer-card-description">SGTraDex is a national data-sharing infrastructure that facilitates secure
+and seamless data exchange between supply chain players. It leverages TradeTrust
+for verifiability and transferability of trade data and documents.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://stabilityprotocol.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STABILITY" src="/images/Partner Logos/Stability_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STABILITY</div><div class="isomer-card-description">The first public blockchain network without cryptocurrency, enabling feeless and secure data exchange for global adoption and interoperability of electronic documentation with the TradeTrust framework.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://stabilityprotocol.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STABILITY" src="/images/Partner Logos/Stability_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STABILITY</div><div class="isomer-card-description">STABILITY is the first public blockchain network without cryptocurrency, enabling feeless and secure data exchange, for global adoption and interoperability of electronic documentation with the TradeTrust framework.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -182,13 +182,13 @@ verifiability and transferability of trade data and documents.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Trames</div>
-<div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers
-complete control and visibility of global freight operations. Users can
-leverage Trames for freight visibility, workflow orchestration, spend management,
-and more.</div>
+<div class="isomer-card-description">Trames is a comprehensive logistics management platform designed to give
+shippers complete control and visibility of global freight operations.
+Users can leverage Trames for freight visibility, workflow orchestration,
+spend management, and more.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="http://www.veritag.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/VeriTag_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Veritag</div><div class="isomer-card-description">Tracks and traces food and arts using patented dual QR tags, blockchain and NFT technology supported by document security using TradeTrust.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="http://www.veritag.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/VeriTag_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Veritag</div><div class="isomer-card-description">Veritag tracks and traces food and arts using patented dual QR tags, blockchain and NFT technology, supported by document security using TradeTrust.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
