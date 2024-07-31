@@ -16,7 +16,7 @@ sections:
       subtitle: Digitalisation that makes trade more secure, efficient, and
         accessible, providing increased confidence, profitability, and peace of
         mind for your business.
-      background: /images/Old images/Digitalisation.png
+      background: /images/Old images/TradeDigitalisation.png
       button: Contact Us
       url: https://form.gov.sg/635f32c5001b2d0011fff09b
       key_highlights:
