@@ -189,7 +189,7 @@ enabling feeless and secure data exchange, for global adoption and interoperabil
 of electronic documentation with the TradeTrust framework.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TradeGo" src="/images/Partner Logos/Tradego_Logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TradeGo</div><div class="isomer-card-description">TradeGo is a blockchain-based platform headquartered in Singapore, that provides digital services such as eBL enabled by TradeTrust for enterprises along the commodity trading supply chain.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TradeGo" src="/images/Partner Logos/Tradego_Logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TradeGo</div><div class="isomer-card-description">Headquartered in Singapore, TradeGo is a blockchain-based platform that provides digital services such as eBL enabled by TradeTrust for enterprises along the commodity trading supply chain.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
