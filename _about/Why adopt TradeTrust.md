@@ -75,6 +75,13 @@ the reliability and trustworthiness of the TradeTrust framework</p>
 <p>A proven solution demonstrated through over 30 successful <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">trials</a> and
 <a href="/solution/business-solution-provider/" rel="noopener noreferrer nofollow" target="_blank">commercial implementations</a>by international businesses</p>
 </li>
+<li>
+<p> <a href="/solution/business-solution-provider/" rel="noopener noreferrer nofollow" target="_blank">commercial implementations</a>
+</p>
+</li>
+<li>
+<p>by international businesses</p>
+</li>
 </ul>
 <h4><strong>Award-Winning Solution</strong></h4>
 <div class="isomer-card-grid">
