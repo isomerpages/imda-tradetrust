@@ -1,9 +1,0 @@
-collections:
-  how-to-get-started:
-    output: true
-    order:
-      - 4 Easy Steps.md
-      - Cost/.keep
-      - Cost/Setup Cost.md
-      - Cost/Transactional Cost.md
-      - FAQs.md
