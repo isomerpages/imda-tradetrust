@@ -51,7 +51,7 @@ Singapore, the UK and the US</p>
 </li>
 </ul>
 <blockquote>
-<p>Download <a href="TradeTrust_Legal_Analysis_Article" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of TradeTrust-enabled eBLs and their use in global trade.</a>
+<p>Download <a href="TradeTrust_Legal_Analysis_Article.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of TradeTrust-enabled eBLs and their use in global trade.</a>
 </p>
 <p></p>
 </blockquote>
