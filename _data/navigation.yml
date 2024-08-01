@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/TradeTrust logos/TT_LOGO_horizontal.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    collection: about
+  - title: Solution
+    collection: solution
+  - title: Community
+    collection: community
+  - title: Developer
+    collection: developer
+  - title: News and Events
+    resource_room: true
