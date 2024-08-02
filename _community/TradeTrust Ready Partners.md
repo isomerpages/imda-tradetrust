@@ -211,10 +211,10 @@ and more.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">XDC</div>
-<div class="isomer-card-description">XDC is an EVM-compatible protocol known for its outstanding presence in
-the trade finance industry. It offers numerous possibilities for improving
-global trade by digitising trade documents and improving access to capital
-for SMEs.</div>
+<div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade
+finance industry. It offers numerous possibilities for improving global
+trade by digitising trade documents and improving access to capital for
+SMEs.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a>
