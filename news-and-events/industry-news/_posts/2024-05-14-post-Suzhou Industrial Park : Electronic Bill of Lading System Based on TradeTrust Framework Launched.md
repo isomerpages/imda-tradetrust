@@ -52,4 +52,4 @@ logistics and transportation, cross-border customs clearance, freight insurance,
 payment, and financial services. It forms a new trade digital community
 that is open, neutral, and inclusive.</p>
 <p></p>
-<p>This press release is published by Suzhou Industrial Park.</p>
+<p>This press release was published by Suzhou Industrial Park.</p>
