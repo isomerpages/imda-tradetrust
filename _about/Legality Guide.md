@@ -26,10 +26,10 @@ jurisdiction provision for the documents with a MLETR-compliant jurisdiction.</p
 <p>Using an example of a shipment from a non-MLETR-compliant jurisdiction
 like China to Singapore: As long as the TradeTrust-enabled electronic Bill
 of Lading (eBL) issued by the carrier is governed by a MLETR-compliant
-jurisdiction such as Singapore, that eBL will be considered compliant to
-the MLETR as applied under Singapore law, and be treated as equivalent
-to a paper bill of lading. That is the same position with regards to express
-choice of law and jurisdiction as current law.</p>
+jurisdiction such as Singapore, that eBL will most likely be considered
+compliant to the MLETR as applied under Singapore law, and be treated as
+equivalent to a paper bill of lading. That is the same position with regards
+to express choice of law and jurisdiction as current law.</p>
 <p>Some other MLETR-compliant jurisdictions include<strong> </strong>the<strong> </strong>UK;
 New York and Delaware in the US; the Abu Dhabi Global Market in the United
 Arab Emirates, and <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">more</a>.</p>
