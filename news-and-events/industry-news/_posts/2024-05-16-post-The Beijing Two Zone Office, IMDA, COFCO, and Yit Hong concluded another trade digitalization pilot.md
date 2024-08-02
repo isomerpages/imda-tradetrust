@@ -9,8 +9,8 @@ image: ""
 variant: tiptap
 ---
 <p>Supported by Beijing Two-Zone Office and Singapore’s Infocomm Media Development
-Authority, COFCO and Yit Hong Expand End-to-End Interoperable Trade Digitalization
-Network by Completing New Pilot</p>
+Authority, COFCO and Yit Hong <strong>Expand End-to-End Interoperable Trade Digitalization</strong> Network
+by Completing New Pilot</p>
 <p></p>
 <p>On May 6, 2024, COFCO and its Singapore client Yit Hong completed a new
 cross-border end-to-end interoperable paperless trade, with Maersk as the
