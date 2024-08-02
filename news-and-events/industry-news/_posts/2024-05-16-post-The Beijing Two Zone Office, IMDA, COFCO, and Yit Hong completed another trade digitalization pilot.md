@@ -55,6 +55,6 @@ a business-as-usual basis.</p>
 with industry players, actively promote commercial trade digitalization
 trials, and improve cross-system interoperability and scalability.</p>
 <p></p>
-<p>This press release is published by Beijing Two-Zone Office.</p>
+<p>This press release was published by Beijing Two-Zone Office.</p>
 <p></p>
 <p></p>
