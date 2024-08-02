@@ -45,10 +45,11 @@ meeting international standards and legal requirements.</p>
 <p>To enjoy all the capabilities of TradeTrust from the convenience of the
 system you are familiar with, you can just integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
-of TradeTrust-ready <a href="/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>. This flexibility
-allows you and your trading partners to choose your preferred TradeTrust-enabled
-system, eliminating the need for all parties to use a common digital platform
-and contractual rulebook, thus facilitating easy scalability of adoption.</p>
+of TradeTrust-ready <a href="https://www.tradetrust.io/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">partners</a>.
+This flexibility allows you and your trading partners to choose your preferred
+TradeTrust-enabled system, eliminating the need for all parties to use
+a common digital platform and contractual rulebook, thus facilitating easy
+scalability of adoption.</p>
 <p>And to verify documents received, only an internet access is required.</p>
 <p>Having your documents and instruments available in electronic form can
 greatly benefit you by improving the speed and security of your transactions,
