@@ -2,7 +2,9 @@
 title: Join Us
 permalink: /community/join-us/
 variant: tiptap
-description: ""
+description: Make TradeTrust your preferred framework for trade digitalisation.
+  Validate the practical application of TradeTrust by joining our trial. No
+  hardware installations or initial investments are required.
 ---
 <h2>Make TradeTrust your preferred framework for trade digitalisation</h2>
 <p>Beyond replacing paper with electronic documents, businesses aiming to

@@ -2,12 +2,9 @@
 title: Business Solution Provider
 permalink: /solution/business-solution-provider/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: TradeTrust by IMDA is scalable and allows you to partner with
+  anyone easily, regardless of the technology capability. It improves efficiency
+  and helps lower business cost.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
 <h3>Benefits</h3>

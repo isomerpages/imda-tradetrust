@@ -3,12 +3,10 @@ title: What is the licensing requirement for Business Solutions Providers to
   handle cryptocurrency?
 permalink: /developer/product-faq/license-bsp/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: Business Solution Providers that have integrated TradeTrust to
+  provide digital services dealing with electronic transferable records such as
+  eBLs, will typically manage the cryptocurrencies required to pay for their
+  clients’ recording of their NFT transactions...
 third_nav_title: Product FAQ
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---

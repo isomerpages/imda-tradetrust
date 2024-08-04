@@ -2,12 +2,9 @@
 title: TradeTrust Overview
 permalink: /developer/video-guide/tradetrust-overview/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: This non-technical session aims to establish a foundational and
+  critical understanding of TradeTrust as a digital utility, along with the
+  essential mental framing required as a pre-requisite for the next video guide.
 third_nav_title: Video Guides
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---

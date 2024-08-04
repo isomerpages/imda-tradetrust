@@ -2,12 +2,11 @@
 title: What is the cost of using blockchain for eBL transactions in TradeTrust?
 permalink: /developer/product-faq/cost-of-blockchain/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: Depending on your role in the supply chain, transaction costs, such
+  as blockchain gas fees, may apply. Find out the estimated fees (USD) computed
+  as of 2 February 2023 for a typical series of transactions from issuance to
+  the surrender of electronic Bill of Lading (eBL) (costs distributed among
+  different stakeholders).
 third_nav_title: Product FAQ
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---

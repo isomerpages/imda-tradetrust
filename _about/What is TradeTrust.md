@@ -2,8 +2,8 @@
 title: What is TradeTrust
 permalink: /about/what-is-tradetrust/
 variant: tiptap
-description: TradeTrust by IMDA, is a framework that standardises digital trade
-  with enhanced security and legal certainty for international trade ecosystem.
+description: TradeTrust is a framework that standardises digital trade with
+  enhanced security and legal certainty for the international trade ecosystem.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
 <h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>

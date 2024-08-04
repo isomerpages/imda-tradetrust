@@ -2,12 +2,9 @@
 title: Trials
 permalink: /community/trials/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: Over 40 industry players, 14 government bodies and Trade
+  Association and Chambers, and 10 platforms have successfully conducted trials
+  for Trade Finance and Cargo Release use cases.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
 <p></p>

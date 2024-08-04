@@ -2,12 +2,8 @@
 title: Critical Functions of TradeTrust
 permalink: /developer/video-guide/critical-functions-of-tradetrust/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: Cover critical functions such as reading and verifying a TradeTrust
+  file, concept of document integrity, and issuer identity assurance.
 third_nav_title: Video Guides
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
