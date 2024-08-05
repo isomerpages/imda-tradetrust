@@ -1,6 +1,0 @@
-collections:
-  benefits:
-    output: true
-    order:
-      - Benefits of TradeTrust.md
-      - Benefits of ETAs.md
