@@ -2,7 +2,7 @@
 title: TradeTrust-Ready Partners
 permalink: /community/tradetrust-ready-partners/
 variant: tiptap
-description: TradeTrust partners
+description: "TradeTrust partners with demonstrated capabilities in implementing TradeTrust."
 image: /images/TradeTrustOfficialLogo.svg
 ---
 <blockquote>
