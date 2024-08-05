@@ -1,0 +1,9 @@
+collections:
+  solution:
+    output: true
+    order:
+      - How It Works.md
+      - Carrier.md
+      - Exporter or Importer.md
+      - Banker or Financier.md
+      - Business Solution Provider.md

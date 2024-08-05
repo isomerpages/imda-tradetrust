@@ -1,0 +1,12 @@
+logo: /images/TradeTrust logos/TT_LOGO_horizontal.png
+links:
+  - title: About
+    collection: about
+  - title: Solution
+    collection: solution
+  - title: Community
+    collection: community
+  - title: Developer
+    collection: developer
+  - title: News and Events
+    resource_room: true

@@ -1,0 +1,64 @@
+title: TradeTrust Accelerates the Digitalisation of Global Trade
+url: https://www.tradetrust.io
+favicon: /images/TradeTrust logos/TT_icon.png
+colors:
+  primary-color: "#005eb8"
+  secondary-color: "#ff8200"
+  media-colors:
+    - title: media-color-one
+      color: "#4372d6"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#9b9b9b"
+    - title: media-color-five
+      color: "#f5a623"
+description: TradeTrust is a free digital utility tool to digitalise the
+  end-to-end processing of trade documents.  Businesses can issue, exchange,
+  verify the source and authenticity of electronic documents across different
+  digital platforms seamlessly. And for transferable documents such as
+  electronic bill of lading to effect title transfer in accordance with
+  statutory law.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d19rlfkkwl33mg.amplifyapp.com
+prod: https://master.d3cy4ek5hang2l.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/TradeTrust logos/TT_LOGO_vertical.png
+is_government: false
+google_analytics_ga4: G-7YL3CX08LM
+linkedin-insights: ""
+resources_name: news-and-events
