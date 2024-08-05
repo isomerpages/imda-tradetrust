@@ -97,28 +97,28 @@ TradeTrust for blockchain-backed, verifiable, transferable documents in
 international trade.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a>
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="/images/Partner Logos/docushield_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DocuShield</div><div class="isomer-card-description">Provides digital trade across the Americas by offering secure, compliant documentation solutions tailored for MSME and facilitating simplified global commerce.</div><div class="isomer-card-link">more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="/images/Partner Logos/docushield_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DocuShield</div><div class="isomer-card-description">Provides digital trade across the Americas by offering secure, compliant documentation solutions tailored for MSME and facilitating simplified global commerce.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://docutrade.io/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="DocuTrade" src="/images/Partner Logos/DocuTrade_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">FuixLabs</div>
-<div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade,
-decentralised ID and blockchain, mitigating risks with easy adoption and
-gentle on-ramps.</div>
+<div class="isomer-card-title">DocuTrade</div>
+<div class="isomer-card-description">DocuTrade facilitates secure and reliable document management, including
+the transfer of ownership and title of trade documents such as bills of
+lading, in alignment with MLETR and ICC DSI guidelines.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FDP Connect" src="/images/Partner Logos/automaxis.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FDP Connect™</div><div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct 100% electronic trade, facilitating seamless data flow among supply chain stakeholders by Automaxis.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FDP Connect" src="/images/Partner Logos/automaxis.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FDP Connect™</div><div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct 100% electronic trade, facilitating seamless data flow among supply chain stakeholders by Automaxis.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
