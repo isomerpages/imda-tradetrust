@@ -131,8 +131,8 @@ not working?</summary>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What should I do when I encounter an error while verifying a document? And what does each error mean?</strong>
-</summary>
+<summary>What should I do when I encounter an error while verifying a document?
+And what does each error mean?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are mainly three types of errors that can occur when verifying a
 document:</p>
