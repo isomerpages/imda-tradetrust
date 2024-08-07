@@ -299,7 +299,7 @@ Finance and Cargo Release use cases.</p>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> for
 more information and use cases.</p>
 </blockquote>
-<h4>Proven Benefits</h4>
+<h3>Proven Benefits</h3>
 <p>The<strong> Singapore and Netherlands trial</strong> saw significant time
 savings in the Bill of Lading (BL) documentation process from an average
 of <strong>six to 10 days when using a hardcopy, to less than 24 hours when using an electronic BL</strong>.</p>
