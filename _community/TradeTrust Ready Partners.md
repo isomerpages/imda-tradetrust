@@ -111,7 +111,7 @@ transfer of ownership and title of trade documents such as bills of lading,
 in alignment with MLETR and ICC DSI guidelines.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.emf.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Equatorial Marine Fuel Management Services Pte Ltd" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SMART eBDN</div><div class="isomer-card-description">It is one of the leading bunker suppliers in Singapore with a dedicated technology division that develops maritime solutions. It utilises TradeTrust to create verifiable e-documents on the blockchain for the supply chain.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://emf.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Equitorial" src="/images/Partner Logos/Equitorial_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Equitorial</div><div class="isomer-card-description">It is one of the leading bunker suppliers in Singapore with a dedicated technology division that develops maritime solutions and utilises TradeTrust to create verifiable e-documents on the blockchain for the supply chain.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -125,14 +125,7 @@ decentralised ID and blockchain, mitigating risks with easy adoption and
 gentle on-ramps.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a>
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FDP Connect" src="/images/Partner Logos/automaxis.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FDP Connect™</div><div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct 100% electronic trade, facilitating seamless data flow among supply chain stakeholders by Automaxis.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FDP Connect™" src="/images/Partner Logos/automaxis.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FDP Connect™</div><div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct 100% electronic trade, facilitating seamless data flow among supply chain stakeholders by Automaxis.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -145,7 +138,14 @@ gentle on-ramps.</div>
 portal for businesses to apply for trade finance products from banks.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.jedtrade.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JedTrade" src="/images/Partner Logos/Jed_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JEDTrade</div><div class="isomer-card-description">Builds solutions for enterprises to enable digitalisation while upholding trust. ConsenTrade is one of the solutions it built to allow users to issue and attest to the authenticity of digital trade documents.</div><div class="isomer-card-link">more ...</div></div></a>
+</a>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.jedtrade.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JedTrade" src="/images/Partner Logos/Jed_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JEDTrade</div><div class="isomer-card-description">Builds solutions for enterprises to enable digitalisation while upholding trust. ConsenTrade is one of the solutions it built to allow users to issue and attest to the authenticity of digital trade documents.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://jupyton.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -188,50 +188,47 @@ of title.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://sgtradex.com/?utm_source=tradetrust&amp;utm_medium=partners&amp;utm_campaign=tt-partners" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SGTraDex" src="/images/Partner Logos/SG_Tradex_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SGTraDex</div><div class="isomer-card-description">A national data-sharing infrastructure that facilitates secure and seamless data exchange between supply chain players. It leverages TradeTrust for verifiability and transferability of trade data and documents.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://stabilityprotocol.com/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.emf.com.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STABILITY" src="/images/Partner Logos/Stability_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SMART eBDN by Equitorial" src="/images/Partner Logos/Equitorial_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">STABILITY</div>
-<div class="isomer-card-description">The first public blockchain network without cryptocurrency, enabling feeless
-and secure data exchange, for global adoption and interoperability of electronic
-documentation with the TradeTrust framework.</div>
+<div class="isomer-card-title">SMART eBDN by Equitorial</div>
+<div class="isomer-card-description">It is one of the leading bunker suppliers in Singapore with a dedicated
+technology division that develops maritime solutions. It utilises TradeTrust
+to create verifiable e-documents on the blockchain for the supply chain.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TradeGo" src="/images/Partner Logos/Tradego_Logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TradeGo</div><div class="isomer-card-description">Headquartered in Singapore, it is a blockchain-based platform that provides digital services such as eBL enabled by TradeTrust for enterprises along the commodity trading supply chain.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://stabilityprotocol.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STABILITY" src="/images/Partner Logos/Stability_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STABILITY</div><div class="isomer-card-description">The first public blockchain network without cryptocurrency, enabling feeless and secure data exchange, for global adoption and interoperability of electronic documentation with the TradeTrust framework.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trames" src="/images/Partner Logos/Trames_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TradeGo" src="/images/Partner Logos/Tradego_Logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Trames</div>
-<div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers
-complete control and visibility of global freight operations. Users can
-leverage Trames for freight visibility, workflow orchestration, spend management,
-and more.</div>
+<div class="isomer-card-title">TradeGo</div>
+<div class="isomer-card-description">Headquartered in Singapore, it is a blockchain-based platform that provides
+digital services such as eBL enabled by TradeTrust for enterprises along
+the commodity trading supply chain.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="http://www.veritag.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/VeriTag_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Veritag</div><div class="isomer-card-description">Tracks and traces food and arts using patented dual QR tags, blockchain and NFT technology, supported by document security using TradeTrust.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trames" src="/images/Partner Logos/Trames_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trames</div><div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers complete control and visibility of global freight operations. Users can leverage Trames for freight visibility, workflow orchestration, spend management, and more.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://www.veritag.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Veritag" src="/images/Partner Logos/VeriTag_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">XDC</div>
-<div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade
-finance industry. It offers numerous possibilities for improving global
-trade by digitising trade documents and improving access to capital for
-SMEs.</div>
-<div class="isomer-card-link">more...</div>
+<div class="isomer-card-title">Veritag</div>
+<div class="isomer-card-description">Tracks and traces food and arts using patented dual QR tags, blockchain
+and NFT technology, supported by document security using TradeTrust.</div>
+<div class="isomer-card-link">more ...</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade finance industry. It offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
 </div>
 <p></p>
 <blockquote>
