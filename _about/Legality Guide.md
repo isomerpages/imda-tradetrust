@@ -8,10 +8,10 @@ description: Instead of relying wholly on contract law, your TradeTrust-enabled
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
 <p>Previously, usage of electronic versions of bills of lading faced difficulties
-due to technological and legal challenges in establishing the original
-document and its rightful owner. TradeTrust is designed to facilitate systems
-to achieve the requirements set out in the UNCITRAL Model Law on Electronic
-Transferable Records (MLETR) to address these difficulties.</p>
+due to technological and legal challenges in establishing the <strong>original document</strong> and
+its <strong>rightful owner</strong>. TradeTrust is designed to facilitate
+systems to achieve the requirements set out in the UNCITRAL Model Law on
+Electronic Transferable Records (MLETR) to address these difficulties.</p>
 <p><strong>Instead of relying wholly on contract law, your TradeTrust-enabled electronic documents can be supported by statutory law in compliant jurisdictions.</strong>
 </p>
 <blockquote>
