@@ -6,7 +6,7 @@ description: TradeTrust is a framework that standardises digital trade with
   enhanced security and legal certainty for the international trade ecosystem.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
-<h3><strong><u>One Framework for Trade Digitalisation</u></strong></h3>
+<h3><strong>One Framework for Trade Digitalisation</strong></h3>
 <p>TradeTrust is designed as an enabler to transform your trade digitalisation
 journey.</p>
 <p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem.</strong>
