@@ -66,9 +66,9 @@ while reducing the risk of fraud.</p>
 <summary>Are my data and transactions safe?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your data resides in the electronic document files generated and is not
-written into the public blockchain to preserve data confidentiality. Only
-the title ownership is tracked through the use of Non-Fungible Tokens (NFTs)
-on one of the selected blockchains for title documents.</p>
+written into the public blockchain to preserve <u>data confidentiality</u>.
+Only the title ownership is tracked through the use of Non-Fungible Tokens
+(NFTs) on one of the selected blockchains for title documents.</p>
 <p></p>
 <p>And the security and reliability of TradeTrust is ensured through the
 vulnerability assessment and penetration testing of the Smart Contract
@@ -78,8 +78,8 @@ Code conducted by a third-party specialist, Ernst &amp; Young.</p>
 <details class="isomer-details">
 <summary>What are the costs involved?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>TradeTrust is free for all to use, and anyone can implement it using the
-set of pre-built software components.</p>
+<p>TradeTrust is <u>free</u> for all to use, and anyone can implement it using
+the set of pre-built software components.</p>
 <p></p>
 <p>Your resource is required to understand, learn, and apply this new technological
 tool into your business use cases. Other costs may include an outsourcing
@@ -87,15 +87,25 @@ fee for the integration of TradeTrust into your IT system and/or subscription
 service from TradeTrust-ready &lt;partners&gt;.</p>
 <p></p>
 <p>And depending on your role in the supply chain, transaction costs such
-as blockchain gas fees may apply. Below are the estimated fees (USD) computed
-as at 2 February 2023 for a typical series of transactions from the issuance
-to the surrender of electronic bill of lading (costs distributed among
-different stakeholders):</p>
+as blockchain <u>gas fees</u> may apply. Below are the estimated fees (USD)
+computed as at 2 February 2023 for a typical series of transactions from
+the issuance to the surrender of electronic bill of lading (costs distributed
+among different stakeholders):</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Estimated Fees on Ethereum: &lt; US$20 or</p>
+</li>
+<li>
 <p>Estimated Fees on Polygon: &lt; US$0.16</p>
+</li>
+<li>
 <p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact STABILITY
 for service packages</p>
+</li>
+<li>
 <p>Estimated Fees on XDC: contact XDC</p>
+</li>
+</ul>
 <p></p>
 <p>Reach out to us to learn more about the costs and how you can save on
 manual processing and courier costs by going digital.</p>
@@ -105,18 +115,18 @@ manual processing and courier costs by going digital.</p>
 <summary>Why are public blockchains used?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TradeTrust utilises public blockchains or Distributed Ledger Technology
-to demonstrate provenance that is essential for the legitimacy of documents
-such as Bills of Lading.
+to demonstrate <u>provenance</u> that is essential for the legitimacy of
+documents such as Bills of Lading.
 <br>
-<br>Non-Fungible Tokens (NFTs) are used to ensure the singularity of the record
-for transferable documents, with the blockchain recording the NFT transactions
-to electronically endorse and transfer the ownership of a document among
-stakeholders along a trade flow.
+<br>Non-Fungible Tokens (NFTs) are used to ensure the <u>singularity</u> of
+the record for transferable documents, with the blockchain recording the
+NFT transactions to electronically endorse and transfer the ownership of
+a document among stakeholders along a trade flow.
 <br>
 <br>This choice was deliberate to eliminate the need for a central authority
 or body to govern the network and gatekeep participation, allowing for
-an open and interoperable system for all international parties to participate
-seamlessly.</p>
+an <u>open and interoperable</u> system for all international parties to
+participate seamlessly.</p>
 <p></p>
 </div>
 </details>
