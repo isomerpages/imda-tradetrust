@@ -57,7 +57,7 @@ paperless</p>
 like the <a href="https://unece.org/trade/uncefact" rel="noopener noreferrer nofollow" target="_blank">UN/CEFACT</a>,
 <a href="https://www.w3.org/" rel="noopener noreferrer nofollow" target="_blank">W3C</a>verifiable credential, <a href="https://www.unescap.org/" rel="noopener noreferrer nofollow" target="_blank">UNESCAP</a> and UNCITRAL Model Law on Electronic
 Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
-Learn more at &lt;legality guide&gt;</p>
+Learn more in the <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide</a>.</p>
 </li>
 </ul>
 <h4><strong>Reliability</strong></h4>
