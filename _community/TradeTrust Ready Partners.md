@@ -111,7 +111,21 @@ transfer of ownership and title of trade documents such as bills of lading,
 in alignment with MLETR and ICC DSI guidelines.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.emf.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Equatorial Marine Fuel Management Services Pte Ltd" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SMART eBDN</div><div class="isomer-card-description">It is one of the leading bunker suppliers in Singapore with a dedicated technology division that develops maritime solutions. It utilises TradeTrust to create verifiable e-documents on the blockchain for the supply chain.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">FuixLabs</div>
+<div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade,
+decentralised ID and blockchain, mitigating risks with easy adoption and
+gentle on-ramps.</div>
+<div class="isomer-card-link">more...</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
