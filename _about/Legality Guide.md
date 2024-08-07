@@ -7,7 +7,6 @@ description: Instead of relying wholly on contract law, your TradeTrust-enabled
   jurisdictions.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
-<h3><strong>Legality Guide</strong></h3>
 <p>Previously, usage of electronic versions of bills of lading faced difficulties
 due to technological and legal challenges in establishing the original
 document and its rightful owner. TradeTrust is designed to facilitate systems
