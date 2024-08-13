@@ -166,7 +166,9 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
-<br>COFCO International YitHong Pte Ltd AEOTrade</p>
+<br>COFCO International
+<br>YitHong Pte Ltd
+<br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading</p>
