@@ -2,12 +2,11 @@
 title: Who We Are
 permalink: /about/who-we-are/
 variant: tiptap
-description: TradeTrust by IMDA, is a free digital utility tool to digitalise
-  the end-to-end processing of trade documents.  Businesses can issue, exchange,
-  verify the source and authenticity of electronic documents across different
-  digital platforms seamlessly. And for transferable documents such as
-  electronic bill of lading to effect title transfer in accordance with
-  statutory law.
+description: TradeTrust is a framework and free digital utility tool for
+  digitalizing trade document processing. Businesses can issue, exchange, verify
+  the source and authenticity of electronic documents across different digital
+  platforms seamlessly. And for transferable documents such as electronic bill
+  of lading to effect title transfer in accordance with statutory law.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
 <p>The Infocomm Media Development Authority (IMDA) is a statutory board in

@@ -11,8 +11,8 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 journey.</p>
 <p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem.</strong>
 </p>
-<p>TradeTrust achieves this by using blockchain and cryptographic technologies,
-adhering to global standards and legal requirements to enable trusted portability
+<p>It achieves this by using blockchain and cryptographic technologies, adhering
+to global standards and legal requirements to enable trusted portability
 of electronic trade documents across digital platforms. Electronic documents
 issued this way can be trusted, interoperable, and legally effective across
 different systems, thereby streamlining and enhancing overall operational
@@ -55,7 +55,7 @@ scalability of adoption.</p>
 greatly benefit you by improving the speed and security of your transactions,
 allowing you to reuse data, and automating certain transactions. This makes
 trading more efficient and convenient for you and your trading partners
-while reducing the risk of fraud.</p>
+while reducing the risk of fraud. Find <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">companies</a> which have experienced TradeTrust.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
 </div>
@@ -99,11 +99,12 @@ among different stakeholders):</p>
 <p>Estimated Fees on Polygon: &lt; US$0.16</p>
 </li>
 <li>
-<p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact STABILITY
-for service packages</p>
+<p>Estimated Fees on STABILITY: Free and crypto-less, contact <a href="mailto:klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for
+service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC: contact XDC</p>
+<p>Estimated Fees on XDC : contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+</p>
 </li>
 </ul>
 <p></p>
