@@ -99,11 +99,11 @@ among different stakeholders):</p>
 <p>Estimated Fees on Polygon: &lt; US$0.16</p>
 </li>
 <li>
-<p>Estimated Fees on STABILITY: Free &amp; crypto-less, contact STABILITY
-for service packages</p>
+<p>Estimated Fees on STABILITY: Free, contact <a href="mailto:klay@stabilityprotocol.com" rel="noopener noreferrer nofollow" target="_blank">STABILITY</a> for service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC: contact XDC</p>
+<p>Estimated Fees on XDC : contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+</p>
 </li>
 </ul>
 <p></p>
