@@ -11,8 +11,8 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 journey.</p>
 <p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem.</strong>
 </p>
-<p>TradeTrust achieves this by using blockchain and cryptographic technologies,
-adhering to global standards and legal requirements to enable trusted portability
+<p>It achieves this by using blockchain and cryptographic technologies, adhering
+to global standards and legal requirements to enable trusted portability
 of electronic trade documents across digital platforms. Electronic documents
 issued this way can be trusted, interoperable, and legally effective across
 different systems, thereby streamlining and enhancing overall operational
