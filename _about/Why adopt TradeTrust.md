@@ -21,7 +21,7 @@ existing transmission protocols like email, FTP etc</p>
 <p>Best practices enable scalability and cross-platform interoperability
 so you and your trading partners are free to choose your preferred TradeTrust-enabled
 system (no need for all parties to use a common digital platform and contractual
-rulebook)</p>
+rulebook) in a decentralised approach</p>
 </li>
 </ul>
 <h4><strong>Save Time &amp; Money</strong></h4>
