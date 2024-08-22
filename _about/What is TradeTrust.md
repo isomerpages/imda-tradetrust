@@ -57,7 +57,7 @@ allowing you to reuse data, and automating certain transactions. This makes
 trading more efficient and convenient for you and your trading partners
 while reducing the risk of fraud. Find <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">companies</a> which have experienced TradeTrust.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW?enablejsapi=1"></iframe>
 </div>
 <p>TradeTrust Overview Video</p>
 <p>Some commonly asked questions:</p>
