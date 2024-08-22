@@ -316,7 +316,7 @@ TradeTrust-enabled documents. All parties benefited from efficiency gains, <stro
 and a<strong> reduction in the risk of fraud.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vbZMPAnQRhM?si=oyb_M6l0UWtEI42j"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vbZMPAnQRhM?si=oyb_M6l0UWtEI42j?enablejsapi=1"></iframe>
 </div>
 <p>MTI TradeTrust Pilot Case Study Video</p>
 <p></p>
