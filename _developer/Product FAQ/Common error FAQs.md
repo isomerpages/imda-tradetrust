@@ -6,18 +6,29 @@ description: FAQs for common errors encountered during implementation of TradeTr
 third_nav_title: Product FAQ
 ---
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
 <p>Why is the temporary domain created using TradeTrust Command Line Interface
 not working?</p>
+<p>The temporary domain is only valid for 24 hours.</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The temporary domain is only valid for 24 hours.</p>
-<p></p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>There are mainly three types of errors that can occur when verifying a
@@ -42,5 +53,16 @@ the built-in obfuscation mechanism. This error occurs if the document's
 content has been modified.</p>
 </li>
 </ul>
+<p></p>
 <p>If you encounter any of these errors, please contact the <strong>document issuer</strong> for
 assistance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
