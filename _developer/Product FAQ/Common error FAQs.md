@@ -20,8 +20,8 @@ third_nav_title: Product FAQ
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Why is the temporary domain created using TradeTrust Command Line Interface
-not working?</p>
+<p><strong>Why is the temporary domain created using TradeTrust Command Line Interface not working?</strong>
+</p>
 <p>The temporary domain is only valid for 24 hours.</p>
 </li>
 </ol>
@@ -31,8 +31,8 @@ not working?</p>
 <td rowspan="1" colspan="1">
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>There are mainly three types of errors that can occur when verifying a
-document:</p>
+<p><strong>There are mainly three types of errors that can occur when verifying a document:</strong>
+</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
