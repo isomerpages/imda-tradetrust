@@ -7,3 +7,8 @@ description: Opinions of trade digitalisation and interoperability from industry
 image: ""
 variant: tiptap
 ---
+<p>This podcast series features Thought Leaders’ from the industry discussing
+about a diverse range of perspectives and opinions on Trade Digitalisation
+and the importance of interoperability to accelerate trade digitalisation.
+Watch the first episode here and stay tuned for more!</p>
+<p></p>
