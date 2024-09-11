@@ -108,4 +108,14 @@ sections:
           description: Join us to become a TradeTrust-ready partner
           linktext: Sign up
           url: https://form.gov.sg/63b7e833df5f2900128cdbb6
+  - infopic:
+      title: Presenting the TradeTrust Podcast Series
+      subtitle: Add an image and text
+      id: infopic
+      description: Industry leaders share diverse perspectives on trade digitalisation
+        and interoperability in our new podcast. Watch episode 1 and stay tuned!
+      button: Button Text
+      url: https://www.youtube.com/watch?v=AlYD2km8kkQ
+      image: /images/Podcast1.png
+      alt: Podcast 1
 ---
