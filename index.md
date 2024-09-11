@@ -113,7 +113,7 @@ sections:
       id: infopic
       description: Industry leaders share diverse perspectives on trade digitalisation
         and interoperability in our new podcast. Watch episode 1 and stay tuned!
-      button: Button Text
+      button: Watch now
       url: https://www.youtube.com/watch?v=AlYD2km8kkQ
       image: /images/Podcast1.png
       alt: Podcast 1
