@@ -110,7 +110,6 @@ sections:
           url: https://form.gov.sg/63b7e833df5f2900128cdbb6
   - infopic:
       title: Presenting the TradeTrust Podcast Series
-      subtitle: Add an image and text
       id: infopic
       description: Industry leaders share diverse perspectives on trade digitalisation
         and interoperability in our new podcast. Watch episode 1 and stay tuned!
