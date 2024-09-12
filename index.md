@@ -91,7 +91,7 @@ sections:
         days to less than 24 hours for cross-border trade.
       button: Learn more
       alt: Image alt text
-      image: /images/Graphics /anigif_tradetrust_V3_230724.gif
+      image: /images/Graphics /anigif_tradetrust_V4_120924.gif
       url: /community/trials/
   - infopic:
       title: Presenting the TradeTrust Podcast Series
