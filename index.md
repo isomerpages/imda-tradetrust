@@ -100,7 +100,7 @@ sections:
         and interoperability in our new podcast. Watch episode 1 and stay tuned!
       button: Watch now
       url: https://www.youtube.com/watch?v=AlYD2km8kkQ
-      image: /images/Podcast1.png
+      image: /images/TradeTrustPodcast_tro_Logo.jpg
       alt: Podcast 1
   - textcards:
       title: Ready to Transform the way you Trade?
