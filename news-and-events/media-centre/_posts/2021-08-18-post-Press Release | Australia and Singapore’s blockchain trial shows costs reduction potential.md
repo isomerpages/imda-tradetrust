@@ -20,9 +20,9 @@ and IMDA’s TradeTrust reference implementation.</p>
 <p>The trial demonstrated Australia’s capability in issuing high integrity
 digital trade documents that can be instantly authenticated, provenance
 traced, and digitally processed. QR-codes embedded with unique proofs are
-inserted into digital Certificates of Origin (COO), enabling immediate
-verification for authenticity and integrity of the document when scanned
-or machine-read.</p>
+inserted into <strong>digital Certificates of Origin </strong>(COO), enabling
+immediate verification for authenticity and integrity of the document when
+scanned or machine-read.</p>
 <p><strong>A key success of the trial is the acceptance of verifiable COOs by a regulatory authority, Singapore Customs</strong>.
 Trial participants from industry, including the Australian Chamber of Commerce
 and Industry, Australian Industry Group, ANZ Bank, DBS Bank, Standard Chartered
