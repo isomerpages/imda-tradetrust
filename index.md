@@ -91,8 +91,17 @@ sections:
         days to less than 24 hours for cross-border trade.
       button: Learn more
       alt: Image alt text
-      image: /images/Graphics /anigif_tradetrust_V3_230724.gif
+      image: /images/Graphics /anigif_tradetrust_V4_120924.gif
       url: /community/trials/
+  - infopic:
+      title: Presenting the TradeTrust Podcast Series
+      id: infopic
+      description: Industry leaders share diverse perspectives on trade digitalisation
+        and interoperability in our new podcast. Watch episode 1 and stay tuned!
+      button: Watch now
+      url: https://www.youtube.com/watch?v=AlYD2km8kkQ/
+      image: /images/TradeTrustPodcast_tro_Logo.jpg
+      alt: Podcast 1
   - textcards:
       title: Ready to Transform the way you Trade?
       id: textcards

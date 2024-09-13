@@ -1,5 +1,5 @@
 ---
-title: Why adopt TradeTrust
+title: Why Adopt TradeTrust
 permalink: /about/why-adopt-tradetrust/
 variant: tiptap
 description: TradeTrust by IMDA is secure, compliant, saves time and money, and easy to use.

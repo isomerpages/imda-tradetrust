@@ -50,7 +50,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Australia - Singapore</p>
+<p><a href="/press-release-australia-singapore-blockchain-trial-shows-costs-reduction-potential/" rel="noopener nofollow" target="_blank">Australia - Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rio Tinto
@@ -63,7 +64,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Abu Dhabi Global Markets</p>
+<p><a href="/press-release-world-s-first-digital-trade-financing-pilot-between-mletr-harmonised-jurisdictions/" rel="noopener nofollow" target="_blank">Abu Dhabi Global Markets</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Emirates NBD - DBS</p>
@@ -90,7 +92,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore - Thailand</p>
+<p><a href="/press-release-world-1st-live-electronic-transferable-record-cross-border-trade-through-tradetrust/" rel="noopener nofollow" target="_blank">Singapore - Thailand</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ExxonMobil SG/ TH
@@ -103,7 +106,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>India - Singapore</p>
+<p><a href="/press-release-singapore-india-kick-off-interoperable-ebills-of-lading-for-trade-finance/" rel="noopener nofollow" target="_blank">India - Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
@@ -118,13 +122,13 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Xiamen) -
-<br>Singapore</p>
+<p><a href="/press-release-first-paperless-live-trade-singapore-china/" rel="noopener nofollow" target="_blank">China (Xiamen) -Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines
 <br>COFCO International
-<br>YitHong Pte Ltd
+<br>Yit Hong Pte Ltd
 <br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +166,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Xiamen) - Singapore</p>
+<p><a href="/the-beijing-two-zone-office-imda-cofco-and-yit-hong-concluded-another-trade-digitalization-pilot/" rel="noopener nofollow" target="_blank">China (Xiamen) - Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
@@ -176,7 +181,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Shanghai) - Manila</p>
+<p><a href="/suzhou-industrial-park-electronic-bill-of-lading-system-based-on-tradetrust-framework-launched/" rel="noopener nofollow" target="_blank">China (Shanghai) - Manila</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk

@@ -1,5 +1,5 @@
 ---
-title: What is TradeTrust
+title: What Is TradeTrust
 permalink: /about/what-is-tradetrust/
 variant: tiptap
 description: TradeTrust is a framework that standardises digital trade with
