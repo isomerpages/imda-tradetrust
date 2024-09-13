@@ -166,7 +166,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Xiamen) - Singapore</p>
+<p><a href="/the-beijing-two-zone-office-imda-cofco-and-yit-hong-concluded-another-trade-digitalization-pilot/" rel="noopener nofollow" target="_blank">China (Xiamen) - Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
@@ -180,7 +181,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Shanghai) - Manila</p>
+<p><a href="/suzhou-industrial-park-electronic-bill-of-lading-system-based-on-tradetrust-framework-launched/" rel="noopener nofollow" target="_blank">China (Shanghai) - Manila</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
