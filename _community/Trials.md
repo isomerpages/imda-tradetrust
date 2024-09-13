@@ -128,7 +128,7 @@ Finance and Cargo Release use cases.</p>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines
 <br>COFCO International
-<br>YitHong Pte Ltd
+<br>Yit Hong Pte Ltd
 <br>AEOTrade</p>
 </td>
 <td rowspan="1" colspan="1">
