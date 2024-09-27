@@ -115,7 +115,7 @@ in alignment with MLETR and ICC DSI guidelines.</div>
 <a rel="noopener noreferrer nofollow" href="https://filpass.ph" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FilPass" src="/images/FilPass_Logo_600_x_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="FilPass" src="/images/Partner Logos/filpass_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -143,10 +143,7 @@ portal for businesses to apply for trade finance products from banks.</div>
 </div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://haptik.io" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HAPTIK" src="/images/haptik_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HAPTIK</div><div class="isomer-card-description">A German-based provider of electronic Bills of Lading leverages the TradeTrust framework to securely create, issue and transfer eBLs. It is offered as a headless or web-based solution, enabling efficient and transparent global trade operations.</div><div class="isomer-card-link">more...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://haptik.io" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HAPTIK" src="/images/Partner Logos/haptik_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HAPTIK</div><div class="isomer-card-description">A German-based provider of electronic Bills of Lading leverages the TradeTrust framework to securely create, issue and transfer eBLs. It is offered as a headless or web-based solution, enabling efficient and transparent global trade operations.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.jedtrade.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
