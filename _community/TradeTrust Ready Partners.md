@@ -115,7 +115,7 @@ in alignment with MLETR and ICC DSI guidelines.</div>
 <a rel="noopener noreferrer nofollow" href="https://filpass.ph" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FilPass" src="/images/Partner Logos/filpass_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="FilPass" src="/images/Partner Logos/FilPass_Logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
