@@ -50,6 +50,5 @@ ready for a future enabled by infocomm and digital media. Digital utilities
 are foundational digital services provided by the IMDA, which enable our
 citizens and businesses to transact seamlessly in a trusted and secure
 way in the digital economy, promoting seamless compatibility, while fostering
-beneficial network effects. In addtion to TradeTrust, other digital utilities
-include <a href="https://www.imda.gov.sg/how-we-can-help/nationwide-e-invoicing-framework" rel="noopener noreferrer nofollow" target="_blank">InvoiceNow</a> and
-<a href="https://sgtradex.com/" rel="noopener noreferrer nofollow" target="_blank">SGTraDex</a>.</p>
+beneficial network effects. In addition to TradeTrust, another key digital
+utility is <a href="https://www.imda.gov.sg/how-we-can-help/nationwide-e-invoicing-framework" rel="noopener noreferrer nofollow" target="_blank">InvoiceNow</a>.</p>
