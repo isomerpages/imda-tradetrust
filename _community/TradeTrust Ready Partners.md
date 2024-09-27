@@ -124,7 +124,7 @@ in alignment with MLETR and ICC DSI guidelines.</div>
 and portable across digital platforms, allowing institutions to issue,
 verify, and transfer documents with enhanced security, streamlining operations
 and reducing fraud.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card">
