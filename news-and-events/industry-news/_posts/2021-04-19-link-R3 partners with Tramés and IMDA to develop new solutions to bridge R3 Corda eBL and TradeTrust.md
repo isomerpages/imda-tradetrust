@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://r3.com/press-media/r3-partners-with-trames-and-imda-to-develop-new-solutions-to-bridge-r3-corda-ebl-and-tradetrust/
+external: https://fintechnews.sg/50411/blockchain/r3-inks-deal-with-imda-and-trames-to-build-a-blockchain-based-supply-chain-solution/
 ---

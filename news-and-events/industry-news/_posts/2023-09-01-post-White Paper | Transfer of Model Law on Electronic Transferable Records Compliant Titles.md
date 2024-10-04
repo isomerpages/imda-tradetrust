@@ -62,8 +62,6 @@ depending on their circumstances thus allowing issuers to execute digitalisation
 with minimal dependency on verifier technical capabilities.</p>
 </li>
 </ul>
-<p>The UN/CEFACT repository <a href="https://github.com/uncefact/spec-tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/uncefact/spec-tradetrust</a> provides
-additional guidance on the effective use of TradeTrust.</p>
 <p></p>
 <p>Download the <a href="https://unece.org/sites/default/files/2023-09/WhitePaper_Transfer-MLETR.pdf" rel="noopener noreferrer nofollow" target="_blank">full white paper</a> on
 the United Nations Economic Commission for Europe (UNECE's) official website.</p>
