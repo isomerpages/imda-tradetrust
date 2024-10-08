@@ -141,7 +141,8 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines
-<br>Samsung Electronics Singapore Pte Ltd
+<br>Suzhou Samsung Electronics Co Ltd</p>
+<p>Samsung Electronics Singapore Pte Ltd
 <br>Samsung SDS Asia Pacific Pte Ltd
 <br>AEOTrade</p>
 </td>
