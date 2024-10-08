@@ -127,7 +127,7 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines
-<br>COFCO International
+<br>COFCO International (Beijing)
 <br>Yit Hong Pte Ltd
 <br>AEOTrade</p>
 </td>
@@ -141,6 +141,7 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pacific International Lines
+<br>Suzhou Samsung Electronics Co Ltd
 <br>Samsung Electronics Singapore Pte Ltd
 <br>Samsung SDS Asia Pacific Pte Ltd
 <br>AEOTrade</p>
@@ -171,7 +172,7 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
-<br>COFCO International
+<br>COFCO International (Beijing)
 <br>YitHong Pte Ltd
 <br>AEOTrade</p>
 </td>
@@ -186,7 +187,7 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maersk
-<br>Higer Bus
+<br>Higer Bus (Suzhou)
 <br>Primex Motors
 <br>AEOTrade</p>
 </td>
