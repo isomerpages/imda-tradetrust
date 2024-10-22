@@ -21,5 +21,6 @@ the digitalisation of trade documents with an open-source software that
 utilises blockchain technology. It enables governments and businesses to
 verify the authenticity and provenance of documents and effect title transfer
 across digital platforms seamlessly, thus achieving end-to-end digital
-processing of trade documents. With very special guest Sin Young Loh Moderated
-by Andrea Frosinini</p>
+processing of trade documents.</p>
+<p>With very special guest Sin Young Loh
+<br>Moderated by Andrea Frosinini</p>
