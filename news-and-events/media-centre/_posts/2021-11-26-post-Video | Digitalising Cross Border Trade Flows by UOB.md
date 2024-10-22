@@ -9,9 +9,8 @@ variant: tiptap
 ---
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AadD7OQYtOg?si=Gvr8qQrKLKie3enL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AadD7OQYtOg?si=0uVfCqGnkkvOVREj"></iframe>
 </div>
-<p></p>
 <p></p>
 <p>We are pleased to lead IMDA’s pilot on digitalising cross-border trade
 flows between Singapore and China using the blockchain framework, TradeTrust.
