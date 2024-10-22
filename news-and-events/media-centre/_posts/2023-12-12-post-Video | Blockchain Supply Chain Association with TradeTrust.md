@@ -7,3 +7,19 @@ description: Blockchain Supply Chain Association with special guest from IMDA Tr
 image: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vlvq5bnXcWg?si=0pjgltSYRuqTzf5z"></iframe>
+</div>
+<p></p>
+<p>Developed and pioneered by Infocomm Media Development Authority (IMDA),
+TradeTrust was designed to address the challenges of paper-based international
+trade, reduces costs of documentation and risks of fraud. Discover the
+potential of TradeTrust in empowering the supply chain. TradeTrust supports
+the digitalisation of trade documents with an open-source software that
+utilises blockchain technology. It enables governments and businesses to
+verify the authenticity and provenance of documents and effect title transfer
+across digital platforms seamlessly, thus achieving end-to-end digital
+processing of trade documents. With very special guest Sin Young Loh Moderated
+by Andrea Frosinini</p>
