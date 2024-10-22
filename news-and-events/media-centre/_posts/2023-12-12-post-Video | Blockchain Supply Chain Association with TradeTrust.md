@@ -22,5 +22,5 @@ utilises blockchain technology. It enables governments and businesses to
 verify the authenticity and provenance of documents and effect title transfer
 across digital platforms seamlessly, thus achieving end-to-end digital
 processing of trade documents.</p>
-<p>With very special guest Sin Young Loh
+<p>With very special guest Sin Yong Loh (IMDA, TradeTrust)
 <br>Moderated by Andrea Frosinini</p>
