@@ -17,8 +17,8 @@ sections:
         accessible, providing increased confidence, profitability, and peace of
         mind for your business.
       background: /images/Old images/TradeDigitalisation.png
-      button: Contact Us
-      url: https://form.gov.sg/635f32c5001b2d0011fff09b
+      button: VERIFY DOCS
+      url: https://ref.tradetrust.io
       key_highlights:
         - title: What is TradeTrust
           description: Overview
@@ -50,12 +50,12 @@ sections:
       cards:
         - title: Create
           description: Create or revoke TradeTrust-enabled business documents
-          linktext: Learn more
+          linktext: Try now
           url: https://creator.tradetrust.io/
         - title: Verify
           description: Drag and drop for the source, authenticity and transfer title of
             documents
-          linktext: Learn more
+          linktext: Try now
           url: https://ref.tradetrust.io
       subtitle: Digitise the inefficiency
   - textcards:

@@ -12,7 +12,7 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 </blockquote>
 <p><strong>There are broadly 2 types of trade documents that you can digitise:</strong>
 </p>
-<h4>1. <strong>Verifiable Documents&nbsp;</strong></h4>
+<h4>1. <strong>Verifiable Documents</strong></h4>
 <p>These are trade documents that are non-transferable, such as Certificates
 of Origin (CoO), Invoices, and certificates of quality/quantity.
 <br>
@@ -22,13 +22,13 @@ of Origin (CoO), Invoices, and certificates of quality/quantity.
 one party to another;&nbsp;for example Electronic Transferable Records
 (ETRs) such as electronic bills of lading and warehouse receipts that entitle
 the holder to claim the performance of an obligation or ownership.</p>
-<p>These TradeTrust-enabled electronic documents are functional equivalents
-to their paper-based versions. They are saved as TradeTrust (.tt) files
-containing the data, which can be easily transmitted to stakeholders across
-the supply chain over your existing business/IT system via email, FTP,
-portal uploads/downloads, and legacy EDI systems etc. There are no restrictions
-on the use of data formats or standards. You can also save the documents
-in pdf format with a QR code.</p>
+<p>These <strong>TradeTrust-enabled electronic documents are functional equivalents to their paper-based versions</strong>.
+They are saved as <strong>TradeTrust (.tt) files</strong> containing the
+data, which can be easily transmitted to stakeholders across the supply
+chain over your existing business/IT system via email, FTP, portal uploads/downloads,
+and legacy EDI systems etc. There are no restrictions on the use of data
+formats or standards. You can also save the documents in pdf format with
+a QR code.</p>
 <p>TradeTrust leverages the strength of immutability and security of blockchains,
 Smart Contracts and Non-Fungible Tokens (NFTs) to:</p>
 <ul data-tight="true" class="tight">
@@ -46,12 +46,12 @@ Smart Contracts</p>
 </li>
 </ul>
 <p>When you or your trading parties access the .tt file in any TradeTrust-enabled
-platforms, all can be assured of the authenticity and provenance of a document,
+platforms, all can be <strong>assured of the authenticity and provenance of a document</strong>,
 irrespective of how a party receives a document or at which stage of the
-supply chain a party receives it. Your system can extract data from the
-.tt file for automated processing. Exclusive control is ensured as only
-one rightful party can possess and claim ownership of the transferable
-document at any point in time.</p>
+supply chain a party receives it. Your system can <strong>extract data</strong> from
+the .tt file for <strong>automated processing</strong>. <strong>Exclusive control</strong> is
+ensured as only one rightful party can possess and claim <strong>ownership</strong> of
+the transferable document at any point in time.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>A sample of the reference implementation for a TradeTrust-enabled Electronic Transferable Record</strong>
