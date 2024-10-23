@@ -17,8 +17,8 @@ sections:
         accessible, providing increased confidence, profitability, and peace of
         mind for your business.
       background: /images/Old images/TradeDigitalisation.png
-      button: Contact Us
-      url: https://form.gov.sg/635f32c5001b2d0011fff09b
+      button: Verify DOCUMENTS
+      url: https://ref.tradetrust.io
       key_highlights:
         - title: What is TradeTrust
           description: Overview
