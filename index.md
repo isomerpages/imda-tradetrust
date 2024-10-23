@@ -17,7 +17,7 @@ sections:
         accessible, providing increased confidence, profitability, and peace of
         mind for your business.
       background: /images/Old images/TradeDigitalisation.png
-      button: Verify DOCUMENTS
+      button: Verify DOC
       url: https://ref.tradetrust.io
       key_highlights:
         - title: What is TradeTrust
