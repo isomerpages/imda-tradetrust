@@ -19,4 +19,11 @@ digitalisation.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AlYD2km8kkQ?si=bYZKe3S5WsXa2R-7"></iframe>
 </div>
+<h4><strong>TradeTrust Podcast Episode 2 – Global Trade Digitalisation from The Perspective of a Shipping Line</strong></h4>
+<p>Special Guest: Ms Isabel Fan, General Manager, Business Process &amp;
+Shared Services, Group Commercial &amp; Agency Management, Pacific International
+Lines Pte Ltd (PIL)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UaP_WRtdi_g?si=IGw2PinSL4HaYIk8"></iframe>
+</div>
 <p></p>
