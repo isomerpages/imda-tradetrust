@@ -143,7 +143,7 @@ gentle on-ramps.</div>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="/images/Partner Logos/GUUD_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">Empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products from banks.</div><div class="isomer-card-link">more...</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.guud.company" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GUUD" src="/images/Partner Logos/GUUD_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GUUD</div><div class="isomer-card-description">Empowers businesses with financing solutions such as RYTE TFAP, a multi-bank portal for businesses to apply for trade finance products from banks.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://haptik.io" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
