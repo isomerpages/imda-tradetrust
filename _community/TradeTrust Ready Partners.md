@@ -120,9 +120,9 @@ commerce.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">eTEU Technologies Ltd</div>
-<div class="isomer-card-description">eTEU is a next generation, IGP&amp;I approved platform that bridges the
-electronic Bill of Lading and Trade Finance, enabling shippers to connect
-with alternative capital sources and secure credit using the eBL as collateral</div>
+<div class="isomer-card-description">eTEU is a next generation, IG P&amp;I approved platform that bridges the
+electronic Bill of Lading and Trade Finance, enabling shippers to access
+alternative capital sources and secure credit using the eBL as collateral.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://filpass.ph" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FilPass" src="/images/Partner Logos/FilPass_Logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FilPass by FilPass Tamperproof Tech</div><div class="isomer-card-description">Ensures that electronic trade documents are legally recognized, interoperable, and portable across digital platforms, allowing institutions to issue, verify, and transfer documents with enhanced security, streamlining operations and reducing fraud.</div><div class="isomer-card-link">more...</div></div></a>
