@@ -53,7 +53,7 @@ the .tt file for <strong>automated processing</strong>. <strong>Exclusive contro
 ensured as only one rightful party can possess and claim <strong>ownership</strong> of
 the transferable document at any point in time.</p>
 <p></p>
-<h4>A sample of the reference implementation for a TradeTrust-enabled Electronic Transferable Record</h4>
+<h4><strong>A sample of the reference implementation for a TradeTrust-enabled Electronic Transferable Record</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How to verify eBL" src="/images/Graphics /ebl_how_to_read.png">
 </div>
