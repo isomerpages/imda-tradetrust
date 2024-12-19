@@ -25,7 +25,7 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 <p>STABILITY (crypto-less)</p>
 </li>
 <li>
-<p>ASTRON (crypto-less</p>
+<p>ASTRON (crypto-less)</p>
 </li>
 </ul>
 <p>Depending on your role in the supply chain, transaction costs, such as
