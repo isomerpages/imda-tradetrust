@@ -52,20 +52,16 @@ supply chain a party receives it. Your system can <strong>extract data</strong> 
 the .tt file for <strong>automated processing</strong>. <strong>Exclusive control</strong> is
 ensured as only one rightful party can possess and claim <strong>ownership</strong> of
 the transferable document at any point in time.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>A sample of the reference implementation for a TradeTrust-enabled Electronic Transferable Record</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<h4><strong>A sample of the reference implementation for a TradeTrust-enabled Electronic Transferable Record</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphics /eBL_How_to_read_V4_170724.png">
+<img style="width: 100%" height="auto" width="100%" alt="How to verify eBL" src="/images/Graphics /ebl_how_to_read.png">
 </div>
-<p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Document</a>
+<p></p>
+<blockquote>
+<p>Try <a href="https://safe.menlosecurity.com/https://ref.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank"><u>Verify Document</u></a>
 </p>
-</div>
-</details>
-</div>
+</blockquote>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
@@ -193,5 +189,4 @@ and the endorsement of eBL digitally.</p>
 <blockquote>
 <p>Wondering how to get started? <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a>.</p>
 </blockquote>
-<p></p>
 <p></p>

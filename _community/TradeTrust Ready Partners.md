@@ -28,6 +28,20 @@ generation, multi-platform functionality, and multi-stakeholder collaboration
 with network-independent operations for uninterrupted bunkering.</div>
 <div class="isomer-card-link">more...</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://astron.bitfactory.cn/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ASTRON" src="/images/Partner Logos/ASTRON_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ASTRON</div><div class="isomer-card-description">A crypto-less public permissioned blockchain initiated by CAICT, with wide coverage in China, ASEAN countries and other regions. It supports the TradeTrust framework to facilitate the digitalization of trade documents such as eBLs.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="automaxis by FDP Connect™" src="/images/Partner Logos/automaxis.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">automaxis by FDP Connect™</div>
+<div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct
+100% electronic trade, facilitating seamless data flow among supply chain
+stakeholders by Automaxis.</div>
+<div class="isomer-card-link">more...</div>
+</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.banco.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="banco" src="/images/Partner Logos/banco_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">banco</div><div class="isomer-card-description">Part of RABC Group, banco is a Singapore-headquartered financing platform on a mission to empower local SMEs with simple, transparent and accessible financing solutions.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.blockpeer.finance/" class="isomer-card">
 <div class="isomer-card-image">
@@ -111,7 +125,7 @@ transfer of ownership and title of trade documents such as bills of lading,
 in alignment with MLETR and ICC DSI guidelines.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="automaxis by FDP Connect™" src="/images/Partner Logos/automaxis.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">automaxis by FDP Connect™</div><div class="isomer-card-description">A cross-border trade transaction platform that enables users to conduct 100% electronic trade, facilitating seamless data flow among supply chain stakeholders by Automaxis.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://eteu.co.uk/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="eTEU" src="/images/Partner Logos/eTEU_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">eTEU Technologies Ltd</div><div class="isomer-card-description">eTEU is a next generation, IG P&amp;I approved platform that bridges the electronic Bill of Lading and Trade Finance, enabling shippers to access alternative capital sources and secure credit using the eBL as collateral.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://filpass.ph" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -126,8 +140,12 @@ verify, and transfer documents with enhanced security, streamlining operations
 and reducing fraud.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://rytefinance.com/" class="isomer-card">
+</a>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.guud.company" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GUUD" src="/images/Partner Logos/GUUD_logo.jpg">
@@ -139,11 +157,7 @@ and reducing fraud.</div>
 portal for businesses to apply for trade finance products from banks.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a>
-</div>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://haptik.io" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HAPTIK" src="/images/Partner Logos/haptik_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HAPTIK</div><div class="isomer-card-description">A German-based provider of electronic Bills of Lading leverages the TradeTrust framework to securely create, issue and transfer eBLs. It is offered as a headless or web-based solution, enabling efficient and transparent global trade operations.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://haptik.io" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HAPTIK" src="/images/Partner Logos/haptik_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HAPTIK</div><div class="isomer-card-description">A German-based provider of electronic Bills of Lading leverages the TradeTrust framework to securely create, issue and transfer eBLs. It is offered as a headless or web-based solution, enabling efficient and transparent global trade operations.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.jedtrade.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

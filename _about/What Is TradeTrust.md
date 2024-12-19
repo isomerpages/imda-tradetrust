@@ -103,7 +103,11 @@ among different stakeholders):</p>
 service packages</p>
 </li>
 <li>
-<p>Estimated Fees on XDC : contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+<p>Estimated Fees on XDC: contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+</p>
+</li>
+<li>
+<p>Estimated Fees on ASTRON: Crypto-less, contact <a href="mailto:youxiaoyu@caict.ac.cn" rel="noopener nofollow" target="_blank">ASTRON</a>
 </p>
 </li>
 </ul>
