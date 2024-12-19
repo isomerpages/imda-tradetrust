@@ -24,6 +24,9 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 <li>
 <p>STABILITY (crypto-less)</p>
 </li>
+<li>
+<p>ASTRON (crypto-less</p>
+</li>
 </ul>
 <p>Depending on your role in the supply chain, transaction costs, such as
 blockchain gas fees, may apply. Below are the estimated fees (USD) computed
@@ -41,6 +44,10 @@ to the surrender of electronic Bill of Lading (eBL) (<em>costs distributed among
 </li>
 <li>
 <p>Estimated Fees on XDC : contact <a href="mailto:sunil@xinfin.org" rel="noopener noreferrer nofollow" target="_blank">XDC</a>
+</p>
+</li>
+<li>
+<p>Estimated Fees on ASTRON : Crypto-less, contact <a href="mailto:youxiaoyu@caict.ac.cn" rel="noopener nofollow" target="_blank">ASTRON</a>
 </p>
 </li>
 </ul>
