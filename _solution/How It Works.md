@@ -58,8 +58,10 @@ the transferable document at any point in time.</p>
 <img style="width: 100%" height="auto" width="100%" alt="How to verify eBL" src="/images/Graphics /ebl_how_to_read.png">
 </div>
 <blockquote>
-<h4>Try <a href="https://safe.menlosecurity.com/https://ref.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank"><u>Verify Document</u></a></h4>
+<p></p>
 </blockquote>
+<p>Try <a href="https://safe.menlosecurity.com/https://ref.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank"><u>Verify Document</u></a>
+</p>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
 solutions when dealing with verifiable documents such as the <strong>Certificate of Origin</strong>,
