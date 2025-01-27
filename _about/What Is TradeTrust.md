@@ -15,13 +15,6 @@ and transfer ownership for title documents cross different digital platforms
 seamlessly, while reducing the risk of fraud through checks for proof of
 origin, tampering, and authenticity.</p>
 <p></p>
-<hr>
-<p></p>
-<p></p>
-<p></p>
-<p>I added "endorse" as it is what is on the OA website (and the slides)&nbsp;
-<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[D(1]</a>
-</p>
 <p></p>
 <p></p>
 <p></p>
