@@ -14,9 +14,6 @@ allows trading partners to create, exchange, verify digitised documents,
 and transfer ownership for title documents cross different digital platforms
 seamlessly.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>It achieves this by using blockchain and cryptographic technologies, adhering
 to global standards and legal requirements to enable trusted portability
 of electronic trade documents across digital platforms. Electronic documents
