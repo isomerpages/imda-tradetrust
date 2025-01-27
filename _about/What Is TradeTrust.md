@@ -9,8 +9,19 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 <h3><strong>One Framework for Trade Digitalisation</strong></h3>
 <p>TradeTrust is designed as an enabler to transform your trade digitalisation
 journey.</p>
-<p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem.</strong>
+<p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem. </strong>It
+allows trading partners to endorse, exchange and verify documents and effect
+title transfer across different digital platforms seamlessly.</p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p>I added "endorse" as it is what is on the OA website (and the slides)&nbsp;
+<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[D(1]</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
 <p>It achieves this by using blockchain and cryptographic technologies, adhering
 to global standards and legal requirements to enable trusted portability
 of electronic trade documents across digital platforms. Electronic documents
