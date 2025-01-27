@@ -12,8 +12,7 @@ journey.</p>
 <p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem. </strong>It
 allows trading partners to create, exchange, verify digitised documents,
 and transfer ownership for title documents cross different digital platforms
-seamlessly, while reducing the risk of fraud through checks for proof of
-origin, tampering, and authenticity.</p>
+seamlessly.</p>
 <p></p>
 <p></p>
 <p></p>
