@@ -10,9 +10,9 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 <p>TradeTrust is designed as an enabler to transform your trade digitalisation
 journey.</p>
 <p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem. </strong>It
-allows trading partners to create, exchange, verify digitised documents,
-and transfer ownership for title documents cross different digital platforms
-seamlessly.</p>
+allows trading partners to <strong>create,</strong>  <strong>exchange</strong>, <strong>verify digitised documents</strong>,
+and <strong>transfer ownership</strong> for title documents across different
+digital platforms seamlessly.</p>
 <p></p>
 <p>It achieves this by using blockchain and cryptographic technologies, adhering
 to global standards and legal requirements to enable trusted portability
