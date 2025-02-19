@@ -29,7 +29,7 @@ Lines Pte Ltd (PIL)</p>
 <h4><strong>TradeTrust Podcast Episode 3 – Global Trade Digitalisation from a Commodity Trade Finance Perspective</strong></h4>
 <p>Special Guest: Dr Tom James, CIO, CEO and Co-Founder of TradeFlow</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=Z9nw31X0pXw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z9nw31X0pXw?si=Ke3N0UglTCgIBxqu"></iframe>
 </div>
 <p>Stay tuned for upcoming episodes!</p>
 <p></p>
