@@ -226,22 +226,21 @@ and secure data exchange, for global adoption and interoperability of electronic
 documentation with the TradeTrust framework.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TradeGo" src="/images/Partner Logos/Tradego_Logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TradeGo</div><div class="isomer-card-description">Headquartered in Singapore, it is a blockchain-based platform that provides digital services such as eBL enabled by TradeTrust for enterprises along the commodity trading supply chain.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://tasconnect.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TASConnect" src="/images/Partner Logos/TASConnect_IMDA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TASConnect by SCV Research and Development</div><div class="isomer-card-description">TASConnect, a SaaS working capital fintech incubated and seed funded by SC Ventures and Head quartered in Singapore, offers scalable solutions to address funding gaps in cross border B2B supply chain ecosystems ...</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trames" src="/images/Partner Logos/Trames_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TradeGo" src="/images/Partner Logos/Tradego_Logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Trames</div>
-<div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers
-complete control and visibility of global freight operations. Users can
-leverage Trames for freight visibility, workflow orchestration, spend management,
-and more.</div>
+<div class="isomer-card-title">TradeGo</div>
+<div class="isomer-card-description">Headquartered in Singapore, it is a blockchain-based platform that provides
+digital services such as eBL enabled by TradeTrust for enterprises along
+the commodity trading supply chain.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trames" src="/images/Partner Logos/Trames_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trames</div><div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers complete control and visibility of global freight operations. Users can leverage Trames for freight visibility, workflow orchestration, spend management, and more.</div><div class="isomer-card-link">more ...</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
