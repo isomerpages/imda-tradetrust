@@ -215,7 +215,7 @@ Finance and Cargo Release use cases.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>China Road and Bridge Construction</p>
+<p>China Road and Bridge Construction (Beijing)</p>
 <p>Pacific International Lines</p>
 <p>AEOTrade</p>
 </td>
