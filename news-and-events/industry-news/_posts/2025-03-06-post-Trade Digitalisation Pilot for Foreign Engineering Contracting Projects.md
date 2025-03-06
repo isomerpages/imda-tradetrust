@@ -56,3 +56,5 @@ sector.</p>
 <p>Next, the Beijing Two-Zone Office and IMDA will continue to expand the
 application of trade digitalisation, supporting further development of
 digital and intelligent international trade.</p>
+<p>This press release was published by Beijing Two-Zone Office.</p>
+<p></p>
