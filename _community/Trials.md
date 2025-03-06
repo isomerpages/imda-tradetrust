@@ -209,6 +209,19 @@ Finance and Cargo Release use cases.</p>
 <p>Bill of Lading</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China (Tianjing) - Dar es Salaam, Tanzania East Africa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>China Road and Bridge Construction</p>
+<p>Pacific International Lines</p>
+<p>AEOTrade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
