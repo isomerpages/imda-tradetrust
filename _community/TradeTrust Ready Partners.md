@@ -226,7 +226,7 @@ and secure data exchange, for global adoption and interoperability of electronic
 documentation with the TradeTrust framework.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://tasconnect.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TASConnect" src="/images/Partner Logos/TASConnect_IMDA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TASConnect by SCV Research and Development</div><div class="isomer-card-description">Head quartered in Singapore, it is a SaaS working capital fintech incubated and seed funded by SC Ventures, offering scalable solutions to address funding gaps in cross border B2B Supply chain ecosystems.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://tasconnect.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TASConnect" src="/images/Partner Logos/TASConnect_IMDA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TASConnect by SCV Research and Development</div><div class="isomer-card-description">Headquartered in Singapore, it is a SaaS working capital fintech incubated and seed funded by SC Ventures, offering scalable solutions to address funding gaps in cross border B2B Supply chain ecosystems.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://tradego.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
