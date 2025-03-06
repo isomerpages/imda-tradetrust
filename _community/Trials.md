@@ -211,7 +211,8 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China (Tianjing) - Dar es Salaam, Tanzania East Africa</p>
+<p><a href="/trade-digitalisation-pilot-for-foreign-engineering-contracting-projects/" rel="noopener nofollow" target="_blank">China (Tianjing) - Dar es Salaam, Tanzania East Africa</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>China Road and Bridge Construction</p>
