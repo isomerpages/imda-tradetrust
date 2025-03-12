@@ -54,3 +54,5 @@ IMDA will continue to collaborate with all parties to expand digital trade
 applications, deepen cooperation with other Belt and Road countries in
 the digital economy, and help build a more efficient and convenient international
 trade environment.</p>
+<p></p>
+<p>This press release was published by Beijing Two-Zone Office.</p>
