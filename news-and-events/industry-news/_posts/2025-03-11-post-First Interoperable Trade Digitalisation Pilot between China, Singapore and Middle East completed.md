@@ -25,7 +25,7 @@ location in Jazan. The pilot was supported by AEOTrade, which initiated
 blockchain technology through a trusted trade cooperation network (AEOTradeChain)
 and IMDA’s TradeTrust framework, to enable the issuance of electronic bills
 of lading (eBLs) by PIL.</p>
-<p>&nbsp;The pilot focused on two core innovations in the “electronic transferable
+<p>The pilot focused on two core innovations in the “electronic transferable
 document” process: First, the development of a “blockchain-based certification
 + dual-platform verification” mechanism, which recorded the data hash values
 of 11 key points in the process of issuing, transferring, and clearing
@@ -37,14 +37,11 @@ items.</p>
 use of transferable documents like eBLs supported by a distributed system
 improved the efficiency of cargo rights transfer by 80% (from 5-7 days
 to real-time delivery) and increased logistics traceability by 65%. The
-cross-border digital collaboration system also reduced compliance costs
-by 40% (saving approximately USD$120 per order), shortened the eBL circulation
-time from the traditional 7 days to 8 hours, and achieved 100% visibility
-in goods-in-transit management, while improving customs clearance efficiency
-by 60%.This pilot has enjoyed strong support from Beijing’s Fengtai District
-government, which is also a trade facilitation demonstration project in
-Fengtai, marking an important step forward in the District’s trade facilitation
-effort.</p>
+cross-border digital collaboration system also r<strong>educed compliance costs by 40% (saving approximately USD$120 per order)</strong>, <strong>shortened the eBL circulation time from the traditional 7 days to 8 hours</strong>,
+and achieved <strong>100% visibility in goods-in-transit management</strong>, <strong>while improving customs clearance efficiency by 60%</strong>.
+This pilot has enjoyed strong support from Beijing’s Fengtai District government,
+which is also a trade facilitation demonstration project in Fengtai, marking
+an important step forward in the District’s trade facilitation effort.</p>
 <p>&nbsp;In recent years, international trade between Belt and Road countries,
 particularly China, Singapore, and the Middle East, has flourished. The
 successful implementation of this pilot provides a model for promoting
