@@ -8,8 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Beijing Two-Zone Office and Singapore’s Infocomm Media Development Authority Facilitate the Launch of China’s First End-to-End Interoperable Trade Digitalisation Pilot for Foreign Engineering Contracting Projects</strong>
-</p>
+<h4><strong>Beijing Two-Zone Office and Singapore’s Infocomm Media Development Authority Facilitate the Launch of China’s First End-to-End Interoperable Trade Digitalisation Pilot for Foreign Engineering Contracting Projects</strong></h4>
 <p>&nbsp;China’s first end-to-end interoperable trade digitalisation pilot
 for foreign engineering contracting projects, jointly supported by the
 Office of the Leading Group for the Work of the China (Beijing) Pilot Free
@@ -46,14 +45,7 @@ many challenges in international engineering trade digitisation, such as
 non-transparent supply chain information, inefficiency, high costs, and
 complex trade processes, helping businesses in the international engineering
 sector transit to digital trade. It is estimated that the use of decentralised
-interoperability technology have improved cross-department collaboration
-efficiency by 60%, reduced document preparation costs for customs clearance
-by 50% (saving USD$150-200 per container), and compressed document processing
-time by 80%. The system also improved logistics clearance efficiency by
-30%, and reducing overall costs by 15%, thus solving issues related to
-multi-party collaboration and cross-border data sharing. This could save
-over 100 million RMB annually for enterprises in the international engineering
-sector.</p>
+interoperability technology have<strong> improved cross-department collaboration efficiency by 60%, reduced document preparation costs for customs clearance by 50% (saving USD$150-200 per container), and compressed document processing time by 80%. The system also improved logistics clearance efficiency by 30%, and reducing overall costs by 15%, thus solving issues related to multi-party collaboration and cross-border data sharing. This could save over 100 million RMB annually for enterprises in the international engineering sector</strong>.</p>
 <p>Next, the Beijing Two-Zone Office and IMDA will continue to expand the
 application of trade digitalisation, supporting further development of
 digital and intelligent international trade.</p>
