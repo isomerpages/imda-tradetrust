@@ -37,7 +37,7 @@ items.</p>
 use of transferable documents like eBLs supported by a distributed system
 improved the efficiency of cargo rights transfer by 80% (from 5-7 days
 to real-time delivery) and increased logistics traceability by 65%. The
-cross-border digital collaboration system also r<strong>educed compliance costs by 40% (saving approximately USD$120 per order)</strong>, <strong>shortened the eBL circulation time from the traditional 7 days to 8 hours</strong>,
+cross-border digital collaboration system also <strong>reduced compliance costs by 40% (saving approximately USD$120 per order)</strong>, <strong>shortened the eBL circulation time from the traditional 7 days to 8 hours</strong>,
 and achieved <strong>100% visibility in goods-in-transit management</strong>, <strong>while improving customs clearance efficiency by 60%</strong>.
 This pilot has enjoyed strong support from Beijing’s Fengtai District government,
 which is also a trade facilitation demonstration project in Fengtai, marking
