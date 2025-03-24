@@ -31,5 +31,10 @@ Lines Pte Ltd (PIL)</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z9nw31X0pXw?si=Ke3N0UglTCgIBxqu"></iframe>
 </div>
-<p>Stay tuned for upcoming episodes!</p>
+<h4><strong>TradeTrust Podcast Episode 4 –Global Trade Digitalisation from a Blockchain Technology Perspective</strong></h4>
+<p>Special Guest: Juliun Brabon, CEO and Klay Nichol, COO from STABILITY</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yhzYzm99-ls?si=yu8dL_NQKxGZfAkw"></iframe>
+</div>
+<p></p>
 <p></p>
