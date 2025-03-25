@@ -66,8 +66,8 @@ the Model Terms. &nbsp;</p>
 </p>
 <blockquote>
 <p>Download the <a href="/files/TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Model Terms</a> and
-<a href="/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Guidance Notes</a>for free. To access useful resources in the future,
-<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener nofollow" target="_blank">subscribe</a>to our mailing list.</p>
+<a href="/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Guidance Notes</a>. To access useful resources in the future, <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener nofollow" target="_blank">subscribe</a>to
+our mailing list.</p>
 </blockquote>
 <p></p>
 <hr>
