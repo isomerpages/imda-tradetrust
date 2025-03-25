@@ -7,6 +7,73 @@ description: Instead of relying wholly on contract law, your TradeTrust-enabled
   jurisdictions.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
+<h3>TradeTrust Model Terms</h3>
+<p>As the industry transitions from paper-based to electronic trade documentation,
+there is a growing need for the support of technical and legal frameworks
+that enable the secure and effective use of electronic transferable records
+(ETRs) such as electronic Bills of Lading (eBLs), across different digital
+systems or platforms. TradeTrust’s open-source software components provide
+the technical foundation for achieving interoperability and are complemented
+by a set of model terms that facilitate legal alignment for the use of
+ETRs.</p>
+<p>IMDA has engaged Watson Farley &amp; Williams LLP (WFW) to develop the
+set of <strong>Model Terms</strong> and accompanying <strong>Guidance Notes</strong> for
+TradeTrust eBL adopters such as Business Service Providers (BSPs) and System
+owners. While primarily focused on eBLs, the structure and principles outlined
+in these documents can be adapted for other types of ETRs as recognised
+by law such as electronic promissory notes (ePNs), electronic bills of
+exchange (eBoEs), electronic warehouse receipts (eWRs), and potentially
+even Model Law on Electronic Transferable Records (MLETR)-aligned transferable
+instruments developed in the future.</p>
+<p></p>
+<p><strong>How are TradeTrust Model Terms useful for TradeTrust adopters?</strong>
+</p>
+<p>The Model Terms could facilitate applications by TradeTrust adopters to
+the International Group of P&amp;I Clubs ("IG") for eBL system approvals
+as the IG may consider the terms and conditions (T&amp;Cs) governing the
+use of those eBLs in their approval process.</p>
+<p>Beyond the purpose of obtaining IG’s insurance cover for TradeTrust-enabled
+eBLs, the Model Terms may also be used as a reference to facilitate alignment
+on key legal aspects for TradeTrust adopters such as interoperability,
+dispute resolution and governing law.</p>
+<p><strong>What are the TradeTrust Model Terms?</strong>
+</p>
+<p>The Model Terms are structured in three parts:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Part A - Definitions: establish precise definitions used in the Model
+Terms;</p>
+</li>
+<li>
+<p>Part B - Terms to be incorporated in User Agreement Terms and Conditions:
+govern the relationship between platforms and their users, covering crucial
+aspects such as eBL clausing, rejection mechanisms, switch-to-paper procedures,
+surrender and accomplishment processes, liability considerations, and governing
+law and dispute resolution frameworks; and</p>
+</li>
+<li>
+<p>Part C - TradeTrust eBL provisions: align to statutory law and should
+be incorporated into every TradeTrust eBL governed by a MLETR.</p>
+</li>
+</ul>
+<p>Please note that the Model Terms are intended to serve as a baseline reference
+and not meant as a comprehensive set of terms set out for BSPs.</p>
+<p><strong>What are the Guidance Notes?</strong>
+</p>
+<p>The Guidance Notes provide detailed explanations and context for implementing
+the Model Terms. &nbsp;</p>
+<p><em>Disclaimer: These Model Terms and Guidance Notes are provided by IMDA for reference only and do not constitute legal advice. IMDA is not a party to any contracts that may be formed using these Model Terms and Guidance Notes. Users should seek independent legal counsel to review and adapt these materials to their specific circumstances and requirements. Please also refer to the Disclaimer found in the Guidance Notes for more information</em>
+</p>
+<p></p>
+<blockquote>
+<p>Download <a href="/files/TradeTrust_Legal_Analysis_Article.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of TradeTrust-enabled eBLs and their use in global trade.</a>
+</p>
+<p></p>
+</blockquote>
+<p></p>
+<p></p>
+<hr>
+<p></p>
 <p>Previously, usage of electronic versions of bills of lading faced difficulties
 due to technological and legal challenges in establishing the <strong>original document</strong> and
 its <strong>rightful owner</strong>. TradeTrust is designed to facilitate
