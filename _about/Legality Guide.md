@@ -117,7 +117,7 @@ Singapore, the UK and the US</p>
 <p></p>
 </blockquote>
 <p></p>
-<h3><strong>Model Law on Electronic Transferable Records</strong></h3>
+<h4><strong>Model Law on Electronic Transferable Records</strong></h4>
 <p>In 2017, the United Nations Commission on International Trade Law (UNCITRAL)
 published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">Model Law on Electronic Transferable Records</a> (MLETR). <strong>This law harmonises the recognition of electronic transferable records (ETRs) across borders.&nbsp;</strong>
 </p>
@@ -129,7 +129,7 @@ advice be sought on the choice of governing law in regards to ETRs.</p>
 MLETR-compliant ETRs that satisfy relevant statutory laws, providing greater
 certainty to businesses and removing the barrier to end-to-end digital
 trade.</p>
-<h3><strong>Singapore's Electronic Transactions Act</strong></h3>
+<h4><strong>Singapore's Electronic Transactions Act</strong></h4>
 <p>In March 2021, the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/electronic-transactions-act-and-regulations" rel="noopener noreferrer nofollow" target="_blank">Electronic Transactions Act</a> (ETA)
 was amended to align Singapore’s legal and regulatory infrastructure with
 international trade law and the latest technological advancements. The
