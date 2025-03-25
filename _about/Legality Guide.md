@@ -7,7 +7,7 @@ description: Instead of relying wholly on contract law, your TradeTrust-enabled
   jurisdictions.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
-<h3>TradeTrust Model Terms</h3>
+<h3><strong>TradeTrust Model Terms</strong></h3>
 <p>As the industry transitions from paper-based to electronic trade documentation,
 there is a growing need for the support of technical and legal frameworks
 that enable the secure and effective use of electronic transferable records
