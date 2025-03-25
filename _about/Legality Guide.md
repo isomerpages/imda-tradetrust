@@ -71,7 +71,7 @@ our mailing list.</p>
 </blockquote>
 <p></p>
 <hr>
-<p></p>
+<h3><strong>TradeTrust Design for MLETR-aligned laws</strong></h3>
 <p>Previously, usage of electronic versions of bills of lading faced difficulties
 due to technological and legal challenges in establishing the <strong>original document</strong> and
 its <strong>rightful owner</strong>. TradeTrust is designed to facilitate
