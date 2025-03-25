@@ -64,9 +64,19 @@ and not meant as a comprehensive set of terms set out for BSPs.</p>
 the Model Terms. &nbsp;</p>
 <p><em>Disclaimer: These Model Terms and Guidance Notes are provided by IMDA for reference only and do not constitute legal advice. IMDA is not a party to any contracts that may be formed using these Model Terms and Guidance Notes. Users should seek independent legal counsel to review and adapt these materials to their specific circumstances and requirements. Please also refer to the Disclaimer found in the Guidance Notes for more information</em>
 </p>
+<blockquote>
+<p>Download the <a href="TradeTrust_Model_Terms" rel="noopener nofollow" target="_blank">Model Terms</a>
+</p>
+</blockquote>
 <p></p>
 <blockquote>
 <p>Download <a href="/files/TradeTrust_Legal_Analysis_Article.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of TradeTrust-enabled eBLs and their use in global trade.</a>
+</p>
+<p></p>
+</blockquote>
+<blockquote>
+<p>Download <a href="/files/TradeTrust_Legal_Analysis_Article.pdf" rel="noopener noreferrer nofollow" target="_blank">A legal and practical analysis of TradeTrust-enabled e</a>
+<a href="/files/TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Model Terms</a><a href="/files/TradeTrust_Legal_Analysis_Article.pdf" rel="noopener noreferrer nofollow" target="_blank">BLs and their use in global trade.</a>
 </p>
 <p></p>
 </blockquote>
