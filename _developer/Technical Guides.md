@@ -47,7 +47,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 <p>Transfer of holdership / ownership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</a>
+<p><a href="https://docs.tradetrust.io/docs/introduction/key-components-of-tradetrust/transferability/title-transfer" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ of your partners</p>
 </li>
 </ol>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local</a>
+<p><a href="https://docs.tradetrust.io/docs/how-tos/advanced/address-resolver" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/how-tos/advanced/address-resolver</a>
 </p>
 </td>
 </tr>
