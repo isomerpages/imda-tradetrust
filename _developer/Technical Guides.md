@@ -29,7 +29,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 <p>Documentation and implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/getting-started</a>
+<p><a href="https://docs.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io</a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 <p>Overview of Transferable Records</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/tutorial/transferable-records/overview</a>
+<p><a href="https://docs.tradetrust.io/docs/introduction/key-components-of-tradetrust/transferability/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/introduction/key-components-of-tradetrust/transferability/overview</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 <p>Transfer of holdership / ownership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</a>
+<p><a href="https://docs.tradetrust.io/docs/introduction/key-components-of-tradetrust/transferability/title-transfer" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/introduction/transferable-records/title-transfer</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ of your partners</p>
 </li>
 </ol>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/reference/tradetrust-website/address-resolver/#address-book-local</a>
+<p><a href="https://docs.tradetrust.io/docs/how-tos/advanced/address-resolver" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/how-tos/advanced/address-resolver</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,8 @@ of your partners</p>
 <td rowspan="1" colspan="1">
 <p>TradeTrust does not have any preferred wallet management. You may refer
 to some solutions available in the market:</p>
-<p><a href="https://docs.tradetrust.io/docs/topics/advanced/wallet-management/" rel="noopener noreferrer nofollow" target="_blank"><u>https://docs.tradetrust.io/docs/topics/advanced/wallet-management/</u></a>
+<p></p>
+<p><a href="https://docs.tradetrust.io/docs/how-tos/advanced/wallet-management" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/how-tos/advanced/wallet-management</a>
 </p>
 </td>
 </tr>
@@ -87,7 +88,7 @@ to some solutions available in the market:</p>
 <p>Storing of private keys and auto issue documents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/topics/advanced/aws-kms/overview</a>
+<p><a href="https://docs.tradetrust.io/docs/how-tos/advanced/aws-kms/overview" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/how-tos/advanced/aws-kms/overview</a>
 </p>
 </td>
 </tr>
@@ -97,8 +98,12 @@ to some solutions available in the market:</p>
 the framework's implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://github.com/tradetrust</a>
+<p><a href="https://github.com/tradetrust" rel="noopener noreferrer nofollow" target="_blank">https://github.com/tradetrust</a>
 </p>
+<p></p>
+<p><a href="https://github.com/TrustVC" rel="noopener noreferrer nofollow" target="_blank">https://github.com/TrustVC</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -162,7 +167,7 @@ assistance.</p>
 </div>
 <p></p>
 <blockquote>
-<p>To reach our tech support, <a href="https://github.com/TradeTrust/tradetrust-core/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
+<p>To reach our tech support, <a href="https://github.com/TrustVC/trustvc/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
 <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
 </blockquote>
 <p></p>
