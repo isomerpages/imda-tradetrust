@@ -29,7 +29,7 @@ sample documents in&nbsp;<a href="https://docs.tradetrust.io/" rel="noopener nor
 <p>Documentation and implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io/docs/getting-started</a>
+<p><a href="https://docs.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">https://docs.tradetrust.io</a>
 </p>
 </td>
 </tr>
