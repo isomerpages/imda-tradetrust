@@ -96,10 +96,11 @@ sections:
   - infopic:
       title: Presenting the TradeTrust Podcast Series
       id: infopic
-      description: Industry leaders share diverse perspectives on trade digitalisation
-        and interoperability in our new podcast. Watch episode 1 and stay tuned!
+      description: Featuring Thought Leaders’ views & opinions on Trade
+        Digitalisation, the series discusses the concept & importance of
+        interoperability for trade digitalisation.
       button: Watch now
-      url: https://www.youtube.com/watch?v=AlYD2km8kkQ/
+      url: https://www.tradetrust.io/tradetrust-podcast/
       image: /images/TradeTrustPodcast_tro_Logo.jpg
       alt: Podcast 1
   - textcards:
