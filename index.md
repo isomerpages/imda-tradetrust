@@ -100,7 +100,7 @@ sections:
         Digitalisation, the series discusses the concept & importance of
         interoperability for trade digitalisation.
       button: Watch now
-      url: https://www.youtube.com/watch?v=AlYD2km8kkQ/
+      url: https://www.tradetrust.io/tradetrust-podcast/
       image: /images/TradeTrustPodcast_tro_Logo.jpg
       alt: Podcast 1
   - textcards:
