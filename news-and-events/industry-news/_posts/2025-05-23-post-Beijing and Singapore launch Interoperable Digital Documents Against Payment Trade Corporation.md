@@ -35,18 +35,18 @@ as collecting banks, to support D/P transaction using electronic Bill of
 Lading (eBL).&nbsp;</p>
 <p>The project achieved cross-chain interoperability between different underlying
 blockchains (<strong>ChainMaker </strong>and <strong>Astron</strong>) and
-digital trade infrastructure (AEOTrade and <strong>SGTraDex</strong>), enabling
-secure and efficient eBL and other trade documents exchange that offer
-authentication, traceability of origin, and ownership transfers among carriers,
-cargo owners, banks, and other stakeholders. The eBL, serving as a digital
-document of title, not only streamlined customs clearance and logistics,
-but also addressed risks such as loss or tampering inherent in traditional
-paper-based documentary collections, and enhancing trade security and credibility.
-It also transformed the end-to-end international trade processes, covering
-contract signing, document circulation, and payment settlement, and facilitated
-the fully online electronic document flows between collecting and remitting
-banks, significantly shortening transaction cycles, reducing time costs,
-and boosting trade efficiency.&nbsp;</p>
+digital trade infrastructure (<strong>AEOTrade</strong> and <strong>SGTraDex</strong>),
+enabling secure and efficient eBL and other trade documents exchange that
+offer authentication, traceability of origin, and ownership transfers among
+carriers, cargo owners, banks, and other stakeholders. The eBL, serving
+as a digital document of title, not only streamlined customs clearance
+and logistics, but also addressed risks such as loss or tampering inherent
+in traditional paper-based documentary collections, and enhancing trade
+security and credibility. It also transformed the end-to-end international
+trade processes, covering contract signing, document circulation, and payment
+settlement, and facilitated the fully online electronic document flows
+between collecting and remitting banks, significantly shortening transaction
+cycles, reducing time costs, and boosting trade efficiency.&nbsp;</p>
 <p>According to Chinese participating banks, BOC and ICBC, the transaction
 demonstrated that replacing traditional cross-border paper document mailing
 with digital transmission had <strong>reduced document circulation costs by 30%</strong>,
