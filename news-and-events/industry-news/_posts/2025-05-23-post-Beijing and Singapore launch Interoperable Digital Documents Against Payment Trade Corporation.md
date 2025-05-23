@@ -52,9 +52,7 @@ demonstrated that replacing traditional cross-border paper document mailing
 with digital transmission had <strong>reduced document circulation costs by 30%</strong>,
 and effectively <strong>mitigated risks like document fraud or loss</strong>.
 In addition, COFCO Industrial Food pointed out that with the traditional
-paper-based D/P processes, the period from shipment to <strong>payment settlement </strong>typically
-took around 20 days, while digitisation <strong>slashed </strong>this to
-just five days, <strong>minimising delays</strong> in <strong>document processing and transfer </strong>while
+paper-based D/P processes, the period from shipment to <strong>payment settlement typically took around 20 days, while digitisation slashed this to just five days</strong>, <strong>minimising delays</strong> in <strong>document processing and transfer </strong>while
 significantly <strong>improving capital turnover</strong> efficiency. Participating
 enterprises in Singapore also confirmed similar results of reducing costs
 and improving efficiency. Yit Hong has r<strong>educed documentation handling time by 60%</strong>, <strong>enabling faster goods claims without courier delays</strong>.
