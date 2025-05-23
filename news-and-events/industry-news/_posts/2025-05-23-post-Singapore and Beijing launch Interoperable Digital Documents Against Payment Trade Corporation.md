@@ -24,7 +24,6 @@ marks another achievement in Beijing-Singapore digital economy collaboration,
 introducing a novel interoperable trade finance model for international
 trade and financial services, paving the way for business-as-usual digital
 operations.&nbsp;</p>
-<p>&nbsp;</p>
 <p>It was jointly executed by <strong>COFCO Industrial Food</strong> (also
 known as China Processed Food) and <strong>Yit Hong Pte Ltd</strong> in Singapore,
 utilising the B2B cross-border e-commerce model (China Customs Code: 9710)
@@ -34,7 +33,6 @@ Key participants included the <strong>Bank of China</strong> (BOC) and <strong>I
 as remitting banks, and <strong>Singapore’s DBS</strong> and&nbsp;<strong>United Overseas Bank </strong>(UOB)
 as collecting banks, to support D/P transaction using electronic Bill of
 Lading (eBL).&nbsp;</p>
-<p>&nbsp;</p>
 <p>The project achieved cross-chain interoperability between different underlying
 blockchains (<strong>ChainMaker </strong>and <strong>Astron</strong>) and
 digital trade infrastructure (AEOTrade and <strong>SGTraDex</strong>), enabling
@@ -49,7 +47,6 @@ contract signing, document circulation, and payment settlement, and facilitated
 the fully online electronic document flows between collecting and remitting
 banks, significantly shortening transaction cycles, reducing time costs,
 and boosting trade efficiency.&nbsp;</p>
-<p>&nbsp;</p>
 <p>According to Chinese participating banks, BOC and ICBC, the transaction
 demonstrated that replacing traditional cross-border paper document mailing
 with digital transmission had <strong>reduced document circulation costs by 30%</strong>,
@@ -70,8 +67,7 @@ trade ecosystem, while also <strong>addressing the scalability challenges of clo
 UOB also recognised from this project that the digital issuance, transfer
 and endorsement of a TradeTrust-enabled eBL allowed banks to <strong>efficiently establish the authenticity of a BL</strong>  <strong>without a separate validation process</strong>.
 When scaled, this can help to <strong>mitigate risk of trade finance fraud</strong> and <strong>strengthen confidence</strong> in
-cross-border trade finance.</p>
-<p>
+cross-border trade finance.
 <br>Prior to this, COFCO and Yit Hong had implemented end-to-end interoperable
 digital trade collaborations in October 2023 (with PIL as the carrier)
 and May 2024 (with Maersk as the carrier), utilising telegraphic transfer
