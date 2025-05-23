@@ -52,28 +52,25 @@ and boosting trade efficiency.&nbsp;</p>
 <p>&nbsp;</p>
 <p>According to Chinese participating banks, BOC and ICBC, the transaction
 demonstrated that replacing traditional cross-border paper document mailing
-with digital transmission had reduced document circulation costs by 30%,
-and effectively mitigated risks like document fraud or loss. In addition,
-COFCO Industrial Food pointed out that with the traditional paper-based
-D/P processes, the period from shipment to payment settlement typically
-took around 20 days, while digitisation slashed this to just five days,
-minimising delays in document processing and transfer while significantly
-improving capital turnover efficiency. Participating enterprises in Singapore
-also confirmed similar results of reducing costs and improving efficiency.
-Yit Hong has reduced documentation handling time by 60%, enabling faster
-goods claims without courier delays. Based on PIL’s experience, the processing
-time of Bills of Lading (BL) has been dramatically reduced from 5-10 days
-of couriering paper BL to just 8 minutes per transaction digitally, while
-eliminating the risk of documents being lost in transit.. Separately, DBS
-highlighted that this transaction reinforced the importance of interoperability
-and common standards in accelerating trade digitalisation and promoting
-a more efficient global trade ecosystem, while also addressing the scalability
-challenges of closed-loop platforms. UOB also recognised from this project
-that the digital issuance, transfer and endorsement of a TradeTrust-enabled
-eBL allowed banks to efficiently establish the authenticity of a BL without
-a separate validation process. When scaled, this can help to mitigate risk
-of trade finance fraud and strengthen confidence in cross-border trade
-finance.</p>
+with digital transmission had <strong>reduced document circulation costs by 30%</strong>,
+and effectively <strong>mitigated risks like document fraud or loss</strong>.
+In addition, COFCO Industrial Food pointed out that with the traditional
+paper-based D/P processes, the period from shipment to <strong>payment settlement </strong>typically
+took around 20 days, while digitisation <strong>slashed </strong>this to
+just five days, <strong>minimising delays</strong> in <strong>document processing and transfer </strong>while
+significantly <strong>improving capital turnover</strong> efficiency. Participating
+enterprises in Singapore also confirmed similar results of reducing costs
+and improving efficiency. Yit Hong has r<strong>educed documentation handling time by 60%</strong>, <strong>enabling faster goods claims without courier delays</strong>.
+Based on PIL’s experience, the <strong>processing time of Bills of Lading </strong>(BL)
+has been dramatically reduced from 5-10 days of couriering paper BL to <strong>just 8 minutes per transaction </strong>digitally,
+while <strong>eliminating </strong>the <strong>risk of documents</strong> being <strong>lost in transit.</strong> Separately,
+DBS highlighted that this transaction reinforced the importance of <strong>interoperability</strong> and <strong>common standards</strong> in
+accelerating trade digitalisation and promoting a more efficient global
+trade ecosystem, while also <strong>addressing the scalability challenges of closed-loop platforms</strong>.
+UOB also recognised from this project that the digital issuance, transfer
+and endorsement of a TradeTrust-enabled eBL allowed banks to <strong>efficiently establish the authenticity of a BL</strong>  <strong>without a separate validation process</strong>.
+When scaled, this can help to <strong>mitigate risk of trade finance fraud</strong> and <strong>strengthen confidence</strong> in
+cross-border trade finance.</p>
 <p>
 <br>Prior to this, COFCO and Yit Hong had implemented end-to-end interoperable
 digital trade collaborations in October 2023 (with PIL as the carrier)
