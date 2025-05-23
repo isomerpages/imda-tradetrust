@@ -85,7 +85,6 @@ to support digital documents, such as eBLs, to enhance connectivity between
 the China and Singapore’s trade ecosystems. These include aligning strategic
 plans, conducting joint feasibility studies, and ensuring compliance with
 applicable regulations.</p>
-<p>&nbsp;</p>
 <p>Moving forward, the Beijing Two-Zone Office and IMDA will leverage the
 “AEOTradeChain+TradeTrust” framework to explore broader end-to-end interoperable
 digital trade scenarios. These efforts will engage more countries, regions,
@@ -93,11 +92,8 @@ industries, and business types, inviting participation from cargo owners,
 financial institutions, logistics providers, and other stakeholders to
 jointly advance the digital transformation of global trade and financial
 services, injecting new momentum into the sector.&nbsp;</p>
-<hr>
-<p>Alphabetical order for mention of DBS and UOB</p>
-<p>“Platforms” is inaccurate, prefer “infrastructures” , in-line with what’s
-published on aeotrade website</p>
-<p>To Shawdia: Understood that the term “pilot” was sensitive?</p>
 <p></p>
+<p></p>
+<p>This press release was published by Beijing Two-Zone Office.</p>
 <p></p>
 <p>This press release was published by Beijing Two-Zone Office.</p>
