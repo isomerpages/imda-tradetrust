@@ -90,8 +90,5 @@ industries, and business types, inviting participation from cargo owners,
 financial institutions, logistics providers, and other stakeholders to
 jointly advance the digital transformation of global trade and financial
 services, injecting new momentum into the sector.&nbsp;</p>
-<p></p>
-<p></p>
 <p>This press release was published by Beijing Two-Zone Office.</p>
-<p></p>
-<p>This press release was published by Beijing Two-Zone Office.</p>
+<p>Beijing Two-Zone Office.</p>
