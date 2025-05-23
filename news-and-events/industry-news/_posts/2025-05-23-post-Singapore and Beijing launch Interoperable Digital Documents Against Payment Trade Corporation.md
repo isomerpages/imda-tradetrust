@@ -8,14 +8,14 @@ description: digital trade solution
 image: ""
 variant: tiptap
 ---
-<h4><strong>Beijing Two-Zone Office and Singapore’s Infocomm Media Development Authority Launch World’s First Interoperable Digital Documents against Payment Cooperation, Empowering Global Trade and Financial Services with End-to-End Digitalisation&nbsp;</strong></h4>
+<h4><strong>Beijing Two-Zone Office and Singapore’s Infocomm Media Development Authority Launch World’s First Interoperable Digital Documents against Payment Cooperation, Empowering Global Trade and Financial Services with End-to-End Digitalisation&nbsp;&nbsp;</strong></h4>
 <p>Jointly driven by the Office of the Leading Group for the Work of the
 China (Beijing) Pilot Free Trade Zone and the Integrated National Demonstration
 Zone for Opening Up the Services Sector (referred to as the “Beijing Two-Zone
 Office”) and Singapore’s Infocomm Media Development Authority (IMDA), the
-world’s first project on interoperable digital Documents against Payment
-(D/P) for paperless live trades was concluded successfully on 9 April 2025.
-This milestone follows the signing of the Memorandum of Understanding (MoU)
+world’s first project on <strong>interoperable digital Documents against Payment</strong> (D/P)
+for paperless live trades was concluded successfully on 9 April 2025. This
+milestone follows the signing of the Memorandum of Understanding (MoU)
 on International Information Industry and Digital Trade Harbour Cooperation
 by the Beijing Municipal Commerce Bureau (Beijing Two-Zone Office) and
 IMDA in December 2023. Guided by the Beijing Two-Zone Office and executed
@@ -25,29 +25,30 @@ introducing a novel interoperable trade finance model for international
 trade and financial services, paving the way for business-as-usual digital
 operations.&nbsp;</p>
 <p>&nbsp;</p>
-<p>It was jointly executed by COFCO Industrial Food (also known as China
-Processed Food) and Yit Hong in Singapore, utilising the B2B cross-border
-e-commerce model (China Customs Code: 9710) to export canned food containers
-via sea freight from Xiamen Port to Singapore Port, with shipping managed
-by carrier - Pacific International Lines (PIL). Key participants included
-the Bank of China (BOC) and Industrial and Commercial Bank of China (ICBC)
-as remitting banks, and Singapore’s DBS&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">and </a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[AT1]</a>&nbsp;United Overseas Bank (UOB) as collecting banks, to support
-D/P transaction using electronic Bill of Lading (eBL).&nbsp;</p>
+<p>It was jointly executed by <strong>COFCO Industrial Food</strong> (also
+known as China Processed Food) and <strong>Yit Hong Pte Ltd</strong> in Singapore,
+utilising the B2B cross-border e-commerce model (China Customs Code: 9710)
+to export canned food containers via sea freight from Xiamen Port to Singapore
+Port, with shipping managed by carrier - Pacific International Lines (PIL).
+Key participants included the <strong>Bank of China</strong> (BOC) and <strong>Industrial and Commercial Bank of China </strong>(ICBC)
+as remitting banks, and <strong>Singapore’s DBS</strong> and&nbsp;<strong>United Overseas Bank </strong>(UOB)
+as collecting banks, to support D/P transaction using electronic Bill of
+Lading (eBL).&nbsp;</p>
 <p>&nbsp;</p>
 <p>The project achieved cross-chain interoperability between different underlying
-blockchains (ChainMaker and Astron) and digital trade <a rel="noopener noreferrer nofollow" target="_blank">infrastructures </a><a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[AT2]</a>&nbsp;(AEOTrade
-and SGTraDex), enabling secure and efficient eBL and other trade documents
-exchange that offer authentication, traceability of origin, and ownership
-transfers among carriers, cargo owners, banks, and other stakeholders.
-The eBL, serving as a digital document of title, not only streamlined customs
-clearance and logistics, but also addressed risks such as loss or tampering
-inherent in traditional paper-based documentary collections, and enhancing
-trade security and credibility. It also transformed the end-to-end international
-trade processes, covering contract signing, document circulation, and payment
-settlement, and facilitated the fully online electronic document flows
-between collecting and remitting banks, significantly shortening transaction
-cycles, reducing time costs, and boosting trade efficiency.&nbsp;</p>
+blockchains (<strong>ChainMaker </strong>and <strong>Astron</strong>) and
+digital trade infrastructure (AEOTrade and <strong>SGTraDex</strong>), enabling
+secure and efficient eBL and other trade documents exchange that offer
+authentication, traceability of origin, and ownership transfers among carriers,
+cargo owners, banks, and other stakeholders. The eBL, serving as a digital
+document of title, not only streamlined customs clearance and logistics,
+but also addressed risks such as loss or tampering inherent in traditional
+paper-based documentary collections, and enhancing trade security and credibility.
+It also transformed the end-to-end international trade processes, covering
+contract signing, document circulation, and payment settlement, and facilitated
+the fully online electronic document flows between collecting and remitting
+banks, significantly shortening transaction cycles, reducing time costs,
+and boosting trade efficiency.&nbsp;</p>
 <p>&nbsp;</p>
 <p>According to Chinese participating banks, BOC and ICBC, the transaction
 demonstrated that replacing traditional cross-border paper document mailing
@@ -67,8 +68,8 @@ eliminating the risk of documents being lost in transit.. Separately, DBS
 highlighted that this transaction reinforced the importance of interoperability
 and common standards in accelerating trade digitalisation and promoting
 a more efficient global trade ecosystem, while also addressing the scalability
-challenges of closed-loop platforms. UOB also recognised from this project&nbsp;that
-the digital issuance, transfer and endorsement of a TradeTrust-enabled
+challenges of closed-loop platforms. UOB also recognised from this project
+that the digital issuance, transfer and endorsement of a TradeTrust-enabled
 eBL allowed banks to efficiently establish the authenticity of a BL without
 a separate validation process. When scaled, this can help to mitigate risk
 of trade finance fraud and strengthen confidence in cross-border trade
@@ -80,10 +81,7 @@ and May 2024 (with Maersk as the carrier), utilising telegraphic transfer
 (T/T) payments. These successful pilots laid a solid foundation for the
 current digital D/P implementation, expanding interoperable trade financing
 process in international trade finance.&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Collaboration bridges digital trade platforms: AEOTrade and SGTraDex sign MoU</strong>
-</p>
+<h4>Collaboration bridges digital trade platforms: AEOTrade and SGTraDex sign MoU</h4>
 <p>As Singapore’s digital infrastructure for supply chain data, SGTraDex
 enables trusted and structured cross-border data exchange, enhancing traceability,
 transparency, and confidence in trade. This successful collaboration demonstrated
@@ -101,7 +99,12 @@ digital trade scenarios. These efforts will engage more countries, regions,
 industries, and business types, inviting participation from cargo owners,
 financial institutions, logistics providers, and other stakeholders to
 jointly advance the digital transformation of global trade and financial
-services, injecting new momentum into the sector.</p>
+services, injecting new momentum into the sector.&nbsp;</p>
+<hr>
+<p>Alphabetical order for mention of DBS and UOB</p>
+<p>“Platforms” is inaccurate, prefer “infrastructures” , in-line with what’s
+published on aeotrade website</p>
+<p>To Shawdia: Understood that the term “pilot” was sensitive?</p>
 <p></p>
 <p></p>
 <p>This press release was published by Beijing Two-Zone Office.</p>
