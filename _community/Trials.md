@@ -230,8 +230,8 @@ Finance and Cargo Release use cases.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimax (Beijing) Fire Fighting System Co.,Ltd.</p>
-<p>Pacific International Lines
+<p>Minimax (Beijing) Fire Fighting System Co.,Ltd.
+<br>Pacific International Lines
 <br>AEOTrade</p>
 <p></p>
 </td>
