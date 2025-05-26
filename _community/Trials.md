@@ -250,7 +250,7 @@ Finance and Cargo Release use cases.</p>
 <br>Bank of China
 <br>Industrial and Commercial Bank of China
 <br>Singapore’s DBS
-<br>United Overseas Bank (UOB)
+<br>United Overseas Bank
 <br>Pacific International Lines
 <br>AEOTrade
 <br>SGTraDex
