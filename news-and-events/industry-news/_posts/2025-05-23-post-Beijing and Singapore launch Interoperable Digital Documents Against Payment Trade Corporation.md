@@ -13,17 +13,16 @@ variant: tiptap
 China (Beijing) Pilot Free Trade Zone and the Integrated National Demonstration
 Zone for Opening Up the Services Sector (referred to as the “Beijing Two-Zone
 Office”) and Singapore’s Infocomm Media Development Authority (IMDA), the
-world’s first project on <strong>interoperable digital Documents against Payment</strong> (D/P)
-for paperless live trades was concluded successfully on 9 April 2025. This
-milestone follows the signing of the Memorandum of Understanding (MoU)
-on International Information Industry and Digital Trade Harbour Cooperation
-by the Beijing Municipal Commerce Bureau (Beijing Two-Zone Office) and
-IMDA in December 2023. Guided by the Beijing Two-Zone Office and executed
-by the Beijing Borui Opening-Up Policy Research Institute, this project
-marks another achievement in Beijing-Singapore digital economy collaboration,
-introducing a novel interoperable trade finance model for international
-trade and financial services, paving the way for business-as-usual digital
-operations.&nbsp;</p>
+world’s first project on<strong> interoperable digital Documents against Payment (D/P)</strong>  <strong>for paperless live trades</strong> was
+concluded successfully on 9 April 2025. This milestone follows the signing
+of the Memorandum of Understanding (MoU) on International Information Industry
+and Digital Trade Harbour Cooperation by the Beijing Municipal Commerce
+Bureau (Beijing Two-Zone Office) and IMDA in December 2023. Guided by the
+Beijing Two-Zone Office and executed by the Beijing Borui Opening-Up Policy
+Research Institute, this project marks another achievement in Beijing-Singapore
+digital economy collaboration, introducing a novel interoperable trade
+finance model for international trade and financial services, paving the
+way for business-as-usual digital operations.&nbsp;</p>
 <p>It was jointly executed by <strong>COFCO Industrial Food</strong> (also
 known as China Processed Food) and <strong>Yit Hong Pte Ltd</strong> in Singapore,
 utilising the B2B cross-border e-commerce model (China Customs Code: 9710)
@@ -35,7 +34,7 @@ as collecting banks, to support D/P transaction using electronic Bill of
 Lading (eBL).&nbsp;</p>
 <p>The project achieved cross-chain interoperability between different underlying
 blockchains (<strong>ChainMaker </strong>and <strong>Astron</strong>) and
-digital trade infrastructure (<strong>AEOTrade</strong> and <strong>SGTraDex</strong>),
+digital trade infrastructures (<strong>AEOTrade</strong> and <strong>SGTraDex</strong>),
 enabling secure and efficient eBL and other trade documents exchange that
 offer authentication, traceability of origin, and ownership transfers among
 carriers, cargo owners, banks, and other stakeholders. The eBL, serving
@@ -71,7 +70,14 @@ digital trade collaborations in October 2023 (with PIL as the carrier)
 and May 2024 (with Maersk as the carrier), utilising telegraphic transfer
 (T/T) payments. These successful pilots laid a solid foundation for the
 current digital D/P implementation, expanding interoperable trade financing
-process in international trade finance.&nbsp;</p>
+process in international trade finance.</p>
+<p>Moving forward, the Beijing Two-Zone Office and IMDA will leverage the
+“AEOTradeChain+TradeTrust” framework to explore broader end-to-end interoperable
+digital trade scenarios. These efforts will engage more countries, regions,
+industries, and business types, inviting participation from cargo owners,
+financial institutions, logistics providers, and other stakeholders to
+jointly advance the digital transformation of global trade and financial
+services, injecting new momentum into the sector.</p>
 <h4>Collaboration bridges digital trade platforms: AEOTrade and SGTraDex sign MoU</h4>
 <p>As Singapore’s digital infrastructure for supply chain data, SGTraDex
 enables trusted and structured cross-border data exchange, enhancing traceability,
@@ -83,11 +89,4 @@ to support digital documents, such as eBLs, to enhance connectivity between
 the China and Singapore’s trade ecosystems. These include aligning strategic
 plans, conducting joint feasibility studies, and ensuring compliance with
 applicable regulations.</p>
-<p>Moving forward, the Beijing Two-Zone Office and IMDA will leverage the
-“AEOTradeChain+TradeTrust” framework to explore broader end-to-end interoperable
-digital trade scenarios. These efforts will engage more countries, regions,
-industries, and business types, inviting participation from cargo owners,
-financial institutions, logistics providers, and other stakeholders to
-jointly advance the digital transformation of global trade and financial
-services, injecting new momentum into the sector.&nbsp;</p>
 <p>This press release was published by Beijing Two-Zone Office.</p>
