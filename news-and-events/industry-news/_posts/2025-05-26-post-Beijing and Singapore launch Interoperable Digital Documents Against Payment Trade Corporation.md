@@ -84,9 +84,14 @@ enables trusted and structured cross-border data exchange, enhancing traceabilit
 transparency, and confidence in trade. This successful collaboration demonstrated
 the transformative potential of interoperable digital ecosystems, culminating
 in the signing of a MoU with AEOTrade. As part of the MoU, both parties
-will explore opportunities to integrate their infrastructure and solutions
-to support digital documents, such as eBLs, to enhance connectivity between
+will e</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Trade Financing solution" src="/images/Graphics /Yithong_Cofco_Transaction.jpg">
+</div>
+<p>xplore opportunities to integrate their infrastructure and solutions to
+support digital documents, such as eBLs, to enhance connectivity between
 the China and Singapore’s trade ecosystems. These include aligning strategic
 plans, conducting joint feasibility studies, and ensuring compliance with
 applicable regulations.</p>
+<p></p>
 <p>This press release was published by Beijing Two-Zone Office.</p>
