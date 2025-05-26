@@ -241,14 +241,24 @@ Finance and Cargo Release use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/" rel="noopener nofollow" target="_blank">China (Xiamen) -  Singapore</a>
+<p><a href="/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/" rel="noopener nofollow" target="_blank">China (Xiamen) - Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>COFCO International (Beijing)
+<br>YitHong Pte Ltd
+<br>Bank of China
+<br>Industrial and Commercial Bank of China
+<br>Singapore’s DBS
+<br>United Overseas Bank (UOB)
+<br>Pacific International Lines
+<br>AEOTrade
+<br>SGTraDex
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bill of Lading</p>
 </td>
 </tr>
 </tbody>
