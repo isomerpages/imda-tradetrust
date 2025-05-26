@@ -64,7 +64,8 @@ trade ecosystem, while also <strong>addressing the scalability challenges of clo
 UOB also recognised from this project that the digital issuance, transfer
 and endorsement of a TradeTrust-enabled eBL allowed banks to <strong>efficiently establish the authenticity of a BL</strong>  <strong>without a separate validation process</strong>.
 When scaled, this can help to <strong>mitigate risk of trade finance fraud</strong> and <strong>strengthen confidence</strong> in
-cross-border trade finance.
+cross-border trade finance.</p>
+<p>
 <br>Prior to this, COFCO and Yit Hong had implemented end-to-end interoperable
 digital trade collaborations in October 2023 (with PIL as the carrier)
 and May 2024 (with Maersk as the carrier), utilising telegraphic transfer
