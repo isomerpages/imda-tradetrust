@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h3>Together Toward a Digital Trade Future</h3>
-<p>We came together at<strong> TradeTrust Appreciation Day 2025 </strong>to
+<p>We gathered together on 11th March 2025 for the<strong> TradeTrust Appreciation Day 2025 </strong>to
 celebrate the strides we’ve made in trade digitalisation. From insightful
 conversations to renewed connections, it was truly a pleasure to engage
 with our ecosystem of partners, stakeholders, and supporters in person.</p>
