@@ -2,7 +2,7 @@
 title: Beijing and Singapore launch Interoperable Digital Documents Against
   Payment Trade Corporation
 permalink: /beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
-date: 2025-05-26
+date: 2025-05-27
 layout: post
 description: digital trade solution
 image: ""
