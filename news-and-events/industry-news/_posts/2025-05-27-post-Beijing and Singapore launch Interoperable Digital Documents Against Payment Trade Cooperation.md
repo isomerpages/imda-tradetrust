@@ -1,6 +1,6 @@
 ---
 title: Beijing and Singapore launch Interoperable Digital Documents Against
-  Payment Trade Corporation
+  Payment Trade Cooperation
 permalink: /beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
 date: 2025-05-27
 layout: post
@@ -91,9 +91,7 @@ plans, conducting joint feasibility studies, and ensuring compliance with
 applicable regulations.</p>
 <p><u>Transactional Flowchart of Processes</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Document against payment solution" src="/images/Graphics /Yithong_Cofco_Transaction_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Trade finance solution" src="/images/Graphics /Yithong_Cofco_Transaction.jpg">
 </div>
-<p></p>
 <p>This press release was published by Beijing Two-Zone Office.</p>
