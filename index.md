@@ -101,7 +101,7 @@ sections:
         interoperability for trade digitalisation.
       button: Watch now
       url: https://www.tradetrust.io/tradetrust-podcast/
-      image: /images/TradeTrustPodcast_tro_Logo.jpg
+      image: /images/Graphics /TradeTrust_podcast_GIF__with_name_.gif
       alt: Podcast 1
   - textcards:
       title: Ready to Transform the way you Trade?
