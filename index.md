@@ -122,15 +122,21 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Stay Informed: The Latest from TradeTrust"
+          date: 28 May 2025
+          announcement: TradeTrust Newsletter May Issue
+          link_text: More
+          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
         - title: Singapore-Beijing Digital Trade Payment Partnership
           date: 27 May 2025
           announcement: Beijing and Singapore launch Interoperable Digital Documents
             Against Payment Trade Cooperation
           link_text: More
           link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
-        - title: "Stay Informed: The Latest from TradeTrust"
-          date: 28 May 2025
-          announcement: TradeTrust Newsletter May Issue
+        - title: Digitalization of Container Trade
+          date: 02 June 2025
+          announcement: CMA CGM and Partners Ink Memorandum of Understanding to Advance
+            Blockchain-enabled Interoperability of Electronic Bill of Lading
           link_text: More
-          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
+          link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
 ---
