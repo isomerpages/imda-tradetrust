@@ -128,4 +128,9 @@ sections:
             Against Payment Trade Cooperation
           link_text: More
           link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
+        - title: "Stay Informed: The Latest from TradeTrust"
+          date: 28 May 2025
+          announcement: TradeTrust Newsletter May Issue
+          link_text: More
+          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
 ---
