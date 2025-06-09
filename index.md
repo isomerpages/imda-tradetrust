@@ -118,4 +118,14 @@ sections:
           description: Join us to become a TradeTrust-ready partner
           linktext: Sign up
           url: https://form.gov.sg/63b7e833df5f2900128cdbb6
+  - announcements:
+      title: Latest Happenings
+      id: announcements
+      announcement_items:
+        - title: Singapore-Beijing Digital Trade Payment Partnership
+          date: 27 May 2025
+          announcement: Beijing and Singapore launch Interoperable Digital Documents
+            Against Payment Trade Cooperation
+          link_text: More
+          link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
 ---
