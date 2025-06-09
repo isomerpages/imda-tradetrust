@@ -47,9 +47,12 @@ sections:
             platforms.
           link_text: More
           link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
-        - title: "Stay Informed: The Latest from TradeTrust"
+        - title: "Stay Informed: The Latest from TradeTrust Newsletter May Issue"
           date: 28 May 2025
-          announcement: TradeTrust Newsletter May Issue
+          announcement: This issue highlights several key developments and events in the
+            digital transformation of global supply chains and TradeTrust's
+            Appreciation Day 2025, which discussed the importance of secure,
+            legally recognized digital trade soultions.
           link_text: More
           link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
         - title: Singapore-Beijing Digital Trade Financing Partnership
