@@ -33,6 +33,30 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+  - announcements:
+      title: Latest Happenings
+      id: announcements
+      announcement_items:
+        - title: Digitalization of Container Trade
+          date: 02 June 2025
+          announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
+            Understanding to Advance Blockchain-enabled Interoperability of
+            Electronic Bill of Lading with TradeTrust framework
+          link_text: More
+          link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
+        - title: "Stay Informed: The Latest from TradeTrust"
+          date: 28 May 2025
+          announcement: TradeTrust Newsletter May Issue
+          link_text: More
+          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
+        - title: Singapore-Beijing Digital Trade Financing Partnership
+          date: 27 May 2025
+          announcement: Beijing Two-Zone Office and Singapore’s Infocomm Media Development
+            Authority Launch World’s First Interoperable Digital Documents
+            against Payment Cooperation, Empowering Global Trade and Financial
+            Services with End-to-End Digitalisation
+          link_text: More
+          link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
@@ -118,28 +142,4 @@ sections:
           description: Join us to become a TradeTrust-ready partner
           linktext: Sign up
           url: https://form.gov.sg/63b7e833df5f2900128cdbb6
-  - announcements:
-      title: Latest Happenings
-      id: announcements
-      announcement_items:
-        - title: Digitalization of Container Trade
-          date: 02 June 2025
-          announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
-            Understanding to Advance Blockchain-enabled Interoperability of
-            Electronic Bill of Lading with TradeTrust framework
-          link_text: More
-          link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
-        - title: "Stay Informed: The Latest from TradeTrust"
-          date: 28 May 2025
-          announcement: TradeTrust Newsletter May Issue
-          link_text: More
-          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
-        - title: Singapore-Beijing Digital Trade Financing Partnership
-          date: 27 May 2025
-          announcement: Beijing Two-Zone Office and Singapore’s Infocomm Media Development
-            Authority Launch World’s First Interoperable Digital Documents
-            against Payment Cooperation, Empowering Global Trade and Financial
-            Services with End-to-End Digitalisation
-          link_text: More
-          link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
 ---
