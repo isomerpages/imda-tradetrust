@@ -133,7 +133,7 @@ sections:
           announcement: TradeTrust Newsletter May Issue
           link_text: More
           link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
-        - title: Singapore-Beijing Digital Trade Payment Partnership
+        - title: Singapore-Beijing Digital Trade Financing Partnership
           date: 27 May 2025
           announcement: Beijing and Singapore launch Interoperable Digital Documents
             Against Payment Trade Cooperation
