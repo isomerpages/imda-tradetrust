@@ -51,7 +51,7 @@ sections:
           announcement: This issue highlights several key developments and events in the
             digital transformation of global supply chains and TradeTrust's
             Appreciation Day 2025, which discussed the importance of secure,
-            legally recognized digital trade soultions.
+            legally recognized digital trade solutions.
           link_text: More
           link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
         - title: Singapore-Beijing Digital Trade Financing Partnership
