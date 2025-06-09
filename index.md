@@ -124,8 +124,9 @@ sections:
       announcement_items:
         - title: Digitalization of Container Trade
           date: 02 June 2025
-          announcement: CMA CGM and Partners Ink Memorandum of Understanding to Advance
-            Blockchain-enabled Interoperability of Electronic Bill of Lading
+          announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
+            Understanding to Advance Blockchain-enabled Interoperability of
+            Electronic Bill of Lading with TradeTrust framework
           link_text: More
           link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
         - title: "Stay Informed: The Latest from TradeTrust"
