@@ -42,8 +42,8 @@ sections:
           date: 02 June 2025
           announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
             Understanding to Advance Blockchain-enabled Interoperability of
-            Electronic Bill of Lading using TradeTrust framework, focusing on
-            technical, legal and business feasibility.
+            Electronic Bill of Lading using TradeTrust Framework, Focusing on
+            Technical, Legal and Business Feasibility.
           link_text: More
           link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
         - title: "Stay Informed: The Latest from TradeTrust Newsletter May Issue"
