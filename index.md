@@ -135,8 +135,10 @@ sections:
           link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
         - title: Singapore-Beijing Digital Trade Financing Partnership
           date: 27 May 2025
-          announcement: Beijing and Singapore launch Interoperable Digital Documents
-            Against Payment Trade Cooperation
+          announcement: Beijing Two-Zone Office and Singapore’s Infocomm Media Development
+            Authority Launch World’s First Interoperable Digital Documents
+            against Payment Cooperation, Empowering Global Trade and Financial
+            Services with End-to-End Digitalisation
           link_text: More
           link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
 ---
