@@ -37,7 +37,8 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
-        - title: Digitalization of Container Trade
+        - title: CMA CGM and 4 partners sign MOU aims to accelerate the digitalization of
+            container trade.
           date: 02 June 2025
           announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
             Understanding to Advance Blockchain-enabled Interoperability of
