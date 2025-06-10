@@ -33,6 +33,35 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+  - announcements:
+      title: Latest Happenings
+      id: announcements
+      announcement_items:
+        - title: CMA CGM and 4 partners sign MOU aims to accelerate the digitalization of
+            container trade
+          date: 02 June 2025
+          announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
+            Understanding to Advance Blockchain-enabled Interoperability of
+            Electronic Bill of Lading using TradeTrust Framework, Focusing on
+            Technical, Legal and Business Feasibility.
+          link_text: More
+          link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
+        - title: "Stay Informed: The Latest from TradeTrust Newsletter May Issue"
+          date: 28 May 2025
+          announcement: This issue highlights several key developments and events in the
+            digital transformation of global supply chains and TradeTrust's
+            Appreciation Day 2025, which discussed the importance of secure,
+            legally recognized digital trade solutions.
+          link_text: More
+          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
+        - title: Singapore-Beijing Digital Trade Financing Partnership
+          date: 27 May 2025
+          announcement: Beijing Two-Zone Office and Singapore’s Infocomm Media Development
+            Authority Launch World’s First Interoperable Digital Documents
+            against Payment Cooperation, Empowering Global Trade and Financial
+            Services with End-to-End Digitalisation.
+          link_text: More
+          link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
@@ -101,7 +130,7 @@ sections:
         interoperability for trade digitalisation.
       button: Watch now
       url: https://www.tradetrust.io/tradetrust-podcast/
-      image: /images/TradeTrustPodcast_tro_Logo.jpg
+      image: /images/Graphics /TradeTrust_podcast_GIF__with_name__2.gif
       alt: Podcast 1
   - textcards:
       title: Ready to Transform the way you Trade?
