@@ -54,14 +54,14 @@ sections:
             legally recognized digital trade solutions.
           link_text: More
           link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
-        - title: Singapore-Beijing Digital Trade Financing Partnership
-          date: 27 May 2025
-          announcement: Beijing Two-Zone Office and Singapore’s Infocomm Media Development
-            Authority Launch World’s First Interoperable Digital Documents
-            against Payment Cooperation, Empowering Global Trade and Financial
-            Services with End-to-End Digitalisation.
+        - title: TradeTrust Accepted into UN-Endorsed Digital Public Goods Registry
+          date: 12 June 2025
+          announcement: TradeTrust is now listed in the UN-endorsed Digital Public Goods
+            Registry by the DPGA. This recognition affirms its role as a
+            trusted, open-source framework supporting secure, cross-border trade
+            digitalisation and sustainable global development.
           link_text: More
-          link_url: https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/
+          link_url: https://www.digitalpublicgoods.net/r/trade-trust
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
