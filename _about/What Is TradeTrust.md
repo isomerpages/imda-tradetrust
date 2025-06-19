@@ -21,8 +21,14 @@ issued this way can be trusted, interoperable, and legally effective across
 different systems, thereby streamlining and enhancing overall operational
 efficiency for businesses and governments.</p>
 <p>And offered as a<strong> digital utility </strong>(similar to digital
-public infrastructure), it is open-sourced so that all parties can freely
+public infrastructure), is open-sourced so that all parties can freely
 adopt and build upon it to benefit their business ecosystem.</p>
+<p>In recognition of this commitment to openness and global impact, TradeTrust
+has been officially listed in the <a href="https://www.digitalpublicgoods.net/registry" rel="noopener nofollow" target="_blank">Digital Public Goods Registry</a> by
+the <a href="https://www.digitalpublicgoods.net/who-we-are" rel="noopener nofollow" target="_blank">Digital Public Goods Alliance</a>.</p>
+<a class="isomer-image-wrapper" href="https://www.digitalpublicgoods.net/r/trade-trust">
+<img style="width: 20%;" height="auto" width="100%" alt="TradeTrust accepted into DPGA’s Digital Public Good (DPG) Registry" src="/images/Graphics /DPG_Badge__Turquoise___Dark_Blue_.png">
+</a>
 <blockquote>
 <p>It’s like providing you with both a free tool and the supporting structure,
 to turn your documents into smart electronic documents that are portable
@@ -44,7 +50,6 @@ meeting international standards and legal requirements.</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p>To enjoy all the capabilities of TradeTrust from the convenience of the
 system you are familiar with, you can just integrate TradeTrust into your
 existing IT system. Alternatively, outsource or subscribe to the services
