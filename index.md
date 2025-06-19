@@ -37,6 +37,14 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: TradeTrust Accepted into UN-Endorsed Digital Public Goods Registry
+          date: 12 June 2025
+          announcement: TradeTrust has been recognised as a Digital Public Good by the
+            UN-endorsed DPGA. As an open-source digital tool, it enables secure,
+            paperless, and interoperable trade documentation for cross-border
+            digital trade and trusted global trade platforms.
+          link_text: More
+          link_url: https://www.digitalpublicgoods.net/r/trade-trust
         - title: CMA CGM and 4 partners sign MOU aims to accelerate the digitalization of
             container trade
           date: 02 June 2025
@@ -54,14 +62,6 @@ sections:
             legally recognized digital trade solutions.
           link_text: More
           link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
-        - title: TradeTrust Accepted into UN-Endorsed Digital Public Goods Registry
-          date: 12 June 2025
-          announcement: TradeTrust has been recognised as a Digital Public Good by the
-            UN-endorsed DPGA. As an open-source digital tool, it enables secure,
-            paperless, and interoperable trade documentation for cross-border
-            digital trade and trusted global trade platforms.
-          link_text: More
-          link_url: https://www.digitalpublicgoods.net/r/trade-trust
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
