@@ -22,11 +22,13 @@ different systems, thereby streamlining and enhancing overall operational
 efficiency for businesses and governments.</p>
 <p>And offered as a<strong> digital utility </strong>(similar to digital
 public infrastructure), is open-sourced so that all parties can freely
-adopt and build upon it to benefit their business ecosystem. In recognition
-of this commitment to openness and global impact, TradeTrust has been officially
-listed in the <a href="https://www.digitalpublicgoods.net/r/trade-trust" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Registry</u></a> by
+adopt and build upon it to benefit their business ecosystem.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="TradeTrust accepted into DPGA’s Digital Public Good (DPG) Registry" src="/images/Graphics /DPG_Badge__Turquoise___Dark_Blue_.png">
+</div>
+<p>In recognition of this commitment to openness and global impact, TradeTrust
+has been officially listed in the <a href="https://www.digitalpublicgoods.net/r/trade-trust" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Registry</u></a> by
 the <a href="https://www.digitalpublicgoods.net/who-we-are" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Alliance</u></a>.</p>
-<p></p>
 <blockquote>
 <p>It’s like providing you with both a free tool and the supporting structure,
 to turn your documents into smart electronic documents that are portable
