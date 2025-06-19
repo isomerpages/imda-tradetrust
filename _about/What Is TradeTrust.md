@@ -27,8 +27,8 @@ adopt and build upon it to benefit their business ecosystem.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="TradeTrust accepted into DPGA’s Digital Public Good (DPG) Registry" src="/images/Graphics /DPG_Badge__Turquoise___Dark_Blue_.png">
 </div>
 <p>In recognition of this commitment to openness and global impact, TradeTrust
-has been officially listed in the <a href="https://www.digitalpublicgoods.net/r/trade-trust" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Registry</u></a> by
-the <a href="https://www.digitalpublicgoods.net/who-we-are" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Alliance</u></a>.</p>
+has been officially listed in the Digital Public Goods Registry by the
+Digital Public Goods Alliance.</p>
 <blockquote>
 <p>It’s like providing you with both a free tool and the supporting structure,
 to turn your documents into smart electronic documents that are portable
