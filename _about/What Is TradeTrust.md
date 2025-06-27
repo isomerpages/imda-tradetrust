@@ -11,7 +11,7 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 journey.</p>
 <p><strong>TradeTrust is a framework that standardises digital trade with enhanced security and legal certainty for the international trade ecosystem. </strong>It
 allows trading partners to <strong>create,</strong>  <strong>exchange</strong>, <strong>verify digitised documents</strong>,
-and <strong>transfer ownership</strong> for title documents across different
+and <strong>transfer ownership</strong> of title documents across different
 digital platforms seamlessly.</p>
 <p></p>
 <p>It achieves this by using blockchain and cryptographic technologies, adhering
@@ -20,9 +20,9 @@ of electronic trade documents across digital platforms. Electronic documents
 issued this way can be trusted, interoperable, and legally effective across
 different systems, thereby streamlining and enhancing overall operational
 efficiency for businesses and governments.</p>
-<p>And offered as a<strong> digital utility </strong>(similar to digital
-public infrastructure), is open-sourced so that all parties can freely
-adopt and build upon it to benefit their business ecosystem.</p>
+<p>Offered as a<strong> digital utility </strong>(similar to digital public
+infrastructure), it is open-sourced so that all parties can freely adopt
+and build upon it to benefit their business ecosystem.</p>
 <p>In recognition of this commitment to openness and global impact, TradeTrust
 has been officially listed in the <a href="https://www.digitalpublicgoods.net/registry" rel="noopener nofollow" target="_blank">Digital Public Goods Registry</a> by
 the <a href="https://www.digitalpublicgoods.net/who-we-are" rel="noopener nofollow" target="_blank">Digital Public Goods Alliance</a>.</p>
@@ -35,7 +35,7 @@ to turn your documents into smart electronic documents that are portable
 across your trading partners, with enhanced security features, all while
 meeting international standards and legal requirements.</p>
 </blockquote>
-<p>By adopting TradeTrust, users can independently :</p>
+<p>By adopting TradeTrust, users can independently:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>issue and revoke electronic documents</strong>
@@ -58,12 +58,12 @@ This flexibility allows you and your trading partners to choose your preferred
 TradeTrust-enabled system, eliminating the need for all parties to use
 a common digital platform and contractual rulebook, thus facilitating easy
 scalability of adoption.</p>
-<p>And to verify documents received, only an internet access is required.</p>
+<p>And to verify documents received, only internet access is required.</p>
 <p>Having your documents and instruments available in electronic form can
 greatly benefit you by improving the speed and security of your transactions,
 allowing you to reuse data, and automating certain transactions. This makes
 trading more efficient and convenient for you and your trading partners
-while reducing the risk of fraud. Find <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">companies</a> which have experienced TradeTrust.</p>
+while reducing the risk of fraud. Discover <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">companies</a> that have experienced TradeTrust.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-YD21elPXxs?si=SiP7FweDc7l28yxW?enablejsapi=1"></iframe>
 </div>
