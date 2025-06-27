@@ -13,15 +13,15 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 </p>
 </li>
 <li>
-<p>No semantic/data format and standard restrictions&nbsp;such as Digital
+<p>No restrictions on semantics/data formats and standard&nbsp;such as Digital
 Container Shipping Association (DCSA) and BIMCO and works with any of your
 existing transmission protocols like email, FTP etc</p>
 </li>
 <li>
-<p>Best practices enable scalability and cross-platform interoperability
-so you and your trading partners are free to choose your preferred TradeTrust-enabled
-system (no need for all parties to use a common digital platform and contractual
-rulebook) in a decentralised approach</p>
+<p>Best practices enable scalability and cross-platform interoperability,
+allowing you and your trading partners to choose your preferred TradeTrust-enabled
+system - without requiring all parties to use a common digital platform
+or contractual rulebook - through a decentralised approach.</p>
 </li>
 </ul>
 <h4><strong>Save Time &amp; Money</strong></h4>
@@ -64,8 +64,8 @@ Learn more in the <a href="/about/legality-guide/" rel="noopener noreferrer nofo
 <h4><strong>Reliability</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Security assessment completed by third party - Ernst &amp; Young, to ensure
-the reliability and trustworthiness of the TradeTrust framework</p>
+<p>Security assessment completed by a third party - Ernst &amp; Young, to
+ensure the reliability and trustworthiness of the TradeTrust framework</p>
 </li>
 <li>
 <p>A proven solution demonstrated through over 30 successful <a href="/community/trials/" rel="noopener noreferrer nofollow" target="_blank">trials</a> and
@@ -107,7 +107,7 @@ Prize 2023.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SDG Digital Game Changers Award Runner-up 2023" src="/images/Graphics /Awards_UNSDG.png">
+<img style="width: 100%" height="auto" width="100%" alt="SDG Digital Game Changers Award - Runner-up 2023" src="/images/Graphics /Awards_UNSDG.png">
 </div>
 </div>
 <div class="isomer-card-body">
