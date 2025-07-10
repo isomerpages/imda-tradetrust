@@ -241,18 +241,6 @@ the commodity trading supply chain.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trames" src="/images/Partner Logos/Trames_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trames</div><div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers complete control and visibility of global freight operations. Users can leverage Trames for freight visibility, workflow orchestration, spend management, and more.</div><div class="isomer-card-link">more ...</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VeriTAG" src="/images/Partner Logos/VeriTag_logo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">VeriTAG</div>
-<div class="isomer-card-description">Tracks and traces food and arts using patented dual QR tags, blockchain
-and NFT technology, supported by document security using TradeTrust.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade finance industry. It offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://zenithblox.network/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -268,6 +256,18 @@ needs.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VeriTAG" src="/images/Partner Logos/VeriTag_logo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">VeriTAG</div>
+<div class="isomer-card-description">Tracks and traces food and arts using patented dual QR tags, blockchain
+and NFT technology, supported by document security using TradeTrust.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade finance industry. It offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
 </div>
 <p></p>
 <blockquote>
