@@ -253,6 +253,21 @@ the commodity trading supply chain.</div>
 and NFT technology, supported by document security using TradeTrust.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade finance industry. It offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://zenithblox.network/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Zenithblox" src="/images/Partner Logos/Zenithblox_logo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Universal Adapter by Zenithblox</div>
+<div class="isomer-card-description">A no-code blockchain platform, it simplifies enterprise adoption through
+Universal Adapter with TradeTrust integration, enabling secure digital
+trade document exchange while addressing integration, regulatory, and governance
+needs.</div>
+<div class="isomer-card-link">more...</div>
+</div>
+</a>
 </div>
 <p></p>
 <blockquote>
