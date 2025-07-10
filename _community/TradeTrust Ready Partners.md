@@ -244,7 +244,7 @@ the commodity trading supply chain.</div>
 <a rel="noopener noreferrer nofollow" href="https://zenithblox.network/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zenithblox" src="/images/Partner Logos/Zenithblox_logo_WB.png">
+<img style="width: 100%" height="auto" width="100%" alt="Zenithblox" src="/images/Partner Logos/Zenithblox_logo_png.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
