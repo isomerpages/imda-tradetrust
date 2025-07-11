@@ -33,7 +33,7 @@ ensuring efficient gas costs and a well-structured, robust codebase.</p>
 <p>Economically Secured</p>
 </li>
 <li>
-<p>Open-sourced</p>
+<p>Open-source</p>
 </li>
 </ul>
 <p></p>
