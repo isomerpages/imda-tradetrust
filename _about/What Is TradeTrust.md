@@ -21,7 +21,7 @@ issued this way can be trusted, interoperable, and legally effective across
 different systems, thereby streamlining and enhancing overall operational
 efficiency for businesses and governments.</p>
 <p>Offered as a<strong> digital utility </strong>(similar to digital public
-infrastructure), it is open-sourced so that all parties can freely adopt
+infrastructure), it is open-source so that all parties can freely adopt
 and build upon it to benefit their business ecosystem.</p>
 <p>In recognition of this commitment to openness and global impact, TradeTrust
 has been officially listed in the <a href="https://www.digitalpublicgoods.net/registry" rel="noopener nofollow" target="_blank">Digital Public Goods Registry</a> by
