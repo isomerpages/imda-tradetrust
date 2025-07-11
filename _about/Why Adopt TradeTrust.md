@@ -56,7 +56,7 @@ paperless</p>
 <li>
 <p>Adopting TradeTrust means following internationally recognised standards
 like the <a href="https://unece.org/trade/uncefact" rel="noopener noreferrer nofollow" target="_blank">UN/CEFACT</a>,
-<a href="https://www.w3.org/" rel="noopener noreferrer nofollow" target="_blank">W3C</a>verifiable credential, <a href="https://www.unescap.org/" rel="noopener noreferrer nofollow" target="_blank">UNESCAP</a> and UNCITRAL Model Law on Electronic
+<a href="https://www.w3.org/" rel="noopener noreferrer nofollow" target="_blank">W3C</a>Verifiable Credential, <a href="https://www.unescap.org/" rel="noopener noreferrer nofollow" target="_blank">UNESCAP</a> and UNCITRAL Model Law on Electronic
 Transferable Records (<a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>).
 Learn more in the <a href="/about/legality-guide/" rel="noopener noreferrer nofollow" target="_blank">legality guide</a>.</p>
 </li>
@@ -149,7 +149,7 @@ Technology in the Banking Sector, and Best Industry Champion 2024.</div>
 </div>
 <p></p>
 <blockquote>
-<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works?</a>
+<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works.</a>
 </p>
 </blockquote>
 <p></p>
