@@ -29,9 +29,9 @@ international trade safer, faster, easier, and more cost-effective.&nbsp;</p>
 everyone by providing a globally-harmonised and inclusive framework. TradeTrust
 achieves this by promoting trust, efficiency, and inclusivity in digital
 trade practices.</p>
-<p>Offered as a digital utility to all, TradeTrust is open-source so that
-all parties can easily adopt it for free and build upon it, benefiting
-business ecosystems.</p>
+<p>Offered as a <a href="https://www.imda.gov.sg/how-we-can-help/digital-utilities" rel="noopener nofollow" target="_blank">digital utility</a> to
+all, TradeTrust is open-source so that all parties can easily adopt it
+for free and build upon it, benefitting business ecosystems.</p>
 <blockquote>
 <p>Transform the way you trade - <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">subscribe</a> to our
 TradeTrust newsletter for exclusive insights.</p>

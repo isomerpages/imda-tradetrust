@@ -27,7 +27,7 @@ generation, multi-platform functionality, and multi-stakeholder collaboration
 with network-independent operations for uninterrupted bunkering.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://astron.bitfactory.cn/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ASTRON" src="/images/Partner Logos/ASTRON_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ASTRON</div><div class="isomer-card-description">A crypto-less public permissioned blockchain initiated by CAICT, with wide coverage in China, ASEAN countries and other regions. It supports the TradeTrust framework to facilitate the digitalization of trade documents such as eBLs.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://astron.bitfactory.cn/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ASTRON" src="/images/Partner Logos/ASTRON_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ASTRON</div><div class="isomer-card-description">A crypto-less public permissioned blockchain initiated by CAICT, with wide coverage in China, ASEAN countries and other regions. It supports the TradeTrust framework to facilitate the digitalisation of trade documents such as eBLs.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://autom-axis.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -133,7 +133,7 @@ in alignment with MLETR and ICC DSI guidelines.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">FilPass by FilPass Tamperproof Tech</div>
-<div class="isomer-card-description">Ensures that electronic trade documents are legally recognized, interoperable,
+<div class="isomer-card-description">Ensures that electronic trade documents are legally recognised, interoperable,
 and portable across digital platforms, allowing institutions to issue,
 verify, and transfer documents with enhanced security, streamlining operations
 and reducing fraud.</div>
@@ -241,6 +241,20 @@ the commodity trading supply chain.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.trames.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trames" src="/images/Partner Logos/Trames_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trames</div><div class="isomer-card-description">A comprehensive logistics management platform designed to give shippers complete control and visibility of global freight operations. Users can leverage Trames for freight visibility, workflow orchestration, spend management, and more.</div><div class="isomer-card-link">more ...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://zenithblox.network/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Zenithblox" src="/images/Partner Logos/Zenithblox_logo_png.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Universal Adapter by Zenithblox</div>
+<div class="isomer-card-description">A no/low-code blockchain platform that simplifies enterprise adoption
+through Universal Adapters and TradeTrust integration, enabling secure
+digital trade while addressing compliance and governance needs.</div>
+<div class="isomer-card-link">more...</div>
+</div>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

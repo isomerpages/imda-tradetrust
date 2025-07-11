@@ -32,8 +32,7 @@ Key participants included the <strong>Bank of China</strong> (BOC) and <strong>I
 as remitting banks, and <strong>Singapore’s DBS</strong> and&nbsp;<strong>United Overseas Bank </strong>(UOB)
 as collecting banks, to support D/P transaction using electronic Bill of
 Lading (eBL).&nbsp;</p>
-<p>The project achieved cross-chain interoperability between different underlying
-blockchains (<strong>ChainMaker </strong>and <strong>Astron</strong>) and
+<p>The project achieved cross-platforms interoperability between different
 digital trade infrastructures (<strong>AEOTrade</strong> and <strong>SGTraDex</strong>),
 enabling secure and efficient eBL and other trade documents exchange that
 offer authentication, traceability of origin, and ownership transfers among

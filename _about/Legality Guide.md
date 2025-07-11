@@ -35,7 +35,7 @@ use of those eBLs in their approval process.</p>
 <p>Beyond the purpose of obtaining IG’s insurance cover for TradeTrust-enabled
 eBLs, the Model Terms may also be used as a reference to facilitate alignment
 on key legal aspects for TradeTrust adopters such as interoperability,
-dispute resolution and governing law.</p>
+dispute resolution, and governing law.</p>
 <p><strong>What are the TradeTrust Model Terms?</strong>
 </p>
 <p>The Model Terms are structured in three parts:</p>
@@ -66,7 +66,7 @@ the Model Terms. &nbsp;</p>
 </p>
 <blockquote>
 <p>Download the <a href="/files/TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Model Terms</a> and
-<a href="/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Guidance Notes</a>. To access useful resources in the future, <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener nofollow" target="_blank">subscribe</a>to
+<a href="/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf" rel="noopener nofollow" target="_blank">Guidance Notes</a>. To access useful resources in the future, <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener nofollow" target="_blank">subscribe </a>to
 our mailing list.</p>
 </blockquote>
 <p></p>
@@ -89,11 +89,11 @@ like China to Singapore: As long as the TradeTrust-enabled electronic Bill
 of Lading (eBL) issued by the carrier is governed by a MLETR-compliant
 jurisdiction such as Singapore, that eBL will most likely be considered
 compliant to the MLETR as applied under Singapore law, and be treated as
-equivalent to a paper bill of lading. That is the same position with regards
+equivalent to a paper bill of lading. This is the same position with regards
 to express choice of law and jurisdiction as current law.</p>
 <p>Some other MLETR-compliant jurisdictions include<strong> </strong>the<strong> </strong>UK,
 France; New York and Delaware in the US; the Abu Dhabi Global Market in
-the United Arab Emirates, and <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">more</a>.</p>
+the United Arab Emirates; and <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">more</a>.</p>
 <p>IMDA engaged Stephenson Harwood LLP (in alliance with Virtus Law LLP),
 with input on US law aspects from Blank Rome LLP, to develop a TradeTrust
 Legality Guide. In it you will find:</p>
@@ -124,7 +124,7 @@ published the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/elect
 <p>You may refer to the <a href="https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records/status" rel="noopener noreferrer nofollow" target="_blank">list</a> of
 countries and territories whose legislation has been influenced by the
 MLETR and the principles on which it is based. It is recommended that professional
-advice be sought on the choice of governing law in regards to ETRs.</p>
+advice be sought on the choice of governing law in relation to ETRs.</p>
 <p>The adoption of TradeTrust would allow you to easily create and manage
 MLETR-compliant ETRs that satisfy relevant statutory laws, providing greater
 certainty to businesses and removing the barrier to end-to-end digital
