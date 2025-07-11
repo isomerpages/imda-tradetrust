@@ -249,10 +249,9 @@ the commodity trading supply chain.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Universal Adapter by Zenithblox</div>
-<div class="isomer-card-description">A no-code blockchain platform, it simplifies enterprise adoption through
-Universal Adapter with TradeTrust integration, enabling secure digital
-trade document exchange while addressing integration, regulatory, and governance
-needs.</div>
+<div class="isomer-card-description">A no/low-code blockchain platform that simplifies enterprise adoption
+through Universal Adapters and TradeTrust integration, enabling secure
+digital trade while addressing compliance and governance needs.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a>
