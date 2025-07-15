@@ -187,7 +187,4 @@ and the endorsement of eBL digitally.</p>
 <p>Wondering how to get started? <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a>.</p>
 </blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Verifiable Document Benefits for Importer" src="/images/Graphics /TT_Verifiable_Importer.jpg">
-</div>
 <p></p>
