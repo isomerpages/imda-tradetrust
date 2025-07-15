@@ -113,7 +113,7 @@ by any party independently with just an internet access or through automation.</
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CARRIERS</strong>
+<summary><strong>CARRIER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -166,7 +166,7 @@ and the endorsement of eBL digitally.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CARRIERS</strong>
+<summary><strong>CARRIER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
