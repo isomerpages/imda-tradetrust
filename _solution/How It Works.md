@@ -93,7 +93,7 @@ by any party independently with just an internet access or through automation.</
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CERT ISSUING/CHECKING AUTHORITY</strong>
+<summary><strong>CERT ISSUING/ CHECKING AUTHORITY</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
