@@ -100,9 +100,6 @@ by any party independently with just an internet access or through automation.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust improvements process flow for Cert Issuing or Checking Authority" src="/images/Graphics /TT_Verifiable_Authority.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_CA.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
