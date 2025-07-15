@@ -88,23 +88,17 @@ by any party independently with just an internet access or through automation.</
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Importers" src="/images/Graphics /TT_Verifiable_Importer.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Importer.png">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Verifiable Document Benefits for Importer" src="/images/Graphics /TT_Verifiable_Importer.jpg">
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CERT ISSUING/CHECKING AUTHORITY</strong>
+<summary><strong>CERT ISSUING/ CHECKING AUTHORITY</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust improvements process flow for Cert Issuing or Checking Authority" src="/images/Graphics /TT_Verifiable_Authority.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_CA.png">
 </div>
 </div>
 </details>
@@ -116,13 +110,10 @@ by any party independently with just an internet access or through automation.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Bankers" src="/images/Graphics /TT_Verifiable_Banker.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Banker.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CARRIERS</strong>
+<summary><strong>CARRIER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -175,7 +166,7 @@ and the endorsement of eBL digitally.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>CARRIERS</strong>
+<summary><strong>CARRIER</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -189,4 +180,5 @@ and the endorsement of eBL digitally.</p>
 <blockquote>
 <p>Wondering how to get started? <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Contact us</a>.</p>
 </blockquote>
+<p></p>
 <p></p>
