@@ -87,12 +87,6 @@ by any party independently with just an internet access or through automation.</
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust process flow improvements for Importers" src="/images/Graphics /TT_Verifiable_Importer.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CO_Importer.png">
-</div>
 </div>
 </details>
 <details class="isomer-details">
