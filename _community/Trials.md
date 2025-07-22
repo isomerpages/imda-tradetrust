@@ -370,7 +370,7 @@ more information and use cases.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=_-A-oOiFIYpcTj7Z"></iframe>
 </div>
-<p>Document Againt Payment Trade Financing Use Case Video</p>
+<p>Document Against Payment Trade Financing Use Case Video</p>
 <p></p>
 <p>The <strong>Singapore and India trial </strong>resulted in a reduction
 of the total trade finance lead time from <strong>25 to 30 working days</strong> when
