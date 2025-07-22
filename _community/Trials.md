@@ -222,7 +222,8 @@ Finance and Cargo Release use cases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bill of Lading
-<br>(shadow, live transaction)</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
