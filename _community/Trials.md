@@ -366,8 +366,12 @@ savings in the Bill of Lading (BL) documentation process from an average
 of <strong>six to 10 days when using a hardcopy, to less than 24 hours when using an electronic BL</strong>.</p>
 <p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange of trade documentation from</em><strong><em> 48 hours to just under a day</em></strong><em>–a huge benefit in terms of efficiency, security and interoperability across systems.”</em> said <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto.</strong>
 </p>
-<p>According to <strong>COFCO International,</strong> "<em>it is estimated that by promoting digital transformation of their shipping and two export processes, the </em><strong><em>document-processing efficiency </em></strong><em>of COFCO Industrial Food can be </em><strong><em>improved by over 80%</em></strong><em>, and the b</em><strong><em>usiness operation cost</em></strong><em> can be </em><strong><em>reduced by over 30%</em></strong><em>.</em>"</p>
-<p></p>
+<p>According to <strong>COFCO Industrial Food,</strong> "Traditional paper-based
+Document against Payment processes, the period from shipment to <strong>payment settlement typically took around 20 days, while digitisation slashed this to just five days</strong>, <strong>minimising delays</strong> in <strong>document processing and transfer </strong>while
+significantly <strong>improving capital turnover</strong> efficiency."</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=_-A-oOiFIYpcTj7Z"></iframe>
+</div>
 <p>The <strong>Singapore and India trial </strong>resulted in a reduction
 of the total trade finance lead time from <strong>25 to 30 working days</strong> when
 using paper-based documentation <strong>to only 10 working days </strong>with
