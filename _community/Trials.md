@@ -372,6 +372,7 @@ more information and use cases.</p>
 </div>
 <p>Document Against Payment Trade Financing Use Case Video</p>
 <p></p>
+<p></p>
 <p>The <strong>Singapore and India trial </strong>resulted in a reduction
 of the total trade finance lead time from <strong>25 to 30 working days</strong> when
 using paper-based documentation <strong>to only 10 working days </strong>with
@@ -382,6 +383,7 @@ and a<strong> reduction in the risk of fraud.</strong>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vbZMPAnQRhM?si=oyb_M6l0UWtEI42j?enablejsapi=1"></iframe>
 </div>
 <p>MTI TradeTrust Pilot Case Study Video</p>
+<p></p>
 <p>The<strong> Singapore and Netherlands trial</strong> saw significant time
 savings in the Bill of Lading (BL) documentation process from an average
 of <strong>six to 10 days when using a hardcopy, to less than 24 hours when using an electronic BL</strong>.</p>
