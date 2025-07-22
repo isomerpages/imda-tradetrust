@@ -221,7 +221,9 @@ Finance and Cargo Release use cases.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
+<p>Bill of Lading
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +260,9 @@ Finance and Cargo Release use cases.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bill of Lading</p>
+<p>Bill of Lading
+<br>
+</p>
 </td>
 </tr>
 </tbody>
@@ -361,12 +365,13 @@ Finance and Cargo Release use cases.</p>
 more information and use cases.</p>
 </blockquote>
 <h3>Proven Benefits</h3>
-<p>The<strong> Singapore and Netherlands trial</strong> saw significant time
-savings in the Bill of Lading (BL) documentation process from an average
-of <strong>six to 10 days when using a hardcopy, to less than 24 hours when using an electronic BL</strong>.</p>
-<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange of trade documentation from</em><strong><em> 48 hours to just under a day</em></strong><em>–a huge benefit in terms of efficiency, security and interoperability across systems.”</em> said <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto.</strong>
+<p>According to <strong>COFCO Industrial Food,</strong>  <em>"Traditional paper-based Document against Payment processes, the period from shipment to </em><strong><em>payment settlement typically took around 20 days, while digitisation slashed this to just five days</em></strong><em>, </em><strong><em>minimising delays</em></strong><em> in </em><strong><em>document processing and transfer </em></strong><em>while significantly </em><strong><em>improving capital turnover</em></strong><em> efficiency."</em>
 </p>
-<p>According to <strong>COFCO International,</strong> "<em>it is estimated that by promoting digital transformation of their shipping and two export processes, the </em><strong><em>document-processing efficiency </em></strong><em>of COFCO Industrial Food can be </em><strong><em>improved by over 80%</em></strong><em>, and the b</em><strong><em>usiness operation cost</em></strong><em> can be </em><strong><em>reduced by over 30%</em></strong><em>.</em>"</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=_-A-oOiFIYpcTj7Z"></iframe>
+</div>
+<p>Document Against Payment Trade Financing Use Case Video</p>
+<p></p>
 <p></p>
 <p>The <strong>Singapore and India trial </strong>resulted in a reduction
 of the total trade finance lead time from <strong>25 to 30 working days</strong> when
@@ -379,6 +384,11 @@ and a<strong> reduction in the risk of fraud.</strong>
 </div>
 <p>MTI TradeTrust Pilot Case Study Video</p>
 <p></p>
+<p>The<strong> Singapore and Netherlands trial</strong> saw significant time
+savings in the Bill of Lading (BL) documentation process from an average
+of <strong>six to 10 days when using a hardcopy, to less than 24 hours when using an electronic BL</strong>.</p>
+<p><em>“The successful application of blockchain technology in this trial has shown us the potential to considerably improve turnaround times for the exchange of trade documentation from</em><strong><em> 48 hours to just under a day</em></strong><em>–a huge benefit in terms of efficiency, security and interoperability across systems.”</em> said <strong>Alf Barrios,Chief Commercial Officer, Rio Tinto.</strong>
+</p>
 <blockquote>
 <p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">Join us</a> for
 proof of concept and adoption.</p>
