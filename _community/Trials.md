@@ -364,9 +364,8 @@ Finance and Cargo Release use cases.</p>
 more information and use cases.</p>
 </blockquote>
 <h3>Proven Benefits</h3>
-<p>According to <strong>COFCO Industrial Food,</strong> "Traditional paper-based
-Document against Payment processes, the period from shipment to <strong>payment settlement typically took around 20 days, while digitisation slashed this to just five days</strong>, <strong>minimising delays</strong> in <strong>document processing and transfer </strong>while
-significantly <strong>improving capital turnover</strong> efficiency."</p>
+<p>According to <strong>COFCO Industrial Food,</strong>  <em>"Traditional paper-based Document against Payment processes, the period from shipment to </em><strong><em>payment settlement typically took around 20 days, while digitisation slashed this to just five days</em></strong><em>, </em><strong><em>minimising delays</em></strong><em> in </em><strong><em>document processing and transfer </em></strong><em>while significantly </em><strong><em>improving capital turnover</em></strong><em> efficiency."</em>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=_-A-oOiFIYpcTj7Z"></iframe>
 </div>
