@@ -93,7 +93,7 @@ applicable regulations.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=z9GlWiNf_VvLIWr8"></iframe>
 </div>
 <p></p>
-<p>Transactional Flowchart of Processes</p>
+<p>Transactional Flowchart of Processes:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Trade finance solution" src="/images/Graphics /Yithong_Cofco_Transaction.jpg">
 </div>
