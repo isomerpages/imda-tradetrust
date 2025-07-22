@@ -88,7 +88,6 @@ to support digital documents, such as eBLs, to enhance connectivity between
 the China and Singapore’s trade ecosystems. These include aligning strategic
 plans, conducting joint feasibility studies, and ensuring compliance with
 applicable regulations.</p>
-<p></p>
 <p>Learn from participants' insights in this video:</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=z9GlWiNf_VvLIWr8"></iframe>
