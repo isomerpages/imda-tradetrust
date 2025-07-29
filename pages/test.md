@@ -25,7 +25,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="2">
 <blockquote>
-<p><strong>How has using TradeTrust changed the way you handle trade documentation, and what benefits have you seen in terms of transaction speed and transparency?</strong>
+<p><strong>GOOD has using TradeTrust changed the way you handle trade documentation, and what benefits have you seen in terms of transaction speed and transparency?</strong>
 </p>
 </blockquote>
 <p>"Using TradeTrust has significantly transformed the way we handle trade
