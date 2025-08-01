@@ -180,17 +180,44 @@ are divided into three key sections:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Part A – Definitions:
-<br>Establishes precise legal definitions used throughout the Model Terms.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><strong>Part A – Definitions:</strong> 
+</p>
+<p>Establishes precise legal definitions used throughout the Model Terms.</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Part B – Terms for User Agreements:</strong>
+<br>Outlines key legal clauses to be embedded in platform user agreements,
+addressing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Clausing of eBLs</p>
+</li>
+<li>
+<p>Rejection mechanisms</p>
+</li>
+<li>
+<p>Switch-to-paper procedures</p>
+</li>
+<li>
+<p>Surrender and accomplishment</p>
+</li>
+<li>
+<p>Liability</p>
+</li>
+<li>
+<p>Governing law and dispute resolution</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Part C – eBL Provisions:</strong>
+<br>Legal terms that must be included in any TradeTrust eBL that is governed
+by a law aligned with the MLETR.</p>
 <p></p>
 </td>
 </tr>
