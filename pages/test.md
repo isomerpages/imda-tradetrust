@@ -95,20 +95,6 @@ Model Terms and Guidance Notes. These resources are tailored primarily
 for TradeTrust eBL adopters such as Business Service Providers (BSPs) and
 System Owners, but the legal structure and principles can also be adapted
 to support other ETRs, including:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="4">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -142,6 +128,62 @@ to support other ETRs, including:</p>
 <img style="width: 100%" height="auto" width="100%" alt="Future instruments aligned with the Model Law on Electronic Transferable Records (MLETR)" src="/images/03_Article1_fullgraphic4.png">
 </div>
 </td>
+</tr>
+</tbody>
+</table>
+<h4><strong>How the Model Terms Help TradeTrust Adopters</strong></h4>
+<p>The TradeTrust Model Terms are more than just a legal reference. They
+can serve multiple strategic purposes for adopters:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IG P&amp;I Club Approvals" src="/images/03_Article1_graphic5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>IG P&amp;I Club Approvals:</strong>
+<br>The Model Terms may facilitate applications for eBL system approvals to
+the International Group of P&amp;I Clubs (IG), which requires clear legal
+T&amp;Cs for granting insurance cover on eBLs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Legal Alignment" src="/images/03_Article1_graphic6.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Legal Alignment:</strong>
+<br>They support alignment on key legal aspects such as interoperability,
+dispute resolution, and governing law—elements critical for cross-border
+trade processes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="4">
+<p></p>
+</th>
 </tr>
 </tbody>
 </table>
