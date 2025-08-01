@@ -425,7 +425,6 @@ tailored for the industry.</p>
 <tr>
 <th rowspan="2" colspan="1">
 <p>Tech Updates</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introducing Our New Document Gallery" src="/images/06_Article4.jpg">
 </div>
