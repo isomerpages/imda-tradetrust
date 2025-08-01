@@ -76,7 +76,7 @@ supply chain orchestration.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Credore</div>
+<div class="isomer-card-title">Credore (IG P&amp;I approved)</div>
 <div class="isomer-card-description">Provides cross-border trade with a paperless IT infrastructure, leveraging
 TradeTrust to issue MLETR-compliant electronic documents, ensuring verifiability
 and traceability for legal validity.</div>
