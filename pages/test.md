@@ -168,10 +168,28 @@ dispute resolution, and governing law—elements critical for cross-border
 trade processes.</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4><strong>Structure of the TradeTrust Model Terms</strong></h4>
+<p>TheEstablishes precise legal definitions used throughout the Model Terms.Terms
+are divided into three key sections:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Part A – Definitions:
+<br>Establishes precise legal definitions used throughout the Model Terms.</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
