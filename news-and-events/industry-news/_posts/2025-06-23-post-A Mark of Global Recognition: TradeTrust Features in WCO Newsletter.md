@@ -27,7 +27,7 @@ exploring legal harmonisation under the <a href="https://www.tradetrust.io/drivi
 <p>Fast forward to 2025, this latest WCO feature reflects just how far TradeTrust
 has come. No longer just a promising idea, TradeTrust has matured into
 a trusted digital infrastructure used in live, cross-border transactions
-— enabling both technical interoperability and legal enforceability of
+- enabling both technical interoperability and legal enforceability of
 digital trade documents such us electronic Bills of Lading (eBLs) and electronic
 Certificates of Origin (eCOs).</p>
 <h4>Key Takeaways from the Article:</h4>
