@@ -37,6 +37,25 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Scaling Digital Trade with Confidence: The Latest from TradeTrust
+            Newsletter June'25 Issue"
+          date: 31 July 2025
+          announcement: We’re scaling new heights in digital trade. In this issue, we
+            celebrate TradeTrust's recognition as a Digital Public Good,
+            highlight our WCO feature, spotlight new strides in eBL
+            interoperability, and unveil tech updates to make document handling
+            smarter and faster.
+          link_text: Read more
+          link_url: https://www.tradetrust.io/files/Newsletter/TradeTrust_Newsletter_July_2025.pdf
+        - title: "A Mark of Global Recognition: TradeTrust Features in WCO Newsletter"
+          date: 23 June 2025
+          announcement: From TradeTrust’s pilot initiatives to enabling live, cross-border
+            trade and finance transactions, the article – written for the
+            international Customs community – charts TradeTrust’s key milestones
+            and underscores its role in bridging legal and technical gaps in
+            digital trade documentation.
+          link_text: More
+          link_url: https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/a-mark-of-global-recognition-tradetrust-features-in-wco-newsletter/
         - title: TradeTrust Accepted into UN-Endorsed Digital Public Goods Registry
           date: 12 June 2025
           announcement: TradeTrust has been recognised as a Digital Public Good by the
@@ -45,23 +64,6 @@ sections:
             digital trade and trusted global trade platforms.
           link_text: More
           link_url: https://www.digitalpublicgoods.net/r/trade-trust
-        - title: CMA CGM and 4 partners sign MOU aims to accelerate the digitalization of
-            container trade
-          date: 02 June 2025
-          announcement: CMA CGM, CargoX, eTEU, ICE and SGTraDex Ink Memorandum of
-            Understanding to Advance Blockchain-enabled Interoperability of
-            Electronic Bill of Lading using TradeTrust Framework, Focusing on
-            Technical, Legal and Business Feasibility.
-          link_text: More
-          link_url: https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading
-        - title: "Stay Informed: The Latest from TradeTrust Newsletter May Issue"
-          date: 28 May 2025
-          announcement: This issue highlights several key developments and events in the
-            digital transformation of global supply chains and TradeTrust's
-            Appreciation Day 2025, which discussed the importance of secure,
-            legally recognized digital trade solutions.
-          link_text: More
-          link_url: https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
