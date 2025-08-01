@@ -55,7 +55,7 @@ sections:
             and underscores its role in bridging legal and technical gaps in
             digital trade documentation.
           link_text: More
-          link_url: https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/a-mark-of-global-recognition-tradetrust-features-in-wco-newsletter/
+          link_url: http://www.tradetrust.io/a-mark-of-global-recognition-tradetrust-features-in-wco-newsletter/
         - title: TradeTrust Accepted into UN-Endorsed Digital Public Goods Registry
           date: 12 June 2025
           announcement: TradeTrust has been recognised as a Digital Public Good by the
