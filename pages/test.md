@@ -40,10 +40,6 @@ our entire supply chain. This level of visibility also reduces the chances
 of errors, fraud, or disputes, making the entire trading process more reliable
 and transparent."</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <blockquote>
 <p><strong>What are the key factors that would encourage wider adoption of digital trade documents among traders?</strong>
 </p>
@@ -55,6 +51,11 @@ framework ensures trust and standardised processes. Since adoption is currently
 limited, educating and incentivising relevant parties is crucial, along
 with regulatory support and industry-wide initiatives that promote electronic
 alternatives to paper-based Bill of Ladings.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +88,6 @@ of Electronic Transferable Records (ETRs) such as electronic Bills of Lading
 (eBLs). The TradeTrust Model Terms serve as an essential complement to
 the technical framework, helping ensure the legal effectiveness of digital
 documents across jurisdictions.</p>
-<p></p>
 <h4><strong>Collaboration with Legal Experts</strong></h4>
 <p>IMDA engaged Watson Farley &amp; Williams LLP (WFW)—a global law firm
 with deep expertise in maritime and trade law—to develop the TradeTrust
@@ -99,6 +99,16 @@ to support other ETRs, including:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="4">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -132,15 +142,6 @@ to support other ETRs, including:</p>
 <img style="width: 100%" height="auto" width="100%" alt="Future instruments aligned with the Model Law on Electronic Transferable Records (MLETR)" src="/images/03_Article1_fullgraphic4.png">
 </div>
 </td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="4">
-<p></p>
-</th>
 </tr>
 </tbody>
 </table>
