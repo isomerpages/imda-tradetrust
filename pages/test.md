@@ -180,7 +180,7 @@ are divided into three key sections:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Part A – Definitions:</strong> 
+<p><strong>Part A – Definitions:</strong>
 </p>
 <p>Establishes precise legal definitions used throughout the Model Terms.</p>
 <p></p>
@@ -218,17 +218,85 @@ addressing:</p>
 <p><strong>Part C – eBL Provisions:</strong>
 <br>Legal terms that must be included in any TradeTrust eBL that is governed
 by a law aligned with the MLETR.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>*Note: These terms serve as a baseline reference, not meant as a comprehensive
+set of contractual clauses for BSPs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Guidance Notes: Supporting Implementation</strong></h4>
+<p>Accompanying the Model Terms are the Guidance Notes, which provide:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Contextual background" src="/images/03_Article1_fullgraphic7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Practical implementation tips" src="/images/03_Article1_fullgraphic8.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Clarifications on legal interpretations" src="/images/03_Article1_fullgraphic9.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>These notes aim to help adopters understand and effectively implement
+the Model Terms in their systems and user contracts.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="4">
+<td rowspan="1" colspan="4">
+<p><strong>View the full Model Terms and Guidance Notes:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Important Disclaimer</p>
+<p>The Model Terms and Guidance Notes are reference materials only and do
+not constitute legal advice. IMDA is not a party to any contracts formed
+using these materials. Stakeholders are strongly advised to consult their
+own legal advisors to tailor the terms to their specific needs and legal
+environments.</p>
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
