@@ -423,18 +423,15 @@ tailored for the industry.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Tech Updates</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introducing Our New Document Gallery" src="/images/06_Article4.jpg">
 </div>
-</td>
+</th>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Preview Available: Upgraded Reference Implementation</strong></h4>
