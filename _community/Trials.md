@@ -9,8 +9,8 @@ image: /images/TradeTrust logos/TT_LOGO_vertical.png
 ---
 <p></p>
 <blockquote>
-<p>Over 40 industry players, 14 government bodies and Trade Association and
-Chambers, and 10 platforms have successfully conducted trials for Trade
+<p>Over 60 industry players, 14 government bodies and Trade Association and
+Chambers, and 36 platforms have successfully conducted trials for Trade
 Finance and Cargo Release use cases.</p>
 </blockquote>
 <table style="minWidth: 75px">
