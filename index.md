@@ -47,6 +47,16 @@ sections:
             smarter and faster.
           link_text: Read more
           link_url: https://www.tradetrust.io/files/Newsletter/TradeTrust_Newsletter_July_2025.pdf
+        - title: TradeTrust Partner Credore Secures IG P&I Deemed Approval in Just Over 40
+            Days
+          date: 01 July 2025
+          announcement: Backed by TradeTrust’s legal and technical frameworks, Credore
+            secured swift deemed approval from the International Group of P&I
+            clubs (IG P&I), demonstrating that TradeTrust is
+            implementation-ready, with tested frameworks designed to meet global
+            requirements.
+          link_text: More
+          link_url: https://www.tradetrust.io/tradetrust-partner-credore-secures-ig-p-i-deemed-approval-in-just-over-40-days/
         - title: "A Mark of Global Recognition: TradeTrust Features in WCO Newsletter"
           date: 23 June 2025
           announcement: From TradeTrust’s pilot initiatives to enabling live, cross-border
@@ -56,14 +66,6 @@ sections:
             digital trade documentation.
           link_text: More
           link_url: http://www.tradetrust.io/a-mark-of-global-recognition-tradetrust-features-in-wco-newsletter/
-        - title: TradeTrust Accepted into UN-Endorsed Digital Public Goods Registry
-          date: 12 June 2025
-          announcement: TradeTrust has been recognised as a Digital Public Good by the
-            UN-endorsed DPGA. As an open-source digital tool, it enables secure,
-            paperless, and interoperable trade documentation for cross-border
-            digital trade and trusted global trade platforms.
-          link_text: More
-          link_url: https://www.digitalpublicgoods.net/r/trade-trust
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
