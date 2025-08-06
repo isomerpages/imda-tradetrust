@@ -141,8 +141,6 @@ and reducing fraud.</div>
 </div>
 </a>
 </div>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fuixlabs.com/tradetrust" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FuixLabs" src="/images/Partner Logos/Fuix_labs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FuixLabs</div><div class="isomer-card-description">Offers Web3 solutions for supply chain management with paperless trade, decentralised ID and blockchain, mitigating risks with easy adoption and gentle on-ramps.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.guud.company" class="isomer-card">
 <div class="isomer-card-image">
@@ -254,7 +252,7 @@ Universal Adapter with TradeTrust integration, enabling secure digital
 trade while addressing compliance and governance needs.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="http://www.vayana.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="VDP Trade Docs by Vayana" src="/images/Partner Logos/Logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">VDP Trade Docs by Vayana</div><div class="isomer-card-description">Built on MLETR principles, VDP Trade Docs digitizes trade documents and enables trusted transfers using blockchain infra such as TradeTrust, reducing paper, fraud, and delays in global trade.</div><div class="isomer-card-link">more...</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -266,9 +264,32 @@ trade while addressing compliance and governance needs.</div>
 <div class="isomer-card-description">Tracks and traces food and arts using patented dual QR tags, blockchain
 and NFT technology, supported by document security using TradeTrust.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade finance industry. It offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
 </div>
-<p></p>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://xinfin.org/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XDC" src="/images/Partner Logos/XDC_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">XDC</div><div class="isomer-card-description">An EVM-compatible protocol known for its outstanding presence in the trade finance industry. It offers numerous possibilities for improving global trade by digitising trade documents and improving access to capital for SMEs.</div><div class="isomer-card-link">more...</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Be a TradeTrust-ready partner" src="/images/Stock_images/enhanced_customer2_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Coming Soon...</div>
+<div class="isomer-card-description">Be the next TradeTrust-ready partner!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Be a TradeTrust-ready partner" src="/images/Stock_images/enhanced_customer2_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Coming Soon...</div>
+<div class="isomer-card-description">Be the next TradeTrust-ready partner</div>
+</div>
+</div>
+</div>
 <blockquote>
 <p><a href="https://form.gov.sg/63b7e833df5f2900128cdbb6" rel="noopener noreferrer nofollow" target="_blank">Join us</a> as
 a TradeTrust-ready partner.</p>
