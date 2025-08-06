@@ -101,6 +101,9 @@ and MLETR-compliant eBLs - attaining deemed approval from IG P&amp;I with
 speed and confidence.</p>
 <p>Learn more about TradeTrust’s legal framework <a href="https://www.tradetrust.io/about/legality-guide/" class="Hyperlink SCXW131463865 BCX0" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 <p>Eliminate legal guesswork and stay technically ready for cross-border
-trade with TradeTrust. <a href="https://www.tradetrust.io/contact-us/" class="Hyperlink SCXW184271567 BCX0" rel="noreferrer noopener" target="_blank"><u>Contact us</u></a> for more
+trade with TradeTrust.</p>
+<blockquote>
+<p><a href="https://www.tradetrust.io/contact-us/" class="Hyperlink SCXW184271567 BCX0" rel="noreferrer noopener" target="_blank"><u>Contact us</u></a> for more
 information about how we help partners transform the way we trade.&nbsp;</p>
+</blockquote>
 <p>&nbsp;</p>
