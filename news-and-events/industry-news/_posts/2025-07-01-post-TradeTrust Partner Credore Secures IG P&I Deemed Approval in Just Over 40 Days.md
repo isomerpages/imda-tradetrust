@@ -73,7 +73,8 @@ records.&nbsp;</p>
 assisting Credore in addressing IG P&amp;I’s queries clearly and efficiently
 to obtain deemed approval.</p>
 <h3>What this means for our partners</h3>
-<p>Credore’s deemed approval by IG P&amp;I affirms that TradeTrust is implementation-ready,
+<p>For <a href="https://www.tradetrust.io/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">our partners</a>,
+Credore’s deemed approval by IG P&amp;I affirms that TradeTrust is implementation-ready,
 with tested legal and technical frameworks designed to meet international
 standards. Beyond its legal framework, TradeTrust leverages innovative
 technical solutions that strengthen confidence and trust in the use of
