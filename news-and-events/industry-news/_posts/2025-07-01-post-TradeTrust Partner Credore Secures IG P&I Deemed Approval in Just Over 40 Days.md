@@ -85,11 +85,12 @@ support scalability and cross-platform interoperability. By enabling trading
 partners to choose their preferred TradeTrust-enabled system, TradeTrust
 promotes a flexible and decentralised approach to trade digitalisation.&nbsp;</p>
 <h4>Legal alignment</h4>
-<p>In addition to IG P&amp;I’s insurance coverage, TradeTrust’s Model Terms
-can be used as a reference to facilitate alignment on key legal aspects
-for TradeTrust adopters, such as interoperability, dispute resolution,
-and governing law. Partners can consult the Guidance Notes provided by
-IMDA for detailed explanations and context for implementing the Model Terms.&nbsp;</p>
+<p>In addition to IG P&amp;I’s insurance coverage, <a href="https://www.tradetrust.io/files/TradeTrust_Model_Terms.pdf" rel="noopener noreferrer nofollow" target="_blank">TradeTrust’s Model Terms</a> can
+be used as a reference to facilitate alignment on key legal aspects for
+TradeTrust adopters, such as interoperability, dispute resolution, and
+governing law. Partners can consult the <a href="https://www.tradetrust.io/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Notes</a> provided
+by IMDA for detailed explanations and context for implementing the Model
+Terms.&nbsp;</p>
 <h4>Availability of open-source, production-ready code</h4>
 <p>TradeTrust is open-source with no restrictions on semantics or data formats
 and standards such as Digital Container Shipping Association (DCSA) and
