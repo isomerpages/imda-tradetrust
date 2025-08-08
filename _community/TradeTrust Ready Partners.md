@@ -49,7 +49,7 @@ stakeholders by Automaxis.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BlockPeer</div>
+<div class="isomer-card-title">BlockPeer (IG P&amp;I approved)</div>
 <div class="isomer-card-description">A blockchain wallet-embedded accounting platform that seamlessly generates
 and operates MLETR-compliant e-Invoices and electronic Bills of Lading
 using the TradeTrust framework.</div>
@@ -286,7 +286,7 @@ and NFT technology, supported by document security using TradeTrust.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Coming Soon...</div>
-<div class="isomer-card-description">Be the next TradeTrust-ready partner</div>
+<div class="isomer-card-description">Be the next TradeTrust-ready partner!</div>
 </div>
 </div>
 </div>
