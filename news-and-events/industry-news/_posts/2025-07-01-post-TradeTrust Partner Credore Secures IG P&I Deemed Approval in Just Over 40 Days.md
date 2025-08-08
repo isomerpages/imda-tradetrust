@@ -10,7 +10,7 @@ variant: tiptap
 <p>TradeTrust partner <a href="https://www.credore.xyz/" rel="noopener noreferrer nofollow" target="_blank">Credore</a> has officially been <a href="https://www.igpandi.org/article/ig-approved-electronic-bill-of-lading-systems/" rel="noopener noreferrer nofollow" target="_blank">deemed approved by the International Group of P&amp;I Clubs (IG P&amp;I)</a> to
 issue <a href="https://www.tradetrust.io/video-lf-decentralized-trust-on-mletr-legal-principles-and-implementation-singapore-tradetrust/" rel="noopener noreferrer nofollow" target="_blank">MLETR</a>-compliant
 <a href="https://www.tradetrust.io/industry-news-tradetrust-s-approach-to-electronic-bills-of-lading/" rel="noopener noreferrer nofollow" target="_blank">electronic Bills of Lading (eBLs)</a>– a milestone achieved in just over
-40 days, making it the first <a href="https://www.tradetrust.io/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust-ready platform</a> to
+40 days, making it the <strong>first <a href="https://www.tradetrust.io/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust-ready platform</a></strong> to
 secure IG P&amp;I deemed approval. This highlights the readiness of TradeTrust’s
 legal and technical frameworks, as well as its compliance with complex
 regulatory processes.&nbsp;</p>
