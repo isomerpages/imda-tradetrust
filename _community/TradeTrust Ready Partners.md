@@ -286,7 +286,7 @@ and NFT technology, supported by document security using TradeTrust.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Coming Soon...</div>
-<div class="isomer-card-description">Be the next TradeTrust-ready partner</div>
+<div class="isomer-card-description">Be the next TradeTrust-ready partner!</div>
 </div>
 </div>
 </div>
