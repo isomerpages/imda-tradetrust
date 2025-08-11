@@ -45,14 +45,15 @@ stakeholders by Automaxis.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.blockpeer.finance/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BlockPeer" src="/images/Partner Logos/blockpeer_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="BlockPeer" src="/images/Partner Logos/blockpeer_trade.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">BlockPeer (IG P&amp;I approved)</div>
-<div class="isomer-card-description">A blockchain wallet-embedded accounting platform that seamlessly generates
-and operates MLETR-compliant e-Invoices and electronic Bills of Lading
-using the TradeTrust framework.</div>
+<div class="isomer-card-description">BlockPeer offers MLETR-compliant trade flow management for commodity trading
+and shipping, covering eBL (IG P&amp;I-approved), ePN, and other electronic
+trade documents, contracts, digital signatures, stablecoin-based trade
+financing, and integrated digital asset/fiat accounting, all in one platform.</div>
 <div class="isomer-card-link">more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://bunkerchain.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bunker Chain" src="/images/Partner Logos/bunker_chain_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bunker Chain</div><div class="isomer-card-description">The company is the co-founder of Marine Vessel Pass, a digital identities for ships, built in collaboration with S&amp;P Global Market Intelligence. It is also the Inventor of the World’s first Smart Contract eBDN.</div><div class="isomer-card-link">more...</div></div></a>
