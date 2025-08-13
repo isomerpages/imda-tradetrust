@@ -45,7 +45,7 @@ stakeholders by Automaxis.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.blockpeer.finance/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BlockPeer" src="/images/Partner Logos/blockpeer_trade.png">
+<img style="width: 100%" height="auto" width="100%" alt="BlockPeer" src="/images/Partner Logos/Blockpeer_Logo___600_x_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
