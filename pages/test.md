@@ -277,7 +277,7 @@ secure, and legally assured trade ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<p></p>
+<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -285,7 +285,7 @@ secure, and legally assured trade ecosystem.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Special Guests for Episode 4: STABILITY (Juliun Brabon, CEO and Klay Nichol, COO)" src="/images/05_Article3.jpg">
 </div>
