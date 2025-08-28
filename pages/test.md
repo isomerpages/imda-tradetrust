@@ -41,45 +41,12 @@ alternatives to paper-based Bill of Ladings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Model Terms:Everything you need to get YOUR solution ready to handle eBLs" src="/images/03_Article1_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Model Terms: Everything you need to get YOUR solution ready to handle eBLs" src="/images/03_Article1_01_v2.jpg">
 </div>
-<h3><strong>TradeTrust Model Terms:Everything you need to get YOUR solution ready to handle eBLs</strong></h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>As global trade continues to digitise, the move from paper-based processes
 to electronic transferable trade documentation requires a robust legal
 framework to ensure trust, security, and interoperability across platforms.
@@ -135,42 +102,13 @@ to support other ETRs, including:</p>
 <h4><strong>How the Model Terms Help TradeTrust Adopters</strong></h4>
 <p>The TradeTrust Model Terms are more than just a legal reference. They
 can serve multiple strategic purposes for adopters:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IG P&amp;I Club Approvals" src="/images/03_Article1_graphic5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>IG P&amp;I Club Approvals:</strong>
-<br>The Model Terms may facilitate applications for eBL system approvals to
-the International Group of P&amp;I Clubs (IG), which requires clear legal
-T&amp;Cs for granting insurance cover on eBLs.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Legal Alignment" src="/images/03_Article1_graphic6.png">
+<img style="width: 100%" height="auto" width="100%" alt="IG P&amp;I Club Approvals" src="/images/03_Article1_fullgraphic5.png">
 </div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Legal Alignment:</strong>
-<br>They support alignment on key legal aspects such as interoperability,
-dispute resolution, and governing law—elements critical for cross-border
-trade processes.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Legal Alignment" src="/images/03_Article1_fullgraphic6.png">
+</div>
 <h4><strong>Structure of the TradeTrust Model Terms</strong></h4>
 <p>TheEstablishes precise legal definitions used throughout the Model Terms.Terms
 are divided into three key sections:</p>
@@ -267,10 +205,6 @@ set of contractual clauses for BSPs.</p>
 </table>
 <p>These notes aim to help adopters understand and effectively implement
 the Model Terms in their systems and user contracts.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>View the full Model Terms and Guidance Notes:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -295,7 +229,6 @@ the Model Terms in their systems and user contracts.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Important Disclaimer</strong>
 </p>
 <p>The Model Terms and Guidance Notes are reference materials only and do
@@ -303,23 +236,9 @@ not constitute legal advice. IMDA is not a party to any contracts formed
 using these materials. Stakeholders are strongly advised to consult their
 own legal advisors to tailor the terms to their specific needs and legal
 environments.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day" src="/images/04_Article2_01.png">
@@ -328,11 +247,6 @@ environments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2025" src="/images/04_Article2_02.png">
 </div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>TradeTrust’s Appreciation Day 2025 marked an important milestone in our
 ongoing efforts to advance the digital transformation of global supply
 chains. This event saw industry leaders, legal experts, and key stakeholders
@@ -348,6 +262,21 @@ industry challenges.</p>
 <p>We are grateful to work alongside partners and stakeholders to foster
 industry-wide collaborations and innovation as we create a more seamless,
 secure, and legally assured trade ecosystem.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
