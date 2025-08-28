@@ -278,6 +278,17 @@ secure, and legally assured trade ecosystem.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
 <h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Special Guests for Episode 4: STABILITY (Juliun Brabon, CEO and Klay Nichol, COO)" src="/images/05_Article3.jpg">
+</div>
+<p><strong>Special Guests for Episode 4:</strong> STABILITY (Juliun Brabon,
+CEO and Klay Nichol, COO)</p>
+<p>A podcast series launched by IMDA’s TradeTrust featuring Thought Leaders’
+views and opinions on Trade Digitalisation. Experts from the industry were
+invited to cover a diverse range of perspectives on the topic. This episode
+of the podcast discusses the challenges of blockchain technology and STABILITY’s
+solution of creating a cryptoless, tokenless, and feeless public blockchain
+tailored for the industry.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -286,21 +297,12 @@ secure, and legally assured trade ecosystem.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Special Guests for Episode 4: STABILITY (Juliun Brabon, CEO and Klay Nichol, COO)" src="/images/05_Article3.jpg">
-</div>
-<p>Special Guests for Episode 4: STABILITY (Juliun Brabon, CEO and Klay Nichol,
-COO)</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A podcast series launched by IMDA’s TradeTrust featuring Thought Leaders’
-views and opinions on Trade Digitalisation. Experts from the industry were
-invited to cover a diverse range of perspectives on the topic. This episode
-of the podcast discusses the challenges of blockchain technology and STABILITY’s
-solution of creating a cryptoless, tokenless, and feeless public blockchain
-tailored for the industry.</p>
+<p></p>
 </td>
 </tr>
 <tr>
