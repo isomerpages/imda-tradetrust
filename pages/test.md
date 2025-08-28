@@ -215,16 +215,10 @@ the Model Terms in their systems and user contracts.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Model Terms" src="/images/03_Article1_button1.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/files/TradeTrust_Model_Terms.pdf"><img style="width: 100%" height="auto" width="100%" alt="Model Terms" src="/images/03_Article1_button1.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guidance Notes" src="/images/03_Article1_button2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf"><img style="width: 100%" height="auto" width="100%" alt="Guidance Notes" src="/images/03_Article1_button2.png"></a>
 </td>
 </tr>
 </tbody>
