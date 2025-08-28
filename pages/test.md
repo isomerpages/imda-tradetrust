@@ -262,62 +262,22 @@ industry challenges.</p>
 <p>We are grateful to work alongside partners and stakeholders to foster
 industry-wide collaborations and innovation as we create a more seamless,
 secure, and legally assured trade ecosystem.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Watch the highlights and key takeaways from the event." src="/images/04_Article2_03_button2.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<h4><strong>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_kWrQBAh2ig?si=O18z8vq_vKRF4gUz"></iframe>
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
