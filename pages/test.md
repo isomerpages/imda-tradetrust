@@ -4,26 +4,13 @@ permalink: /test/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Newsletter Masthead" src="/images/01_Masthead.jpg">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tradetrust Spotlight featuring Manish Khaitan, Chief Financial Officer, Maptrasco" src="/images/01_Spotlight_01.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <blockquote>
 <p><strong>How has using TradeTrust changed the way you handle trade documentation, and what benefits have you seen in terms of transaction speed and transparency?</strong>
 </p>
@@ -39,7 +26,6 @@ we have real-time access to shipment data, thus improving visibility across
 our entire supply chain. This level of visibility also reduces the chances
 of errors, fraud, or disputes, making the entire trading process more reliable
 and transparent."</p>
-<p></p>
 <blockquote>
 <p><strong>What are the key factors that would encourage wider adoption of digital trade documents among traders?</strong>
 </p>
@@ -51,6 +37,24 @@ framework ensures trust and standardised processes. Since adoption is currently
 limited, educating and incentivising relevant parties is crucial, along
 with regulatory support and industry-wide initiatives that promote electronic
 alternatives to paper-based Bill of Ladings.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -475,80 +479,6 @@ Stay tuned for the launch in June!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>About TradeTrust</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TradeTrust: Connecting governments and businesses for cross-border trade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>World’s first liveElectronic Transferable Record (ETR) cross-border trade
-through TradeTrust</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_2.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discover how TradeTrust lets you create, exchange, verify, and transfer
-ownership of digitised documents securely.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hear from ExxonMobil and Bunkerchain as they share their experiences and
-benefits of going digital in cross-border trade with TradeTrust.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>About TradeTrust</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_3B.jpg">
-</div>
-<p>Discover how TradeTrust lets you create, exchange, verify, and transfer
-ownership of digitised documents securely.</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_4B.jpg">
-</div>
-<p>Hear from ExxonMobil and Bunkerchain as they share their experiences and
-benefits of going digital in cross-border trade with TradeTrust.</p>
 </td>
 </tr>
 </tbody>
