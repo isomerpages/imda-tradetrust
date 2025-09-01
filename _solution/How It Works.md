@@ -59,8 +59,9 @@ the transferable document at any point in time.</p>
 </div>
 <p></p>
 <blockquote>
-<p>Try <a href="https://safe.menlosecurity.com/https://ref.tradetrust.io/" rel="noopener noreferrer nofollow" target="_blank"><u>Verify Document</u></a>
-</p>
+<p><a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a> or
+try <a href="https://ref.tradetrust.io/creator" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
+<a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
 </blockquote>
 <h4><strong>Trade Compliance Use Case with Verifiable Document</strong></h4>
 <p>Observe the transformation brought about by the use of TradeTrust-enabled
