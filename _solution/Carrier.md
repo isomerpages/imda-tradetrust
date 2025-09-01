@@ -88,9 +88,8 @@ of TradeTrust-ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/
 <p></p>
 <blockquote>
 <p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>. Try <a href="https://ref.tradetrust.io/creator" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
-<a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
+<a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>or <a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a>.</p>
 </blockquote>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
