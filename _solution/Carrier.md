@@ -85,7 +85,10 @@ to the right party.</p>
 <p>For integration of TradeTrust into your existing IT system, use our
 <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. Alternatively, outsource or subscribe to the services
 of TradeTrust-ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
-<p></p>
+<blockquote>
+<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>. Try <a href="https://ref.tradetrust.io/creator" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
+<a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>or <a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a>.</p>
+</blockquote>
 <blockquote>
 <p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>. Try <a href="https://ref.tradetrust.io/creator" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
 <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>or <a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a>.</p>
