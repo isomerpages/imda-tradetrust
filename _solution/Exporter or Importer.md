@@ -97,7 +97,8 @@ the risk of fraud is significantly reduced.</p>
 of TradeTrust-ready <a href="https://staging-lite.d19rlfkkwl33mg.amplifyapp.com/community/tradetrust-ready-partners/" rel="noopener noreferrer nofollow" target="_blank"><u>partners</u></a>.</p>
 <p></p>
 <blockquote>
-<p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
+<p>Try <a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a> or
+<a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a>.</p>
 <p></p>
 </blockquote>
 <p></p>
