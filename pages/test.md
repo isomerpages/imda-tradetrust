@@ -4,26 +4,13 @@ permalink: /test/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Newsletter Masthead" src="/images/01_Masthead.jpg">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tradetrust Spotlight featuring Manish Khaitan, Chief Financial Officer, Maptrasco" src="/images/01_Spotlight_01.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <blockquote>
 <p><strong>How has using TradeTrust changed the way you handle trade documentation, and what benefits have you seen in terms of transaction speed and transparency?</strong>
 </p>
@@ -39,7 +26,6 @@ we have real-time access to shipment data, thus improving visibility across
 our entire supply chain. This level of visibility also reduces the chances
 of errors, fraud, or disputes, making the entire trading process more reliable
 and transparent."</p>
-<p></p>
 <blockquote>
 <p><strong>What are the key factors that would encourage wider adoption of digital trade documents among traders?</strong>
 </p>
@@ -51,31 +37,30 @@ framework ensures trust and standardised processes. Since adoption is currently
 limited, educating and incentivising relevant parties is crucial, along
 with regulatory support and industry-wide initiatives that promote electronic
 alternatives to paper-based Bill of Ladings.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Model Terms:Everything you need to get YOUR solution ready to handle eBLs" src="/images/03_Article1_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h3><strong>TradeTrust Model Terms:Everything you need to get YOUR solution ready to handle eBLs</strong></h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Latest TradeTrust-enabled Transaction:</strong><br><strong>A Seamless, Cryptoless Digital Transaction between China and Singapore</strong></h4>
+<p>Enabled by TradeTrust, COFCO and Yit Hong successfully completed the world’s
+first interoperable digital Documents against Payment (D/P) transaction
+using electronic Bills of Lading (eBLs). Supported by major banks including
+BOC, ICBC, DBS, and UOB, alongside carriers PIL and digital platforms AEOTrade
+and SGTraDex, this live transaction reduced document processing from weeks
+to minutes, enhancing security and efficiency in cross-border trade between
+China and Singapore.</p>
+<p>This project marks another achievement in Beijing-Singapore digital economy
+collaboration, introducing a novel interoperable trade finance model for
+international trade and financial services, paving the way for business-as-usual
+digital operations.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/"><img style="width: 100%" height="auto" width="100%" alt="COFCO-Yit Hong Case Study" src="/images/TradeTrust_DP_v5_ENG.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Model Terms: Everything you need to get YOUR solution ready to handle eBLs" src="/images/03_Article1_01_v2.jpg">
+</div>
 <p>As global trade continues to digitise, the move from paper-based processes
 to electronic transferable trade documentation requires a robust legal
 framework to ensure trust, security, and interoperability across platforms.
@@ -131,42 +116,13 @@ to support other ETRs, including:</p>
 <h4><strong>How the Model Terms Help TradeTrust Adopters</strong></h4>
 <p>The TradeTrust Model Terms are more than just a legal reference. They
 can serve multiple strategic purposes for adopters:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IG P&amp;I Club Approvals" src="/images/03_Article1_graphic5.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>IG P&amp;I Club Approvals:</strong>
-<br>The Model Terms may facilitate applications for eBL system approvals to
-the International Group of P&amp;I Clubs (IG), which requires clear legal
-T&amp;Cs for granting insurance cover on eBLs.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Legal Alignment" src="/images/03_Article1_graphic6.png">
+<img style="width: 100%" height="auto" width="100%" alt="IG P&amp;I Club Approvals" src="/images/03_Article1_fullgraphic5.png">
 </div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Legal Alignment:</strong>
-<br>They support alignment on key legal aspects such as interoperability,
-dispute resolution, and governing law—elements critical for cross-border
-trade processes.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Legal Alignment" src="/images/03_Article1_fullgraphic6.png">
+</div>
 <h4><strong>Structure of the TradeTrust Model Terms</strong></h4>
 <p>TheEstablishes precise legal definitions used throughout the Model Terms.Terms
 are divided into three key sections:</p>
@@ -180,7 +136,6 @@ are divided into three key sections:</p>
 <p><strong>Part A – Definitions:</strong>
 </p>
 <p>Establishes precise legal definitions used throughout the Model Terms.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -215,17 +170,8 @@ addressing:</p>
 <p><strong>Part C – eBL Provisions:</strong>
 <br>Legal terms that must be included in any TradeTrust eBL that is governed
 by a law aligned with the MLETR.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>*Note: These terms serve as a baseline reference, not meant as a comprehensive
 set of contractual clauses for BSPs.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -263,10 +209,6 @@ set of contractual clauses for BSPs.</p>
 </table>
 <p>These notes aim to help adopters understand and effectively implement
 the Model Terms in their systems and user contracts.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>View the full Model Terms and Guidance Notes:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -277,21 +219,14 @@ the Model Terms in their systems and user contracts.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Model Terms" src="/images/03_Article1_button1.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/files/TradeTrust_Model_Terms.pdf"><img style="width: 100%" height="auto" width="100%" alt="Model Terms" src="/images/03_Article1_button1.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guidance Notes" src="/images/03_Article1_button2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/files/Guidance_Notes_for_TradeTrust_Model_Terms.pdf"><img style="width: 100%" height="auto" width="100%" alt="Guidance Notes" src="/images/03_Article1_button2.png"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Important Disclaimer</strong>
 </p>
 <p>The Model Terms and Guidance Notes are reference materials only and do
@@ -299,23 +234,9 @@ not constitute legal advice. IMDA is not a party to any contracts formed
 using these materials. Stakeholders are strongly advised to consult their
 own legal advisors to tailor the terms to their specific needs and legal
 environments.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day" src="/images/04_Article2_01.png">
@@ -324,11 +245,6 @@ environments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2025" src="/images/04_Article2_02.png">
 </div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>TradeTrust’s Appreciation Day 2025 marked an important milestone in our
 ongoing efforts to advance the digital transformation of global supply
 chains. This event saw industry leaders, legal experts, and key stakeholders
@@ -343,88 +259,37 @@ the MLETR and ICC DSl's Reliability Assessment Frameworks in addressing
 industry challenges.</p>
 <p>We are grateful to work alongside partners and stakeholders to foster
 industry-wide collaborations and innovation as we create a more seamless,
-secure, and legally assured trade ecosystem.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+secure, and legally assured trade ecosystem.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/tradetrust-appreciation-day-event-2025/"><img style="width: 100%" height="auto" width="100%" alt="Watch the highlights and key takeaways from the event." src="/images/04_Article2_03_button2.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Watch the highlights and key takeaways from the event." src="/images/04_Article2_03_button2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_kWrQBAh2ig?si=O18z8vq_vKRF4gUz"></iframe>
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Special Guests for Episode 4: STABILITY (Juliun Brabon, CEO and Klay Nichol, COO)" src="/images/05_Article3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<p>Special Guests for Episode 4: STABILITY (Juliun Brabon, CEO and Klay Nichol,
-COO)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yhzYzm99-ls?si=ltvZJdSHou22zNKm"></iframe>
+</div>
+<p><strong>Special Guests for Episode 4:</strong> STABILITY (Juliun Brabon,
+CEO and Klay Nichol, COO)</p>
 <p>A podcast series launched by IMDA’s TradeTrust featuring Thought Leaders’
 views and opinions on Trade Digitalisation. Experts from the industry were
 invited to cover a diverse range of perspectives on the topic. This episode
 of the podcast discusses the challenges of blockchain technology and STABILITY’s
 solution of creating a cryptoless, tokenless, and feeless public blockchain
 tailored for the industry.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="3" colspan="1">
-<p>Tech Updates</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p><strong>Tech Updates</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introducing Our New Document Gallery" src="/images/06_Article4.jpg">
 </div>
@@ -433,137 +298,37 @@ tailored for the industry.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Modular, flexible layout</p>
+<p><strong>Modular, flexible layout</strong>
+</p>
 </li>
 <li>
-<p>Clearer display of filename, issuer, and action buttons</p>
+<p><strong>Clearer display of filename, issuer, and action buttons</strong>
+</p>
 </li>
 <li>
-<p>More intuitive and accessible navigation</p>
+<p><strong>More intuitive and accessible navigation</strong>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Experience our newreference implementation design" src="/images/06_Article4_02_button.png">
 </div>
-<p></p>
-</th>
-</tr>
-<tr></tr>
-<tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <h4><strong>Coming Soon: New Document Gallery</strong></h4>
 <p>Get ready to explore our curated gallery of real-world documents that
 showcase how TradeTrust can be applied across industries. This practical
 showcase will make it easier to visualize your own implementation possibilities.
 Stay tuned for the launch in June!</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<h4><strong>About TradeTrust</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>About TradeTrust</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TradeTrust: Connecting governments and businesses for cross-border trade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>World’s first liveElectronic Transferable Record (ETR) cross-border trade
-through TradeTrust</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_2.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discover how TradeTrust lets you create, exchange, verify, and transfer
-ownership of digitised documents securely.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hear from ExxonMobil and Bunkerchain as they share their experiences and
-benefits of going digital in cross-border trade with TradeTrust.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>About TradeTrust</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_3B.jpg">
-</div>
-<p>Discover how TradeTrust lets you create, exchange, verify, and transfer
-ownership of digitised documents securely.</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_4B.jpg">
-</div>
-<p>Hear from ExxonMobil and Bunkerchain as they share their experiences and
-benefits of going digital in cross-border trade with TradeTrust.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4><strong>About TradeTrust</strong></h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>

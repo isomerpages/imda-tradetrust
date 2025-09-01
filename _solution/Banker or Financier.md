@@ -125,7 +125,7 @@ the onboarding process by banks in Singapore.</p>
 </ul>
 <p></p>
 <blockquote>
-<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a>.</p>
+<p>Learn more about <a href="/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">how TradeTrust works</a> or <a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a>.</p>
 </blockquote>
 <p></p>
 <p></p>

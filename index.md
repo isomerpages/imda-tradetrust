@@ -81,15 +81,19 @@ sections:
         ownership for title documents, while reducing the risk of fraud through
         checks for proof of origin, tampering, and authenticity.
       cards:
-        - title: Create
+        - title: Create Documents
           description: Create or revoke TradeTrust-enabled business documents
           linktext: Try now
-          url: https://creator.tradetrust.io/
-        - title: Verify
+          url: https://ref.tradetrust.io/creator
+        - title: Verify Documents
           description: Drag and drop for the source, authenticity and transfer title of
             documents
           linktext: Try now
           url: https://ref.tradetrust.io
+        - title: See Gallery
+          description: Explore examples with QR-code verification for instant authentication
+          linktext: Try now
+          url: https://gallery.tradetrust.io
       subtitle: Digitise the inefficiency
   - textcards:
       title: What's in for you?

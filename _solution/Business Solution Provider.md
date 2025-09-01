@@ -146,6 +146,8 @@ shared, learned, traded and appreciated digitally</p>
 </ul>
 <p></p>
 <blockquote>
-<p>Kickstart the integration of TradeTrust with <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>.</p>
+<p>Kickstart the integration of TradeTrust with <a href="/developer/technical-guides/" rel="noopener noreferrer nofollow" target="_blank">technical guides</a>. <a href="https://gallery.tradetrust.io" rel="noopener nofollow" target="_blank">See Gallery</a> or
+try <a href="https://ref.tradetrust.io/creator" rel="noopener noreferrer nofollow" target="_blank">Create Documents</a> and
+<a href="https://ref.tradetrust.io" rel="noopener noreferrer nofollow" target="_blank">Verify Documents</a>.</p>
 </blockquote>
 <p></p>
