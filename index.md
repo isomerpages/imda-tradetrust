@@ -84,7 +84,7 @@ sections:
         - title: Create
           description: Create or revoke TradeTrust-enabled business documents
           linktext: Try now
-          url: https://creator.tradetrust.io/
+          url: https://ref.tradetrust.io/creator
         - title: Verify
           description: Drag and drop for the source, authenticity and transfer title of
             documents
