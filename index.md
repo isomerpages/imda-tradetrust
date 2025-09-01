@@ -90,6 +90,10 @@ sections:
             documents
           linktext: Try now
           url: https://ref.tradetrust.io
+        - title: See Gallery
+          description: Explore examples with QR-code verification for instant authentication
+          linktext: Try now
+          url: https://gallery.tradetrust.io
       subtitle: Digitise the inefficiency
   - textcards:
       title: What's in for you?
