@@ -264,7 +264,8 @@ secure, and legally assured trade ecosystem.</p><a class="isomer-image-wrapper" 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4><strong>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</strong></h4>
+<p><strong>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_kWrQBAh2ig?si=O18z8vq_vKRF4gUz"></iframe>
 </div>
@@ -272,7 +273,8 @@ secure, and legally assured trade ecosystem.</p><a class="isomer-image-wrapper" 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
+<p><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yhzYzm99-ls?si=ltvZJdSHou22zNKm"></iframe>
 </div>
@@ -288,8 +290,7 @@ tailored for the industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<p><strong>Tech Updates</strong>
-</p>
+<h4><strong>Tech Updates</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introducing Our New Document Gallery" src="/images/06_Article4.jpg">
 </div>
