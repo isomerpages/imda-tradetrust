@@ -273,7 +273,7 @@ secure, and legally assured trade ecosystem.</p><a class="isomer-image-wrapper" 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
+<h4><strong>Catch Episode 4 OfThe TradeTrust Podcast</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yhzYzm99-ls?si=ltvZJdSHou22zNKm"></iframe>
 </div>
