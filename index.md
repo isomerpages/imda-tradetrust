@@ -38,7 +38,7 @@ sections:
       id: announcements
       announcement_items:
         - title: "TradeTrust @ WSIE 2025: Proudly shaping our future"
-          date: 24 September 2025
+          date: 06 September 2025
           announcement: At the 2025 World Smart Industry Expo (WSIE), we stood alongside
             groundbreaking innovations to showcase AEOTrade’s successful
             adoption of TradeTrust, demonstrating the real-world benefits of a
