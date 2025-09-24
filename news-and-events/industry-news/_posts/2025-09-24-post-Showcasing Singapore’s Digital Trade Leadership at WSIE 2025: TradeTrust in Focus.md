@@ -32,9 +32,9 @@ businesses in international trade.&nbsp;</p>
 <p>TradeTrust, together with AEOTrade, pitched the solution to an invited
 audience, including the Chongqing Municipal Commission of Commerce and
 Industry, at the Singapore Pavilion — engaging attendees on the real-world
-impact and benefits of using electronic Bills of Lading (eBLs), which are
-portable across different platforms integrated with TradeTrust framework
-to streamline cross-border trade.&nbsp;</p>
+impact and benefits of using <a href="https://www.tradetrust.io/stephen-harwood-an-introduction-to-tradetrust-and-the-laws-governing-electronic-bills-of-lading/" rel="noopener nofollow" target="_blank">electronic Bills of Lading (eBLs)</a>,
+which are portable across different platforms integrated with <a href="https://www.tradetrust.io/about/what-is-tradetrust/" rel="noopener nofollow" target="_blank">TradeTrust framework</a> to
+streamline cross-border trade.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust enhance speed transparency efficiency businesses international trade" src="/images/WHT02147_opq3950583775.jpg">
 </div>
