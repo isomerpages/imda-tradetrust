@@ -1,11 +1,11 @@
 ---
-title: test
+title: TradeTrust Newsletter May 2025
 permalink: /test/
 variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Newsletter Masthead" src="/images/01_Masthead.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Newsletter Masthead" src="/images/01_Masthead_v2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -264,7 +264,8 @@ secure, and legally assured trade ecosystem.</p><a class="isomer-image-wrapper" 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4><strong>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</strong></h4>
+<p><strong>Hear from our partners about the future of TradeTrust and how we can advance efficient, secure, and legal digital trade together!</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_kWrQBAh2ig?si=O18z8vq_vKRF4gUz"></iframe>
 </div>
@@ -272,7 +273,7 @@ secure, and legally assured trade ecosystem.</p><a class="isomer-image-wrapper" 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4><strong>Catch Episode 4 Ofthe TradeTrust Podcast</strong></h4>
+<h4><strong>Catch Episode 4 Of The TradeTrust Podcast</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yhzYzm99-ls?si=ltvZJdSHou22zNKm"></iframe>
 </div>
@@ -288,32 +289,29 @@ tailored for the industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<p><strong>Tech Updates</strong>
-</p>
+<h4><strong>Tech Updates</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introducing Our New Document Gallery" src="/images/06_Article4.jpg">
 </div>
-<h4><strong>Preview Available: Upgraded Reference Implementation</strong></h4>
-<p><strong>Key Enhancements:</strong>
+<p><strong>Preview Available: Upgraded Reference Implementation</strong>
 </p>
+<p>Key Enhancements:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Modular, flexible layout</strong>
-</p>
+<p>Modular, flexible layout</p>
 </li>
 <li>
-<p><strong>Clearer display of filename, issuer, and action buttons</strong>
-</p>
+<p>Clearer display of filename, issuer, and action buttons</p>
 </li>
 <li>
-<p><strong>More intuitive and accessible navigation</strong>
-</p>
+<p>More intuitive and accessible navigation</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Experience our newreference implementation design" src="/images/06_Article4_02_button.png">
 </div>
-<h4><strong>Coming Soon: New Document Gallery</strong></h4>
+<p><strong>Coming Soon: New Document Gallery</strong>
+</p>
 <p>Get ready to explore our curated gallery of real-world documents that
 showcase how TradeTrust can be applied across industries. This practical
 showcase will make it easier to visualize your own implementation possibilities.
