@@ -38,7 +38,7 @@ to streamline cross-border trade.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust enhance speed transparency efficiency businesses international trade" src="/images/WHT02147_opq3950583775.jpg">
 </div>
-<h4><strong>TradeTrust in Action: Chongqing eBL Trials</strong>&nbsp;</h4>
+<h4>TradeTrust in Action: Chongqing eBL Trial</h4>
 <p>A key highlight was the ongoing TradeTrust-enabled eBL pilot with Chongqing,
 conducted under the China-Singapore (Chongqing) Connectivity Initiative–
 New International Land-Sea Trade Corridor (CCI–ILSTC) Transport &amp; Logistics
@@ -90,7 +90,7 @@ surrender of a negotiable Bill of Lading can be done entirely digitally
 <p>This live shipment followed a shadow roleplay conducted in December 2021
 and marks another milestone towards scalable adoption of cross-border eBLs
 between Singapore and Chongqing.&nbsp;</p>
-<h4><strong>Why This Matters</strong>&nbsp;</h4>
+<h4>Why This Matters&nbsp;</h4>
 <p>Digital trade is key to supporting frictionless global commerce, reducing
 costs, and enabling greater resilience in supply chains. By participating
 in WSIE 2025 and showcasing real-world use cases such as the Chongqing
