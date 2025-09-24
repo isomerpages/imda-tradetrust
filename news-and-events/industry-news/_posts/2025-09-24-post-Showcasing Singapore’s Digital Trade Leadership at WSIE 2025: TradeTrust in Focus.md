@@ -101,6 +101,8 @@ adopt legally recognised, trusted, and interoperable digital documents.&nbsp;</p
 initiatives like TradeTrust are paving the way for wider regional adoption
 of digital trade solutions — ultimately benefiting shippers, consignees,
 carriers, and customs authorities across the trade ecosystem.&nbsp;</p>
-<p>Learn more about how TradeTrust is enabling trusted, interoperable digital
-trade: <a href="https://www.tradetrust.io/solution/how-it-works/" rel="noopener noreferrer nofollow" target="_blank">https://www.tradetrust.io/solution/how-it-works/</a>&nbsp;</p>
+<blockquote>
+<p><a href="https://www.tradetrust.io/solution/how-it-works/" rel="noopener nofollow" target="_blank">Learn more</a> about
+how TradeTrust is enabling trusted, interoperable digital trade.</p>
+</blockquote>
 <p></p>
