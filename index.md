@@ -37,8 +37,17 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "TradeTrust @ WSIE 2025: Proudly shaping our future"
+          date: 24 September 2025
+          announcement: At the 2025 World Smart Industry Expo (WSIE), we stood alongside
+            groundbreaking innovations to showcase AEOTrade’s successful
+            adoption of TradeTrust, demonstrating the real-world benefits of a
+            framework that enables trusted, seamless, and interoperable digital
+            trade across borders.
+          link_text: Read more
+          link_url: https://www.tradetrust.io/showcasing-singapore-s-digital-trade-leadership-at-wsie-2025-tradetrust-in-focus/
         - title: "Scaling Digital Trade with Confidence: The Latest from TradeTrust
-            Newsletter June'25 Issue"
+            Newsletter July'25 Issue"
           date: 31 July 2025
           announcement: We’re scaling new heights in digital trade. In this issue, we
             celebrate TradeTrust's recognition as a Digital Public Good,
@@ -57,15 +66,6 @@ sections:
             requirements.
           link_text: More
           link_url: https://www.tradetrust.io/tradetrust-partner-credore-secures-ig-p-i-deemed-approval-in-just-over-40-days/
-        - title: "A Mark of Global Recognition: TradeTrust Features in WCO Newsletter"
-          date: 23 June 2025
-          announcement: From TradeTrust’s pilot initiatives to enabling live, cross-border
-            trade and finance transactions, the article – written for the
-            international Customs community – charts TradeTrust’s key milestones
-            and underscores its role in bridging legal and technical gaps in
-            digital trade documentation.
-          link_text: More
-          link_url: http://www.tradetrust.io/a-mark-of-global-recognition-tradetrust-features-in-wco-newsletter/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
