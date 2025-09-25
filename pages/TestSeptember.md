@@ -153,7 +153,7 @@ joined the Singapore Pavilion at the 2025 World Smart Industry Expo (WSIE),
 held from 5 to 8 September 2025, in Chongqing to spotlight trusted, interoperable
 digital trade solutions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shawdia" src="/images/04_Article3_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="通商互信" src="/images/04_Article3_02.png">
 </div>
 <p>TradeTrust demonstrated how electronic Bills of Lading (eBLs) can make
 cross-border trade faster, less costly and more secure across different
