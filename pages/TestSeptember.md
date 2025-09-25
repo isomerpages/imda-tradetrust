@@ -43,6 +43,13 @@ it. We need regulatory alignment, trust frameworks, and the will to leave
 paper behind. What this pilot shows is that when stakeholders share a vision,
 silos can become connected ecosystems. And at Yit Hong, that’s exactly
 how we see the future of trade unfolding."</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ZenithBlox Fully Integrates TradeTrust to Enable Compliance and Interoperability at Scale" src="/images/02_Article1_01.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
