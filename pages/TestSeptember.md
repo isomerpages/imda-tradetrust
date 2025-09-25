@@ -48,9 +48,10 @@ how we see the future of trade unfolding."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ZenithBlox Fully Integrates TradeTrust to Enable Compliance and Interoperability at Scale" src="/images/02_Article1_01.png">
 </div>
-<p>ZenithBlox, an enterprise blockchain integration platform modernising
-global finance and trade, has taken a major leap forward by fully integrating
-TradeTrust into its Universal Adapters.</p>
+<p><a href="https://zenithblox.network/" rel="noopener nofollow" target="_blank">ZenithBlox</a>,
+an enterprise blockchain integration platform modernising global finance
+and trade, has taken a major leap forward by fully integrating TradeTrust
+into its Universal Adapters.</p>
 <p>With TradeTrust now embedded, institutions gain the power to:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Authenticate Source &amp; Integrity" src="/images/02_Article1_bullet_01.png">
