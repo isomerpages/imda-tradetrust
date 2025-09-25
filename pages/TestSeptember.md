@@ -116,25 +116,23 @@ with TradeTrust.</p><a class="isomer-image-wrapper" href="www.tradetrust.io/comm
 expedite and secure International Group of Protection and Indemnity Clubs
 (IG P&amp;I) deemed approval, making them the first platforms to reach
 this milestone.</p>
-<p>Credore achieved deemed approval in just over 40 days, becoming the first
-TradeTrust-enabled platform able to issue electronic Bills of Lading (eBLs)
-that are covered by the IG P&amp;I. Blockpeer has since joined as the second
-platform to be approved. This demonstrates how TradeTrust’s legal and technical
-frameworks are designed to simplify compliance with complex international
-standards, while ensuring interoperability and reliability for cross-border
-trade.</p>
-<p>By leveraging TradeTrust’s Model Terms, both platforms gain a solid legal
-foundation, enabling them to navigate the rigorous assessment process confidently
-and efficiently. Coupled with technical alignment via TradeTrust’s Token
-Registry v5, the platforms could meet IG P&amp;I’s requirements for system
-reliability, transfer rejection, and record management.</p>
+<p><a href="https://www.tradetrust.io/tradetrust-partner-credore-secures-ig-p-i-deemed-approval-in-just-over-40-days/" rel="noopener nofollow" target="_blank">Credore achieved deemed approval</a> in
+just over 40 days, becoming the first TradeTrust-enabled platform able
+to issue electronic Bills of Lading (eBLs) that are covered by the IG P&amp;I.
+Blockpeer has since joined as the second platform to be approved. This
+demonstrates how TradeTrust’s legal and technical frameworks are designed
+to simplify compliance with complex international standards, while ensuring
+interoperability and reliability for cross-border trade.</p>
+<p>By leveraging <a href="https://www.tradetrust.io/about/legality-guide/" rel="noopener nofollow" target="_blank">TradeTrust’s Model Terms</a>,
+both platforms gain a solid legal foundation, enabling them to navigate
+the rigorous assessment process confidently and efficiently. Coupled with
+technical alignment via TradeTrust’s Token Registry v5, the platforms could
+meet IG P&amp;I’s requirements for system reliability, transfer rejection,
+and record management.</p>
 <h4>Be next in line to achieve deemed approval</h4>
 <p>TradeTrust’s tested legal and technical frameworks remove the guesswork
 and accelerate approval for platforms issuing eBLs.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learn more about TradeTrust's legal framework" src="/images/03_Article2_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/about/legality-guide/"><img style="width: 100%" height="auto" width="100%" alt="Learn more about TradeTrust's legal framework" src="/images/03_Article2_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
