@@ -242,3 +242,16 @@ trade documents.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Find out more about these upgrades" src="/images/05_TechUpdates_04_CTA.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p>Stay updated on exclusive tech insights, events, and roundtable discussions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join our Tech community" src="/images/06_Join_CTA.png">
+</div>
+<p></p>
