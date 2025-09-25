@@ -22,18 +22,16 @@ TradeTrust-enabled electronic Bills of Lading (eBLs).</p>
 global impact of such interoperability and the future of fully digitised,
 interoperable trade ecosystems:</p>
 <blockquote>
-<p>Interoperability was a key aspect of this project. In your view, how will
-open standards like TradeTrust influence collaboration between digital
-trade platforms worldwide?</p>
+<p><strong>Interoperability was a key aspect of this project. In your view, how will open standards like TradeTrust influence collaboration between digital trade platforms worldwide?</strong>
+</p>
 </blockquote>
 <p>"Trade today isn’t just about moving goods, it’s about moving trust. With
 TradeTrust, every document speaks a universal digital language—secure,
 verifiable, and recognised worldwide. This pilot proves that interoperability
 can break down barriers, making trade seamless, secure, and smarter."</p>
 <blockquote>
-<p>Looking ahead, what do you see as the biggest opportunities and challenges
-in driving adoption of fully digital, interoperable trade processes across
-the supply chain?</p>
+<p><strong>Looking ahead, what do you see as the biggest opportunities and challenges in driving adoption of fully digital, interoperable trade processes across the supply chain?</strong>
+</p>
 </blockquote>
 <p>"The real opportunity is a frictionless flow of trusted data, where documents,
 payments, and logistics connect in real time. That drives faster decisions,
@@ -50,6 +48,23 @@ how we see the future of trade unfolding."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ZenithBlox Fully Integrates TradeTrust to Enable Compliance and Interoperability at Scale" src="/images/02_Article1_01.png">
 </div>
+<p>ZenithBlox, an enterprise blockchain integration platform modernising
+global finance and trade, has taken a major leap forward by fully integrating
+TradeTrust into its Universal Adapters.</p>
+<p>With TradeTrust now embedded, institutions gain the power to:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Authenticate Source &amp; Integrity" src="/images/02_Article1_bullet_01.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Transfer Legal Title" src="/images/02_Article1_bullet_02.png">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Connect Seamlessly" src="/images/02_Article1_bullet_03.png">
+</div>
+<p>This complete integration enables enterprises and financial institutions
+to adopt TradeTrust-compliant workflows within existing infrastructure
+- such as Enterprise Resource Planning (ERP) systems, core banking platforms,
+and Customer Relationship Management (CRM) tools - via ZenithBlox’s plug-and-play
+adapters. In practice, this unlocks:</p>
