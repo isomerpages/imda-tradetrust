@@ -175,18 +175,15 @@ adoption of cross-border eBLs acrossthe region.</p>
 it easier and more intuitive for users to explore, create, and verify digital
 trade documents.</p>
 <p>Key updates include:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Document Gallery, Refreshed UI, Streamlined platform structure, Magic.Link login" src="/images/05_TechUpdates_01B.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="View the Document Gallery" src="/images/05_TechUpdates_01C_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://ref.tradetrust.io"><img style="width: 100%" height="auto" width="100%" alt="New Document Gallery, Refreshed UI, Streamlined platform structure, Magic.Link login" src="/images/05_TechUpdates_01B.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://gallery.tradetrust.io/"><img style="width: 100%" height="auto" width="100%" alt="View the Document Gallery" src="/images/05_TechUpdates_01C_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Verifiable Credential Data Model 2.0" src="/images/05_TechUpdates_02.png">
 </div>
+<p>TrustVC now supports the W3C Verifiable Credentials Data Model v2.0, ensuring
+your credentials align with the latest global standards.</p>
+<p>Why it matters:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -213,6 +210,10 @@ trade documents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="New Securing Mechanism: Elliptic Curve Digital Signature Algorithm (ECDSA)" src="/images/05_TechUpdates_03.png">
 </div>
+<p>TrustVC now supports the Elliptic Curve Digital Signature Algorithm (ECDSA)
+- a widely adopted standard for generating secure, efficient digital signatures.</p>
+<p>With this, enterprises can now issue Verifiable Credentials directly using
+third-party Key Management Service. This enables:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
