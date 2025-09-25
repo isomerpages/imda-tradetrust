@@ -236,19 +236,13 @@ third-party Key Management Service. This enables:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Find out more about these upgrades" src="/images/05_TechUpdates_04_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://docs.tradetrust.io/docs/migration-guide/w3c-vc-v2"><img style="width: 100%" height="auto" width="100%" alt="Find out more about these upgrades" src="/images/05_TechUpdates_04_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
 <p>Stay updated on exclusive tech insights, events, and roundtable discussions.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Join our Tech community" src="/images/06_Join_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/68c3a327373d1c41589be132"><img style="width: 100%" height="auto" width="100%" alt="Join our Tech community" src="/images/06_Join_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
@@ -261,16 +255,10 @@ third-party Key Management Service. This enables:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/-YD21elPXxs?si=iggQ3wKtCSAlCa41"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record cross-border trade through TradeTrust" src="/images/07_footer_right.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/F1-l7mrRXD8?si=0-APaKSy80xnCw6r"><img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record cross-border trade through TradeTrust" src="/images/07_footer_right.jpg"></a>
 </td>
 </tr>
 </tbody>
