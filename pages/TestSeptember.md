@@ -97,8 +97,17 @@ fit for the digital economy, empowering key stakeholders:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Government Agencies &amp; Trade Facilitators" src="/images/02_Article1_bullet_09.png">
 </div>
+<p>By embedding TradeTrust at the infrastructure level, ZenithBlox and TradeTrust
+are removing barriers to compliance-first, interoperable cross-border trade—making
+this partnership a cornerstone for the future of trusted digital commerce.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quote by Ashwin Safaya, Chief Business Development Officer - APAC" src="/images/02_Article1_quote2.png">
+</div>
+<p>Join us in shaping this transformation. Explore opportunities to partner
+with TradeTrust.</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Become a Partner" src="/images/02_Article1_CTA.png">
+</div>
 <p></p>
 <p></p>
