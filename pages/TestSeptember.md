@@ -52,10 +52,7 @@ how we see the future of trade unfolding."</p>
 an enterprise blockchain integration platform modernising global finance
 and trade, has taken a major leap forward by fully integrating TradeTrust
 into its Universal Adapters.</p>
-<p>With TradeTrust now embedded, institutions gain the power to:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Authenticate Source &amp; Integrity" src="/images/02_Article1_bullet_01.png">
-</div>
+<p>With TradeTrust now embedded, institutions gain the power to:</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/white-paper-transfer-of-model-law-on-electronic-transferable-records-compliant-titles/"><img style="width: 100%" height="auto" width="100%" alt="Authenticate Source &amp; Integrity" src="/images/02_Article1_bullet_01.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transfer Legal Title" src="/images/02_Article1_bullet_02.png">
@@ -154,7 +151,7 @@ joined the Singapore Pavilion at the 2025 World Smart Industry Expo (WSIE),
 held from 5 to 8 September 2025, in Chongqing to spotlight trusted, interoperable
 digital trade solutions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="通商互信" src="/images/04_Article3_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="贸易数字化:通商互信" src="/images/04_Article3_02.png">
 </div>
 <p>TradeTrust demonstrated how electronic Bills of Lading (eBLs) can make
 cross-border trade faster, less costly and more secure across different
