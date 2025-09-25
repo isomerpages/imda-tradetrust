@@ -68,3 +68,37 @@ to adopt TradeTrust-compliant workflows within existing infrastructure
 - such as Enterprise Resource Planning (ERP) systems, core banking platforms,
 and Customer Relationship Management (CRM) tools - via ZenithBlox’s plug-and-play
 adapters. In practice, this unlocks:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Support for Legally Valid Electronic Transferable Records (ETRs)" src="/images/02_Article1_bullet_04.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Real-Time Verification &amp; Traceability" src="/images/02_Article1_bullet_05.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Integrated Interoperability" src="/images/02_Article1_bullet_06.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quote by Fodé Touré, Founder &amp; CEO of ZenithBlox" src="/images/02_Article1_quote.png">
+</div>
+<h4>Strategic Fit for the Digital Economy</h4>
+<p>This integration goes beyond technical alignment—it represents a strategic
+fit for the digital economy, empowering key stakeholders:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Central Banks &amp; Financial Institutions" src="/images/02_Article1_bullet_07.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Multinational Enterprises" src="/images/02_Article1_bullet_08.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Government Agencies &amp; Trade Facilitators" src="/images/02_Article1_bullet_09.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
