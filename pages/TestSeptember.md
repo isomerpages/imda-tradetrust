@@ -132,5 +132,19 @@ foundation, enabling them to navigate the rigorous assessment process confidentl
 and efficiently. Coupled with technical alignment via TradeTrust’s Token
 Registry v5, the platforms could meet IG P&amp;I’s requirements for system
 reliability, transfer rejection, and record management.</p>
+<h4>Be next in line to achieve deemed approval</h4>
+<p>TradeTrust’s tested legal and technical frameworks remove the guesswork
+and accelerate approval for platforms issuing eBLs.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learn more about TradeTrust's legal framework" src="/images/03_Article2_CTA.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Showcasing Singapore’s Digital Trade Leadershipat WSIE 2025" src="/images/04_Article3_01.png">
+</div>
 <p></p>
