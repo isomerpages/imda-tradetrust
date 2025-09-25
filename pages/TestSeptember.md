@@ -255,4 +255,29 @@ trade documents.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Join our Tech community" src="/images/06_Join_CTA.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record cross-border trade through TradeTrust" src="/images/07_footer_right.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
