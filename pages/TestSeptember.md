@@ -116,6 +116,21 @@ with TradeTrust.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Milestone: First Two Platforms AchieveIG P&amp;I Deemed Approval" src="/images/03_Article2_01.png">
 </div>
-<p></p>
+<p>TradeTrust’s Model Terms has helped two TradeTrust-enabled platforms -
+Credore and Blockpeer - expedite and secure International Group of Protection
+and Indemnity Clubs (IG P&amp;I) deemed approval, making them the first
+platforms to reach this milestone.</p>
+<p>Credore achieved deemed approval in just over 40 days, becoming the first
+TradeTrust-enabled platform able to issue electronic Bills of Lading (eBLs)
+that are covered by the IG P&amp;I. Blockpeer has since joined as the second
+platform to be approved. This demonstrates how TradeTrust’s legal and technical
+frameworks are designed to simplify compliance with complex international
+standards, while ensuring interoperability and reliability for cross-border
+trade.</p>
+<p>By leveraging TradeTrust’s Model Terms, both platforms gain a solid legal
+foundation, enabling them to navigate the rigorous assessment process confidently
+and efficiently. Coupled with technical alignment via TradeTrust’s Token
+Registry v5, the platforms could meet IG P&amp;I’s requirements for system
+reliability, transfer rejection, and record management.</p>
 <p></p>
 <p></p>
