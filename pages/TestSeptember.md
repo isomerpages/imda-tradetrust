@@ -147,4 +147,23 @@ and accelerate approval for platforms issuing eBLs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Showcasing Singapore’s Digital Trade Leadershipat WSIE 2025" src="/images/04_Article3_01.png">
 </div>
+<p>As Singapore marked 10 years of the China–Singapore (Chongqing) Connectivity
+Initiative (CCI) and 35 years of diplomatic relations with China, TradeTrust
+joined the Singapore Pavilion at the 2025 World Smart Industry Expo (WSIE),
+held from 5 to 8 September 2025, in Chongqing to spotlight trusted, interoperable
+digital trade solutions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shawdia" src="/images/04_Article3_02.png">
+</div>
+<p>TradeTrust demonstrated how electronic Bills of Lading (eBLs) can make
+cross-border trade faster, less costly and more secure across different
+platforms. The showcase featured the successful trade digitalisation projects
+between China-Singapore trade lane, where live shipments were completed
+entirely digitally with eBL using TradeTrust framework and other electronic
+trade documents — removing the inefficiencies of paper-based documentation
+and breaking down digital silos.</p>
+<p>Singapore’s participation at WSIE 2025 reinforces TradeTrust’s leadership
+in building trusted global digital infrastructure, paving the way for wider
+adoption of cross-border eBLs acrossthe region.</p>
+<p></p>
 <p></p>
