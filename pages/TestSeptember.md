@@ -105,9 +105,17 @@ this partnership a cornerstone for the future of trusted digital commerce.</p>
 </div>
 <p>Join us in shaping this transformation. Explore opportunities to partner
 with TradeTrust.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Become a Partner" src="/images/02_Article1_CTA.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Milestone: First Two Platforms AchieveIG P&amp;I Deemed Approval" src="/images/03_Article2_01.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
