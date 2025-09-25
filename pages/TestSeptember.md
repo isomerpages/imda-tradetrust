@@ -166,4 +166,79 @@ and breaking down digital silos.</p>
 in building trusted global digital infrastructure, paving the way for wider
 adoption of cross-border eBLs acrossthe region.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Discover how TradeTrust is shaping the future of digital trade" src="/images/04_Article3_CTA.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Website &amp; UI Enhancements" src="/images/05_TechUpdates_01.png">
+</div>
+<p>We’ve overhauled the user experience across TradeTrust’s ecosystem, making
+it easier and more intuitive for users to explore, create, and verify digital
+trade documents.</p>
+<p>Key updates include:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Document Gallery, Refreshed UI, Streamlined platform structure, Magic.Link login" src="/images/05_TechUpdates_01B.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="View the Document Gallery" src="/images/05_TechUpdates_01C_CTA.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Verifiable Credential Data Model 2.0" src="/images/05_TechUpdates_02.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Global standard compliance" src="/images/05_TechUpdates_02_bullet1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interoperability" src="/images/05_TechUpdates_02_bullet2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Securing Mechanism: Elliptic Curve Digital Signature Algorithm (ECDSA)" src="/images/05_TechUpdates_03.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Managed key control" src="/images/05_TechUpdates_03_bullet1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Regulatory readiness" src="/images/05_TechUpdates_03_bullet2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
