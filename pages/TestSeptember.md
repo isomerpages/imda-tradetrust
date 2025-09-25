@@ -102,10 +102,7 @@ this partnership a cornerstone for the future of trusted digital commerce.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Quote by Ashwin Safaya, Chief Business Development Officer - APAC" src="/images/02_Article1_quote2.png">
 </div>
 <p>Join us in shaping this transformation. Explore opportunities to partner
-with TradeTrust.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Become a Partner" src="/images/02_Article1_CTA.png">
-</div>
+with TradeTrust.</p><a class="isomer-image-wrapper" href="www.tradetrust.io/community/tradetrust-ready-partners/"><img style="width: 100%" height="auto" width="100%" alt="Become a Partner" src="/images/02_Article1_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
@@ -115,9 +112,9 @@ with TradeTrust.</p>
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Milestone: First Two Platforms AchieveIG P&amp;I Deemed Approval" src="/images/03_Article2_01.png">
 </div>
 <p>TradeTrust’s Model Terms has helped two TradeTrust-enabled platforms -
-Credore and Blockpeer - expedite and secure International Group of Protection
-and Indemnity Clubs (IG P&amp;I) deemed approval, making them the first
-platforms to reach this milestone.</p>
+<a href="https://www.credore.xyz/" rel="noopener nofollow" target="_blank">Credore</a>and Blockpeer - expedite and secure International Group of
+Protection and Indemnity Clubs (IG P&amp;I) deemed approval, making them
+the first platforms to reach this milestone.</p>
 <p>Credore achieved deemed approval in just over 40 days, becoming the first
 TradeTrust-enabled platform able to issue electronic Bills of Lading (eBLs)
 that are covered by the IG P&amp;I. Blockpeer has since joined as the second
