@@ -102,7 +102,7 @@ this partnership a cornerstone for the future of trusted digital commerce.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Quote by Ashwin Safaya, Chief Business Development Officer - APAC" src="/images/02_Article1_quote2.png">
 </div>
 <p>Join us in shaping this transformation. Explore opportunities to partner
-with TradeTrust.</p><a class="isomer-image-wrapper" href="www.tradetrust.io/community/tradetrust-ready-partners/"><img style="width: 100%" height="auto" width="100%" alt="Become a Partner" src="/images/02_Article1_CTA.png"></a>
+with TradeTrust.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/community/tradetrust-ready-partners/"><img style="width: 100%" height="auto" width="100%" alt="Become a Partner" src="/images/02_Article1_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
@@ -164,7 +164,7 @@ adoption of cross-border eBLs across the region.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h2>TECH UPDATES</h2>
+<h4><strong>TECH UPDATES</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Website &amp; UI Enhancements" src="/images/05_TechUpdates_01.png">
 </div>
@@ -244,6 +244,7 @@ third-party Key Management Service. This enables:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
+<h4><strong>About TradeTrust</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
