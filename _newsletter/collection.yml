@@ -2,6 +2,5 @@ collections:
   newsletter:
     output: true
     order:
-      - TradeTrust Newsletter September 2025.md
       - TradeTrust Newsletter May 2025.md
       - TradeTrust Newsletter July 2025.md
