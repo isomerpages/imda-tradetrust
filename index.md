@@ -37,7 +37,7 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
-        - title: "Driving Global Trade Forward: The Latest from TradeTrust Newsletter
+        - title: "Driving Digital Trade Forward: The Latest from TradeTrust Newsletter
             Sep’25 Issue"
           date: 26 September 2025
           announcement: "This edition brings big leaps in trade digitalisation: live
