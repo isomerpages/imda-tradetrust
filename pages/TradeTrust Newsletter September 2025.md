@@ -262,3 +262,8 @@ third-party Key Management Service. This enables:</p>
 </tbody>
 </table>
 <p></p>
+<blockquote>
+<p><a href="https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download</u></a> a
+copy of this newsletter</p>
+</blockquote>
+<p></p>
