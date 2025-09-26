@@ -1,6 +1,6 @@
 ---
 title: TradeTrust Newsletter Issue 9
-date: 2023-01-25
+date: 2023-09-25
 layout: file
 description: ""
 image: ""

@@ -37,6 +37,16 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Driving Global Trade Forward: The Latest from TradeTrust Newsletter
+            Sep’25 Issue"
+          date: 26 September 2025
+          announcement: "This edition brings big leaps in trade digitalisation: live
+            interoperable pilots, platform approvals under IG P&I, and
+            ZenithBlox’s full integration with TradeTrust. Plus, discover
+            enhanced Verifiable Credentials, ECDSA support, and a refreshed user
+            journey across our platforms."
+          link_text: Read more
+          link_url: https://www.tradetrust.io/tradetrust-newsletter-september-2025/
         - title: "TradeTrust @ WSIE 2025: Proudly shaping our future"
           date: 06 September 2025
           announcement: At the 2025 World Smart Industry Expo (WSIE), we stood alongside
@@ -56,16 +66,6 @@ sections:
             smarter and faster.
           link_text: Read more
           link_url: https://www.tradetrust.io/files/Newsletter/TradeTrust_Newsletter_July_2025.pdf
-        - title: TradeTrust Partner Credore Secures IG P&I Deemed Approval in Just Over 40
-            Days
-          date: 01 July 2025
-          announcement: Backed by TradeTrust’s legal and technical frameworks, Credore
-            secured swift deemed approval from the International Group of P&I
-            clubs (IG P&I), demonstrating that TradeTrust is
-            implementation-ready, with tested frameworks designed to meet global
-            requirements.
-          link_text: More
-          link_url: https://www.tradetrust.io/tradetrust-partner-credore-secures-ig-p-i-deemed-approval-in-just-over-40-days/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?

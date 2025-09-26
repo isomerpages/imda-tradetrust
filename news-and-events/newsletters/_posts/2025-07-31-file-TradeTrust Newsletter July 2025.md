@@ -1,6 +1,6 @@
 ---
 title: TradeTrust Newsletter July 2025
-date: 2025-07-29
+date: 2025-07-31
 layout: file
 description: ""
 image: ""

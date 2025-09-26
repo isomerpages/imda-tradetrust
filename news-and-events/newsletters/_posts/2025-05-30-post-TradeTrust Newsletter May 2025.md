@@ -1,8 +1,11 @@
 ---
 title: TradeTrust Newsletter May 2025
 permalink: /tradetrust-newsletter-may-2025/
-variant: tiptap
+date: 2025-05-30
+layout: post
 description: TradeTrust Newsletter May 2025
+image: ""
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Newsletter Masthead" src="/images/01_Masthead_v2.jpg">
@@ -345,7 +348,7 @@ Stay tuned for the launch in June!</p>
 </table>
 <p></p>
 <blockquote>
-<p><a href="https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download</u></a> a
+<p><a href="/files/TradeTrust_Newsletter_May2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> a
 copy of this newsletter</p>
 </blockquote>
 <p></p>
