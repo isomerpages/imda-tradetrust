@@ -39,7 +39,7 @@ sections:
       announcement_items:
         - title: "Driving Global Trade Forward: The Latest from TradeTrust Newsletter
             Sep’25 Issue"
-          date: 29 September 2025
+          date: 26 September 2025
           announcement: "This edition brings big leaps in trade digitalisation: live
             interoperable pilots, platform approvals under IG P&I, and
             ZenithBlox’s full integration with TradeTrust. Plus, discover
