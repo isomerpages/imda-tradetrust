@@ -345,6 +345,9 @@ Stay tuned for the launch in June!</p>
 </table>
 <p></p>
 <blockquote>
-<p>Download a copy of this newsletter</p>
+<blockquote>
+<p><a href="https://www.tradetrust.io/files/TradeTrust_Newsletter_May2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download</u></a> a
+copy of this newsletter</p>
+</blockquote>
 </blockquote>
 <p></p>
