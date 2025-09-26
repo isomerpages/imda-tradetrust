@@ -164,7 +164,7 @@ adoption of cross-border eBLs across the region.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4><strong>TECH UPDATES</strong></h4>
+<h4><strong>Tech Updates</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Website &amp; UI Enhancements" src="/images/05_TechUpdates_01.png">
 </div>
