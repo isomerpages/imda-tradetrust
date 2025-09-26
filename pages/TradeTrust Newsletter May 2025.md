@@ -344,3 +344,7 @@ Stay tuned for the launch in June!</p>
 </tbody>
 </table>
 <p></p>
+<blockquote>
+<p>Download a copy of this newsletter</p>
+</blockquote>
+<p></p>
