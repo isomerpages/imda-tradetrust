@@ -1,5 +1,4 @@
 collections:
   newsletter:
     output: true
-    order:
-      - TradeTrust Newsletter July 2025.md
+    order: []
