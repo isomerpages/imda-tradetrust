@@ -324,4 +324,31 @@ Stay tuned for the launch in June!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
 <h4><strong>About TradeTrust</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<blockquote>
+<p><a href="/files/TradeTrust_Newsletter_May2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> a
+copy of this newsletter</p>
+</blockquote>
 <p></p>
