@@ -265,5 +265,8 @@ third-party Key Management Service. This enables:</p>
 </tbody>
 </table>
 <p></p>
-<p>To <a href="/files/Newsletter/TradeTrust_newsletter_8.pdf" rel="noopener noreferrer nofollow" target="_blank">download </a>
-</p>
+<blockquote>
+<p> <a href="/files/Newsletter/Tradetrust_Newsletter_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> a
+copy of this newsletter</p>
+</blockquote>
+<p></p>
