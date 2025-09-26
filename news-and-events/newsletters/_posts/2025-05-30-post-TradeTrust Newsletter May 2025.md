@@ -309,10 +309,7 @@ tailored for the industry.</p>
 <li>
 <p>More intuitive and accessible navigation</p>
 </li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Experience our newreference implementation design" src="/images/06_Article4_02_button.png">
-</div>
+</ul><a class="isomer-image-wrapper" href="https://github.com/TradeTrust/token-registry"><img style="width: 100%" height="auto" width="100%" alt="Experience our newreference implementation design" src="/images/06_Article4_02_button.png"></a>
 <p><strong>Coming Soon: New Document Gallery</strong>
 </p>
 <p>Get ready to explore our curated gallery of real-world documents that
