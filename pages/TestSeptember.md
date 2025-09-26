@@ -158,11 +158,8 @@ trade documents — removing the inefficiencies of paper-based documentation
 and breaking down digital silos.</p>
 <p>Singapore’s participation at WSIE 2025 reinforces TradeTrust’s leadership
 in building trusted global digital infrastructure, paving the way for wider
-adoption of cross-border eBLs acrossthe region.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover how TradeTrust is shaping the future of digital trade" src="/images/04_Article3_CTA.png">
-</div>
+adoption of cross-border eBLs across the region.</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/showcasing-singapore-s-digital-trade-leadership-at-wsie-2025-tradetrust-in-focus/"><img style="width: 100%" height="auto" width="100%" alt="Discover how TradeTrust is shaping the future of digital trade" src="/images/04_Article3_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
