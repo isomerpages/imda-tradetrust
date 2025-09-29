@@ -70,10 +70,9 @@ solutions globally.</p>
 <p>This recognition as a digital public good further strengthens TradeTrust’s
 role in advancing inclusive, open digital ecosystems, building on successful
 pilot collaborations with partners such as those in China, India, France,
-Abu Dhabi and Australia.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learn more about the DPG Registry" src="/images/02_Ar1_Jul2025_CTA.png">
-</div>
+Abu Dhabi and Australia.</p><a class="isomer-image-wrapper" href="https://www.digitalpublicgoods.net/registry"><img style="width: 100%" height="auto" width="100%" alt="Learn more about the DPG Registry" src="/images/02_Ar1_Jul2025_CTA.png"></a>
+<p><em>For enquiries on the DPGA, reach out to <a href="mailto:hello@digitalpublicgoods.net" rel="noopener noreferrer nofollow" target="_blank">hello@digitalpublicgoods.net</a></em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
@@ -129,6 +128,60 @@ platforms. The MoU outlines joint workstreams to focus on legal and technical
 alignment, assess business feasibility, and meet compliance requirements.
 The goal is to establish a trusted foundation for scalable, cross-platform
 interoperability.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Read the announcement here" src="/images/04_Ar3_Jul2025_CTA.png">
+</div>
+<h4>What this means for TradeTrust</h4>
+<p>This industry collaboration marks a step forward in the adoption of TradeTrust
+as a common, open framework that enables interoperability without requiring
+all parties to be on the same platform. Built to align with W3C Verifiable
+Credentials specifications and the United Nations Commission On International
+Trade Law (UNCITRAL) Model Law on Electronic Transferable Records (MLETR),
+TradeTrust allows documents to be digitally signed, tamper-evident, independently
+verifiable, and legally enforceable across borders.</p>
+<p>For carriers and platforms, this represents progress towards a more interconnected
+digital trade environment. TradeTrust enables co-operation amongst systems
+through ensuring document integrity, provenance, and legal recognition
+across them. The MoU reinforces TradeTrust’s role as a neutral enabler
+that bridges systems and stakeholders - supporting collaboration across
+the ecosystem instead of fragmentation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<h4>Tech Updates</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Document Handling Improvements" src="/images/05_TechUpdates_Jul2025.jpg">
+</div>
+<p>We’ve added features to make document creation and verification more developer-friendly
+and interoperable:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New document creator helper function added to the TrustVC repository" src="/images/05_TechUpdates_Jul2025_bullet1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="QR code functionality for W3C Verifiable Credentials, making sharing and verification more portable" src="/images/05_TechUpdates_Jul2025_bullet2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Explore our repository" src="/images/05_TechUpdates_Jul2025_CTA.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
