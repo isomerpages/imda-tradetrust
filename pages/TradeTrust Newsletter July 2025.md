@@ -119,7 +119,16 @@ that enables trusted, cross-platform exchange of trade documents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Industry Spotlight: Advancing eBL Interoperability - CMA CGM and Partners Signs MoU" src="/images/04_Ar3_Jul2025.jpg">
 </div>
-<p></p>
+<p>CMA CGM has signed a Memorandum of Understanding (MoU) with CargoX, eTEU,
+ICE, and SGTraDex to collaborate on enabling seamless interoperability
+of electronic Bills of Lading (eBLs) across various platforms using the
+TradeTrust framework.</p>
+<p>This collaboration aims to tackle existing fragmentation in the digital
+trade ecosystem by enabling the secure exchange of eBLs across various
+platforms. The MoU outlines joint workstreams to focus on legal and technical
+alignment, assess business feasibility, and meet compliance requirements.
+The goal is to establish a trusted foundation for scalable, cross-platform
+interoperability.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
