@@ -144,7 +144,7 @@ the ecosystem instead of fragmentation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<h4>Tech Updates</h4>
+<h4><strong>Tech Updates</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Document Handling Improvements" src="/images/05_TechUpdates_Jul2025.jpg">
 </div>
@@ -177,7 +177,7 @@ and interoperable:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
-<h4>About Tradetrust</h4>
+<h4><strong>About Tradetrust</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
