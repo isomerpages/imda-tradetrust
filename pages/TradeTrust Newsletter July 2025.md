@@ -104,10 +104,7 @@ bridge legal and technical gaps in digital trade documentation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Recent recognition of TradeTrust as a Digital Public Good" src="/images/03_Ar2_Jul2025_bullet4.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read the full article" src="/images/03_Ar2_Jul2025_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mag.wcoomd.org/magazine/wco-news-107-issue-2-2025/tradetrusts-journey-since-2021/"><img style="width: 100%" height="auto" width="100%" alt="Read the full article" src="/images/03_Ar2_Jul2025_CTA.png"></a>
 <p>This feature affirms growing international support for <strong>open, MLETR-aligned</strong> infrastructure
 that enables trusted, cross-platform exchange of trade documents.</p>
 <p></p>
@@ -128,10 +125,7 @@ platforms. The MoU outlines joint workstreams to focus on legal and technical
 alignment, assess business feasibility, and meet compliance requirements.
 The goal is to establish a trusted foundation for scalable, cross-platform
 interoperability.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read the announcement here" src="/images/04_Ar3_Jul2025_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.cma-cgm.com/local/singapore/news/221/cma-cgm-and-partners-ink-memorandum-of-understanding-to-advance-blockchain-enabled-interoperability-of-electronic-bill-of-lading"><img style="width: 100%" height="auto" width="100%" alt="Read the announcement here" src="/images/04_Ar3_Jul2025_CTA.png"></a>
 <h4>What this means for TradeTrust</h4>
 <p>This industry collaboration marks a step forward in the adoption of TradeTrust
 as a common, open framework that enables interoperability without requiring
@@ -178,10 +172,7 @@ and interoperable:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Explore our repository" src="/images/05_TechUpdates_Jul2025_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://github.com/TrustVC/trustvc"><img style="width: 100%" height="auto" width="100%" alt="Explore our repository" src="/images/05_TechUpdates_Jul2025_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
@@ -195,16 +186,10 @@ and interoperable:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=-YD21elPXxs"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="World’s first live Electronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_right.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=F1-l7mrRXD8"><img style="width: 100%" height="auto" width="100%" alt="World’s first live Electronic Transferable Record (ETR) cross-border trade through TradeTrust" src="/images/07_footer_right.jpg"></a>
 </td>
 </tr>
 </tbody>
