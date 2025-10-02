@@ -16,11 +16,11 @@ variant: tiptap
 </div>
 <p>Yit Hong Pte Ltd, a leading Singapore-based canned food supplier with
 nearly seven decades of heritage, recently took part in the world’s first
-interoperable digital Documents-against-Payment (D/P) trade pilot between
-Beijing and Singapore. Partnering COFCO Industrial Food, Pacific International
-Lines (PIL) and multiple financial institutions, Yit Hong completed a secure
-D/P transaction via interoperable platforms (AEOTrade and SGTraDex) using
-TradeTrust-enabled electronic Bills of Lading (eBLs).</p>
+interoperable digital <a href="https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/" rel="noopener nofollow" target="_blank">Documents-against-Payment (D/P) trade pilot between Beijing and Singapore.</a> Partnering
+COFCO Industrial Food, Pacific International Lines (PIL) and multiple financial
+institutions, Yit Hong completed a secure D/P transaction via interoperable
+platforms (AEOTrade and SGTraDex) using TradeTrust-enabled electronic Bills
+of Lading (eBLs).</p>
 <p>In this edition, we hear from Mr Ted S.L. Ngo, CEO of Yit Hong, on the
 global impact of such interoperability and the future of fully digitised,
 interoperable trade ecosystems:</p>
@@ -266,7 +266,7 @@ third-party Key Management Service. This enables:</p>
 </table>
 <p></p>
 <blockquote>
-<p> <a href="/files/Newsletter/Tradetrust_Newsletter_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> a
+<p><a href="/files/Newsletter/Tradetrust_Newsletter_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> a
 copy of this newsletter</p>
 </blockquote>
 <p></p>
