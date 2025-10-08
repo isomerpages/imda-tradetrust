@@ -65,7 +65,7 @@ sections:
             interoperability, and unveil tech updates to make document handling
             smarter and faster.
           link_text: Read more
-          link_url: https://www.tradetrust.io/files/Newsletter/TradeTrust_Newsletter_July_2025.pdf
+          link_url: https://www.tradetrust.io/tradetrust-newsletter-july-2025/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
