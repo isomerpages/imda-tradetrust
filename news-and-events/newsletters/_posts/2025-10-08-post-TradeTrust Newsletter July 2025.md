@@ -199,7 +199,8 @@ and interoperable:</p>
 </table>
 <p></p>
 <blockquote>
-<p><a href="https://www.tradetrust.io/files/Newsletter/Tradetrust_Newsletter_July_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download</u></a> a
+<p><a href="/files/Newsletter/Tradetrust_Newsletter_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Dow</a>
+<a href="/files/TradeTrust_Newsletter_July_2025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Newsletter/Tradetrust_Newsletter_September_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">nload</a> a
 copy of this newsletter</p>
 </blockquote>
 <p></p>
