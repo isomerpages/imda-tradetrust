@@ -386,7 +386,7 @@ and a<strong> reduction in the risk of fraud.</strong>
 <p></p>
 <p>The<strong> ExxonMobil trial</strong> builds on cooperation with industry
 partners like ExxonMobil to encourage the use of Electronic Transferable
-Records (ETRs) like Bills of Lading and facilitate cross-border trade</p>
+Records (ETRs) like Bills of Lading and facilitate cross-border trade.</p>
 <p><em>“This pilot is part of ExxonMobil’s efforts to increase our supply chain resiliency through digitalisation of business processes. We welcome frameworks like TradeTrust as an important part of our journey towards digitalization. Such frameworks increase efficiency and cost savings while maintaining high standards and trust, and we hope that this successful trial will lead to increased interest from industry to adopt similar standards,</em>”
 said <strong>Mr Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution Manager, ExxonMobil Asia Pacific</strong>.</p>
 <div class="iframe-wrapper">
