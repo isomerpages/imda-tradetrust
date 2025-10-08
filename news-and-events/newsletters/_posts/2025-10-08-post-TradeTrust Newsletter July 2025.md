@@ -199,7 +199,7 @@ and interoperable:</p>
 </table>
 <p></p>
 <blockquote>
-<p><a href="TradeTrust_Newsletter_July_2025" rel="noopener noreferrer nofollow" target="_blank"><u>Download</u></a> a
+<p><a href="https://www.tradetrust.io/files/Newsletter/Tradetrust_Newsletter_July_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download</u></a> a
 copy of this newsletter</p>
 </blockquote>
 <p></p>
