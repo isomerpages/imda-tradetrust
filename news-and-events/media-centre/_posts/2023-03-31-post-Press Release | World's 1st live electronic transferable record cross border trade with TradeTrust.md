@@ -12,8 +12,9 @@ variant: tiptap
 for global trade as the Infocomm Media Development Authority (IMDA) partnered
 industry players and successfully executed a live shipment from Singapore
 to Thailand during Q1 2023. This fully paperless, live cross-border trade
-involved the use of an ETR, that is functionally equivalent to a paper
-Bill of Lading (BL) using Singapore’s TradeTrust framework.</p>
+involved the use of an Electronic Transferable Record (ETR), that is functionally
+equivalent to a paper Bill of Lading (BL) using Singapore’s TradeTrust
+framework.</p>
 <p>Pioneered by IMDA, TradeTrust was designed to address the challenges of
 paper-based cross-border trades, leveraging international standards and
 frameworks, utilising blockchain-powered technology to enable digitalisation
@@ -82,6 +83,10 @@ said Mr Loh Sin Yong, Director, TradeTrust, IMDA.</p>
 <p><em>“This pilot is part of ExxonMobil’s efforts to increase our supply chain resiliency through digitalisation of business processes. We welcome frameworks like TradeTrust as an important part of our journey towards digitalization. Such frameworks increase efficiency and cost savings while maintaining high standards and trust, and we hope that this successful trial will lead to increased interest from industry to adopt similar standards,</em>”
 said Mr Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution
 Manager, ExxonMobil Asia Pacific.</p>
+<p>Learn from participants' insights in this video</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F1-l7mrRXD8?si=_XjNmQ3az8YMfqbO"></iframe>
+</div>
 <p></p>
 <p>See the <a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-partners-industry-to-conduct-worlds-first-live-electronic-transferable-record-cross-border-trade" rel="noopener noreferrer nofollow" target="_blank">full press release</a> on
 IMDA's official website.</p>

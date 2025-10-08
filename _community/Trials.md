@@ -384,6 +384,16 @@ and a<strong> reduction in the risk of fraud.</strong>
 </div>
 <p>MTI TradeTrust Pilot Case Study Video</p>
 <p></p>
+<p>The<strong> ExxonMobil trial</strong> builds on cooperation with industry
+partners like ExxonMobil to encourage the use of Electronic Transferable
+Records (ETRs) like Bills of Lading and facilitate cross-border trade.</p>
+<p><em>“This pilot is part of ExxonMobil’s efforts to increase our supply chain resiliency through digitalisation of business processes. We welcome frameworks like TradeTrust as an important part of our journey towards digitalization. Such frameworks increase efficiency and cost savings while maintaining high standards and trust, and we hope that this successful trial will lead to increased interest from industry to adopt similar standards,</em>”
+said <strong>Mr Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution Manager, ExxonMobil Asia Pacific</strong>.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F1-l7mrRXD8?si=Yvx4B3WiPHaMZZSb"></iframe>
+</div>
+<p>ExxonMobil<em> </em>TradeTrust Use Case Video</p>
+<p></p>
 <p>The<strong> Singapore and Netherlands trial</strong> saw significant time
 savings in the Bill of Lading (BL) documentation process from an average
 of <strong>six to 10 days when using a hardcopy, to less than 24 hours when using an electronic BL</strong>.</p>
