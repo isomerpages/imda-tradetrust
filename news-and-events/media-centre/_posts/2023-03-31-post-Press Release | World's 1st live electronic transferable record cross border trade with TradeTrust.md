@@ -12,8 +12,9 @@ variant: tiptap
 for global trade as the Infocomm Media Development Authority (IMDA) partnered
 industry players and successfully executed a live shipment from Singapore
 to Thailand during Q1 2023. This fully paperless, live cross-border trade
-involved the use of an ETR, that is functionally equivalent to a paper
-Bill of Lading (BL) using Singapore’s TradeTrust framework.</p>
+involved the use of an Electronic Transferable Record (ETR), that is functionally
+equivalent to a paper Bill of Lading (BL) using Singapore’s TradeTrust
+framework.</p>
 <p>Pioneered by IMDA, TradeTrust was designed to address the challenges of
 paper-based cross-border trades, leveraging international standards and
 frameworks, utilising blockchain-powered technology to enable digitalisation
