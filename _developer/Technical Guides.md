@@ -168,11 +168,8 @@ assistance.</p>
 <p></p>
 <blockquote>
 <p>To reach our tech support, <a href="https://github.com/TrustVC/trustvc/issues" rel="noopener noreferrer nofollow" target="_blank">create an issue</a> or
-<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a>.</p>
-<p><a href="https://form.gov.sg/68c3a327373d1c41589be132" rel="noopener nofollow" target="_blank">Join</a> our
+<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank">contact us</a>. <a href="https://form.gov.sg/68c3a327373d1c41589be132" rel="noopener nofollow" target="_blank">Join</a> our
 technical community.</p>
-<p></p>
-<p></p>
 </blockquote>
 <p></p>
 <p></p>
