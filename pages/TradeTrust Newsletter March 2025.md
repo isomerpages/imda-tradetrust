@@ -13,7 +13,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Spotlight featuring Lingraj Mahanand, CEO &amp; Founder of Credore" src="/images/01_Spotlight.jpg">
 </div>
 <blockquote>
-<p><strong>Why is Trade Digitalisationimportant to you?</strong>
+<p><strong>Why is Trade Digitalisation important to you?</strong>
 </p>
 </blockquote>
 <p>Trade digitalisation streamlines cross-border trade by replacing cumbersome
