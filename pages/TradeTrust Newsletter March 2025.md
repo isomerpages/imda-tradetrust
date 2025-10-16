@@ -83,4 +83,37 @@ of digital solutions in the trade finance ecosystem.</p>
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust is upgraded with Token RegistryVersion 5" src="/images/03_Article1.jpg">
+</div>
+<p>Version 5 of our Token Registry smart contracts introduces significant
+updates to improve functionality, control, and compliance with IG P&amp;I
+requirements. These enhancements provide robust features for managing transferable
+records effortlessly while ensuring alignment with industry standards.</p>
+<p>Key updates include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fully compatible with TrustVC, offering simplified signing and verification
+processes for W3C Verifiable Credentials and Open Attestation Verifiable
+Documents</p>
+</li>
+<li>
+<p>Support for Remark Field</p>
+</li>
+<li>
+<p>Reject functions</p>
+</li>
+</ul>
+<p>Make the easy transition to Token Registry v5 for effortless, secure trade
+digitalisation with our step-by-step guide.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Click here for more details on Token Registry v5" src="/images/03_Button.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
+<h4>We are pleased to announce that TradeTrustis now available on the ASTRON network.</h4>
+<p></p>
 <p></p>
