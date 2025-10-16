@@ -114,7 +114,7 @@ digitalisation with our step-by-step guide.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
-<h4>We are pleased to announce that TradeTrustis now available on the ASTRON network.</h4>
+<h4>We are pleased to announce that TradeTrust is now available on the ASTRON network.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Building a Trusted Connected World with ASTRON" src="/images/04_Article2.jpg">
 </div>
