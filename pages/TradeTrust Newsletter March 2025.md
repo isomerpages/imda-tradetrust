@@ -247,7 +247,6 @@ limits. Welcome to ASTRON—where trust meets technology.</p><a class="isomer-im
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
 <h4><strong>About TradeTrust</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
