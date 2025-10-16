@@ -52,8 +52,35 @@ innovation in cross-border digital trade regulations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
-<h4>Catch Episode 3 Ofthe TradeTrust Podcast </h4>
+<h4>Catch Episode 3 Ofthe TradeTrust Podcast</h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z9nw31X0pXw?si=W-urVwCEBMu_ih0C"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z9nw31X0pXw?si=W-urVwCEBMu_ih0C"></iframe>
 </div>
+<p><strong>Special Guest for Episode 3:</strong> Dr Tom James, CIO, CEO and
+Co-Founder of TradeFlow</p>
+<p>Listen to Thought Leaders’ views and opinions on Trade Digitalisation,
+with Industry Experts covering diverse perspectives. Hosted by Mr Loh Sin
+Yong, Senior Principal Consultant of TradeTrust, this episode dives into
+trade finance and how the digitalisation of trade documents and processes
+addresses the trade finance gap and touches on the importance of the scalability
+of digital solutions in the trade finance ecosystem.</p>
+<p>Listen to Thought Leaders’ views and opinions on Trade Digitalisation,
+with Industry Experts covering diverse perspectives. Hosted by Mr Loh Sin
+Yong, Senior Principal Consultant of TradeTrust, this episode dives into
+trade finance and how the digitalisation of trade documents and processes
+addresses the trade finance gap and touches on the importance of the scalability
+of digital solutions in the trade finance ecosystem.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Transforming Trade Financing With Tokenised ePN." src="/images/02_COFCO_Info.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
+<p></p>
 <p></p>
