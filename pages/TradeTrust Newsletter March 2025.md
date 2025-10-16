@@ -202,5 +202,66 @@ compliance. Partnering with Siemens’ SiGREEN platform, ASTRON provides
 trusted carbon footprint auditing and traceability services, helping export
 companies streamline carbon audits, meet international disclosure requirements,
 and strengthen global competitiveness.</p>
+<h4><strong>Why ASTRON Matters</strong></h4>
+<p>In an increasingly digital world, ASTRON serves as a beacon of trust and
+innovation, addressing critical challenges:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EnhancingSecurity. Blockchain technology ensures data immutability and security" src="/images/04_Article2_photo4_01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Promoting Transparency. Decentralization fosters transaction transparency" src="/images/04_Article2_photo4_02.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DrivingInnovation by removing collaboration barriers" src="/images/04_Article2_photo4_03.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>ASTRON is more than a platform — it’s a movement toward a trusted digital
+future. Whether you’re a developer creating next-generation applications,
+a business optimizing global operations, or an individual prioritizing
+privacy and security, ASTRON provides a secure, transparent, and connected
+ecosystem.</p>
+<p>Join us in shaping the future of digital trust. Together, we can unlock
+the full potential of global connectivity and drive innovation without
+limits. Welcome to ASTRON—where trust meets technology.</p><a class="isomer-image-wrapper" href="https://astron.bitfactory.cn/home"><img style="width: 100%" height="auto" width="100%" alt="Learn more at astron.bitfactory.cn/home" src="/images/04_Article2_photo5_button.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
+<h4><strong>About TradeTrust</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/-YD21elPXxs?si=IzP_KtG4dOBlklIz"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/F1-l7mrRXD8?si=sP71jsLODZ06zoR7"><img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record cross-border trade through TradeTrust" src="/images/07_footer_right.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
