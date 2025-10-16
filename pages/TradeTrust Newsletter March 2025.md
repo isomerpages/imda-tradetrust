@@ -52,7 +52,7 @@ innovation in cross-border digital trade regulations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
-<h4><strong>Catch Episode 3 of the TradeTrust Podcast</strong></h4>
+<h4>Catch Episode 3 of the TradeTrust Podcast</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z9nw31X0pXw?si=W-urVwCEBMu_ih0C"></iframe>
 </div>
