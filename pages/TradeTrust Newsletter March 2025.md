@@ -180,4 +180,27 @@ and end-users:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ASTRON AI Platform" src="/images/04_Article2_photo3_05.png">
 </div>
+<p>3. Industry-Specific Solutions</p>
+<p>ASTRON’s infrastructure is designed to address industry-specific challenges,
+driving innovation in trade, sustainability, and AI governance.</p>
+<p>Cross-Border Trade: ASTRON enhances transaction verification, reducing
+costs and delays while improving transparency. Its collaboration with TradeTrust
+enables secure and efficient Electronic Bill of Lading services, accelerating
+the transition to paperless trade. ASTRON has become an officially supported
+underlying infrastructure within the TradeTrust framework. Its fully crypto-free
+solution powers the China-Singapore Electronic Bill of Lading pilot, ensuring
+efficiency, security, and compliance. Together, ASTRON and TradeTrust are
+driving digital transformation and innovation in global cross-border trade.
+ASTRON U Code establishes a trusted product testing and certification system,
+facilitating seamless digital trade between nations. Additionally, through
+its partnership with MYEG, ASTRON offers Certificate of Origin verification
+and Enterprise Trade Financing, expediting customs clearance and lowering
+financing costs for businesses.</p>
+<p>Sustainability: ASTRON’s carbon credit management system ensures precise
+tracking and verification of carbon offsets, enhancing accountability and
+compliance. Partnering with Siemens’ SiGREEN platform, ASTRON provides
+trusted carbon footprint auditing and traceability services, helping export
+companies streamline carbon audits, meet international disclosure requirements,
+and strengthen global competitiveness.</p>
+<p></p>
 <p></p>
