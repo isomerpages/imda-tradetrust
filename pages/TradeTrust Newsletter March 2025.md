@@ -180,7 +180,7 @@ and end-users:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ASTRON AI Platform" src="/images/04_Article2_photo3_05.png">
 </div>
-<p>3. Industry-Specific Solutions</p>
+<h4>3. Industry-Specific Solutions</h4>
 <p>ASTRON’s infrastructure is designed to address industry-specific challenges,
 driving innovation in trade, sustainability, and AI governance.</p>
 <p>Cross-Border Trade: ASTRON enhances transaction verification, reducing
