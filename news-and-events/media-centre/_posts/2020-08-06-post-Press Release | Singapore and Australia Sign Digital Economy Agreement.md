@@ -35,8 +35,6 @@ technology; and cross-border data sharing projects.</p>
 <p>The SADEA is the second Digital Economy Agreement that Singapore has signed,
 following the signing of the Digital Economy Partnership Agreement (DEPA)
 with Chile and New Zealand in June this year.</p>
-<p>More details on Singapore’s digital economy agreements, the full text
-of SADEA, and information on the various MOUs, can be found at: <a href="https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements</u></a>.</p>
 <p></p>
 <p>Jointly issued by the Ministry of Trade and Industry (MTI), Ministry of
 Communications and Information (MCI) and the Infocomm Media Development
