@@ -52,7 +52,7 @@ innovation in cross-border digital trade regulations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
-<h4>Catch Episode 3 of the TradeTrust Podcast</h4>
+<h4><strong>Catch Episode 3 of the TradeTrust Podcast</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z9nw31X0pXw?si=W-urVwCEBMu_ih0C"></iframe>
 </div>
@@ -106,10 +106,7 @@ Documents</p>
 </ul>
 <p>Make the easy transition to Token Registry v5 for effortless, secure trade
 digitalisation with our step-by-step guide.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Click here for more details on Token Registry v5" src="/images/03_Button.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://docs.tradetrust.io/docs/migration-guide/igp-i"><img style="width: 100%" height="auto" width="100%" alt="Click here for more details on Token Registry v5" src="/images/03_Button.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
