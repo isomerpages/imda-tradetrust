@@ -36,8 +36,7 @@ with New Zealand.</p>
 initiatives such as the SME Go Digital programme and Nationwide E-invoicing
 Network, which are aligned to DEPA, to reach more international markets
 and enjoy the benefits of participating in the digital economy.</p>
-<p>More details on digital economy agreements can be found here: <a href="https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements/Digital-Economy-Agreements" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mti.gov.sg/Improving-Trade/Free-Trade-Agreements/Digital-Economy-Agreements</u></a>
-</p>
+<p></p>
 <p><strong>Resources:</strong>
 </p>
 <ul data-tight="true" class="tight">
