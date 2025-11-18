@@ -1,7 +1,7 @@
 ---
-title: TradeTrust Newsletter March2025
+title: TradeTrust Newsletter March 2025
 permalink: /tradetrust-newsletter-mar-2025/
-date: 2025-11-11
+date: 2025-03-24
 layout: post
 description: ""
 image: ""
