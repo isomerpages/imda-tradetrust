@@ -37,6 +37,16 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Breaking the eBL Silos: Thought Leadership on Interoperability in
+            Digital Trade"
+          date: 11 November 2025
+          announcement: In our latest thought leadership, we delve into why the widespread
+            adoption of electronic Bills of Lading (eBLs) has stalled and how
+            interoperability is the missing link. With fragmented, siloed
+            platforms hindering progress, we explore the efforts being made
+            across the industry to bridge the gap.
+          link_text: Read more
+          link_url: https://www.tradetrust.io/break-the-ebl-silos-why-interoperability-is-the-missing-link-in-digital-trade/
         - title: "Driving Digital Trade Forward: The Latest from TradeTrust Newsletter
             Sep’25 Issue"
           date: 26 September 2025
@@ -56,16 +66,6 @@ sections:
             trade across borders.
           link_text: Read more
           link_url: https://www.tradetrust.io/showcasing-singapore-s-digital-trade-leadership-at-wsie-2025-tradetrust-in-focus/
-        - title: "Scaling Digital Trade with Confidence: The Latest from TradeTrust
-            Newsletter July'25 Issue"
-          date: 31 July 2025
-          announcement: We’re scaling new heights in digital trade. In this issue, we
-            celebrate TradeTrust's recognition as a Digital Public Good,
-            highlight our WCO feature, spotlight new strides in eBL
-            interoperability, and unveil tech updates to make document handling
-            smarter and faster.
-          link_text: Read more
-          link_url: https://www.tradetrust.io/tradetrust-newsletter-july-2025/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
