@@ -23,7 +23,7 @@ processes.&nbsp;</p>
 <p>We are honoured to be recognised by a world-renowned organisation which
 reinforces TradeTrust’s standing as a trusted, interoperable and legally
 compliant framework driving the future of global trade.&nbsp;</p>
-<h3>A Milestone Project&nbsp;</h3>
+<h3>A Milestone Project</h3>
 <p>The case study featured in the article involved a live transaction between
 COFCO Industrial Food and Yit Hong Pte Ltd, the first interoperable digital
 D/P for live trade involving major exporters, importers, banks, and carriers.&nbsp;</p>
