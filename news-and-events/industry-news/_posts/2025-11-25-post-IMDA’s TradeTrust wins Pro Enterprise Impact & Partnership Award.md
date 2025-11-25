@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>This year, at the 2025 Pro-Enterprise Panel-Singapore Business Federation
-(PEP-SBF) Awards<u> held on 25 November 2025</u>, TradeTrust won the Pro-Enterprise
+(PEP-SBF) Award<u>s held on 25 November 2025, </u>TradeTrust won the Pro-Enterprise
 Impact &amp; Partnership Award for our project on <a href="https://www.tradetrust.io/beijing-and-singapore-launch-interoperable-digital-documents-against-payment-trade-corporation/" class="Hyperlink TrackedChange TrackChangeHyperlinkInstruction SCXW163969043 BCX0" rel="noreferrer noopener" target="_blank"><u>Interoperable Digital Documents Against Payment (D/P)</u></a>.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pro-Enterprise Impact &amp; Partnership Award" src="/images/JJ013028.jpg">
