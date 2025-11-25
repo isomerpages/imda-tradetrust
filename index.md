@@ -37,6 +37,15 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: IMDA’s TradeTrust wins Pro-Enterprise Impact & Partnership Award
+          date: 25 November 2025
+          announcement: Awarded at the Pro-Enterprise Panel-Singapore Business Federation
+            Awards, TradeTrust was recognised for enabling the  world’s first
+            interoperable Digital Documents Against Payment trial and
+            championing strong and innovative public-private  collaboration in
+            the international trade sector.
+          link_text: Read more
+          link_url: https://www.tradetrust.io/imda-s-tradetrust-wins-pro-enterprise-impact-partnership-award/
         - title: "Breaking the eBL Silos: Thought Leadership on Interoperability in
             Digital Trade"
           date: 11 November 2025
@@ -47,25 +56,16 @@ sections:
             across the industry to bridge the gap.
           link_text: Read more
           link_url: https://www.tradetrust.io/break-the-ebl-silos-why-interoperability-is-the-missing-link-in-digital-trade/
-        - title: "Driving Digital Trade Forward: The Latest from TradeTrust Newsletter
-            Sep’25 Issue"
-          date: 26 September 2025
-          announcement: "This edition brings big leaps in trade digitalisation: live
-            interoperable pilots, platform approvals under IG P&I, and
-            ZenithBlox’s full integration with TradeTrust. Plus, discover
-            enhanced Verifiable Credentials, ECDSA support, and a refreshed user
-            journey across our platforms."
+        - title: ASTRON Network Earns “Outstanding” Recognition at the 2025 WIC Wuzhen
+            Summit
+          date: 06 November 2025
+          announcement: ASTRON Network presents its case at the 2025 World Internet
+            Conference Wuzhen Summit as one of 12 selected Outstanding Cases,
+            highlighting the global significance of using TradeTrust-enabled
+            Digital Documents against Payment in enhancing global trade
+            efficiency and security.
           link_text: Read more
-          link_url: https://www.tradetrust.io/tradetrust-newsletter-september-2025/
-        - title: "TradeTrust @ WSIE 2025: Proudly shaping our future"
-          date: 06 September 2025
-          announcement: At the 2025 World Smart Industry Expo (WSIE), we stood alongside
-            groundbreaking innovations to showcase AEOTrade’s successful
-            adoption of TradeTrust, demonstrating the real-world benefits of a
-            framework that enables trusted, seamless, and interoperable digital
-            trade across borders.
-          link_text: Read more
-          link_url: https://www.tradetrust.io/showcasing-singapore-s-digital-trade-leadership-at-wsie-2025-tradetrust-in-focus/
+          link_url: https://www.tradetrust.io/astron-network-earns-outstanding-recognition-at-the-2025-world-internet-conference-wuzhen-summit/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
