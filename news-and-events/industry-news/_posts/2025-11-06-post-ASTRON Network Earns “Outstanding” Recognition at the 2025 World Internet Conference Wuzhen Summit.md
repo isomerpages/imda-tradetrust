@@ -95,10 +95,11 @@ Summit underscores the significance of our work and the global importance
 of digital interoperability in trade finance and logistics, with TradeTrust
 being a key enabler of this transformation.</p>
 <p>Partner with TradeTrust to be part of a future where digital trade is
-more efficient and secure.&nbsp;.</p>
-<p>s<a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener nofollow" target="_blank">Contact </a> today
-and shape the future of global trade with us.</p>
+more efficient and secure.</p>
 <blockquote>
-<p>Explore the award ceremony here (Chinese): <a href="https://mp.weixin.qq.com/s/T3nQUN04Hd6jVOAPnQhSag" rel="noopener noreferrer nofollow" target="_blank"><u>https://mp.weixin.qq.com/s/T3nQUN04Hd6jVOAPnQhSag</u></a>&nbsp;</p>
+<p><a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener nofollow" target="_blank">Contact us </a>today
+and shape the future of global trade with us.</p>
+<p><a href="https://mp.weixin.qq.com/s/T3nQUN04Hd6jVOAPnQhSag" rel="noopener nofollow" target="_blank">Explore</a> the
+award ceremony here (Chinese).</p>
 </blockquote>
-<p>s</p>
+<p></p>
