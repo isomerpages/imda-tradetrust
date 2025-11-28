@@ -139,10 +139,7 @@ and growth in global trade.</p>
 <p>This recognition reaffirms TradeTrust’s impact on enhancing cross-border
 trade by enabling secure and efficient exchanges of electronic Bills of
 Lading and other trade documents.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read the full story here" src="/images/02_Article1_03_CTA_Readfullstoryhere.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/imda-s-tradetrust-wins-pro-enterprise-impact-partnership-award/"><img style="width: 100%" height="auto" width="100%" alt="Read the full story here" src="/images/02_Article1_03_CTA_Readfullstoryhere.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
