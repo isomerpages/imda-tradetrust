@@ -37,6 +37,15 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: TradeTrust Newsletter November 2025
+          date: 28 November 2025
+          announcement: TradeTrust continues to drive the future of digital trade. From
+            global recognition in ICC UK's latest report to award-winning
+            projects and new thought leadership, discover how TradeTrust is
+            advancing cross-platform interoperability, enabling faster, more
+            secure, and sustainable trade.
+          link_text: Read more
+          link_url: https://www.tradetrust.io/tradetrust-newsletter-november-2025/
         - title: IMDA’s TradeTrust wins Pro-Enterprise Impact & Partnership Award
           date: 25 November 2025
           announcement: Awarded at the Pro-Enterprise Panel-Singapore Business Federation
@@ -56,16 +65,6 @@ sections:
             across the industry to bridge the gap.
           link_text: Read more
           link_url: https://www.tradetrust.io/break-the-ebl-silos-why-interoperability-is-the-missing-link-in-digital-trade/
-        - title: ASTRON Network Earns “Outstanding” Recognition at the 2025 WIC Wuzhen
-            Summit
-          date: 06 November 2025
-          announcement: ASTRON Network presents its case at the 2025 World Internet
-            Conference Wuzhen Summit as one of 12 selected Outstanding Cases,
-            highlighting the global significance of using TradeTrust-enabled
-            Digital Documents against Payment in enhancing global trade
-            efficiency and security.
-          link_text: Read more
-          link_url: https://www.tradetrust.io/astron-network-earns-outstanding-recognition-at-the-2025-world-internet-conference-wuzhen-summit/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
