@@ -228,22 +228,6 @@ cross-platform interoperability.</p>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/F1-l7mrRXD8?si=0-APaKSy80xnCw6r"><img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record cross-border trade through TradeTrust" src="/images/07_footer_right.jpg"></a>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
+<p>Download a copy of this newsletter</p>
