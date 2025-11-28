@@ -186,10 +186,7 @@ trusted digital environment.”</p>
 <p>We are incredibly proud to have been part of this milestone with ASTRON
 and look forward to furthering the impact of digital trust in the global
 trade community.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read more about this achievement" src="/images/04_Article3_3_CTA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/astron-network-earns-outstanding-recognition-at-the-2025-world-internet-conference-wuzhen-summit/"><img style="width: 100%" height="auto" width="100%" alt="Read more about this achievement" src="/images/04_Article3_3_CTA.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
@@ -213,13 +210,43 @@ industry efforts, including standardisation and bilateral platform partnerships,
 and highlight how the lack of a common "highway" between platforms has
 kept eBLs from reaching their full potential.</p>
 <p>As the digital trade landscape evolves, understanding these interoperability
-challenges is crucial to navigating the future of global trade.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read the full article" src="/images/05_Article4_3_CTA.png">
-</div>
+challenges is crucial to navigating the future of global trade.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/break-the-ebl-silos-why-interoperability-is-the-missing-link-in-digital-trade/"><img style="width: 100%" height="auto" width="100%" alt="Read the full article" src="/images/05_Article4_3_CTA.png"></a>
 <p>Stay tuned for Part 2, where we’ll dive into how TradeTrust can unlock
 cross-platform interoperability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
+<h4>About Tradetrust</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/-YD21elPXxs?si=iggQ3wKtCSAlCa41"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/07_footer_left.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/F1-l7mrRXD8?si=0-APaKSy80xnCw6r"><img style="width: 100%" height="auto" width="100%" alt="World’s first liveElectronic Transferable Record cross-border trade through TradeTrust" src="/images/07_footer_right.jpg"></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
