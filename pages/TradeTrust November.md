@@ -27,7 +27,7 @@ Supply Chain Management Sales at UOB, about the significance of digital
 transformation in trade finance and the path forward for increased adoption
 of digital trade:</p>
 <blockquote>
-<p><strong>Given your experience with the Digital Documents against Payment (D/P) Trial, how do you assess TradeTrust’s potential to enhance global trade security, migrate fraud risks and improve efficiency in global trade? </strong>
+<p><strong>Given your experience with the Digital Documents against Payment (D/P) Trial, how do you assess TradeTrust’s potential to enhance global trade security, migrate fraud risks and improve efficiency in global trade?</strong>
 </p>
 </blockquote>
 <p>"The digital issuance and transfer of eBLs allow banks to efficiently
