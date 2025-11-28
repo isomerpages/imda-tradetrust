@@ -233,4 +233,8 @@ cross-platform interoperability.</p>
 </tr>
 </tbody>
 </table>
-<p>Download a copy of this newsletter</p>
+<blockquote>
+<p><a href="/files/Newsletter/tradetrust_newsletter_november2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> a
+copy of this newsletter</p>
+</blockquote>
+<p></p>
