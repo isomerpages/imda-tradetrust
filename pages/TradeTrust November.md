@@ -148,6 +148,78 @@ Lading and other trade documents.</p>
 <img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ASTRON Network Earns “Outstanding” Recognition at the 2025 World Internet Conference Wuzhen Summit" src="/images/04_Article3_ASTRON.png">
+</div>
+<p>We are proud to announce that ASTRON Network’s case, “Building Global
+Cross-Border Digital Trust Bridges, Co-Creating an Open and Trusted Digital
+Ecosystem,” was selected as an exemplary case in the Network Infrastructure
+Construction category at the 2025 World Internet Conference Wuzhen Summit.
+The case was presented during the “Release and Presentation of Outstanding
+Cases of Jointly Building a Community with a Shared Future in Cyberspace”
+ceremony, showcasing twelve outstanding initiatives from over 300 submissions.</p>
+<p>ASTRON is a crypto-less EVM compatible Layer-2 public blockchain variant
+developed by the China Academy of Information and Communications Technology
+(CAICT) to support Chinese international trading. In the Digital Documents
+against Payment (D/P) project, ASTRON highlighted its collaboration with
+TradeTrust, demonstrating how the use of trusted electronic trade documents
+across different platforms can advance global trade. This project showcased
+how TradeTrust’s interoperability and secure framework, enabled by public
+blockchain technology, helped ASTRON advance cross-border digital trade.</p>
+<p>TradeTrust relies on public blockchain technology, enabled by Ethereum,
+Polygon, XDC, ASTRON (crypto-less), and STABILITY (crypto-less), to electronically
+endorse and transfer ownership of documents among stakeholders along a
+trade flow. Public blockchains allow for an open and interoperable system,
+enabling all international parties to participate.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 World Internet Conference Wuzhen Summit" src="/images/04_Article3_2Image.png">
+</div>
+<p>Li Haihua, Deputy Head of the Informatisation and Institute for Industrial
+Internet &amp; Internet of Things (IIIIoT) at the CAICT, noted TradeTrust’s
+involvement in the project, stating, “The successful collaboration between
+the ASTRON Network and TradeTrust is a prime example of building an open
+and trusted digital ecosystem. By enabling the digital transmission and
+mutual recognition of trade documents through blockchain technology, the
+partnership has significantly enhanced the efficiency and security of cross-border
+trade, while providing a replicable pathway for developing an open and
+trusted digital environment.”</p>
+<p>We are incredibly proud to have been part of this milestone with ASTRON
+and look forward to furthering the impact of digital trust in the global
+trade community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Read more about this achievement" src="/images/04_Article3_3_CTA.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Thought Leadership:Breaking the eBL Silos in Digital Trade" src="/images/05_Article4_Breaking_eBL_Silos.png">
+</div>
+<p>The digital trade ecosystem has long struggled with fragmented systems
+that hinder the widespread adoption of electronic Bills of Lading (eBLs).
+With only 5% of the 45 million Bills of Lading issued each year being electronic,
+the promise of seamless, global digital trade remains largely unfulfilled.
+The root cause? A lack of interoperability across proprietary eBL platforms,
+where each system operates as a closed ecosystem.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breaking through the eBL silos in digital trade" src="/images/05_Article4_2Image.png">
+</div>
+<p>In our latest thought leadership piece, we explore why interoperability
+is the critical missing link for scaling eBL adoption. We examine current
+industry efforts, including standardisation and bilateral platform partnerships,
+and highlight how the lack of a common "highway" between platforms has
+kept eBLs from reaching their full potential.</p>
+<p>As the digital trade landscape evolves, understanding these interoperability
+challenges is crucial to navigating the future of global trade.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Read the full article" src="/images/05_Article4_3_CTA.png">
+</div>
+<p>Stay tuned for Part 2, where we’ll dive into how TradeTrust can unlock
+cross-platform interoperability.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
 <p></p>
