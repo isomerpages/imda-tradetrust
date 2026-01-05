@@ -97,7 +97,7 @@ utilises blockchain technology to deliver multi-enterprise supply chain
 business networks.</div>
 <div class="isomer-card-link">more ...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.docklab.nl/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklabs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docklab</div><div class="isomer-card-description">Develops breakthrough emerging technology solutions to accelerate the energy transition and transform supply chains into viable ventures.</div><div class="isomer-card-link">more ...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://docklab.nl/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Docklab" src="/images/Partner Logos/Docklabs_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Docklab</div><div class="isomer-card-description">Develops breakthrough emerging technology solutions to accelerate the energy transition and transform supply chains into viable ventures.</div><div class="isomer-card-link">more ...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://docsonblocks.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -111,7 +111,7 @@ TradeTrust for blockchain-backed, verifiable, transferable documents in
 international trade.</div>
 <div class="isomer-card-link">more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.docushield.live/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="/images/Partner Logos/docushield_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DocuShield</div><div class="isomer-card-description">Provides digital trade across the Americas by offering secure, compliant documentation solutions tailored for MSME and facilitating simplified global commerce.</div><div class="isomer-card-link">more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://docushield.live/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DocuShield" src="/images/Partner Logos/docushield_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DocuShield</div><div class="isomer-card-description">Provides digital trade across the Americas by offering secure, compliant documentation solutions tailored for MSME and facilitating simplified global commerce.</div><div class="isomer-card-link">more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://docutrade.io/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

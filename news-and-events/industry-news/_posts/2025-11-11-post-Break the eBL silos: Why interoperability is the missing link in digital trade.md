@@ -142,6 +142,6 @@ many of these approaches still require complex coordination, proprietary
 agreements, or central registries. What’s needed is a <strong>truly open, neutral “highway” for eBLs</strong> that
 any platform or company can use, without negotiating bespoke deals each
 time. This is where <strong>TradeTrust</strong> comes in.</p>
-<p><strong>In the next part, we’ll dive into how TradeTrust creates the open highway for global trade interoperability.</strong>
+<p><strong>In </strong><a href="https://www.tradetrust.io/break-the-ebl-silos-tradetrust-creates-the-open-highway-for-global-trade-interoperability/" rel="noopener nofollow" target="_blank">Part 2</a><strong>, we’ll dive into how TradeTrust creates the open highway for global trade interoperability.</strong>
 <br>
 </p>
