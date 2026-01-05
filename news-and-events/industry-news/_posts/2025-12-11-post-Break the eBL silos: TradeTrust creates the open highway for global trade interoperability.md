@@ -10,8 +10,9 @@ variant: tiptap
 ---
 <p><em>This article is brought to you by The Infocomm Media Development Authority of Singapore (<a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>IMDA</u></a>).</em>
 </p>
-<p>In Part 1, we outlined how eBL adoption has stalled because today’s platforms
-operate as walled gardens, making cross-platform transfers costly or impossible.
+<p>In <a href="break-the-ebl-silos-why-interoperability-is-the-missing-link-in-digital-trade/" rel="noopener nofollow" target="_blank">Part 1</a> Part
+1, we outlined how eBL adoption has stalled because today’s platforms operate
+as walled gardens, making cross-platform transfers costly or impossible.
 While efforts like DCSA’s standards, ITFA’s DNI work, and select bilateral
 integrations show progress, they still depend on bespoke coordination and
 closed arrangements. What the industry needs is an open, neutral “highway”
