@@ -17,7 +17,7 @@ integrations show progress, they still depend on bespoke coordination and
 closed arrangements. What the industry needs is an open, neutral “highway”
 for secure, legally recognised transfer of title across systems – this
 is where TradeTrust comes in.</p>
-<h4><strong>TradeTrust: An open, neutral, and decentralised solution</strong></h4>
+<h3><strong>TradeTrust: An open, neutral, and decentralised solution</strong></h3>
 <p><strong>TradeTrust</strong>  <strong>is an open-source framework</strong> developed
 by Singapore’s Infocomm Media Development Authority (IMDA) specifically
 to crack the interoperability challenge. Unlike proprietary solutions or
@@ -101,7 +101,7 @@ supports the interoperability of electronic transferable records, both
 technically and legally. In short, TradeTrust now addresses <strong>both halves of the puzzle</strong> –
 how systems talk to each other, and how to ensure the law (and insurers)
 recognise the outcome.</p>
-<h4><strong>Empowering platforms, not undermining them</strong></h4>
+<h3><strong>Empowering platforms, not undermining them</strong></h3>
 <p>Unlike bilateral integrations or proprietary standards, TradeTrust is
 a digital public good that is <strong>open, neutral, and vendor-agnostic</strong>.
 A critical point for shipping lines and digital platform providers: <strong>TradeTrust is <em>not</em> a competitor to eBL platforms or trade tech </strong>solution<strong> providers.</strong> Instead,
@@ -158,7 +158,7 @@ You can think of it this way: inside a “city” (platform) you use the local
 roads, but TradeTrust is the highway that connects all the cities. It ensures
 you can always reach another community if you need to, without each city
 having to build custom roads to every other.</p>
-<h4><strong>TradeTrust in action: A cross-platform eBL journey</strong></h4>
+<h3><strong>TradeTrust in action: A cross-platform eBL journey</strong></h3>
 <p>To make this concrete, let’s walk through an illustrative scenario of
 how an IG P&amp;I-approved eBL platform could use TradeTrust to extend
 its reach:</p>
@@ -250,7 +250,7 @@ no change. TradeTrust was only invoked at the point of external transfer.
 This dual approach – <strong>proprietary standards for in-platform, open standards for cross-platform</strong> –
 means platforms don’t have to overhaul their entire system to benefit.
 They simply add a “TradeTrust module” for interoperability.</p>
-<h4><strong>Adopting TradeTrust: Easy on-ramp and model clauses</strong></h4>
+<h3><strong>Adopting TradeTrust: Easy on-ramp and model clauses</strong></h3>
 <p>A common misconception is that adopting an interoperability framework
 like TradeTrust would be arduous. As a matter of fact, <strong>TradeTrust is designed for ease of adoption</strong>.
 It is provided as an <strong>open-source software</strong>, with reference
@@ -301,7 +301,7 @@ through more reliable trade documentation. These endorsements from early
 adopters underscore that TradeTrust works in practice and delivers value
 (faster transactions, financing ease, etc.) while keeping everyone’s risk
 in check.</p>
-<h4><strong>Future-proofing trade – A call to action</strong></h4>
+<h3><strong>Future-proofing trade – A call to action</strong></h3>
 <p>The digital trade ecosystem stands at a crossroads. Major carriers have
 pledged 100% eBL adoption by 2030, and regulators are removing legal barriers
 at a historic pace. Achieving these goals requires a <strong>collective commitment to interoperability</strong> –
