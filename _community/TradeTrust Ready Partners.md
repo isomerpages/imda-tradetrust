@@ -73,7 +73,7 @@ supply chain orchestration.</div>
 <a rel="noopener noreferrer nofollow" href="https://chaindox.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ChainDox" src="/images/Partner Logos/ChainDox.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ChainDox" src="/images/Partner Logos/ChainDoX_logo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
