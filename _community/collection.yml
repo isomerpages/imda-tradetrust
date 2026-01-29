@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - TradeTrust Readiness Programme.md
       - TradeTrust Ready Partners.md
       - Trials.md
       - Join Us.md
