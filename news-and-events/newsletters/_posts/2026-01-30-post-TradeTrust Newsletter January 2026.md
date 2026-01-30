@@ -57,6 +57,10 @@ reduce document circulation costs by 30%. For our customers, this isn’t
 just about a new feature but also being part of a proven, award-winning
 partnership that has levelled the playing field and is now scaling into
 new territories."</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="divider" src="/images/Divider.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026– Celebrating Interoperability in Digital Trade" src="/images/02_Article1_1.jpg">
 </div>
