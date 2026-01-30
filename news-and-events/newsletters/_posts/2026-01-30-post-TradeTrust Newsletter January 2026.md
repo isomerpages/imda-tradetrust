@@ -170,9 +170,22 @@ from siloed networks to open, cross-platform digital trade infrastructure.</p>
 — enabling trusted document exchange whilst ensuring exclusive control
 over title ownership transfers for electronic transferable records, such
 as TradeTrust-eBLs, across different systems in full compliance with international
-legal standards.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Register Now" src="/images/04_Article3_2.png">
-</div>
+legal standards.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/break-the-ebl-silos-tradetrust-creates-the-open-highway-for-global-trade-interoperability/"><img style="width: 100%" height="auto" width="100%" alt="Read the full article here" src="/images/04_Article3_2_new.png"></a>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/-YD21elPXxs?si=zTEfXrnmIzgpy0sI"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/05_footer_1.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/tradetrust-podcast/"><img style="width: 100%" height="auto" width="100%" alt="Catch the TradeTrust podcast series on Trade Digitalisation" src="/images/05_footer_2.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
