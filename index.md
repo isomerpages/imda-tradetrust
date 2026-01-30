@@ -37,34 +37,32 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
-        - title: TradeTrust Newsletter November 2025
-          date: 28 November 2025
-          announcement: TradeTrust continues to drive the future of digital trade. From
-            global recognition in ICC UK's latest report to award-winning
-            projects and new thought leadership, discover how TradeTrust is
-            advancing cross-platform interoperability, enabling faster, more
-            secure, and sustainable trade.
+        - title: TradeTrust Newsletter January 2026
+          date: 29 January 2026
+          announcement: From celebrating collaboration to insights of interoperability and
+            reliability, discover how TradeTrust is advancing cross-platform
+            interoperability and accelerating digital trade adoption in our
+            first Newsletter of the year.
           link_text: Read more
-          link_url: https://www.tradetrust.io/tradetrust-newsletter-november-2025/
-        - title: IMDA’s TradeTrust wins Pro-Enterprise Impact & Partnership Award
-          date: 25 November 2025
-          announcement: Awarded at the Pro-Enterprise Panel-Singapore Business Federation
-            Awards, TradeTrust was recognised for enabling the  world’s first
-            interoperable Digital Documents Against Payment trial and
-            championing strong and innovative public-private  collaboration in
-            the international trade sector.
+          link_url: https://www.tradetrust.io/tradetrust-newsletter-january-2026/
+        - title: TradeTrust Appreciation Day 2026 – Celebrating Interoperability in
+            Digital Trade
+          date: 12 January 2026
+          announcement: TradeTrust Appreciation Day returns this year, bringing even more
+            opportunities to connect, learn, and help shape the future of
+            digital trade. Join us at this exclusive annual event to experience
+            interoperability demonstration, gain valuable insights, and network
+            with the TradeTrust community.
+          link_text: Register now
+          link_url: http://go.gov.sg/tradetrustappreciation2026
+        - title: "ICC DSI Thought Leadership: Breaking the eBL silos"
+          date: 11 December 2025
+          announcement: In Part 2 of the Thought Leadership series in collaboration with
+            IMDA. The article highlights the potential of decentralised
+            interoperability, the foundations necessary to enable cross-platform
+            digital trade, and TradeTrust’s role in making it happen.
           link_text: Read more
-          link_url: https://www.tradetrust.io/imda-s-tradetrust-wins-pro-enterprise-impact-partnership-award/
-        - title: "Breaking the eBL Silos: Thought Leadership on Interoperability in
-            Digital Trade"
-          date: 11 November 2025
-          announcement: In our latest thought leadership, we delve into why the widespread
-            adoption of electronic Bills of Lading (eBLs) has stalled and how
-            interoperability is the missing link. With fragmented, siloed
-            platforms hindering progress, we explore the efforts being made
-            across the industry to bridge the gap.
-          link_text: Read more
-          link_url: https://www.tradetrust.io/break-the-ebl-silos-why-interoperability-is-the-missing-link-in-digital-trade/
+          link_url: https://www.tradetrust.io/break-the-ebl-silos-tradetrust-creates-the-open-highway-for-global-trade-interoperability/
   - infobar:
       title: TradeTrust = Framework
       subtitle: What is TradeTrust?
