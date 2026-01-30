@@ -176,7 +176,7 @@ from siloed networks to open, cross-platform digital trade infrastructure.</p>
 over title ownership transfers for electronic transferable records, such
 as TradeTrust-eBLs, across different systems in full compliance with international
 legal standards.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/break-the-ebl-silos-tradetrust-creates-the-open-highway-for-global-trade-interoperability/"><img style="width: 100%" height="auto" width="100%" alt="Read the full article here" src="/images/04_Article3_2_new.png"></a>
-<p></p>
+<h4><strong>About TradeTrust</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
