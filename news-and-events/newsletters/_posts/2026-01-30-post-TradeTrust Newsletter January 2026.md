@@ -86,9 +86,9 @@ Partner Awards</p>
 </ul>
 <p>Secure your spot today!</p><a class="isomer-image-wrapper" href="https://form.gov.sg/692eb5c4cd3c1ec2312e869a"><img style="width: 100%" height="auto" width="100%" alt="Register Now" src="/images/02_Article1_3.png"></a>
 <p>Check out the highlights from TradeTrust Appreciation Day 2025!</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://www.tradetrust.io/tradetrust-appreciation-day-event-2025/">
 <img style="width: 100%" height="auto" width="100%" alt="Appreciation Day 2025" src="/images/02_Article1_4.png">
-</div>
+</a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
@@ -123,4 +123,51 @@ legal frameworks and industry standards</p>
 <p>Ren Yuh Kay, Assistant Director at IMDA and part of the TradeTrust team,
 shared insights on how decentralised interoperability can give carriers
 confidence in managing eBLs across different platforms. As he explained:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quote" src="/images/03_Article2_2.png">
+</div>
+<p>Under the decentralised model, a carrier can rest assured that the eBL
+obligations are the very same as what has been surrendered back to it,
+since the carrier can rely on the very same file it had created to confirm
+that it has back control of the eBL title.</p>
+<p>For a deeper dive into the webinar and TradeTrust’s role in advancing
+eBL adoption,</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Read the full article here" src="/images/03_Article2_3.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Watch the webinar here" src="/images/03_Article2_4.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
