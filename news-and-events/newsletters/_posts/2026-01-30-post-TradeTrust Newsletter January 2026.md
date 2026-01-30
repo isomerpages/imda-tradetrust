@@ -198,6 +198,7 @@ legal standards.</p><a class="isomer-image-wrapper" href="https://www.tradetrust
 </tbody>
 </table>
 <blockquote>
-<p>Download a copy of this newsletter</p>
+<p><a href="/files/TradeTrust_Newsletter_Jan2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Download a copy of this newsletter</a>
+</p>
 </blockquote>
 <p></p>
