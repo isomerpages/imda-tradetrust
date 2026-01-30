@@ -140,34 +140,39 @@ eBL adoption,</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Read the full article here" src="/images/03_Article2_3.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/wfw-beyond-the-bridge-webinar-advancing-interoperability-and-reliability-for-ebl-adoption/"><img style="width: 100%" height="auto" width="100%" alt="Read the full article here" src="/images/03_Article2_3.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Watch the webinar here" src="/images/03_Article2_4.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Hdcz9bBlKSQ"><img style="width: 100%" height="auto" width="100%" alt="Watch the webinar here" src="/images/03_Article2_4.png"></a>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ICC DSI Thought Leadership: Breaking the eBL silos" src="/images/04_Article3_1.png">
+</div>
+<p>The International Chamber of Commerce Digital Standards Initiative (ICC
+DSI), together with IMDA, has published Part 2 of its thought leadership
+series on electronic Bill of Lading (eBL) interoperability — “Break the
+eBL silos: TradeTrust creates the open highway for global trade interoperability.”</p>
+<p>Building on Part 1, which examined why eBL adoption has stalled due to
+closed platform ecosystems, this edition explores how decentralised interoperability
+can unlock scale by allowing platforms to interoperate while maintaining
+legal reliability, data integrity and operational autonomy. The article
+outlines the technical, legal and governance foundations needed to move
+from siloed networks to open, cross-platform digital trade infrastructure.</p>
+<p>It also highlights how TradeTrust’s framework supports this transition
+— enabling trusted document exchange whilst ensuring exclusive control
+over title ownership transfers for electronic transferable records, such
+as TradeTrust-eBLs, across different systems in full compliance with international
+legal standards.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Register Now" src="/images/04_Article3_2.png">
+</div>
+<p></p>
 <p></p>
