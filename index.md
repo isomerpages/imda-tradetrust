@@ -41,10 +41,10 @@ sections:
           date: 29 January 2026
           announcement: From celebrating collaboration to insights of interoperability and
             reliability, discover how TradeTrust is advancing cross-platform
-            interoperability and accelerating scalable digital trade adoption in
-            our first Newsletter of the year.
+            interoperability and accelerating digital trade adoption in our
+            first Newsletter of the year.
           link_text: Read more
-          link_url: https://www.tradetrust.io/tradetrust-newsletter-november-2025/
+          link_url: https://www.tradetrust.io/tradetrust-newsletter-january-2026/
         - title: TradeTrust Appreciation Day 2026 – Celebrating Interoperability in
             Digital Trade
           date: 12 January 2026
