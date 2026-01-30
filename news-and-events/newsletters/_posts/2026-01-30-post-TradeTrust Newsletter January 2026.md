@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Newsletter January 2026" src="/images/01_MastheadJan2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Spotlight featuring Jefferson Wong" src="/images/01_Spotlight_Jefferson.jpg">
+</div>
+<p></p>
