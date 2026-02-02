@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - Who We Are.md
+      - What Is TradeTrust.md
+      - Why Adopt TradeTrust.md
+      - Legality Guide.md
