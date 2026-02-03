@@ -133,9 +133,11 @@ on&nbsp;<strong>30 April 2026</strong>.&nbsp;</p>
 <p>For more details and to apply,&nbsp;please <a href="https://gccprod.sharepoint.com/:w:/r/sites/OverseasTradeTeam/_layouts/15/Doc.aspx?sourcedoc=%7B2C8B9242-A518-4294-90AC-5149E580EA66%7D&amp;file=Grant%20Application%20Form_TT%20Readiness%20Programme.docx&amp;fromShare=true&amp;action=default&amp;mobileredirect=true" class="Hyperlink TrackedChange SCXW248206301 BCX0" rel="noreferrer noopener" target="_blank"><u>download the application form</u></a> and
 email a scanned copy, together with soft copies of any relevant supporting
 documents, to <a href="mailto:caro@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>caro@imda.gov.sg</u></a> &nbsp;</p>
-<p><a href="https://sgdcs.sgnet.gov.sg/sites/IMDA-intranet/IMG/Policy%20assets/Published%20assets/Templates/AOP%20Process/240701%20LOF%20Templates/3.3%20Schedule%203C-Guidelines%20on%20progress%20or%20final%20reports_250224.docx" class="Hyperlink TrackedChange SCXW248206301 BCX0" rel="noreferrer noopener" target="_blank"><u>Download template</u></a> for
-submission of Project Completion Report &amp; Claims&nbsp;</p>
+<p>Download template for submission of Project Completion Report &amp; Claims.</p>
+<p><a href="/files/TradeTrust Readiness Programme/tradetrust readiness programme_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> programme
+brochure.</p>
 <blockquote>
 <p><strong>For further clarifications, please contact:</strong>&nbsp; <strong><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tradetrust@imda.gov.sg</u></a></strong>&nbsp;</p>
+<p></p>
 </blockquote>
-<p>Download programme brochure&nbsp;</p>
+<p></p>
