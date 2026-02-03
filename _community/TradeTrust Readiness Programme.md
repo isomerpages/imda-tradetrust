@@ -35,7 +35,9 @@ March 2027, will provide <strong>funding of S$80,000</strong> to support
 8 DTP-Carrier pairs in their journey to digitalise and streamline trade
 documentation. Applications are now open for those who wish to be part
 of this transformative shift in global trade.&nbsp;</p>
-<p>[Insert info video here]&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HjVliNUO-FI?si=6LuWZD2Cq7O-SVKJ"></iframe>
+</div>
 <h3>Who is this for?&nbsp;</h3>
 <p>The programme is open to DTP–Carrier pairs that meet the following criteria:&nbsp;</p>
 <ol data-tight="true" class="tight">
