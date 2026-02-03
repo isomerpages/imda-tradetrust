@@ -6,25 +6,19 @@ description: ""
 ---
 <h1>Join the TradeTrust Readiness Programme – Apply today!&nbsp;</h1>
 <p>The TradeTrust Readiness Programme, supported by the Infocomm Media Development
-Authority (IMDA), invites Business Solution Providers (BSPs) and carriers
-to to apply for the <strong>S$80,000 grant</strong> to <strong>adopt the TradeTrust framework</strong> within
-the maritime trade ecosystem. &nbsp;</p>
+Authority (IMDA), invites Digital Trade Platforms (DTPs) and carriers within
+the maritime trade ecosystem to adopt the TradeTrust framework and demonstrate live,
+cross-platform interoperability for electronic Bills of Lading (eBLs).</p>
 <p>Despite the growing potential of electronic Bills of Lading (eBLs), their
 adoption has been hindered by key barriers, including interoperability
 challenges between digital platforms, the imbalance of benefits between
-BSPs and carriers, and limited scalability of existing solutions. These
+DTPs and carriers, and limited scalability of existing solutions. These
 challenges have left the industry with isolated systems and slow adoption,
 preventing the seamless exchange of eBLs across platforms and across borders.&nbsp;</p>
-<p>The TradeTrust Readiness Programme seeks to address these issues by encouraging
-collaboration between BSPs and carriers to integrate TradeTrust and demonstrate
-cross-platform interoperability. By leveraging TradeTrust, participants
-will be able to adopt a unified, secure, and legally recognized framework
-for digital trade, creating real-world use cases to showcase the benefits
-of digital Bills of Lading.&nbsp;</p>
 <p>Through this programme, we aim to:&nbsp;</p>
 <ul>
 <li>
-<p>Accelerate Industry Adoption: Bring together BSPs and carriers to integrate
+<p>Accelerate Industry Adoption: Bring together DTPs and carriers to integrate
 TradeTrust, showcasing cross-platform interoperability and creating tangible
 use cases for digital trade.&nbsp;</p>
 </li>
@@ -37,10 +31,10 @@ legal compliance, and industry-standard adoption for eBLs.&nbsp;</p>
 </li>
 </ul>
 <p>The TradeTrust Readiness Programme, running from 4 February 2026 to 31
-March 2027, will provide funding of grants S$80,000 to support 8 BSP-Carrier
-pairs in their journey to digitalise and streamline trade documentation.
-Applications are now open for those who wish to be part of this transformative
-shift in global trade.&nbsp;</p>
+March 2027, will provide <strong>funding of S$80,000</strong> to support
+8 DTP-Carrier pairs in their journey to digitalise and streamline trade
+documentation. Applications are now open for those who wish to be part
+of this transformative shift in global trade.&nbsp;</p>
 <p>[Insert info video here]&nbsp;</p>
 <h3>Who is this for?&nbsp;</h3>
 <p>The programme is open to DTP–Carrier pairs that meet the following criteria:&nbsp;</p>
@@ -50,7 +44,7 @@ shift in global trade.&nbsp;</p>
 with the lead applicant being a Singapore-registered business.&nbsp;</p>
 </li>
 <li>
-<p>TradeTrust Integration: The BSP-Carrier pair must demonstrate integration
+<p>TradeTrust Integration: The DTP-Carrier pair must demonstrate integration
 with TradeTrust and ensure that the eBLs are legally recognized and transferable,
 in compliance with relevant legal frameworks (e.g., MLETR).&nbsp;</p>
 </li>
@@ -59,13 +53,13 @@ in compliance with relevant legal frameworks (e.g., MLETR).&nbsp;</p>
 compliance with legal and technical standards.&nbsp;</p>
 </li>
 <li>
-<p>Participation Limitation: Each BSP and Carrier may only participate in
-one BSP-Carrier pair.&nbsp;</p>
+<p>Participation Limitation: Each DTP and Carrier may only participate in
+one DTP-Carrier pair.&nbsp;</p>
 </li>
 </ol>
 <h3>Funding Support&nbsp;</h3>
 <p>The <strong>TradeTrust Readiness Programme</strong> offers <strong>S$80,000</strong> in
-funding per <strong>BSP-Carrier pair</strong>. &nbsp;The funding will be
+funding per <strong>DTP-Carrier pair</strong>. &nbsp;The funding will be
 provided upon successful completion of the <strong>key milestones</strong>:&nbsp;</p>
 <ol>
 <li>
