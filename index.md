@@ -37,6 +37,16 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: TradeTrust Appreciation Day 2026 – Celebrating Interoperability in
+            Digital Trade
+          date: 04 February 2026
+          announcement: TradeTrust Appreciation Day returns this year, bringing even more
+            opportunities to connect, learn, and help shape the future of
+            digital trade. Join us at this exclusive annual event to experience
+            interoperability demonstration, gain valuable insights, and network
+            with the TradeTrust community.
+          link_text: Join us online
+          link_url: https://us06web.zoom.us/j/81142932403?pwd=NwmZAvi16arFISfw5zkdmBlyEpnBW6.1
         - title: TradeTrust Newsletter January 2026
           date: 29 January 2026
           announcement: From celebrating collaboration to insights of interoperability and
@@ -45,16 +55,6 @@ sections:
             first Newsletter of the year.
           link_text: Read more
           link_url: https://www.tradetrust.io/tradetrust-newsletter-january-2026/
-        - title: TradeTrust Appreciation Day 2026 – Celebrating Interoperability in
-            Digital Trade
-          date: 12 January 2026
-          announcement: TradeTrust Appreciation Day returns this year, bringing even more
-            opportunities to connect, learn, and help shape the future of
-            digital trade. Join us at this exclusive annual event to experience
-            interoperability demonstration, gain valuable insights, and network
-            with the TradeTrust community.
-          link_text: Join us online
-          link_url: https://us06web.zoom.us/j/81142932403?pwd=NwmZAvi16arFISfw5zkdmBlyEpnBW6.1
         - title: "ICC DSI Thought Leadership: Breaking the eBL silos"
           date: 11 December 2025
           announcement: In Part 2 of the Thought Leadership series in collaboration with
