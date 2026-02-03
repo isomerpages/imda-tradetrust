@@ -53,8 +53,8 @@ sections:
             digital trade. Join us at this exclusive annual event to experience
             interoperability demonstration, gain valuable insights, and network
             with the TradeTrust community.
-          link_text: Register now
-          link_url: http://go.gov.sg/tradetrustappreciation2026
+          link_text: Join us online
+          link_url: https://us06web.zoom.us/j/81142932403?pwd=NwmZAvi16arFISfw5zkdmBlyEpnBW6.1
         - title: "ICC DSI Thought Leadership: Breaking the eBL silos"
           date: 11 December 2025
           announcement: In Part 2 of the Thought Leadership series in collaboration with
