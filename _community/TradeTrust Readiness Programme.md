@@ -46,7 +46,7 @@ with the lead applicant being a Singapore-registered business.&nbsp;</p>
 <li>
 <p>TradeTrust Integration: The DTP-Carrier pair must demonstrate integration
 with TradeTrust and ensure that the eBLs are legally recognized and transferable,
-in compliance with relevant legal frameworks (e.g., MLETR).&nbsp;</p>
+in compliance with relevant legal frameworks (e.g. MLETR).&nbsp;</p>
 </li>
 <li>
 <p>Carrier Commitment: The Carrier must issue TradeTrust-enabled eBLs, ensuring
