@@ -88,7 +88,8 @@ integration across different systems.&nbsp;</p>
 <p>Ensure either party is not participating in another application.&nbsp;</p>
 <p><strong>Step 2: Submit Joint Application &nbsp;</strong>
 </p>
-<p>Download the application form and make one submission only.&nbsp;</p>
+<p><strong><a href="/files/TradeTrust Readiness Programme/Grant_Application_Form_TT_Readiness_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> </strong>the
+application form and make one submission only.&nbsp;</p>
 <p><strong>Step 3: Evaluation&nbsp;</strong>
 </p>
 <p>Applications will be assessed based on eligibility and programme criteria.&nbsp;</p>
@@ -130,14 +131,15 @@ starting <strong>4 February 2026</strong>.&nbsp;&nbsp;</p>
 on&nbsp;<strong>30 April 2026</strong>.&nbsp;</p>
 </li>
 </ol>
-<p>For more details and to apply,&nbsp;please <a href="https://gccprod.sharepoint.com/:w:/r/sites/OverseasTradeTeam/_layouts/15/Doc.aspx?sourcedoc=%7B2C8B9242-A518-4294-90AC-5149E580EA66%7D&amp;file=Grant%20Application%20Form_TT%20Readiness%20Programme.docx&amp;fromShare=true&amp;action=default&amp;mobileredirect=true" class="Hyperlink TrackedChange SCXW248206301 BCX0" rel="noreferrer noopener" target="_blank"><u>download the application form</u></a> and
+<p>For more details and to apply,&nbsp;please <strong><a href="/files/TradeTrust Readiness Programme/Grant_Application_Form_TT_Readiness_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">download the application form</a></strong> and
 email a scanned copy, together with soft copies of any relevant supporting
 documents, to <a href="mailto:caro@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>caro@imda.gov.sg</u></a> &nbsp;</p>
-<p>Download template for submission of Project Completion Report &amp; Claims.</p>
-<p><a href="/files/TradeTrust Readiness Programme/tradetrust readiness programme_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> programme
+<p><strong><a href="/files/TradeTrust Readiness Programme/3_3_schedule_3c_guidelines_on_progress_or_final_reports_250224.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong> template
+for submission of Project Completion Report &amp; Claims.</p>
+<p><strong><a href="/files/TradeTrust Readiness Programme/tradetrust readiness programme_brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a></strong> programme
 brochure.</p>
 <blockquote>
-<p><strong>For further clarifications, please contact:</strong>&nbsp; <strong><a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tradetrust@imda.gov.sg</u></a></strong>&nbsp;</p>
+<p>For further clarifications, please contact:&nbsp; <a href="mailto:tradetrust@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tradetrust@imda.gov.sg</u></a>&nbsp;</p>
 <p></p>
 </blockquote>
 <p></p>
