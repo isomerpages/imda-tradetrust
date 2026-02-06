@@ -37,16 +37,15 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
-        - title: TradeTrust Appreciation Day 2026 – Celebrating Interoperability in
-            Digital Trade
-          date: 04 February 2026
-          announcement: TradeTrust Appreciation Day returns this year, bringing even more
-            opportunities to connect, learn, and help shape the future of
-            digital trade. Join us at this exclusive annual event to experience
-            interoperability demonstration, gain valuable insights, and network
-            with the TradeTrust community.
-          link_text: Join us online
-          link_url: https://us06web.zoom.us/j/81142932403?pwd=NwmZAvi16arFISfw5zkdmBlyEpnBW6.1
+        - title: Beijing, Singapore and Africa Launch First Interoperable Digital Trade
+            Documents Project
+          date: 02 February 2026
+          announcement: Beijing Two-Zone Office and IMDA launch the first
+            Africa–Singapore–China interoperable digital D/P trade using
+            electronic Bills of Lading (eBLs), showcasing faster, safer
+            cross-border trade and seamless digital finance through TradeTrust.
+          link_text: Read more
+          link_url: https://www.tradetrust.io/beijing-and-singapore-launch-first-africa-singapore-china-digital-trade-documents-project/
         - title: TradeTrust Newsletter January 2026
           date: 29 January 2026
           announcement: From celebrating collaboration to insights of interoperability and
