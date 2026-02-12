@@ -33,3 +33,11 @@ connected future for global trade.</p>
 <p>Once again, thank you to all those who made the event a success. Your
 support helps us build a better future for digital trade.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Click here to view the photos from the event!" src="/images/03_Album_button.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026 photos" src="/images/04_imgs.png">
+</div>
+<p></p>
