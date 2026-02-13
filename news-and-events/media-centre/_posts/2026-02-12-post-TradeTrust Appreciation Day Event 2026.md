@@ -8,10 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026. Connect. Innovate. Transform Trade." src="/images/01_AppreciationDay26_Masthead.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026 Group shot" src="/images/02_Pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_AppreciationDay26_Masthead_v2_jpg.jpg">
 </div>
 <p>Collaboration is key in an interconnected world. With Interoperability
 as this year’s theme, Appreciation Day 2026 was a significant occasion
@@ -33,6 +30,6 @@ connected future for global trade.</p>
 support helps us build a better future for digital trade.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="footer" src="/images/03_footer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_footer2_jpg.jpg">
 </div>
 <p></p>
