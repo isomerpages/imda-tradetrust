@@ -10,7 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026. Connect. Innovate. Transform Trade." src="/images/01_AppreciationDay26_Masthead.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026 Group shot" src="/images/02_Pic.jpg">
 </div>
