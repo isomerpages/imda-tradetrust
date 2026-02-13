@@ -24,12 +24,8 @@ those who have contributed significantly to advancing interoperability
 and global trade and the launch of the TradeTrust Readiness Programme to
 support businesses in adopting interoperable digital trade solutions.</p>
 <p>As interoperable systems move from experimentation to real-world adoption,
-TradeTrust will continue to work with partners to build an open, trusted,and
-connected future for global trade.</p>
+TradeTrust will continue to work with partners to build an open, trusted,
+and connected future for global trade.</p>
 <p>Once again, thank you to all those who made the event a success. Your
-support helps us build a better future for digital trade.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_footer2_jpg.jpg">
-</div>
+support helps us build a better future for digital trade.</p><a class="isomer-image-wrapper" href="https://drive.google.com/drive/folders/1ckY4-PN0XvgQJXCmc-CR-ihzqNEnDsn8?usp=drive_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_footer2_jpg.jpg"></a>
 <p></p>
