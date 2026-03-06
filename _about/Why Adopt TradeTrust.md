@@ -145,7 +145,7 @@ a more cost-effective, efficient, and simplified trading system. TradeTrust
 was a finalist for Best Advisor, Best Use of Interoperable Digital Trade
 Technology in the Banking Sector, and Best Industry Champion 2024.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://isomer-user-content.by.gov.sg/166/b209bc9b-0215-4079-944d-62531f88fbcb/01_Interoperable%20Digital%20Documents%20Against%20Payment%20Trade%20Cooperation%20(20251118).pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PEP SBF Award 2025" src="/images/Graphics /PEP_SBf_Awards.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Pro-Enterprise Impact &amp; Partnership Award</div><div class="isomer-card-description">The PEP-SBF Award recognises outstanding collaboration between government agencies, businesses, and business associations in improving Singapore's regulatory environment. TradeTrust was a winner of this award in 2025.</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
 <blockquote>
