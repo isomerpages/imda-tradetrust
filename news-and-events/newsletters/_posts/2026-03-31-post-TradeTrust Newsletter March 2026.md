@@ -274,4 +274,5 @@ it.</p><a class="isomer-image-wrapper" href="https://github.com/TrustVC"><img st
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/IMDA_Newsletter_Mar2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Download a copy of this newsletter</u></a>
+</p>
