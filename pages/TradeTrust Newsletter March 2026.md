@@ -103,3 +103,172 @@ An interoperability demonstration showcased how electronic Bills of Lading
 moving beyond pilots towards real-world implementation.</p>
 <p>We also marked key milestones in TradeTrust’s journey:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TradeTrust Partners Awards and TradeTrust Readiness Programme" src="/images/03_02_Image.png">
+</div>
+<p>As interoperable systems transition from experimentation to live adoption,
+TradeTrust will continue working closely with industry and government partners
+to accelerate the exchange of trusted digital documents across borders.</p>
+<p>Thank you to all our speakers, partners, and attendees who made the event
+a success. Your continued collaboration is helping to build an open, trusted,
+and connected digital trade ecosystem.</p>
+<p>In case you missed the event, watch our post-event video:</p><a class="isomer-image-wrapper" href="https://youtu.be/w53mAIu_LjA?si=roWO8xZNF77O06Fv"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust Appreciation Day 2026 Video" src="/images/03_03_Video.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Successful Trial of the First Africa-Singapore-China Interoperable Digital D/P" src="/images/04_01_SuccessTrial.png">
+</div>
+<p>On 20 January 2026, the first Africa-Singapore-China bulk commodity import
+transaction using end-to-end interoperable Digital Documents against Payment
+(D/P) was successfully completed.</p>
+<p>The project was jointly promoted by the Beijing Two-Zone Office and supported
+by Singapore’s Infocomm Media Development Authority (IMDA), marking another
+milestone in Beijing-Singapore digital economy collaboration.</p>
+<p>The live transaction involved:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CNMC International Trading Co. Ltd. (CNIT), the trading and marketing
+center of China Nonferrous Metal Mining (Group) Co. Ltd., and Jiangxi Copper
+Company Limited as trading parties;</p>
+</li>
+<li>
+<p>Pacific International Lines (PIL) issuing an electronic Bill of Lading
+(eBL);</p>
+</li>
+<li>
+<p>DBS Bank and OCBC Bank acting as remitting banks; and</p>
+</li>
+<li>
+<p>Bank of China (Jiangxi Branch) serving as the collecting bank.</p>
+</li>
+</ul>
+<p>The shipment of anode copper (valued at USD 5 million) was carried out
+by CNIT and Jiangxi Copper Company Limited, travelling from Durban, South
+Africa, to Ningbo, China, with the eBL issued via AEOTradeChain integrated
+with TradeTrust.</p>
+<p>This project achieved three major breakthroughs:</p>
+<h4>1. The first end-to-end interoperable Digital D/P for bulk commodities</h4>
+<p>An end-to-end digital workflow covering document circulation and payment
+settlement — reducing title transfer time from 20 days to 5 days, and BL
+processing time from 10 days to 5 minutes.</p>
+<h4>2. Trial in a cross-regional integration model</h4>
+<p>A “China-Singapore cooperation + South African scenario” enabling secure
+data exchange across different digital trade systems.</p>
+<h4>3. Interoperable digital trade finance in action</h4>
+<p>Banks were able to verify documents directly on the platform - improving
+efficiency, reducing fraud risk, and lowering operational costs.</p>
+<p>Participating enterprises reported:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>93% reduction in document error rates;</p>
+</li>
+<li>
+<p>Elimination of courier costs; and</p>
+</li>
+<li>
+<p>Faster and more secure cross-border settlement.</p>
+</li>
+</ul>
+<p>This milestone reinforced the role of interoperable digital trade documents
+in enabling real-world, cross-border trade finance.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/beijing-and-singapore-launch-first-africa-singapore-china-digital-trade-documents-project/"><img style="width: 100%" height="auto" width="100%" alt="Read the full press release here" src="/images/04_03_Button.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the TradeTrust Readiness Programme" src="/images/05_01_TradeTrust_Readiness_Programme.png">
+</div>
+<p>From now until 30 April 2026, applications for the TradeTrust Readiness
+Programme are open for Digital Trade Platform (DTP) and Carrier pairs.
+The programme, supported by Singapore’s Infocomm Media Development Authority
+(IMDA), will run until 31 March 2027.</p>
+<p>Through the programme, TradeTrust brings together DTPs and Carriers to
+integrate the TradeTrust framework and demonstrate live, cross-platform
+interoperability for electronic Bills of Lading (eBLs).</p>
+<p><strong>Why this programme matters</strong>
+</p>
+<p>While the adoption of eBLs is growing, the industry continues to face
+key challenges:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Why TradeTrust-Readiness Programme matters" src="/images/05_02_image.png">
+</div>
+<p>The TradeTrust Readiness Programme directly addresses these gaps by enabling
+DTP-Carrier pairs to demonstrate title transfer interoperability, legal
+compliance, including alignment with the Model Law on Electronic Transferable
+Records (MLETR), and real-world cross-platform transactions.</p>
+<p>Selected DTP-Carrier pairs will receive S$80,000 in funding upon successful
+completion of key milestones, including:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Milestones" src="/images/05_03_image.png">
+</div>
+<p>Be part of the open, interoperable eBL network. Move beyond siloed systems
+and demonstrate interoperability across the maritime ecosystem.</p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/tradetrust-readiness-programme/"><img style="width: 100%" height="auto" width="100%" alt="Learn more about the programme" src="/images/05_04_Button_LearnMore.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<p><strong>Tech updates </strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rebranding to serve you better: TradeTrust Libraries is now TrustVC" src="/images/06_01_TechUpdates.png">
+</div>
+<p>What was previously known as TradeTrust Libraries is now TrustVC. With
+this rebranding, platform providers and integrators will find clearer documentation,
+stronger W3C Verifiable Credentials (VC) alignment, and a more streamlined
+path to new features.</p>
+<p><strong>What this means for you</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="For businesses" src="/images/06_02_ForBusinesses.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="For platform providers" src="/images/06_03_ForPlatformProviders.png">
+</div>
+<p><strong>What stays the same</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What stays the same" src="/images/06_04_WhatStaysTheSame.png">
+</div>
+<p><strong>Why the change</strong>
+</p>
+<p>TradeTrust’s underlying libraries have evolved into a broader toolkit
+used for document attestation beyond trade. The rebrand to TrustVC clarifies
+its role as the technology engine behind TradeTrust, while aligning it
+more closely with W3C VC standards. This enables vendors to build one system
+and interoperate across industries, while TradeTrust continues to focus
+on trade-specific legal and operational frameworks.</p>
+<p><strong>Improvements with TrustVC</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Improvements with TrustVC" src="/images/06_05_Improvements.png">
+</div>
+<p>This update ensures TradeTrust continues to evolve on a standards-aligned
+foundation while maintaining stability for the businesses that rely on
+it.</p><a class="isomer-image-wrapper" href="https://github.com/TrustVC"><img style="width: 100%" height="auto" width="100%" alt="Migrate to TrustVC at your fingertips" src="/images/06_06_Button.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/wfw-beyond-the-bridge-webinar-advancing-interoperability-and-reliability-for-ebl-adoption/"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/05_footer_1.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=AlYD2km8kkQ"><img style="width: 100%" height="auto" width="100%" alt="Catch the TradeTrust podcast series: Thought Leaders’ views and opinions on TradeDigitalisation" src="/images/05_footer_2.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
