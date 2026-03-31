@@ -214,8 +214,7 @@ and demonstrate interoperability across the maritime ecosystem.</p><a class="iso
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<p><strong>Tech updates</strong>
-</p>
+<h3><strong>Tech Updates</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Rebranding to serve you better: TradeTrust Libraries is now TrustVC" src="/images/06_01_TechUpdates.png">
@@ -266,6 +265,7 @@ it.</p><a class="isomer-image-wrapper" href="https://github.com/TrustVC"><img st
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<h3><strong>About TradeTrust</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/wfw-beyond-the-bridge-webinar-advancing-interoperability-and-reliability-for-ebl-adoption/"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/05_footer_1.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
