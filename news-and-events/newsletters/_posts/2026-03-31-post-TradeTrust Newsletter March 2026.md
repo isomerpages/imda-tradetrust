@@ -257,6 +257,7 @@ it.</p><a class="isomer-image-wrapper" href="https://github.com/TrustVC"><img st
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
+<h3><strong>About TradeTrust</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -265,8 +266,7 @@ it.</p><a class="isomer-image-wrapper" href="https://github.com/TrustVC"><img st
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h3><strong>About TradeTrust</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="https://www.tradetrust.io/wfw-beyond-the-bridge-webinar-advancing-interoperability-and-reliability-for-ebl-adoption/"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/05_footer_1.jpg"></a>
+<h3></h3><a class="isomer-image-wrapper" href="https://www.tradetrust.io/wfw-beyond-the-bridge-webinar-advancing-interoperability-and-reliability-for-ebl-adoption/"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust: Connecting governments and businesses for cross-border trade" src="/images/05_footer_1.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=AlYD2km8kkQ"><img style="width: 100%" height="auto" width="100%" alt="Catch the TradeTrust podcast series: Thought Leaders’ views and opinions on TradeDigitalisation" src="/images/05_footer_2.jpg"></a>
