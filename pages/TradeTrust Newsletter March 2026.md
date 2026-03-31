@@ -211,7 +211,7 @@ and demonstrate interoperability across the maritime ecosystem.</p><a class="iso
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Divider" src="/images/Divider.png">
 </div>
-<p><strong>Tech updates </strong>
+<p><strong>Tech updates</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
