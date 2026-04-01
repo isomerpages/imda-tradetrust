@@ -271,7 +271,7 @@ Finance and Cargo Release use cases.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CNMC New Bridge Logistics &amp; Trading Pte. Ltd (Singapore)
+<p>CNMC New Bridge Logistics &amp; Trading Pte. Ltd(Singapore)
 <br>Jiangxi Copper Company Limited
 <br>Bank of China
 <br>Singapore’s OCBC Bank
