@@ -265,6 +265,25 @@ Finance and Cargo Release use cases.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tradetrust.io/beijing-and-singapore-launch-first-africa-singapore-china-digital-trade-documents-project/" rel="noopener nofollow" target="_blank">South Africa (Durban) - China (Ningbo)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CNMC New Bridge Logistics &amp; Trading Pte. Ltd (Singapore)
+<br>Jiangxi Copper Company Limited
+<br>Bank of China
+<br>Singapore’s OCBC Bank</p>
+<p>Singapore’s DBS
+<br>Pacific International Lines&nbsp;
+<br>AEOTrade
+<br>SGTraDex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill of Lading</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -368,7 +387,7 @@ more information and use cases.</p>
 <p>According to <strong>COFCO Industrial Food,</strong>  <em>"Traditional paper-based Document against Payment processes, the period from shipment to </em><strong><em>payment settlement typically took around 20 days, while digitisation slashed this to just five days</em></strong><em>, </em><strong><em>minimising delays</em></strong><em> in </em><strong><em>document processing and transfer </em></strong><em>while significantly </em><strong><em>improving capital turnover</em></strong><em> efficiency."</em>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=_-A-oOiFIYpcTj7Z"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5CHxh1EkaR0?si=_-A-oOiFIYpcTj7Z"></iframe>
 </div>
 <p>Document Against Payment Trade Financing Use Case Video</p>
 <p></p>
@@ -380,7 +399,7 @@ TradeTrust-enabled documents. All parties benefited from efficiency gains, <stro
 and a<strong> reduction in the risk of fraud.</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vbZMPAnQRhM?si=oyb_M6l0UWtEI42j?enablejsapi=1"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vbZMPAnQRhM?si=oyb_M6l0UWtEI42j?enablejsapi=1"></iframe>
 </div>
 <p>MTI TradeTrust Pilot Case Study Video</p>
 <p></p>
@@ -390,7 +409,7 @@ Records (ETRs) like Bills of Lading and facilitate cross-border trade.</p>
 <p><em>“This pilot is part of ExxonMobil’s efforts to increase our supply chain resiliency through digitalisation of business processes. We welcome frameworks like TradeTrust as an important part of our journey towards digitalization. Such frameworks increase efficiency and cost savings while maintaining high standards and trust, and we hope that this successful trial will lead to increased interest from industry to adopt similar standards,</em>”
 said <strong>Mr Low Say Lim, Asia Pacific Liquids Logistics &amp; Distribution Manager, ExxonMobil Asia Pacific</strong>.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F1-l7mrRXD8?si=Yvx4B3WiPHaMZZSb"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F1-l7mrRXD8?si=Yvx4B3WiPHaMZZSb"></iframe>
 </div>
 <p>ExxonMobil<em> </em>TradeTrust Use Case Video</p>
 <p></p>
