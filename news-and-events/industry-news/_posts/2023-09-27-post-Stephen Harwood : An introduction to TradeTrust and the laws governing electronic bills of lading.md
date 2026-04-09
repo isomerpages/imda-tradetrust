@@ -30,7 +30,7 @@ the legal recognition of electronic versions of negotiable trade documents
 </li>
 </ul>
 <p></p>
-<p>See <a href="Download the full white paper on the United Nations Economic Commission for Europe (UNECE's) official website." rel="noopener noreferrer nofollow" target="_blank">more</a> on
+<p>See <a href="https://www.stephensonharwood.com/insights/commodities-in-focus-weekly-an-introduction-to-tradetrust-and-the-laws-governing-electronic-bills-of-lading/" rel="noopener nofollow" target="_blank">more</a> on
 Stephenson Harwood's official website.</p>
 <p></p>
 <p></p>
