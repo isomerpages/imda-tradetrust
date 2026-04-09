@@ -30,8 +30,8 @@ the legal recognition of electronic versions of negotiable trade documents
 </li>
 </ul>
 <p></p>
-<p>See <a href="Download the full white paper on the United Nations Economic Commission for Europe (UNECE's) official website." rel="noopener noreferrer nofollow" target="_blank">more</a> on
-Stephenson Harwood's official website.</p>
+<p>See <a href="" rel="noopener nofollow" target="_blank">more</a> on Stephenson
+Harwood's official website.</p>
 <p></p>
 <p></p>
 <p></p>
