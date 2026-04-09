@@ -30,8 +30,8 @@ the legal recognition of electronic versions of negotiable trade documents
 </li>
 </ul>
 <p></p>
-<p>See <a href="" rel="noopener nofollow" target="_blank">more</a> on Stephenson
-Harwood's official website.</p>
+<p>See <a href="https://www.stephensonharwood.com/insights/commodities-in-focus-weekly-an-introduction-to-tradetrust-and-the-laws-governing-electronic-bills-of-lading/" rel="noopener nofollow" target="_blank">more</a> on
+Stephenson Harwood's official website.</p>
 <p></p>
 <p></p>
 <p></p>
