@@ -70,7 +70,7 @@ for ships, built in collaboration with S&amp;P Global Market Intelligence.
 It is also the Inventor of the World’s first Smart Contract eBDN.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://calistang.globaletrade.services/cng/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CALISTA Logistics" src="/images/Partner Logos/Calista.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CALISTA Logistics</div><div class="isomer-card-description">A cloud-based SaaS platform that offers multi-party collaboration for supply chain orchestration.</div><div class="isomer-card-link">more ...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.cargox.io/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://cargox.io" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CargoX" src="/images/Partner Logos/CargoX_logo.jpg">
