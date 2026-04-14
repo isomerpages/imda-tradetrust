@@ -9,7 +9,7 @@ description: TradeTrust is a free digital utility tool to digitalise the
   statutory law.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 permalink: /
-notification: testing .......  testing 2
+notification: ""
 sections:
   - hero:
       title: Transform the way you trade
