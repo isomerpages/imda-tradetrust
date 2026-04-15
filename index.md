@@ -9,7 +9,8 @@ description: TradeTrust is a free digital utility tool to digitalise the
   statutory law.
 image: /images/TradeTrust logos/TT_LOGO_vertical.png
 permalink: /
-notification: ""
+notification: Our website will undergo scheduled maintenance on 16 April,
+  3.00-5:00 PM—please expect brief service interruptions during this time.
 sections:
   - hero:
       title: Transform the way you trade
